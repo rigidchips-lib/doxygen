@@ -38,7 +38,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -100,9 +99,7 @@ Collaboration diagram for CInputDeviceManager:</div>
 <div class="dyncontent">
 <div class="center"><img src="classCInputDeviceManager__coll__graph.png" border="0" usemap="#CInputDeviceManager_coll__map" alt="Collaboration graph"/></div>
 <map name="CInputDeviceManager_coll__map" id="CInputDeviceManager_coll__map">
-<area shape="rect" id="node2" href="struct__DIACTIONFORMATA.html" title="{_DIACTIONFORMATA\n|+ dwSize\l+ dwActionSize\l+ dwDataSize\l+ dwNumActions\l+ guidActionMap\l+ dwGenre\l+ dwBufferSize\l+ lAxisMin\l+ lAxisMax\l+ hInstString\l+ ftTimeStamp\l+ dwCRC\l+ tszActionMap\l|}" alt="" coords="5,263,164,516"/>
-<area shape="rect" id="node3" href="struct__DIACTIONA.html" title="{_DIACTIONA\n|+ uAppData\l+ dwSemantic\l+ dwFlags\l+ lptszActionName\l+ uResIdString\l+ @165\l+ guidInstance\l+ dwObjID\l+ dwHow\l|}" alt="" coords="17,5,152,200"/>
-<area shape="rect" id="node4" href="structCInputDeviceManager_1_1DeviceInfo.html" title="{CInputDeviceManager\l::DeviceInfo\n|+ pdidDevice\l+ pParam\l|}" alt="" coords="189,336,341,443"/>
+<area shape="rect" id="node2" href="structCInputDeviceManager_1_1DeviceInfo.html" title="{CInputDeviceManager\l::DeviceInfo\n|+ pdidDevice\l+ pParam\l|}" alt="" coords="30,5,182,112"/>
 </map>
 </div>
 <table class="memberdecls">
@@ -113,24 +110,24 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-types"></a>
 Public Types</h2></td></tr>
-<tr class="memitem:ae82b74687aabe001084eb167e1612768"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>(CALLBACK *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#ae82b74687aabe001084eb167e1612768">LPDIMANAGERCALLBACK</a>) (<a class="el" href="structCInputDeviceManager_1_1DeviceInfo.html">CInputDeviceManager::DeviceInfo</a> *pDeviceInfo, const <a class="el" href="dinput_8h.html#a8545eb4f5dfab7902125ada298800c51">DIDEVICEINSTANCE</a> *pdidi, <a class="el" href="Videoacc_8idl.html#ae611cd6871649dbfe37273a0253d5e61">LPVOID</a>)</td></tr>
+<tr class="memitem:ae82b74687aabe001084eb167e1612768"><td class="memItemLeft" align="right" valign="top">typedef HRESULT(CALLBACK *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#ae82b74687aabe001084eb167e1612768">LPDIMANAGERCALLBACK</a>) (<a class="el" href="structCInputDeviceManager_1_1DeviceInfo.html">CInputDeviceManager::DeviceInfo</a> *pDeviceInfo, const DIDEVICEINSTANCE *pdidi, LPVOID)</td></tr>
 <tr class="separator:ae82b74687aabe001084eb167e1612768"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a73b91a739c63f480ebbcdada6ed5487a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a73b91a739c63f480ebbcdada6ed5487a">AddDevice</a> (const <a class="el" href="dinput_8h.html#a8545eb4f5dfab7902125ada298800c51">DIDEVICEINSTANCE</a> *pdidi, <a class="el" href="dinput_8h.html#af376786795f5bddb9df4f7ea154151d1">LPDIRECTINPUTDEVICE8</a> pdidDevice)</td></tr>
+<tr class="memitem:a73b91a739c63f480ebbcdada6ed5487a"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a73b91a739c63f480ebbcdada6ed5487a">AddDevice</a> (const DIDEVICEINSTANCE *pdidi, LPDIRECTINPUTDEVICE8 pdidDevice)</td></tr>
 <tr class="separator:a73b91a739c63f480ebbcdada6ed5487a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1bc98d6e96c412111437405921e06bd0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a1bc98d6e96c412111437405921e06bd0">GetDevices</a> (<a class="el" href="structCInputDeviceManager_1_1DeviceInfo.html">DeviceInfo</a> **ppDeviceInfo, <a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> *pdwNumDevices)</td></tr>
+<tr class="memitem:a1bc98d6e96c412111437405921e06bd0"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a1bc98d6e96c412111437405921e06bd0">GetDevices</a> (<a class="el" href="structCInputDeviceManager_1_1DeviceInfo.html">DeviceInfo</a> **ppDeviceInfo, DWORD *pdwNumDevices)</td></tr>
 <tr class="separator:a1bc98d6e96c412111437405921e06bd0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afcf06b490f62004991fe7b5832538a5a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#afcf06b490f62004991fe7b5832538a5a">ConfigureDevices</a> (HWND <a class="el" href="ddraw_8h.html#a8abb94e3f785a107b8ae714dda6f69d4">hWnd</a>, <a class="el" href="dvp_8h.html#a0c5da9357c7919971a9487b2d4b8b6b8">IUnknown</a> *pSurface, VOID *pCallback, <a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> <a class="el" href="d3drmobj_8h.html#a0db7e7c7d501835f2ddee8b9344b3996">dwFlags</a>, <a class="el" href="Videoacc_8idl.html#ae611cd6871649dbfe37273a0253d5e61">LPVOID</a> pvCBParam)</td></tr>
+<tr class="memitem:afcf06b490f62004991fe7b5832538a5a"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#afcf06b490f62004991fe7b5832538a5a">ConfigureDevices</a> (HWND hWnd, IUnknown *pSurface, VOID *pCallback, DWORD dwFlags, LPVOID pvCBParam)</td></tr>
 <tr class="separator:afcf06b490f62004991fe7b5832538a5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aa6c7a2138d442911c8a28d0ea2de8d99"><td class="memItemLeft" align="right" valign="top">VOID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#aa6c7a2138d442911c8a28d0ea2de8d99">UnacquireDevices</a> ()</td></tr>
 <tr class="separator:aa6c7a2138d442911c8a28d0ea2de8d99"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afc8448ed6f342a446581e638502c5396"><td class="memItemLeft" align="right" valign="top">VOID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#afc8448ed6f342a446581e638502c5396">SetFocus</a> (HWND <a class="el" href="ddraw_8h.html#a8abb94e3f785a107b8ae714dda6f69d4">hWnd</a>)</td></tr>
+<tr class="memitem:afc8448ed6f342a446581e638502c5396"><td class="memItemLeft" align="right" valign="top">VOID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#afc8448ed6f342a446581e638502c5396">SetFocus</a> (HWND hWnd)</td></tr>
 <tr class="separator:afc8448ed6f342a446581e638502c5396"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6640bbce8b1fbfb2bbcbd4aca7fbf99b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a6640bbce8b1fbfb2bbcbd4aca7fbf99b">SetActionFormat</a> (<a class="el" href="dinput_8h.html#a4c9b2d803ccb4535619e51c9ffb9f76b">DIACTIONFORMAT</a> &amp;diaf, <a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> bReenumerate)</td></tr>
+<tr class="memitem:a6640bbce8b1fbfb2bbcbd4aca7fbf99b"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a6640bbce8b1fbfb2bbcbd4aca7fbf99b">SetActionFormat</a> (DIACTIONFORMAT &amp;diaf, BOOL bReenumerate)</td></tr>
 <tr class="separator:a6640bbce8b1fbfb2bbcbd4aca7fbf99b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7395ff3bbbc3e6051bd721c554c0f29a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a7395ff3bbbc3e6051bd721c554c0f29a">Create</a> (HWND <a class="el" href="ddraw_8h.html#a8abb94e3f785a107b8ae714dda6f69d4">hWnd</a>, TCHAR *strUserName, <a class="el" href="dinput_8h.html#a4c9b2d803ccb4535619e51c9ffb9f76b">DIACTIONFORMAT</a> &amp;diaf, <a class="el" href="classCInputDeviceManager.html#ae82b74687aabe001084eb167e1612768">LPDIMANAGERCALLBACK</a> AddDeviceCallback, <a class="el" href="Videoacc_8idl.html#ae611cd6871649dbfe37273a0253d5e61">LPVOID</a> pCallbackParam)</td></tr>
+<tr class="memitem:a7395ff3bbbc3e6051bd721c554c0f29a"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a7395ff3bbbc3e6051bd721c554c0f29a">Create</a> (HWND hWnd, TCHAR *strUserName, DIACTIONFORMAT &amp;diaf, <a class="el" href="classCInputDeviceManager.html#ae82b74687aabe001084eb167e1612768">LPDIMANAGERCALLBACK</a> AddDeviceCallback, LPVOID pCallbackParam)</td></tr>
 <tr class="separator:a7395ff3bbbc3e6051bd721c554c0f29a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab4872685f0271a2bc3dd5704ec3785a5"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#ab4872685f0271a2bc3dd5704ec3785a5">CInputDeviceManager</a> ()</td></tr>
 <tr class="separator:ab4872685f0271a2bc3dd5704ec3785a5"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -139,25 +136,25 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pri-attribs"></a>
 Private Attributes</h2></td></tr>
-<tr class="memitem:a36dc7bed36d704c191b804cb83e5ea2c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a36dc7bed36d704c191b804cb83e5ea2c">m_bCleanupCOM</a></td></tr>
+<tr class="memitem:a36dc7bed36d704c191b804cb83e5ea2c"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a36dc7bed36d704c191b804cb83e5ea2c">m_bCleanupCOM</a></td></tr>
 <tr class="separator:a36dc7bed36d704c191b804cb83e5ea2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af5519df324893d29caeafa028091bd35"><td class="memItemLeft" align="right" valign="top">HWND&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#af5519df324893d29caeafa028091bd35">m_hWnd</a></td></tr>
 <tr class="separator:af5519df324893d29caeafa028091bd35"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a94a6c24eb3580f254d528fc9cf010f12"><td class="memItemLeft" align="right" valign="top">TCHAR *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a94a6c24eb3580f254d528fc9cf010f12">m_strUserName</a></td></tr>
 <tr class="separator:a94a6c24eb3580f254d528fc9cf010f12"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:add75128d200d525cad7cb50f7fadd35f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dinput_8h.html#a00f84f5b8317b505deb4709eb2e2400a">LPDIRECTINPUT8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#add75128d200d525cad7cb50f7fadd35f">m_pDI</a></td></tr>
+<tr class="memitem:add75128d200d525cad7cb50f7fadd35f"><td class="memItemLeft" align="right" valign="top">LPDIRECTINPUT8&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#add75128d200d525cad7cb50f7fadd35f">m_pDI</a></td></tr>
 <tr class="separator:add75128d200d525cad7cb50f7fadd35f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a55674e0c5e0d50c8d4b8adc53477812e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structCInputDeviceManager_1_1DeviceInfo.html">DeviceInfo</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a55674e0c5e0d50c8d4b8adc53477812e">m_pDevices</a></td></tr>
 <tr class="separator:a55674e0c5e0d50c8d4b8adc53477812e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae1f4a374f73458f26187edd20457f9e1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#ae1f4a374f73458f26187edd20457f9e1">m_dwMaxDevices</a></td></tr>
+<tr class="memitem:ae1f4a374f73458f26187edd20457f9e1"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#ae1f4a374f73458f26187edd20457f9e1">m_dwMaxDevices</a></td></tr>
 <tr class="separator:ae1f4a374f73458f26187edd20457f9e1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5f469e7579d436d8646222c3823ec428"><td class="memItemLeft" align="right" valign="top"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a5f469e7579d436d8646222c3823ec428">m_dwNumDevices</a></td></tr>
+<tr class="memitem:a5f469e7579d436d8646222c3823ec428"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a5f469e7579d436d8646222c3823ec428">m_dwNumDevices</a></td></tr>
 <tr class="separator:a5f469e7579d436d8646222c3823ec428"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a97adc27ab78146e73f92bd05418bd8d4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dinput_8h.html#a4c9b2d803ccb4535619e51c9ffb9f76b">DIACTIONFORMAT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a97adc27ab78146e73f92bd05418bd8d4">m_diaf</a></td></tr>
+<tr class="memitem:a97adc27ab78146e73f92bd05418bd8d4"><td class="memItemLeft" align="right" valign="top">DIACTIONFORMAT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a97adc27ab78146e73f92bd05418bd8d4">m_diaf</a></td></tr>
 <tr class="separator:a97adc27ab78146e73f92bd05418bd8d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a75704453049ead94cee98546399fa549"><td class="memItemLeft" align="right" valign="top"><a class="el" href="classCInputDeviceManager.html#ae82b74687aabe001084eb167e1612768">LPDIMANAGERCALLBACK</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a75704453049ead94cee98546399fa549">m_AddDeviceCallback</a></td></tr>
 <tr class="separator:a75704453049ead94cee98546399fa549"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0285dc28c0de98c2cd764aa3cf30f728"><td class="memItemLeft" align="right" valign="top"><a class="el" href="Videoacc_8idl.html#ae611cd6871649dbfe37273a0253d5e61">LPVOID</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a0285dc28c0de98c2cd764aa3cf30f728">m_AddDeviceCallbackParam</a></td></tr>
+<tr class="memitem:a0285dc28c0de98c2cd764aa3cf30f728"><td class="memItemLeft" align="right" valign="top">LPVOID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCInputDeviceManager.html#a0285dc28c0de98c2cd764aa3cf30f728">m_AddDeviceCallbackParam</a></td></tr>
 <tr class="separator:a0285dc28c0de98c2cd764aa3cf30f728"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Typedef Documentation</h2>
@@ -166,7 +163,7 @@ Private Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>(CALLBACK * CInputDeviceManager::LPDIMANAGERCALLBACK) (<a class="el" href="structCInputDeviceManager_1_1DeviceInfo.html">CInputDeviceManager::DeviceInfo</a> *pDeviceInfo, const <a class="el" href="dinput_8h.html#a8545eb4f5dfab7902125ada298800c51">DIDEVICEINSTANCE</a> *pdidi, <a class="el" href="Videoacc_8idl.html#ae611cd6871649dbfe37273a0253d5e61">LPVOID</a>)</td>
+          <td class="memname">typedef HRESULT(CALLBACK * CInputDeviceManager::LPDIMANAGERCALLBACK) (<a class="el" href="structCInputDeviceManager_1_1DeviceInfo.html">CInputDeviceManager::DeviceInfo</a> *pDeviceInfo, const DIDEVICEINSTANCE *pdidi, LPVOID)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -210,15 +207,15 @@ Private Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CInputDeviceManager::AddDevice </td>
+          <td class="memname">HRESULT CInputDeviceManager::AddDevice </td>
           <td>(</td>
-          <td class="paramtype">const <a class="el" href="dinput_8h.html#a8545eb4f5dfab7902125ada298800c51">DIDEVICEINSTANCE</a> *&#160;</td>
+          <td class="paramtype">const DIDEVICEINSTANCE *&#160;</td>
           <td class="paramname"><em>pdidi</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="dinput_8h.html#af376786795f5bddb9df4f7ea154151d1">LPDIRECTINPUTDEVICE8</a>&#160;</td>
+          <td class="paramtype">LPDIRECTINPUTDEVICE8&#160;</td>
           <td class="paramname"><em>pdidDevice</em>&#160;</td>
         </tr>
         <tr>
@@ -236,7 +233,7 @@ Private Attributes</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CInputDeviceManager::ConfigureDevices </td>
+          <td class="memname">HRESULT CInputDeviceManager::ConfigureDevices </td>
           <td>(</td>
           <td class="paramtype">HWND&#160;</td>
           <td class="paramname"><em>hWnd</em>, </td>
@@ -244,7 +241,7 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="dvp_8h.html#a0c5da9357c7919971a9487b2d4b8b6b8">IUnknown</a> *&#160;</td>
+          <td class="paramtype">IUnknown *&#160;</td>
           <td class="paramname"><em>pSurface</em>, </td>
         </tr>
         <tr>
@@ -256,13 +253,13 @@ Private Attributes</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td>
+          <td class="paramtype">DWORD&#160;</td>
           <td class="paramname"><em>dwFlags</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="Videoacc_8idl.html#ae611cd6871649dbfe37273a0253d5e61">LPVOID</a>&#160;</td>
+          <td class="paramtype">LPVOID&#160;</td>
           <td class="paramname"><em>pvCBParam</em>&#160;</td>
         </tr>
         <tr>
@@ -304,7 +301,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CInputDeviceManager::Create </td>
+          <td class="memname">HRESULT CInputDeviceManager::Create </td>
           <td>(</td>
           <td class="paramtype">HWND&#160;</td>
           <td class="paramname"><em>hWnd</em>, </td>
@@ -318,7 +315,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="dinput_8h.html#a4c9b2d803ccb4535619e51c9ffb9f76b">DIACTIONFORMAT</a> &amp;&#160;</td>
+          <td class="paramtype">DIACTIONFORMAT &amp;&#160;</td>
           <td class="paramname"><em>diaf</em>, </td>
         </tr>
         <tr>
@@ -330,7 +327,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="Videoacc_8idl.html#ae611cd6871649dbfe37273a0253d5e61">LPVOID</a>&#160;</td>
+          <td class="paramtype">LPVOID&#160;</td>
           <td class="paramname"><em>pCallbackParam</em>&#160;</td>
         </tr>
         <tr>
@@ -348,10 +345,9 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classCInputDeviceManager_a7395ff3bbbc3e6051bd721c554c0f29a_cgraph.png" border="0" usemap="#classCInputDeviceManager_a7395ff3bbbc3e6051bd721c554c0f29a_cgraph" alt=""/></div>
 <map name="classCInputDeviceManager_a7395ff3bbbc3e6051bd721c554c0f29a_cgraph" id="classCInputDeviceManager_a7395ff3bbbc3e6051bd721c554c0f29a_cgraph">
-<area shape="rect" id="node2" href="dinput_8h.html#a033ff14686ff20cf74711d1504c2c543" title="DirectInput8Create" alt="" coords="215,5,347,32"/>
-<area shape="rect" id="node3" href="classCInputDeviceManager.html#a6640bbce8b1fbfb2bbcbd4aca7fbf99b" title="CInputDeviceManager\l::SetActionFormat" alt="" coords="205,57,357,98"/>
-<area shape="rect" id="node4" href="diutil_8cpp.html#a8c4401f8ab0c5437c6119e553ff3d253" title="EnumSuitableDevicesCB" alt="" coords="405,35,576,61"/>
-<area shape="rect" id="node5" href="classCInputDeviceManager.html#aa6c7a2138d442911c8a28d0ea2de8d99" title="CInputDeviceManager\l::UnacquireDevices" alt="" coords="415,86,567,127"/>
+<area shape="rect" id="node2" href="classCInputDeviceManager.html#a6640bbce8b1fbfb2bbcbd4aca7fbf99b" title="CInputDeviceManager\l::SetActionFormat" alt="" coords="205,27,357,69"/>
+<area shape="rect" id="node3" href="diutil_8cpp.html#a8c4401f8ab0c5437c6119e553ff3d253" title="EnumSuitableDevicesCB" alt="" coords="405,5,576,32"/>
+<area shape="rect" id="node4" href="classCInputDeviceManager.html#aa6c7a2138d442911c8a28d0ea2de8d99" title="CInputDeviceManager\l::UnacquireDevices" alt="" coords="415,57,567,98"/>
 </map>
 </div>
 </p>
@@ -374,7 +370,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CInputDeviceManager::GetDevices </td>
+          <td class="memname">HRESULT CInputDeviceManager::GetDevices </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="structCInputDeviceManager_1_1DeviceInfo.html">DeviceInfo</a> **&#160;</td>
           <td class="paramname"><em>ppDeviceInfo</em>, </td>
@@ -382,7 +378,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> *&#160;</td>
+          <td class="paramtype">DWORD *&#160;</td>
           <td class="paramname"><em>pdwNumDevices</em>&#160;</td>
         </tr>
         <tr>
@@ -417,15 +413,15 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CInputDeviceManager::SetActionFormat </td>
+          <td class="memname">HRESULT CInputDeviceManager::SetActionFormat </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="dinput_8h.html#a4c9b2d803ccb4535619e51c9ffb9f76b">DIACTIONFORMAT</a> &amp;&#160;</td>
+          <td class="paramtype">DIACTIONFORMAT &amp;&#160;</td>
           <td class="paramname"><em>diaf</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td>
+          <td class="paramtype">BOOL&#160;</td>
           <td class="paramname"><em>bReenumerate</em>&#160;</td>
         </tr>
         <tr>
@@ -555,7 +551,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="Videoacc_8idl.html#ae611cd6871649dbfe37273a0253d5e61">LPVOID</a> CInputDeviceManager::m_AddDeviceCallbackParam</td>
+          <td class="memname">LPVOID CInputDeviceManager::m_AddDeviceCallbackParam</td>
         </tr>
       </table>
   </td>
@@ -577,7 +573,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CInputDeviceManager::m_bCleanupCOM</td>
+          <td class="memname">BOOL CInputDeviceManager::m_bCleanupCOM</td>
         </tr>
       </table>
   </td>
@@ -599,7 +595,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dinput_8h.html#a4c9b2d803ccb4535619e51c9ffb9f76b">DIACTIONFORMAT</a> CInputDeviceManager::m_diaf</td>
+          <td class="memname">DIACTIONFORMAT CInputDeviceManager::m_diaf</td>
         </tr>
       </table>
   </td>
@@ -621,7 +617,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> CInputDeviceManager::m_dwMaxDevices</td>
+          <td class="memname">DWORD CInputDeviceManager::m_dwMaxDevices</td>
         </tr>
       </table>
   </td>
@@ -643,7 +639,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> CInputDeviceManager::m_dwNumDevices</td>
+          <td class="memname">DWORD CInputDeviceManager::m_dwNumDevices</td>
         </tr>
       </table>
   </td>
@@ -709,7 +705,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dinput_8h.html#a00f84f5b8317b505deb4709eb2e2400a">LPDIRECTINPUT8</a> CInputDeviceManager::m_pDI</td>
+          <td class="memname">LPDIRECTINPUT8 CInputDeviceManager::m_pDI</td>
         </tr>
       </table>
   </td>
@@ -752,7 +748,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Feb 6 2016 16:23:39 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sat Feb 6 2016 17:14:31 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.10
 </small></address>

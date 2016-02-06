@@ -1,6 +1,5 @@
 <map id="luaEnervate" name="luaEnervate">
-<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="214,5,253,32"/>
-<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="183,56,283,83"/>
-<area shape="rect" id="node4" href="$classGRigid.html#a1fb85fe8144de45313ee1ce5ebae4096" title="GRigid::EnervateWithChild" alt="" coords="144,131,323,157"/>
-<area shape="rect" id="node5" href="$classGVector.html#a7c3dceb4975d089b279e5263b653ae42" title="GVector::clear" alt="" coords="371,131,477,157"/>
+<area shape="rect" id="node2" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="183,5,283,32"/>
+<area shape="rect" id="node3" href="$classGRigid.html#a1fb85fe8144de45313ee1ce5ebae4096" title="GRigid::EnervateWithChild" alt="" coords="144,80,323,107"/>
+<area shape="rect" id="node4" href="$classGVector.html#a7c3dceb4975d089b279e5263b653ae42" title="GVector::clear" alt="" coords="371,80,477,107"/>
 </map>

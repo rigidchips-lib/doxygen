@@ -1,6 +1,5 @@
 <map id="unLinkBye" name="unLinkBye">
 <area shape="rect" id="node2" href="$classGWorld.html#a1c23ccfc546fb8eda9e8c85296ffb86b" title="GWorld::DeleteLink" alt="" coords="136,43,272,69"/>
-<area shape="rect" id="node5" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="185,93,223,120"/>
 <area shape="rect" id="node3" href="$classGWorld.html#a052c6cb8342645dd29e42bb0972865c9" title="GWorld::DeleteLinkSub" alt="" coords="320,5,479,32"/>
 <area shape="rect" id="node4" href="$classGRigid.html#aa7a1ba146c9ff59b115d1aeec5414ea5" title="GRigid::CalcTotalFuel" alt="" coords="324,80,475,107"/>
 </map>

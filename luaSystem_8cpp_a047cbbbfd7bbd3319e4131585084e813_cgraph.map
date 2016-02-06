@@ -1,11 +1,10 @@
 <map id="luaCollisionRingArea" name="luaCollisionRingArea">
-<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="287,5,325,32"/>
-<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="256,56,356,83"/>
-<area shape="rect" id="node4" href="$classGMatrix.html#a13dea5e6d29e6dfda222eff49bcd0d9e" title="GMatrix::rotateX" alt="" coords="247,107,365,133"/>
-<area shape="rect" id="node6" href="$classGMatrix.html#ac851a11a24fd4158a2dd0ae2b48021a6" title="GMatrix::rotateY" alt="" coords="247,157,365,184"/>
-<area shape="rect" id="node7" href="$classGMatrix.html#ad507d6cc4126e0a5ed7b08c113dd5c59" title="GMatrix::rotateZ" alt="" coords="247,208,365,235"/>
-<area shape="rect" id="node8" href="$classGVector.html#afa2af3c579db800c21c90a23cb9f59c0" title="GVector::distanceOnFaceAndLine" alt="" coords="196,259,416,285"/>
-<area shape="rect" id="node10" href="$lua_8h.html#a328625a03fbb5548f27b1af10f109f6a" title="lua_pushnumber" alt="" coords="247,309,365,336"/>
-<area shape="rect" id="node5" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="464,157,597,184"/>
-<area shape="rect" id="node9" href="$classGVector.html#a43df893e25405cd83678f5d1dd427bfb" title="GVector::dot" alt="" coords="483,259,579,285"/>
+<area shape="rect" id="node2" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="256,5,356,32"/>
+<area shape="rect" id="node3" href="$classGMatrix.html#a13dea5e6d29e6dfda222eff49bcd0d9e" title="GMatrix::rotateX" alt="" coords="247,56,365,83"/>
+<area shape="rect" id="node5" href="$classGMatrix.html#ac851a11a24fd4158a2dd0ae2b48021a6" title="GMatrix::rotateY" alt="" coords="247,107,365,133"/>
+<area shape="rect" id="node6" href="$classGMatrix.html#ad507d6cc4126e0a5ed7b08c113dd5c59" title="GMatrix::rotateZ" alt="" coords="247,157,365,184"/>
+<area shape="rect" id="node7" href="$classGVector.html#afa2af3c579db800c21c90a23cb9f59c0" title="GVector::distanceOnFaceAndLine" alt="" coords="196,208,416,235"/>
+<area shape="rect" id="node9" href="$lua_8h.html#a328625a03fbb5548f27b1af10f109f6a" title="lua_pushnumber" alt="" coords="247,259,365,285"/>
+<area shape="rect" id="node4" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="464,107,597,133"/>
+<area shape="rect" id="node8" href="$classGVector.html#a43df893e25405cd83678f5d1dd427bfb" title="GVector::dot" alt="" coords="483,208,579,235"/>
 </map>

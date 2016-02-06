@@ -38,7 +38,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -97,8 +96,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 Include dependency graph for d3dutil.cpp:</div>
 <div class="dyncontent">
 <div class="center"><img src="d3dutil_8cpp__incl.png" border="0" usemap="#d3dutil_8cpp" alt=""/></div>
-<map name="d3dutil_8cpp" id="d3dutil_8cpp">
-</map>
 </div>
 </div><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="define-members"></a>
@@ -108,25 +105,25 @@ Macros</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a806f565edd4f5a25695461d6e75c959d"><td class="memItemLeft" align="right" valign="top">VOID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a806f565edd4f5a25695461d6e75c959d">D3DUtil_InitMaterial</a> (<a class="el" href="d3d8types_8h.html#a486a8b4a962d026f0a9909916d194620">D3DMATERIAL8</a> &amp;mtrl, FLOAT r, FLOAT g, FLOAT b, FLOAT a)</td></tr>
+<tr class="memitem:a806f565edd4f5a25695461d6e75c959d"><td class="memItemLeft" align="right" valign="top">VOID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a806f565edd4f5a25695461d6e75c959d">D3DUtil_InitMaterial</a> (D3DMATERIAL8 &amp;mtrl, FLOAT r, FLOAT g, FLOAT b, FLOAT a)</td></tr>
 <tr class="separator:a806f565edd4f5a25695461d6e75c959d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5af9e7152af85ac7327e2502e046c8be"><td class="memItemLeft" align="right" valign="top">VOID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a5af9e7152af85ac7327e2502e046c8be">D3DUtil_InitLight</a> (<a class="el" href="d3d8types_8h.html#ae39f2cb0c5cd6e630945cef6ee7a53b7">D3DLIGHT8</a> &amp;<a class="el" href="Rigidmain_8cpp.html#ab0c8a77df41720cf10b94866498a60d5">light</a>, <a class="el" href="d3d8types_8h.html#a07640115385386655a6326efc97251a7">D3DLIGHTTYPE</a> ltType, FLOAT x, FLOAT y, FLOAT z)</td></tr>
+<tr class="memitem:a5af9e7152af85ac7327e2502e046c8be"><td class="memItemLeft" align="right" valign="top">VOID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a5af9e7152af85ac7327e2502e046c8be">D3DUtil_InitLight</a> (D3DLIGHT8 &amp;<a class="el" href="Rigidmain_8cpp.html#ab0c8a77df41720cf10b94866498a60d5">light</a>, D3DLIGHTTYPE ltType, FLOAT x, FLOAT y, FLOAT z)</td></tr>
 <tr class="separator:a5af9e7152af85ac7327e2502e046c8be"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a20f62a7e76b33a817a1e54699ce000e0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a20f62a7e76b33a817a1e54699ce000e0">D3DUtil_CreateTexture</a> (<a class="el" href="d3d8_8h.html#a771c119b9d3d23bba78aa4f0f5b1ef34">LPDIRECT3DDEVICE8</a> pd3dDevice, TCHAR *strTexture, <a class="el" href="d3d8_8h.html#a3ab130fb00915c5765c378678c563943">LPDIRECT3DTEXTURE8</a> *ppTexture, <a class="el" href="d3d8types_8h.html#a2803a73f3f07caee735227a2a90de797">D3DFORMAT</a> d3dFormat)</td></tr>
+<tr class="memitem:a20f62a7e76b33a817a1e54699ce000e0"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a20f62a7e76b33a817a1e54699ce000e0">D3DUtil_CreateTexture</a> (LPDIRECT3DDEVICE8 pd3dDevice, TCHAR *strTexture, LPDIRECT3DTEXTURE8 *ppTexture, D3DFORMAT d3dFormat)</td></tr>
 <tr class="separator:a20f62a7e76b33a817a1e54699ce000e0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a803a61f8c3f1a5dadab65963fdf8e377"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a803a61f8c3f1a5dadab65963fdf8e377">D3DUtil_SetColorKey</a> (<a class="el" href="d3d8_8h.html#a3ab130fb00915c5765c378678c563943">LPDIRECT3DTEXTURE8</a> pTexture, <a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> dwColorKey)</td></tr>
+<tr class="memitem:a803a61f8c3f1a5dadab65963fdf8e377"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a803a61f8c3f1a5dadab65963fdf8e377">D3DUtil_SetColorKey</a> (LPDIRECT3DTEXTURE8 pTexture, DWORD dwColorKey)</td></tr>
 <tr class="separator:a803a61f8c3f1a5dadab65963fdf8e377"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa0a51c33bb2be6a1d56db9f1877091c7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#aa0a51c33bb2be6a1d56db9f1877091c7">D3DUtil_CreateVertexShader</a> (<a class="el" href="d3d8_8h.html#a771c119b9d3d23bba78aa4f0f5b1ef34">LPDIRECT3DDEVICE8</a> pd3dDevice, TCHAR *strFilename, <a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> *pdwVertexDecl, <a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> *pdwVertexShader)</td></tr>
+<tr class="memitem:aa0a51c33bb2be6a1d56db9f1877091c7"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#aa0a51c33bb2be6a1d56db9f1877091c7">D3DUtil_CreateVertexShader</a> (LPDIRECT3DDEVICE8 pd3dDevice, TCHAR *strFilename, DWORD *pdwVertexDecl, DWORD *pdwVertexShader)</td></tr>
 <tr class="separator:aa0a51c33bb2be6a1d56db9f1877091c7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a127f555189c2828cc4894b67d37a3296"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structD3DXMATRIX.html">D3DXMATRIX</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a127f555189c2828cc4894b67d37a3296">D3DUtil_GetCubeMapViewMatrix</a> (<a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> dwFace)</td></tr>
+<tr class="memitem:a127f555189c2828cc4894b67d37a3296"><td class="memItemLeft" align="right" valign="top">D3DXMATRIX&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a127f555189c2828cc4894b67d37a3296">D3DUtil_GetCubeMapViewMatrix</a> (DWORD dwFace)</td></tr>
 <tr class="separator:a127f555189c2828cc4894b67d37a3296"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a547267ef45265744e5bbc929dce5e9df"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structD3DXQUATERNION.html">D3DXQUATERNION</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a547267ef45265744e5bbc929dce5e9df">D3DUtil_GetRotationFromCursor</a> (HWND <a class="el" href="ddraw_8h.html#a8abb94e3f785a107b8ae714dda6f69d4">hWnd</a>, FLOAT fTrackBallRadius)</td></tr>
+<tr class="memitem:a547267ef45265744e5bbc929dce5e9df"><td class="memItemLeft" align="right" valign="top">D3DXQUATERNION&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a547267ef45265744e5bbc929dce5e9df">D3DUtil_GetRotationFromCursor</a> (HWND hWnd, FLOAT fTrackBallRadius)</td></tr>
 <tr class="separator:a547267ef45265744e5bbc929dce5e9df"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abe37b2569f19bbf385539e85256a5c9e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e">D3DUtil_SetDeviceCursor</a> (<a class="el" href="d3d8_8h.html#a771c119b9d3d23bba78aa4f0f5b1ef34">LPDIRECT3DDEVICE8</a> pd3dDevice, HCURSOR hCursor, <a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> bAddWatermark)</td></tr>
+<tr class="memitem:abe37b2569f19bbf385539e85256a5c9e"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e">D3DUtil_SetDeviceCursor</a> (LPDIRECT3DDEVICE8 pd3dDevice, HCURSOR hCursor, BOOL bAddWatermark)</td></tr>
 <tr class="separator:abe37b2569f19bbf385539e85256a5c9e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae33e434e5558fa82cb317c3519119278"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structD3DXQUATERNION.html">D3DXQUATERNION</a> *WINAPI&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#ae33e434e5558fa82cb317c3519119278">D3DXQuaternionUnitAxisToUnitAxis2</a> (<a class="el" href="structD3DXQUATERNION.html">D3DXQUATERNION</a> *pOut, const <a class="el" href="structD3DXVECTOR3.html">D3DXVECTOR3</a> *pvFrom, const <a class="el" href="structD3DXVECTOR3.html">D3DXVECTOR3</a> *pvTo)</td></tr>
+<tr class="memitem:ae33e434e5558fa82cb317c3519119278"><td class="memItemLeft" align="right" valign="top">D3DXQUATERNION *WINAPI&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#ae33e434e5558fa82cb317c3519119278">D3DXQuaternionUnitAxisToUnitAxis2</a> (D3DXQUATERNION *pOut, const D3DXVECTOR3 *pvFrom, const D3DXVECTOR3 *pvTo)</td></tr>
 <tr class="separator:ae33e434e5558fa82cb317c3519119278"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a26a5de92a406a318ed7983f41945b70b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structD3DXQUATERNION.html">D3DXQUATERNION</a> *WINAPI&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a26a5de92a406a318ed7983f41945b70b">D3DXQuaternionAxisToAxis</a> (<a class="el" href="structD3DXQUATERNION.html">D3DXQUATERNION</a> *pOut, const <a class="el" href="structD3DXVECTOR3.html">D3DXVECTOR3</a> *pvFrom, const <a class="el" href="structD3DXVECTOR3.html">D3DXVECTOR3</a> *pvTo)</td></tr>
+<tr class="memitem:a26a5de92a406a318ed7983f41945b70b"><td class="memItemLeft" align="right" valign="top">D3DXQUATERNION *WINAPI&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="d3dutil_8cpp.html#a26a5de92a406a318ed7983f41945b70b">D3DXQuaternionAxisToAxis</a> (D3DXQUATERNION *pOut, const D3DXVECTOR3 *pvFrom, const D3DXVECTOR3 *pvTo)</td></tr>
 <tr class="separator:a26a5de92a406a318ed7983f41945b70b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
@@ -148,9 +145,9 @@ Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> D3DUtil_CreateTexture </td>
+          <td class="memname">HRESULT D3DUtil_CreateTexture </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="d3d8_8h.html#a771c119b9d3d23bba78aa4f0f5b1ef34">LPDIRECT3DDEVICE8</a>&#160;</td>
+          <td class="paramtype">LPDIRECT3DDEVICE8&#160;</td>
           <td class="paramname"><em>pd3dDevice</em>, </td>
         </tr>
         <tr>
@@ -162,13 +159,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3d8_8h.html#a3ab130fb00915c5765c378678c563943">LPDIRECT3DTEXTURE8</a> *&#160;</td>
+          <td class="paramtype">LPDIRECT3DTEXTURE8 *&#160;</td>
           <td class="paramname"><em>ppTexture</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3d8types_8h.html#a2803a73f3f07caee735227a2a90de797">D3DFORMAT</a>&#160;</td>
+          <td class="paramtype">D3DFORMAT&#160;</td>
           <td class="paramname"><em>d3dFormat</em>&#160;</td>
         </tr>
         <tr>
@@ -197,9 +194,9 @@ Here is the call graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> D3DUtil_CreateVertexShader </td>
+          <td class="memname">HRESULT D3DUtil_CreateVertexShader </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="d3d8_8h.html#a771c119b9d3d23bba78aa4f0f5b1ef34">LPDIRECT3DDEVICE8</a>&#160;</td>
+          <td class="paramtype">LPDIRECT3DDEVICE8&#160;</td>
           <td class="paramname"><em>pd3dDevice</em>, </td>
         </tr>
         <tr>
@@ -211,13 +208,13 @@ Here is the call graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> *&#160;</td>
+          <td class="paramtype">DWORD *&#160;</td>
           <td class="paramname"><em>pdwVertexDecl</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> *&#160;</td>
+          <td class="paramtype">DWORD *&#160;</td>
           <td class="paramname"><em>pdwVertexShader</em>&#160;</td>
         </tr>
         <tr>
@@ -246,24 +243,14 @@ Here is the call graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="structD3DXMATRIX.html">D3DXMATRIX</a> D3DUtil_GetCubeMapViewMatrix </td>
+          <td class="memname">D3DXMATRIX D3DUtil_GetCubeMapViewMatrix </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td>
+          <td class="paramtype">DWORD&#160;</td>
           <td class="paramname"><em>dwFace</em></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
-
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="d3dutil_8cpp_a127f555189c2828cc4894b67d37a3296_cgraph.png" border="0" usemap="#d3dutil_8cpp_a127f555189c2828cc4894b67d37a3296_cgraph" alt=""/></div>
-<map name="d3dutil_8cpp_a127f555189c2828cc4894b67d37a3296_cgraph" id="d3dutil_8cpp_a127f555189c2828cc4894b67d37a3296_cgraph">
-<area shape="rect" id="node2" href="d3dx8math_8h.html#aeae291615af267a281e7bc447e52db46" title="D3DXMatrixLookAtLH" alt="" coords="272,5,424,32"/>
-</map>
-</div>
-</p>
 
 </div>
 </div>
@@ -272,7 +259,7 @@ Here is the call graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="structD3DXQUATERNION.html">D3DXQUATERNION</a> D3DUtil_GetRotationFromCursor </td>
+          <td class="memname">D3DXQUATERNION D3DUtil_GetRotationFromCursor </td>
           <td>(</td>
           <td class="paramtype">HWND&#160;</td>
           <td class="paramname"><em>hWnd</em>, </td>
@@ -291,18 +278,6 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="d3dutil_8cpp_a547267ef45265744e5bbc929dce5e9df_cgraph.png" border="0" usemap="#d3dutil_8cpp_a547267ef45265744e5bbc929dce5e9df_cgraph" alt=""/></div>
-<map name="d3dutil_8cpp_a547267ef45265744e5bbc929dce5e9df_cgraph" id="d3dutil_8cpp_a547267ef45265744e5bbc929dce5e9df_cgraph">
-<area shape="rect" id="node2" href="d3dx8math_8h.html#a668697a4ac22d3332e6167a2a190a208" title="D3DXVec3Cross" alt="" coords="305,5,427,32"/>
-<area shape="rect" id="node3" href="d3dx8math_8h.html#a496c2dd78c28504db3e1a6abdff9bed0" title="D3DXVec3Length" alt="" coords="303,56,429,83"/>
-<area shape="rect" id="node4" href="d3dx8math_8h.html#ac241764caa54cb067697ac3ec76d3347" title="D3DXQuaternionRotationAxis" alt="" coords="268,107,464,133"/>
-</map>
-</div>
-</p>
-
 </div>
 </div>
 <a class="anchor" id="a5af9e7152af85ac7327e2502e046c8be"></a>
@@ -312,13 +287,13 @@ Here is the call graph for this function:</div>
         <tr>
           <td class="memname">VOID D3DUtil_InitLight </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="d3d8types_8h.html#ae39f2cb0c5cd6e630945cef6ee7a53b7">D3DLIGHT8</a> &amp;&#160;</td>
+          <td class="paramtype">D3DLIGHT8 &amp;&#160;</td>
           <td class="paramname"><em>light</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3d8types_8h.html#a07640115385386655a6326efc97251a7">D3DLIGHTTYPE</a>&#160;</td>
+          <td class="paramtype">D3DLIGHTTYPE&#160;</td>
           <td class="paramname"><em>ltType</em>, </td>
         </tr>
         <tr>
@@ -350,16 +325,6 @@ Here is the call graph for this function:</div>
 <p>Referenced by <a class="el" href="classCMyD3DApplication.html#a4e80b0ac4ab63abe5e326d99c5525646">CMyD3DApplication::RestoreDeviceObjects()</a>.</p>
 
 <p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="d3dutil_8cpp_a5af9e7152af85ac7327e2502e046c8be_cgraph.png" border="0" usemap="#d3dutil_8cpp_a5af9e7152af85ac7327e2502e046c8be_cgraph" alt=""/></div>
-<map name="d3dutil_8cpp_a5af9e7152af85ac7327e2502e046c8be_cgraph" id="d3dutil_8cpp_a5af9e7152af85ac7327e2502e046c8be_cgraph">
-<area shape="rect" id="node2" href="d3dx8math_8h.html#aad7e9e46c52286ab059d3098ee1ead46" title="D3DXVec3Normalize" alt="" coords="176,5,323,32"/>
-</map>
-</div>
-</p>
-
-<p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="d3dutil_8cpp_a5af9e7152af85ac7327e2502e046c8be_icgraph.png" border="0" usemap="#d3dutil_8cpp_a5af9e7152af85ac7327e2502e046c8be_icgraph" alt=""/></div>
@@ -378,7 +343,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="memname">VOID D3DUtil_InitMaterial </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="d3d8types_8h.html#a486a8b4a962d026f0a9909916d194620">D3DMATERIAL8</a> &amp;&#160;</td>
+          <td class="paramtype">D3DMATERIAL8 &amp;&#160;</td>
           <td class="paramname"><em>mtrl</em>, </td>
         </tr>
         <tr>
@@ -434,15 +399,15 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> D3DUtil_SetColorKey </td>
+          <td class="memname">HRESULT D3DUtil_SetColorKey </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="d3d8_8h.html#a3ab130fb00915c5765c378678c563943">LPDIRECT3DTEXTURE8</a>&#160;</td>
+          <td class="paramtype">LPDIRECT3DTEXTURE8&#160;</td>
           <td class="paramname"><em>pTexture</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td>
+          <td class="paramtype">DWORD&#160;</td>
           <td class="paramname"><em>dwColorKey</em>&#160;</td>
         </tr>
         <tr>
@@ -460,9 +425,9 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> D3DUtil_SetDeviceCursor </td>
+          <td class="memname">HRESULT D3DUtil_SetDeviceCursor </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="d3d8_8h.html#a771c119b9d3d23bba78aa4f0f5b1ef34">LPDIRECT3DDEVICE8</a>&#160;</td>
+          <td class="paramtype">LPDIRECT3DDEVICE8&#160;</td>
           <td class="paramname"><em>pd3dDevice</em>, </td>
         </tr>
         <tr>
@@ -474,7 +439,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td>
+          <td class="paramtype">BOOL&#160;</td>
           <td class="paramname"><em>bAddWatermark</em>&#160;</td>
         </tr>
         <tr>
@@ -486,16 +451,6 @@ Here is the caller graph for this function:</div>
 </div><div class="memdoc">
 
 <p>Referenced by <a class="el" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4">CD3DApplication::Initialize3DEnvironment()</a>, and <a class="el" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1">CD3DApplication::Resize3DEnvironment()</a>.</p>
-
-<p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="d3dutil_8cpp_abe37b2569f19bbf385539e85256a5c9e_cgraph.png" border="0" usemap="#d3dutil_8cpp_abe37b2569f19bbf385539e85256a5c9e_cgraph" alt=""/></div>
-<map name="d3dutil_8cpp_abe37b2569f19bbf385539e85256a5c9e_cgraph" id="d3dutil_8cpp_abe37b2569f19bbf385539e85256a5c9e_cgraph">
-<area shape="rect" id="node2" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="229,5,288,32"/>
-</map>
-</div>
-</p>
 
 <p><div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -530,21 +485,21 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="structD3DXQUATERNION.html">D3DXQUATERNION</a>* WINAPI D3DXQuaternionAxisToAxis </td>
+          <td class="memname">D3DXQUATERNION* WINAPI D3DXQuaternionAxisToAxis </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="structD3DXQUATERNION.html">D3DXQUATERNION</a> *&#160;</td>
+          <td class="paramtype">D3DXQUATERNION *&#160;</td>
           <td class="paramname"><em>pOut</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="structD3DXVECTOR3.html">D3DXVECTOR3</a> *&#160;</td>
+          <td class="paramtype">const D3DXVECTOR3 *&#160;</td>
           <td class="paramname"><em>pvFrom</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="structD3DXVECTOR3.html">D3DXVECTOR3</a> *&#160;</td>
+          <td class="paramtype">const D3DXVECTOR3 *&#160;</td>
           <td class="paramname"><em>pvTo</em>&#160;</td>
         </tr>
         <tr>
@@ -567,10 +522,7 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="d3dutil_8cpp_a26a5de92a406a318ed7983f41945b70b_cgraph.png" border="0" usemap="#d3dutil_8cpp_a26a5de92a406a318ed7983f41945b70b_cgraph" alt=""/></div>
 <map name="d3dutil_8cpp_a26a5de92a406a318ed7983f41945b70b_cgraph" id="d3dutil_8cpp_a26a5de92a406a318ed7983f41945b70b_cgraph">
-<area shape="rect" id="node2" href="d3dx8math_8h.html#aad7e9e46c52286ab059d3098ee1ead46" title="D3DXVec3Normalize" alt="" coords="261,5,408,32"/>
-<area shape="rect" id="node3" href="d3dutil_8cpp.html#ae33e434e5558fa82cb317c3519119278" title="D3DXQuaternionUnitAxisTo\lUnitAxis2" alt="" coords="241,57,428,98"/>
-<area shape="rect" id="node4" href="d3dx8math_8h.html#a668697a4ac22d3332e6167a2a190a208" title="D3DXVec3Cross" alt="" coords="476,39,599,65"/>
-<area shape="rect" id="node5" href="d3dx8math_8h.html#a4a45ef4df4864a610180fc9d5a909ab7" title="D3DXVec3Dot" alt="" coords="483,89,592,116"/>
+<area shape="rect" id="node2" href="d3dutil_8cpp.html#ae33e434e5558fa82cb317c3519119278" title="D3DXQuaternionUnitAxisTo\lUnitAxis2" alt="" coords="241,5,428,47"/>
 </map>
 </div>
 </p>
@@ -595,21 +547,21 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="structD3DXQUATERNION.html">D3DXQUATERNION</a>* WINAPI D3DXQuaternionUnitAxisToUnitAxis2 </td>
+          <td class="memname">D3DXQUATERNION* WINAPI D3DXQuaternionUnitAxisToUnitAxis2 </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="structD3DXQUATERNION.html">D3DXQUATERNION</a> *&#160;</td>
+          <td class="paramtype">D3DXQUATERNION *&#160;</td>
           <td class="paramname"><em>pOut</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="structD3DXVECTOR3.html">D3DXVECTOR3</a> *&#160;</td>
+          <td class="paramtype">const D3DXVECTOR3 *&#160;</td>
           <td class="paramname"><em>pvFrom</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">const <a class="el" href="structD3DXVECTOR3.html">D3DXVECTOR3</a> *&#160;</td>
+          <td class="paramtype">const D3DXVECTOR3 *&#160;</td>
           <td class="paramname"><em>pvTo</em>&#160;</td>
         </tr>
         <tr>
@@ -628,17 +580,6 @@ Here is the caller graph for this function:</div>
 <p>Referenced by <a class="el" href="d3dutil_8cpp.html#a26a5de92a406a318ed7983f41945b70b">D3DXQuaternionAxisToAxis()</a>.</p>
 
 <p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="d3dutil_8cpp_ae33e434e5558fa82cb317c3519119278_cgraph.png" border="0" usemap="#d3dutil_8cpp_ae33e434e5558fa82cb317c3519119278_cgraph" alt=""/></div>
-<map name="d3dutil_8cpp_ae33e434e5558fa82cb317c3519119278_cgraph" id="d3dutil_8cpp_ae33e434e5558fa82cb317c3519119278_cgraph">
-<area shape="rect" id="node2" href="d3dx8math_8h.html#a668697a4ac22d3332e6167a2a190a208" title="D3DXVec3Cross" alt="" coords="240,5,363,32"/>
-<area shape="rect" id="node3" href="d3dx8math_8h.html#a4a45ef4df4864a610180fc9d5a909ab7" title="D3DXVec3Dot" alt="" coords="247,56,356,83"/>
-</map>
-</div>
-</p>
-
-<p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="d3dutil_8cpp_ae33e434e5558fa82cb317c3519119278_icgraph.png" border="0" usemap="#d3dutil_8cpp_ae33e434e5558fa82cb317c3519119278_icgraph" alt=""/></div>
@@ -654,7 +595,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Feb 6 2016 16:23:34 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sat Feb 6 2016 17:14:31 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.10
 </small></address>

@@ -1,12 +1,6 @@
 <map id="CMyD3DApplication::RestoreDeviceObjects" name="CMyD3DApplication::RestoreDeviceObjects">
 <area shape="rect" id="node2" href="$d3dutil_8cpp.html#a806f565edd4f5a25695461d6e75c959d" title="D3DUtil_InitMaterial" alt="" coords="253,5,393,32"/>
-<area shape="rect" id="node3" href="$d3dx8math_8h.html#a49567772f991e9ba77a8ffea5fd72851" title="D3DXMatrixIdentity" alt="" coords="255,56,392,83"/>
-<area shape="rect" id="node4" href="$d3dx8math_8h.html#aeae291615af267a281e7bc447e52db46" title="D3DXMatrixLookAtLH" alt="" coords="247,107,399,133"/>
-<area shape="rect" id="node5" href="$d3dx8math_8h.html#a63979c0cfd64230fbb48213fc3c2e457" title="D3DXMatrixPerspectiveFovLH" alt="" coords="222,157,425,184"/>
-<area shape="rect" id="node6" href="$d3dutil_8cpp.html#a5af9e7152af85ac7327e2502e046c8be" title="D3DUtil_InitLight" alt="" coords="262,208,385,235"/>
-<area shape="rect" id="node8" href="$classCD3DMesh.html#a6078f439ec9bd894a72cbe2eba71eed4" title="CD3DMesh::RestoreDeviceObjects" alt="" coords="208,259,439,285"/>
-<area shape="rect" id="node9" href="$d3dx8core_8h.html#a6e4aa16d6ea75640e9f4f1a8330f03be" title="D3DXCreateSprite" alt="" coords="258,309,389,336"/>
-<area shape="rect" id="node10" href="$d3dxcore_8h.html#a7079c5ffc24b6150a60758b0f06b05bc" title="D3DXCreateTextureFromFile" alt="" coords="227,360,419,387"/>
-<area shape="rect" id="node11" href="$classCD3DFont.html#a23fbe22c8afe4ad7f44d92eb659c8998" title="CD3DFont::RestoreDeviceObjects" alt="" coords="211,411,436,437"/>
-<area shape="rect" id="node7" href="$d3dx8math_8h.html#aad7e9e46c52286ab059d3098ee1ead46" title="D3DXVec3Normalize" alt="" coords="487,208,633,235"/>
+<area shape="rect" id="node3" href="$d3dutil_8cpp.html#a5af9e7152af85ac7327e2502e046c8be" title="D3DUtil_InitLight" alt="" coords="262,56,385,83"/>
+<area shape="rect" id="node4" href="$classCD3DMesh.html#a6078f439ec9bd894a72cbe2eba71eed4" title="CD3DMesh::RestoreDeviceObjects" alt="" coords="208,107,439,133"/>
+<area shape="rect" id="node5" href="$classCD3DFont.html#a23fbe22c8afe4ad7f44d92eb659c8998" title="CD3DFont::RestoreDeviceObjects" alt="" coords="211,157,436,184"/>
 </map>

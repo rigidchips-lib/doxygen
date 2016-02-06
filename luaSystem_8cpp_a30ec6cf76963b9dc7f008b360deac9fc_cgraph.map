@@ -1,13 +1,12 @@
 <map id="luaWarp" name="luaWarp">
-<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="195,5,234,32"/>
-<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="165,56,265,83"/>
-<area shape="rect" id="node4" href="$classGRigid.html#aa06f1e8533c7c306104a512319c41202" title="GRigid::TranslateWithChild" alt="" coords="124,131,305,157"/>
-<area shape="rect" id="node7" href="$classGRigid.html#a351b4035ee099462fd7bbd2bdf7a0ec9" title="GRigid::ResetXfWithChild" alt="" coords="127,205,302,232"/>
-<area shape="rect" id="node8" href="$classGRigid.html#a0b5ee7b6caa9905360ed105d9473fc2d" title="GRigid::CalcTotalCenter" alt="" coords="132,268,297,295"/>
-<area shape="rect" id="node5" href="$classGMatrix.html#a3528c768b5af9b47a4c6611e68126b7e" title="GMatrix::translate" alt="" coords="373,119,500,145"/>
-<area shape="rect" id="node6" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="568,119,701,145"/>
-<area shape="rect" id="node9" href="$classGRigid.html#a6afe1064e42483130e78fd5949e0f0b5" title="GRigid::CalcTotalPos" alt="" coords="362,193,511,220"/>
-<area shape="rect" id="node10" href="$classGRigid.html#ae25cb9d7761559c1e131858100fd1979" title="GRigid::CalcTotalXG" alt="" coords="364,268,509,295"/>
-<area shape="rect" id="node11" href="$classGRigid.html#a92881a7aba0d8f84f2d0552ef5b38bab" title="GRigid::CalcTotalMass" alt="" coords="357,343,516,369"/>
-<area shape="rect" id="node12" href="$classGRigid.html#a2271ee222015bda7aa36349541c609f9" title="GRigid::CalcTotalRadius" alt="" coords="353,417,520,444"/>
+<area shape="rect" id="node2" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="165,5,265,32"/>
+<area shape="rect" id="node3" href="$classGRigid.html#aa06f1e8533c7c306104a512319c41202" title="GRigid::TranslateWithChild" alt="" coords="124,80,305,107"/>
+<area shape="rect" id="node6" href="$classGRigid.html#a351b4035ee099462fd7bbd2bdf7a0ec9" title="GRigid::ResetXfWithChild" alt="" coords="127,155,302,181"/>
+<area shape="rect" id="node7" href="$classGRigid.html#a0b5ee7b6caa9905360ed105d9473fc2d" title="GRigid::CalcTotalCenter" alt="" coords="132,217,297,244"/>
+<area shape="rect" id="node4" href="$classGMatrix.html#a3528c768b5af9b47a4c6611e68126b7e" title="GMatrix::translate" alt="" coords="373,68,500,95"/>
+<area shape="rect" id="node5" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="568,68,701,95"/>
+<area shape="rect" id="node8" href="$classGRigid.html#a6afe1064e42483130e78fd5949e0f0b5" title="GRigid::CalcTotalPos" alt="" coords="362,143,511,169"/>
+<area shape="rect" id="node9" href="$classGRigid.html#ae25cb9d7761559c1e131858100fd1979" title="GRigid::CalcTotalXG" alt="" coords="364,217,509,244"/>
+<area shape="rect" id="node10" href="$classGRigid.html#a92881a7aba0d8f84f2d0552ef5b38bab" title="GRigid::CalcTotalMass" alt="" coords="357,292,516,319"/>
+<area shape="rect" id="node11" href="$classGRigid.html#a2271ee222015bda7aa36349541c609f9" title="GRigid::CalcTotalRadius" alt="" coords="353,367,520,393"/>
 </map>

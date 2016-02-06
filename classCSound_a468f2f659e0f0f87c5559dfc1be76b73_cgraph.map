@@ -1,9 +1,8 @@
 <map id="CSound::Play" name="CSound::Play">
-<area shape="rect" id="node2" href="$dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="223,5,282,32"/>
-<area shape="rect" id="node3" href="$classCSound.html#a270ce46e674cb5f39fecfbbee8f45b41" title="CSound::GetFreeBuffer" alt="" coords="173,56,332,83"/>
-<area shape="rect" id="node4" href="$classCSound.html#ab74aca2529b37470e7dcb7bc4eadbdbc" title="CSound::RestoreBuffer" alt="" coords="397,107,556,133"/>
-<area shape="rect" id="node5" href="$classCSound.html#a5591cb7ebe3a9cb04e2a57fba3462510" title="CSound::FillBufferWithSound" alt="" coords="156,157,349,184"/>
-<area shape="rect" id="node8" href="$classCSound.html#aaf2b066d599976ba180082b4fa3880e3" title="CSound::Reset" alt="" coords="197,208,309,235"/>
-<area shape="rect" id="node6" href="$classCWaveFile.html#ae6791a066f89f5e147cc0f5d9f2dbdbc" title="CWaveFile::ResetFile" alt="" coords="401,157,552,184"/>
-<area shape="rect" id="node7" href="$classCWaveFile.html#a1eb28886c3d56d2ff278de51803cfe64" title="CWaveFile::Read" alt="" coords="413,208,540,235"/>
+<area shape="rect" id="node2" href="$classCSound.html#a270ce46e674cb5f39fecfbbee8f45b41" title="CSound::GetFreeBuffer" alt="" coords="173,5,332,32"/>
+<area shape="rect" id="node3" href="$classCSound.html#ab74aca2529b37470e7dcb7bc4eadbdbc" title="CSound::RestoreBuffer" alt="" coords="397,56,556,83"/>
+<area shape="rect" id="node4" href="$classCSound.html#a5591cb7ebe3a9cb04e2a57fba3462510" title="CSound::FillBufferWithSound" alt="" coords="156,107,349,133"/>
+<area shape="rect" id="node7" href="$classCSound.html#aaf2b066d599976ba180082b4fa3880e3" title="CSound::Reset" alt="" coords="197,157,309,184"/>
+<area shape="rect" id="node5" href="$classCWaveFile.html#ae6791a066f89f5e147cc0f5d9f2dbdbc" title="CWaveFile::ResetFile" alt="" coords="401,107,552,133"/>
+<area shape="rect" id="node6" href="$classCWaveFile.html#a1eb28886c3d56d2ff278de51803cfe64" title="CWaveFile::Read" alt="" coords="413,157,540,184"/>
 </map>

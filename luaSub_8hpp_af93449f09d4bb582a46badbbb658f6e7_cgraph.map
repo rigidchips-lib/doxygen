@@ -1,5 +1,4 @@
 <map id="luaLz" name="luaLz">
-<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="146,5,185,32"/>
-<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="115,56,215,83"/>
-<area shape="rect" id="node4" href="$lua_8h.html#a328625a03fbb5548f27b1af10f109f6a" title="lua_pushnumber" alt="" coords="107,107,224,133"/>
+<area shape="rect" id="node2" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="115,5,215,32"/>
+<area shape="rect" id="node3" href="$lua_8h.html#a328625a03fbb5548f27b1af10f109f6a" title="lua_pushnumber" alt="" coords="107,56,224,83"/>
 </map>

@@ -38,7 +38,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li class="current"><a href="annotated.html"><span>Classes</span></a></li>
       <li><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -109,83 +108,77 @@ Collaboration diagram for CD3DApplication:</div>
 <div class="dyncontent">
 <div class="center"><img src="classCD3DApplication__coll__graph.png" border="0" usemap="#CD3DApplication_coll__map" alt="Collaboration graph"/></div>
 <map name="CD3DApplication_coll__map" id="CD3DApplication_coll__map">
-<area shape="rect" id="node2" href="struct__D3DSURFACE__DESC.html" title="{_D3DSURFACE_DESC\n|+ Usage\l+ Size\l+ Width\l+ Height\l+ MultiSampleQuality\l|}" alt="" coords="5,711,172,847"/>
-<area shape="rect" id="node3" href="interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="359,132,565,356"/>
-<area shape="rect" id="node5" href="struct__D3DCAPS8.html" title="{_D3DCAPS8\n|+ AdapterOrdinal\l+ Caps\l+ Caps2\l+ Caps3\l+ PresentationIntervals\l+ CursorCaps\l+ DevCaps\l+ PrimitiveMiscCaps\l+ RasterCaps\l+ ZCmpCaps\land 42 more...\l|}" alt="" coords="786,463,943,687"/>
-<area shape="rect" id="node6" href="struct__D3DPRESENT__PARAMETERS__.html" title="{_D3DPRESENT_PARAMETERS_\n|+ BackBufferWidth\l+ BackBufferHeight\l+ BackBufferCount\l+ hDeviceWindow\l+ Windowed\l+ EnableAutoDepthStencil\l+ Flags\l+ FullScreen_RefreshRateInHz\l+ FullScreen_PresentationInterval\l+ MultiSampleQuality\l+ PresentationInterval\l|}" alt="" coords="267,1104,494,1328"/>
-<area shape="rect" id="node9" href="struct__D3DDISPLAYMODE.html" title="{_D3DDISPLAYMODE\n|+ Width\l+ Height\l+ RefreshRate\l|}" alt="" coords="665,725,819,832"/>
-<area shape="rect" id="node10" href="structD3DDeviceInfo.html" title="{D3DDeviceInfo\n|+ strDesc\l+ bCanDoWindowed\l+ dwNumModes\l+ dwCurrentMode\l+ bWindowed\l|}" alt="" coords="365,907,508,1043"/>
-<area shape="rect" id="node11" href="structD3DModeInfo.html" title="{D3DModeInfo\n|+ Width\l+ Height\l+ dwBehavior\l|}" alt="" coords="385,521,488,628"/>
-<area shape="rect" id="node7" href="structD3DAdapterInfo.html" title="{D3DAdapterInfo\n|+ dwNumDevices\l+ dwCurrentDevice\l|}" alt="" coords="521,1352,656,1444"/>
-<area shape="rect" id="node8" href="struct__D3DADAPTER__IDENTIFIER8.html" title="{_D3DADAPTER_IDENTIFIER8\n|+ Driver\l+ Description\l+ DriverVersionLowPart\l+ DriverVersionHighPart\l+ VendorId\l+ DeviceId\l+ SubSysId\l+ Revision\l+ DeviceIdentifier\l+ WHQLLevel\l|}" alt="" coords="531,871,742,1080"/>
+<area shape="rect" id="node2" href="structD3DAdapterInfo.html" title="{D3DAdapterInfo\n|+ d3dAdapterIdentifier\l+ d3ddmDesktop\l+ dwNumDevices\l+ dwCurrentDevice\l|}" alt="" coords="28,461,179,583"/>
+<area shape="rect" id="node3" href="structD3DDeviceInfo.html" title="{D3DDeviceInfo\n|+ DeviceType\l+ d3dCaps\l+ strDesc\l+ bCanDoWindowed\l+ dwNumModes\l+ dwCurrentMode\l+ bWindowed\l+ MultiSampleTypeWindowed\l+ MultiSampleTypeFullscreen\l|}" alt="" coords="5,204,201,399"/>
+<area shape="rect" id="node4" href="structD3DModeInfo.html" title="{D3DModeInfo\n|+ Width\l+ Height\l+ Format\l+ dwBehavior\l+ DepthStencilFormat\l|}" alt="" coords="28,5,179,141"/>
 </map>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a3eec58e85a67d27e13a558925ec4457b"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a3eec58e85a67d27e13a558925ec4457b">Create</a> (HINSTANCE hInstance)</td></tr>
+<tr class="memitem:a3eec58e85a67d27e13a558925ec4457b"><td class="memItemLeft" align="right" valign="top">virtual HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a3eec58e85a67d27e13a558925ec4457b">Create</a> (HINSTANCE hInstance)</td></tr>
 <tr class="separator:a3eec58e85a67d27e13a558925ec4457b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a3dbb5db356c603d7ef8493db39cde736"><td class="memItemLeft" align="right" valign="top">virtual INT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a3dbb5db356c603d7ef8493db39cde736">Run</a> ()</td></tr>
 <tr class="separator:a3dbb5db356c603d7ef8493db39cde736"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a71a5cc911df29ecdf675d0f3f14400ff"><td class="memItemLeft" align="right" valign="top">virtual LRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a71a5cc911df29ecdf675d0f3f14400ff">MsgProc</a> (HWND <a class="el" href="ddraw_8h.html#a8abb94e3f785a107b8ae714dda6f69d4">hWnd</a>, UINT uMsg, WPARAM wParam, LPARAM lParam)</td></tr>
+<tr class="memitem:a71a5cc911df29ecdf675d0f3f14400ff"><td class="memItemLeft" align="right" valign="top">virtual LRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a71a5cc911df29ecdf675d0f3f14400ff">MsgProc</a> (HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam)</td></tr>
 <tr class="separator:a71a5cc911df29ecdf675d0f3f14400ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a07bb5e8e36cc91d15d40bc88709753a6"><td class="memItemLeft" align="right" valign="top">virtual VOID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a07bb5e8e36cc91d15d40bc88709753a6">Pause</a> (<a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> bPause)</td></tr>
+<tr class="memitem:a07bb5e8e36cc91d15d40bc88709753a6"><td class="memItemLeft" align="right" valign="top">virtual VOID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a07bb5e8e36cc91d15d40bc88709753a6">Pause</a> (BOOL bPause)</td></tr>
 <tr class="separator:a07bb5e8e36cc91d15d40bc88709753a6"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a68e19c005172ab21243251f7f84fb9b1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a68e19c005172ab21243251f7f84fb9b1">CD3DApplication</a> ()</td></tr>
 <tr class="separator:a68e19c005172ab21243251f7f84fb9b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:ae8af89f51cc840b8e2a87cdbbeea1188"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ae8af89f51cc840b8e2a87cdbbeea1188">m_bWindowed</a></td></tr>
+<tr class="memitem:ae8af89f51cc840b8e2a87cdbbeea1188"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ae8af89f51cc840b8e2a87cdbbeea1188">m_bWindowed</a></td></tr>
 <tr class="separator:ae8af89f51cc840b8e2a87cdbbeea1188"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2ee31fd83810daeadaf3b57a5fdab5f5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="d3d8_8h.html#a59b2188eb21a792042248fb0c400674e">LPDIRECT3D8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a2ee31fd83810daeadaf3b57a5fdab5f5">m_pD3D</a></td></tr>
+<tr class="memitem:a2ee31fd83810daeadaf3b57a5fdab5f5"><td class="memItemLeft" align="right" valign="top">LPDIRECT3D8&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a2ee31fd83810daeadaf3b57a5fdab5f5">m_pD3D</a></td></tr>
 <tr class="separator:a2ee31fd83810daeadaf3b57a5fdab5f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a944676fe277f534e5f00e5e06bc038ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="d3d8_8h.html#a771c119b9d3d23bba78aa4f0f5b1ef34">LPDIRECT3DDEVICE8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a944676fe277f534e5f00e5e06bc038ea">m_pd3dDevice</a></td></tr>
+<tr class="memitem:a944676fe277f534e5f00e5e06bc038ea"><td class="memItemLeft" align="right" valign="top">LPDIRECT3DDEVICE8&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a944676fe277f534e5f00e5e06bc038ea">m_pd3dDevice</a></td></tr>
 <tr class="separator:a944676fe277f534e5f00e5e06bc038ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5e3ea22cbed60e83390c317bb963605f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="d3d8caps_8h.html#a7dafeca471be820c826cb5d365f50851">D3DCAPS8</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a5e3ea22cbed60e83390c317bb963605f">m_d3dCaps</a></td></tr>
+<tr class="memitem:a5e3ea22cbed60e83390c317bb963605f"><td class="memItemLeft" align="right" valign="top">D3DCAPS8&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a5e3ea22cbed60e83390c317bb963605f">m_d3dCaps</a></td></tr>
 <tr class="separator:a5e3ea22cbed60e83390c317bb963605f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-methods"></a>
 Protected Member Functions</h2></td></tr>
-<tr class="memitem:a06f0e2805e66ec1d8035d5adaf19bed5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5">DisplayErrorMsg</a> (<a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> hr, <a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> dwType)</td></tr>
+<tr class="memitem:a06f0e2805e66ec1d8035d5adaf19bed5"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5">DisplayErrorMsg</a> (HRESULT hr, DWORD dwType)</td></tr>
 <tr class="separator:a06f0e2805e66ec1d8035d5adaf19bed5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abb58db39d3e2e984f7cd0a6a7da02a56"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#abb58db39d3e2e984f7cd0a6a7da02a56">BuildDeviceList</a> ()</td></tr>
+<tr class="memitem:abb58db39d3e2e984f7cd0a6a7da02a56"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#abb58db39d3e2e984f7cd0a6a7da02a56">BuildDeviceList</a> ()</td></tr>
 <tr class="separator:abb58db39d3e2e984f7cd0a6a7da02a56"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aacb500405196811d027f2834a4451de6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aacb500405196811d027f2834a4451de6">FindDepthStencilFormat</a> (UINT iAdapter, <a class="el" href="d3d8types_8h.html#a985d0c04c51bf7f2d8150f08bfdb5d3f">D3DDEVTYPE</a> DeviceType, <a class="el" href="d3d8types_8h.html#a2803a73f3f07caee735227a2a90de797">D3DFORMAT</a> TargetFormat, <a class="el" href="d3d8types_8h.html#a2803a73f3f07caee735227a2a90de797">D3DFORMAT</a> *pDepthStencilFormat)</td></tr>
+<tr class="memitem:aacb500405196811d027f2834a4451de6"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aacb500405196811d027f2834a4451de6">FindDepthStencilFormat</a> (UINT iAdapter, D3DDEVTYPE DeviceType, D3DFORMAT TargetFormat, D3DFORMAT *pDepthStencilFormat)</td></tr>
 <tr class="separator:aacb500405196811d027f2834a4451de6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a817d2c18827d461af3afa865f231bba4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4">Initialize3DEnvironment</a> ()</td></tr>
+<tr class="memitem:a817d2c18827d461af3afa865f231bba4"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4">Initialize3DEnvironment</a> ()</td></tr>
 <tr class="separator:a817d2c18827d461af3afa865f231bba4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a29160a6729e8965fae0fa749b6e569b1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1">Resize3DEnvironment</a> ()</td></tr>
+<tr class="memitem:a29160a6729e8965fae0fa749b6e569b1"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1">Resize3DEnvironment</a> ()</td></tr>
 <tr class="separator:a29160a6729e8965fae0fa749b6e569b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5204d3138985a4012fa07603618c9a9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aa5204d3138985a4012fa07603618c9a9">ToggleFullscreen</a> ()</td></tr>
+<tr class="memitem:aa5204d3138985a4012fa07603618c9a9"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aa5204d3138985a4012fa07603618c9a9">ToggleFullscreen</a> ()</td></tr>
 <tr class="separator:aa5204d3138985a4012fa07603618c9a9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aea282d070ea0374dcf360530725fb715"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aea282d070ea0374dcf360530725fb715">ForceWindowed</a> ()</td></tr>
+<tr class="memitem:aea282d070ea0374dcf360530725fb715"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aea282d070ea0374dcf360530725fb715">ForceWindowed</a> ()</td></tr>
 <tr class="separator:aea282d070ea0374dcf360530725fb715"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a06674b6c2e548d6850550eefbef74e50"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a06674b6c2e548d6850550eefbef74e50">UserSelectNewDevice</a> ()</td></tr>
+<tr class="memitem:a06674b6c2e548d6850550eefbef74e50"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a06674b6c2e548d6850550eefbef74e50">UserSelectNewDevice</a> ()</td></tr>
 <tr class="separator:a06674b6c2e548d6850550eefbef74e50"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a8be0f3560259937cf22353173ffaf5f8"><td class="memItemLeft" align="right" valign="top">VOID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a8be0f3560259937cf22353173ffaf5f8">Cleanup3DEnvironment</a> ()</td></tr>
 <tr class="separator:a8be0f3560259937cf22353173ffaf5f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3e642372a4568054e4f29f7671eceac7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a3e642372a4568054e4f29f7671eceac7">Render3DEnvironment</a> ()</td></tr>
+<tr class="memitem:a3e642372a4568054e4f29f7671eceac7"><td class="memItemLeft" align="right" valign="top">HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a3e642372a4568054e4f29f7671eceac7">Render3DEnvironment</a> ()</td></tr>
 <tr class="separator:a3e642372a4568054e4f29f7671eceac7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55afb57f10b0993904dafb2e3d3b8338"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338">AdjustWindowForChange</a> ()</td></tr>
+<tr class="memitem:a55afb57f10b0993904dafb2e3d3b8338"><td class="memItemLeft" align="right" valign="top">virtual HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338">AdjustWindowForChange</a> ()</td></tr>
 <tr class="separator:a55afb57f10b0993904dafb2e3d3b8338"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3b848d6543e161a5fd81a23423a996fd"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a3b848d6543e161a5fd81a23423a996fd">ConfirmDevice</a> (<a class="el" href="d3d8caps_8h.html#a7dafeca471be820c826cb5d365f50851">D3DCAPS8</a> *, <a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>, <a class="el" href="d3d8types_8h.html#a2803a73f3f07caee735227a2a90de797">D3DFORMAT</a>)</td></tr>
+<tr class="memitem:a3b848d6543e161a5fd81a23423a996fd"><td class="memItemLeft" align="right" valign="top">virtual HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a3b848d6543e161a5fd81a23423a996fd">ConfirmDevice</a> (D3DCAPS8 *, DWORD, D3DFORMAT)</td></tr>
 <tr class="separator:a3b848d6543e161a5fd81a23423a996fd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad3ba183e86043313a6594e89b5af3de0"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ad3ba183e86043313a6594e89b5af3de0">OneTimeSceneInit</a> ()</td></tr>
+<tr class="memitem:ad3ba183e86043313a6594e89b5af3de0"><td class="memItemLeft" align="right" valign="top">virtual HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ad3ba183e86043313a6594e89b5af3de0">OneTimeSceneInit</a> ()</td></tr>
 <tr class="separator:ad3ba183e86043313a6594e89b5af3de0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a8a5e1218007fdfb57e486a0488b20ade"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade">InitDeviceObjects</a> ()</td></tr>
+<tr class="memitem:a8a5e1218007fdfb57e486a0488b20ade"><td class="memItemLeft" align="right" valign="top">virtual HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade">InitDeviceObjects</a> ()</td></tr>
 <tr class="separator:a8a5e1218007fdfb57e486a0488b20ade"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae42b22c53f5fd8ae59708dbdff2a8752"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752">RestoreDeviceObjects</a> ()</td></tr>
+<tr class="memitem:ae42b22c53f5fd8ae59708dbdff2a8752"><td class="memItemLeft" align="right" valign="top">virtual HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752">RestoreDeviceObjects</a> ()</td></tr>
 <tr class="separator:ae42b22c53f5fd8ae59708dbdff2a8752"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac1f76e0eb222b135fcf9b949075060d5"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ac1f76e0eb222b135fcf9b949075060d5">FrameMove</a> ()</td></tr>
+<tr class="memitem:ac1f76e0eb222b135fcf9b949075060d5"><td class="memItemLeft" align="right" valign="top">virtual HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ac1f76e0eb222b135fcf9b949075060d5">FrameMove</a> ()</td></tr>
 <tr class="separator:ac1f76e0eb222b135fcf9b949075060d5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a64fab3eecf613d353acc02e033033613"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a64fab3eecf613d353acc02e033033613">Render</a> ()</td></tr>
+<tr class="memitem:a64fab3eecf613d353acc02e033033613"><td class="memItemLeft" align="right" valign="top">virtual HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a64fab3eecf613d353acc02e033033613">Render</a> ()</td></tr>
 <tr class="separator:a64fab3eecf613d353acc02e033033613"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a75d85fa354e678822f6ab1eb90b94d82"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82">InvalidateDeviceObjects</a> ()</td></tr>
+<tr class="memitem:a75d85fa354e678822f6ab1eb90b94d82"><td class="memItemLeft" align="right" valign="top">virtual HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82">InvalidateDeviceObjects</a> ()</td></tr>
 <tr class="separator:a75d85fa354e678822f6ab1eb90b94d82"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab66f38fffc678b80747ba19678ac2331"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331">DeleteDeviceObjects</a> ()</td></tr>
+<tr class="memitem:ab66f38fffc678b80747ba19678ac2331"><td class="memItemLeft" align="right" valign="top">virtual HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331">DeleteDeviceObjects</a> ()</td></tr>
 <tr class="separator:ab66f38fffc678b80747ba19678ac2331"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7684a7a91b661ea0d1ebc1ad8658b396"><td class="memItemLeft" align="right" valign="top">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a7684a7a91b661ea0d1ebc1ad8658b396">FinalCleanup</a> ()</td></tr>
+<tr class="memitem:a7684a7a91b661ea0d1ebc1ad8658b396"><td class="memItemLeft" align="right" valign="top">virtual HRESULT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a7684a7a91b661ea0d1ebc1ad8658b396">FinalCleanup</a> ()</td></tr>
 <tr class="separator:a7684a7a91b661ea0d1ebc1ad8658b396"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pro-static-methods"></a>
@@ -197,35 +190,35 @@ Static Protected Member Functions</h2></td></tr>
 Protected Attributes</h2></td></tr>
 <tr class="memitem:ad52d009304d2ddc45ddbcbaf6e7b8875"><td class="memItemLeft" align="right" valign="top"><a class="el" href="structD3DAdapterInfo.html">D3DAdapterInfo</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ad52d009304d2ddc45ddbcbaf6e7b8875">m_Adapters</a> [10]</td></tr>
 <tr class="separator:ad52d009304d2ddc45ddbcbaf6e7b8875"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5c1190cf181c45fa584ec02857386b8d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a5c1190cf181c45fa584ec02857386b8d">m_dwNumAdapters</a></td></tr>
+<tr class="memitem:a5c1190cf181c45fa584ec02857386b8d"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a5c1190cf181c45fa584ec02857386b8d">m_dwNumAdapters</a></td></tr>
 <tr class="separator:a5c1190cf181c45fa584ec02857386b8d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8b9e849d766e1d178cf24c61ef4e4d8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aa8b9e849d766e1d178cf24c61ef4e4d8">m_dwAdapter</a></td></tr>
+<tr class="memitem:aa8b9e849d766e1d178cf24c61ef4e4d8"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aa8b9e849d766e1d178cf24c61ef4e4d8">m_dwAdapter</a></td></tr>
 <tr class="separator:aa8b9e849d766e1d178cf24c61ef4e4d8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac9352b10425103e4fdf866f93d8363ca"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ac9352b10425103e4fdf866f93d8363ca">m_bActive</a></td></tr>
+<tr class="memitem:ac9352b10425103e4fdf866f93d8363ca"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ac9352b10425103e4fdf866f93d8363ca">m_bActive</a></td></tr>
 <tr class="separator:ac9352b10425103e4fdf866f93d8363ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a76f166668bae5959c0a1440a5ab979b8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a76f166668bae5959c0a1440a5ab979b8">m_bReady</a></td></tr>
+<tr class="memitem:a76f166668bae5959c0a1440a5ab979b8"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a76f166668bae5959c0a1440a5ab979b8">m_bReady</a></td></tr>
 <tr class="separator:a76f166668bae5959c0a1440a5ab979b8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a35bf35c95bb0a8168afe53bd29a8289a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a35bf35c95bb0a8168afe53bd29a8289a">m_bHasFocus</a></td></tr>
+<tr class="memitem:a35bf35c95bb0a8168afe53bd29a8289a"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a35bf35c95bb0a8168afe53bd29a8289a">m_bHasFocus</a></td></tr>
 <tr class="separator:a35bf35c95bb0a8168afe53bd29a8289a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a560ace27d9294093388ce5f327fbb304"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a560ace27d9294093388ce5f327fbb304">m_bFocus</a></td></tr>
+<tr class="memitem:a560ace27d9294093388ce5f327fbb304"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a560ace27d9294093388ce5f327fbb304">m_bFocus</a></td></tr>
 <tr class="separator:a560ace27d9294093388ce5f327fbb304"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab1935722d77ab574c209233330f23868"><td class="memItemLeft" align="right" valign="top"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ab1935722d77ab574c209233330f23868">m_dLimidFPS</a></td></tr>
+<tr class="memitem:ab1935722d77ab574c209233330f23868"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ab1935722d77ab574c209233330f23868">m_dLimidFPS</a></td></tr>
 <tr class="separator:ab1935722d77ab574c209233330f23868"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab80bf244c8913c99aba4ecf34ab15841"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ab80bf244c8913c99aba4ecf34ab15841">m_bFrameMoving</a></td></tr>
+<tr class="memitem:ab80bf244c8913c99aba4ecf34ab15841"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ab80bf244c8913c99aba4ecf34ab15841">m_bFrameMoving</a></td></tr>
 <tr class="separator:ab80bf244c8913c99aba4ecf34ab15841"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a761068fe0f9a47693ce1f81a38e68d5a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a761068fe0f9a47693ce1f81a38e68d5a">m_bSingleStep</a></td></tr>
+<tr class="memitem:a761068fe0f9a47693ce1f81a38e68d5a"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a761068fe0f9a47693ce1f81a38e68d5a">m_bSingleStep</a></td></tr>
 <tr class="separator:a761068fe0f9a47693ce1f81a38e68d5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa730c190465e59fd97088c80666ab8a2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="d3d8types_8h.html#a180713d46e1762bc5cb1597bce825411">D3DPRESENT_PARAMETERS</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aa730c190465e59fd97088c80666ab8a2">m_d3dpp</a></td></tr>
+<tr class="memitem:aa730c190465e59fd97088c80666ab8a2"><td class="memItemLeft" align="right" valign="top">D3DPRESENT_PARAMETERS&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aa730c190465e59fd97088c80666ab8a2">m_d3dpp</a></td></tr>
 <tr class="separator:aa730c190465e59fd97088c80666ab8a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aee1d89fef44ee58a189bd3a918b6ca5c"><td class="memItemLeft" align="right" valign="top">HWND&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aee1d89fef44ee58a189bd3a918b6ca5c">m_hWnd</a></td></tr>
 <tr class="separator:aee1d89fef44ee58a189bd3a918b6ca5c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af5d7c90b2414f2fde65be6ae63958c0d"><td class="memItemLeft" align="right" valign="top">HWND&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#af5d7c90b2414f2fde65be6ae63958c0d">m_hWndFocus</a></td></tr>
 <tr class="separator:af5d7c90b2414f2fde65be6ae63958c0d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afc64fb935dba6b6f5d8a30126f1401f5"><td class="memItemLeft" align="right" valign="top"><a class="el" href="d3d8types_8h.html#a48a95216e1942b1d1c3f0da167aca7a6">D3DSURFACE_DESC</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#afc64fb935dba6b6f5d8a30126f1401f5">m_d3dsdBackBuffer</a></td></tr>
+<tr class="memitem:afc64fb935dba6b6f5d8a30126f1401f5"><td class="memItemLeft" align="right" valign="top">D3DSURFACE_DESC&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#afc64fb935dba6b6f5d8a30126f1401f5">m_d3dsdBackBuffer</a></td></tr>
 <tr class="separator:afc64fb935dba6b6f5d8a30126f1401f5"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af471bcf58505eab8c2b7a7e586ffa2ce"><td class="memItemLeft" align="right" valign="top"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#af471bcf58505eab8c2b7a7e586ffa2ce">m_dwCreateFlags</a></td></tr>
+<tr class="memitem:af471bcf58505eab8c2b7a7e586ffa2ce"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#af471bcf58505eab8c2b7a7e586ffa2ce">m_dwCreateFlags</a></td></tr>
 <tr class="separator:af471bcf58505eab8c2b7a7e586ffa2ce"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1a48ea239e2efb6f0342ad5fd8d0dd20"><td class="memItemLeft" align="right" valign="top"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a1a48ea239e2efb6f0342ad5fd8d0dd20">m_dwWindowStyle</a></td></tr>
+<tr class="memitem:a1a48ea239e2efb6f0342ad5fd8d0dd20"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a1a48ea239e2efb6f0342ad5fd8d0dd20">m_dwWindowStyle</a></td></tr>
 <tr class="separator:a1a48ea239e2efb6f0342ad5fd8d0dd20"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6d31dc07d471e2666b120700bc516030"><td class="memItemLeft" align="right" valign="top">RECT&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a6d31dc07d471e2666b120700bc516030">m_rcWindowBounds</a></td></tr>
 <tr class="separator:a6d31dc07d471e2666b120700bc516030"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -243,19 +236,19 @@ Protected Attributes</h2></td></tr>
 <tr class="separator:a18a0e8b739badf3efdda91c36a37f11c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ade3476800d300711901eaafcc7478ccc"><td class="memItemLeft" align="right" valign="top">TCHAR *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#ade3476800d300711901eaafcc7478ccc">m_strWindowTitle</a></td></tr>
 <tr class="separator:ade3476800d300711901eaafcc7478ccc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aedf52f2f3fc06a4125708b3ab176bae8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aedf52f2f3fc06a4125708b3ab176bae8">m_bUseDepthBuffer</a></td></tr>
+<tr class="memitem:aedf52f2f3fc06a4125708b3ab176bae8"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#aedf52f2f3fc06a4125708b3ab176bae8">m_bUseDepthBuffer</a></td></tr>
 <tr class="separator:aedf52f2f3fc06a4125708b3ab176bae8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acd9f6350b66c355c20a96b8c030366b3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#acd9f6350b66c355c20a96b8c030366b3">m_dwMinDepthBits</a></td></tr>
+<tr class="memitem:acd9f6350b66c355c20a96b8c030366b3"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#acd9f6350b66c355c20a96b8c030366b3">m_dwMinDepthBits</a></td></tr>
 <tr class="separator:acd9f6350b66c355c20a96b8c030366b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a387792614b26eea4b1526f17b52e5fa2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a387792614b26eea4b1526f17b52e5fa2">m_dwMinStencilBits</a></td></tr>
+<tr class="memitem:a387792614b26eea4b1526f17b52e5fa2"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a387792614b26eea4b1526f17b52e5fa2">m_dwMinStencilBits</a></td></tr>
 <tr class="separator:a387792614b26eea4b1526f17b52e5fa2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5242a3da0cc3bd6aa9b67af79f6589dd"><td class="memItemLeft" align="right" valign="top"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a5242a3da0cc3bd6aa9b67af79f6589dd">m_dwCreationWidth</a></td></tr>
+<tr class="memitem:a5242a3da0cc3bd6aa9b67af79f6589dd"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a5242a3da0cc3bd6aa9b67af79f6589dd">m_dwCreationWidth</a></td></tr>
 <tr class="separator:a5242a3da0cc3bd6aa9b67af79f6589dd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3c3729350dc9c68b03a50d3acf00f21b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a3c3729350dc9c68b03a50d3acf00f21b">m_dwCreationHeight</a></td></tr>
+<tr class="memitem:a3c3729350dc9c68b03a50d3acf00f21b"><td class="memItemLeft" align="right" valign="top">DWORD&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a3c3729350dc9c68b03a50d3acf00f21b">m_dwCreationHeight</a></td></tr>
 <tr class="separator:a3c3729350dc9c68b03a50d3acf00f21b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a943c780f538268617344e4922d1e133b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a943c780f538268617344e4922d1e133b">m_bShowCursorWhenFullscreen</a></td></tr>
+<tr class="memitem:a943c780f538268617344e4922d1e133b"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a943c780f538268617344e4922d1e133b">m_bShowCursorWhenFullscreen</a></td></tr>
 <tr class="separator:a943c780f538268617344e4922d1e133b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a55eab7407e8ada5b61991fc90c252905"><td class="memItemLeft" align="right" valign="top"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a55eab7407e8ada5b61991fc90c252905">m_bClipCursorWhenFullscreen</a></td></tr>
+<tr class="memitem:a55eab7407e8ada5b61991fc90c252905"><td class="memItemLeft" align="right" valign="top">BOOL&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCD3DApplication.html#a55eab7407e8ada5b61991fc90c252905">m_bClipCursorWhenFullscreen</a></td></tr>
 <tr class="separator:a55eab7407e8ada5b61991fc90c252905"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
@@ -283,7 +276,7 @@ Protected Attributes</h2></td></tr>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::AdjustWindowForChange </td>
+          <td class="memname">HRESULT CD3DApplication::AdjustWindowForChange </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -328,7 +321,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::BuildDeviceList </td>
+          <td class="memname">HRESULT CD3DApplication::BuildDeviceList </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -348,11 +341,10 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classCD3DApplication_abb58db39d3e2e984f7cd0a6a7da02a56_cgraph.png" border="0" usemap="#classCD3DApplication_abb58db39d3e2e984f7cd0a6a7da02a56_cgraph" alt=""/></div>
 <map name="classCD3DApplication_abb58db39d3e2e984f7cd0a6a7da02a56_cgraph" id="classCD3DApplication_abb58db39d3e2e984f7cd0a6a7da02a56_cgraph">
-<area shape="rect" id="node2" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="342,5,401,32"/>
-<area shape="rect" id="node3" href="d3dapp_8cpp.html#a9e6da31820fd23ea1400a111e9b446d4" title="SortModesCallback" alt="" coords="303,56,439,83"/>
-<area shape="rect" id="node4" href="classCD3DApplication.html#a3b848d6543e161a5fd81a23423a996fd" title="CD3DApplication::Confirm\lDevice" alt="" coords="283,107,460,149"/>
-<area shape="rect" id="node5" href="classCD3DApplication.html#aacb500405196811d027f2834a4451de6" title="CD3DApplication::FindDepth\lStencilFormat" alt="" coords="276,173,467,214"/>
-<area shape="rect" id="node6" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="284,238,459,279"/>
+<area shape="rect" id="node2" href="d3dapp_8cpp.html#a9e6da31820fd23ea1400a111e9b446d4" title="SortModesCallback" alt="" coords="303,5,439,32"/>
+<area shape="rect" id="node3" href="classCD3DApplication.html#a3b848d6543e161a5fd81a23423a996fd" title="CD3DApplication::Confirm\lDevice" alt="" coords="283,57,460,98"/>
+<area shape="rect" id="node4" href="classCD3DApplication.html#aacb500405196811d027f2834a4451de6" title="CD3DApplication::FindDepth\lStencilFormat" alt="" coords="276,122,467,163"/>
+<area shape="rect" id="node5" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="284,187,459,229"/>
 </map>
 </div>
 </p>
@@ -431,21 +423,21 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::ConfirmDevice </td>
+          <td class="memname">virtual HRESULT CD3DApplication::ConfirmDevice </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="d3d8caps_8h.html#a7dafeca471be820c826cb5d365f50851">D3DCAPS8</a> *&#160;</td>
+          <td class="paramtype">D3DCAPS8 *&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td>
+          <td class="paramtype">DWORD&#160;</td>
           <td class="paramname">, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3d8types_8h.html#a2803a73f3f07caee735227a2a90de797">D3DFORMAT</a>&#160;</td>
+          <td class="paramtype">D3DFORMAT&#160;</td>
           <td class="paramname">&#160;</td>
         </tr>
         <tr>
@@ -488,7 +480,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::Create </td>
+          <td class="memname">HRESULT CD3DApplication::Create </td>
           <td>(</td>
           <td class="paramtype">HINSTANCE&#160;</td>
           <td class="paramname"><em>hInstance</em></td><td>)</td>
@@ -509,33 +501,31 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classCD3DApplication_a3eec58e85a67d27e13a558925ec4457b_cgraph.png" border="0" usemap="#classCD3DApplication_a3eec58e85a67d27e13a558925ec4457b_cgraph" alt=""/></div>
 <map name="classCD3DApplication_a3eec58e85a67d27e13a558925ec4457b_cgraph" id="classCD3DApplication_a3eec58e85a67d27e13a558925ec4457b_cgraph">
-<area shape="rect" id="node2" href="d3d8_8h.html#ae26f918ae489b9d26b6ca17ecc31e69d" title="Direct3DCreate8" alt="" coords="256,44,376,71"/>
-<area shape="rect" id="node3" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="1784,239,1959,281"/>
-<area shape="rect" id="node4" href="classCD3DApplication.html#abb58db39d3e2e984f7cd0a6a7da02a56" title="CD3DApplication::BuildDeviceList" alt="" coords="1493,95,1716,121"/>
-<area shape="rect" id="node9" href="d3dapp_8cpp.html#ae749e989b362e19783c7af4a2bf46c95" title="WndProc" alt="" coords="278,449,354,476"/>
-<area shape="rect" id="node13" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="1554,297,1655,324"/>
-<area shape="rect" id="node22" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4" title="CD3DApplication::Initialize3\lDEnvironment" alt="" coords="1511,501,1698,542"/>
-<area shape="rect" id="node28" href="classCD3DApplication.html#ad3ba183e86043313a6594e89b5af3de0" title="CD3DApplication::OneTime\lSceneInit" alt="" coords="224,501,408,542"/>
-<area shape="rect" id="node5" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="2027,668,2085,695"/>
-<area shape="rect" id="node6" href="d3dapp_8cpp.html#a9e6da31820fd23ea1400a111e9b446d4" title="SortModesCallback" alt="" coords="1803,5,1939,32"/>
-<area shape="rect" id="node7" href="classCD3DApplication.html#a3b848d6543e161a5fd81a23423a996fd" title="CD3DApplication::Confirm\lDevice" alt="" coords="1783,57,1960,98"/>
-<area shape="rect" id="node8" href="classCD3DApplication.html#aacb500405196811d027f2834a4451de6" title="CD3DApplication::FindDepth\lStencilFormat" alt="" coords="1776,122,1967,163"/>
-<area shape="rect" id="node10" href="classCD3DApplication.html#a71a5cc911df29ecdf675d0f3f14400ff" title="CD3DApplication::MsgProc" alt="" coords="456,508,639,535"/>
-<area shape="rect" id="node11" href="classCD3DApplication.html#a64fab3eecf613d353acc02e033033613" title="CD3DApplication::Render" alt="" coords="698,567,871,593"/>
-<area shape="rect" id="node12" href="classCD3DApplication.html#a07bb5e8e36cc91d15d40bc88709753a6" title="CD3DApplication::Pause" alt="" coords="962,348,1130,375"/>
-<area shape="rect" id="node14" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="1238,501,1417,542"/>
-<area shape="rect" id="node18" href="classCD3DApplication.html#a06674b6c2e548d6850550eefbef74e50" title="CD3DApplication::UserSelect\lNewDevice" alt="" coords="687,501,883,542"/>
-<area shape="rect" id="node19" href="classCD3DApplication.html#aa5204d3138985a4012fa07603618c9a9" title="CD3DApplication::ToggleFullscreen" alt="" coords="931,617,1161,644"/>
-<area shape="rect" id="node26" href="classCD3DApplication.html#a8be0f3560259937cf22353173ffaf5f8" title="CD3DApplication::Cleanup3\lDEnvironment" alt="" coords="1511,871,1698,913"/>
-<area shape="rect" id="node15" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="1778,661,1965,702"/>
-<area shape="rect" id="node16" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="1783,397,1959,424"/>
-<area shape="rect" id="node17" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="1783,449,1960,490"/>
-<area shape="rect" id="node21" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="1766,787,1977,829"/>
-<area shape="rect" id="node25" href="classCD3DApplication.html#a3f17970b9d0080884ff4d464be68f0c7" title="CD3DApplication::SelectDeviceProc" alt="" coords="1209,973,1445,1000"/>
-<area shape="rect" id="node20" href="classCD3DApplication.html#aea282d070ea0374dcf360530725fb715" title="CD3DApplication::ForceWindowed" alt="" coords="1215,668,1440,695"/>
-<area shape="rect" id="node23" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="1764,590,1979,631"/>
-<area shape="rect" id="node24" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="1776,514,1967,555"/>
-<area shape="rect" id="node27" href="classCD3DApplication.html#a7684a7a91b661ea0d1ebc1ad8658b396" title="CD3DApplication::FinalCleanup" alt="" coords="1768,879,1975,905"/>
+<area shape="rect" id="node2" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="1789,704,1964,745"/>
+<area shape="rect" id="node3" href="classCD3DApplication.html#abb58db39d3e2e984f7cd0a6a7da02a56" title="CD3DApplication::BuildDeviceList" alt="" coords="224,576,447,603"/>
+<area shape="rect" id="node7" href="d3dapp_8cpp.html#ae749e989b362e19783c7af4a2bf46c95" title="WndProc" alt="" coords="297,431,373,458"/>
+<area shape="rect" id="node11" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="1577,163,1679,190"/>
+<area shape="rect" id="node20" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4" title="CD3DApplication::Initialize3\lDEnvironment" alt="" coords="1535,518,1721,560"/>
+<area shape="rect" id="node26" href="classCD3DApplication.html#ad3ba183e86043313a6594e89b5af3de0" title="CD3DApplication::OneTime\lSceneInit" alt="" coords="243,889,427,930"/>
+<area shape="rect" id="node4" href="d3dapp_8cpp.html#a9e6da31820fd23ea1400a111e9b446d4" title="SortModesCallback" alt="" coords="522,518,658,544"/>
+<area shape="rect" id="node5" href="classCD3DApplication.html#a3b848d6543e161a5fd81a23423a996fd" title="CD3DApplication::Confirm\lDevice" alt="" coords="501,569,679,610"/>
+<area shape="rect" id="node6" href="classCD3DApplication.html#aacb500405196811d027f2834a4451de6" title="CD3DApplication::FindDepth\lStencilFormat" alt="" coords="495,452,685,493"/>
+<area shape="rect" id="node8" href="classCD3DApplication.html#a71a5cc911df29ecdf675d0f3f14400ff" title="CD3DApplication::MsgProc" alt="" coords="499,275,681,302"/>
+<area shape="rect" id="node9" href="classCD3DApplication.html#a64fab3eecf613d353acc02e033033613" title="CD3DApplication::Render" alt="" coords="745,112,918,139"/>
+<area shape="rect" id="node10" href="classCD3DApplication.html#a07bb5e8e36cc91d15d40bc88709753a6" title="CD3DApplication::Pause" alt="" coords="1011,112,1179,139"/>
+<area shape="rect" id="node12" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="1285,366,1463,408"/>
+<area shape="rect" id="node16" href="classCD3DApplication.html#a06674b6c2e548d6850550eefbef74e50" title="CD3DApplication::UserSelect\lNewDevice" alt="" coords="733,329,929,370"/>
+<area shape="rect" id="node17" href="classCD3DApplication.html#aa5204d3138985a4012fa07603618c9a9" title="CD3DApplication::ToggleFullscreen" alt="" coords="980,416,1211,443"/>
+<area shape="rect" id="node24" href="classCD3DApplication.html#a8be0f3560259937cf22353173ffaf5f8" title="CD3DApplication::Cleanup3\lDEnvironment" alt="" coords="1535,46,1721,88"/>
+<area shape="rect" id="node13" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="1783,206,1970,248"/>
+<area shape="rect" id="node14" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="1789,467,1965,494"/>
+<area shape="rect" id="node15" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="1788,393,1965,434"/>
+<area shape="rect" id="node19" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="1771,314,1982,356"/>
+<area shape="rect" id="node23" href="classCD3DApplication.html#a3f17970b9d0080884ff4d464be68f0c7" title="CD3DApplication::SelectDeviceProc" alt="" coords="977,366,1213,392"/>
+<area shape="rect" id="node18" href="classCD3DApplication.html#aea282d070ea0374dcf360530725fb715" title="CD3DApplication::ForceWindowed" alt="" coords="1261,432,1487,459"/>
+<area shape="rect" id="node21" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="1769,584,1984,625"/>
+<area shape="rect" id="node22" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="1781,518,1972,560"/>
+<area shape="rect" id="node25" href="classCD3DApplication.html#a7684a7a91b661ea0d1ebc1ad8658b396" title="CD3DApplication::FinalCleanup" alt="" coords="1773,54,1980,80"/>
 </map>
 </div>
 </p>
@@ -561,7 +551,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::DeleteDeviceObjects </td>
+          <td class="memname">virtual HRESULT CD3DApplication::DeleteDeviceObjects </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -609,15 +599,15 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::DisplayErrorMsg </td>
+          <td class="memname">HRESULT CD3DApplication::DisplayErrorMsg </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>&#160;</td>
+          <td class="paramtype">HRESULT&#160;</td>
           <td class="paramname"><em>hr</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>&#160;</td>
+          <td class="paramtype">DWORD&#160;</td>
           <td class="paramname"><em>dwType</em>&#160;</td>
         </tr>
         <tr>
@@ -666,7 +656,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::FinalCleanup </td>
+          <td class="memname">virtual HRESULT CD3DApplication::FinalCleanup </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -709,7 +699,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CD3DApplication::FindDepthStencilFormat </td>
+          <td class="memname">BOOL CD3DApplication::FindDepthStencilFormat </td>
           <td>(</td>
           <td class="paramtype">UINT&#160;</td>
           <td class="paramname"><em>iAdapter</em>, </td>
@@ -717,19 +707,19 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3d8types_8h.html#a985d0c04c51bf7f2d8150f08bfdb5d3f">D3DDEVTYPE</a>&#160;</td>
+          <td class="paramtype">D3DDEVTYPE&#160;</td>
           <td class="paramname"><em>DeviceType</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3d8types_8h.html#a2803a73f3f07caee735227a2a90de797">D3DFORMAT</a>&#160;</td>
+          <td class="paramtype">D3DFORMAT&#160;</td>
           <td class="paramname"><em>TargetFormat</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3d8types_8h.html#a2803a73f3f07caee735227a2a90de797">D3DFORMAT</a> *&#160;</td>
+          <td class="paramtype">D3DFORMAT *&#160;</td>
           <td class="paramname"><em>pDepthStencilFormat</em>&#160;</td>
         </tr>
         <tr>
@@ -770,7 +760,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::ForceWindowed </td>
+          <td class="memname">HRESULT CD3DApplication::ForceWindowed </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -790,15 +780,14 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classCD3DApplication_aea282d070ea0374dcf360530725fb715_cgraph.png" border="0" usemap="#classCD3DApplication_aea282d070ea0374dcf360530725fb715_cgraph" alt=""/></div>
 <map name="classCD3DApplication_aea282d070ea0374dcf360530725fb715_cgraph" id="classCD3DApplication_aea282d070ea0374dcf360530725fb715_cgraph">
-<area shape="rect" id="node2" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="776,40,835,66"/>
-<area shape="rect" id="node3" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="527,32,714,74"/>
-<area shape="rect" id="node4" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="515,346,726,387"/>
-<area shape="rect" id="node5" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="533,411,708,452"/>
-<area shape="rect" id="node6" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4" title="CD3DApplication::Initialize3\lDEnvironment" alt="" coords="279,215,465,256"/>
-<area shape="rect" id="node7" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="513,150,728,191"/>
-<area shape="rect" id="node8" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="533,98,709,125"/>
-<area shape="rect" id="node9" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="525,215,716,256"/>
-<area shape="rect" id="node10" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="532,280,709,322"/>
+<area shape="rect" id="node2" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="527,5,714,47"/>
+<area shape="rect" id="node3" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="515,71,726,112"/>
+<area shape="rect" id="node4" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="533,384,708,425"/>
+<area shape="rect" id="node5" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4" title="CD3DApplication::Initialize3\lDEnvironment" alt="" coords="279,189,465,231"/>
+<area shape="rect" id="node6" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="513,201,728,243"/>
+<area shape="rect" id="node7" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="533,267,709,294"/>
+<area shape="rect" id="node8" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="525,319,716,360"/>
+<area shape="rect" id="node9" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="532,136,709,177"/>
 </map>
 </div>
 </p>
@@ -831,7 +820,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::FrameMove </td>
+          <td class="memname">virtual HRESULT CD3DApplication::FrameMove </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -870,7 +859,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::InitDeviceObjects </td>
+          <td class="memname">virtual HRESULT CD3DApplication::InitDeviceObjects </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -917,7 +906,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::Initialize3DEnvironment </td>
+          <td class="memname">HRESULT CD3DApplication::Initialize3DEnvironment </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -940,11 +929,10 @@ Here is the call graph for this function:</div>
 <area shape="rect" id="node2" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="240,5,455,47"/>
 <area shape="rect" id="node3" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="260,71,435,112"/>
 <area shape="rect" id="node4" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="259,137,435,163"/>
-<area shape="rect" id="node6" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="252,188,443,229"/>
-<area shape="rect" id="node7" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="259,253,436,295"/>
-<area shape="rect" id="node8" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="254,319,441,360"/>
-<area shape="rect" id="node9" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="242,384,453,425"/>
-<area shape="rect" id="node5" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="503,137,561,163"/>
+<area shape="rect" id="node5" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="252,188,443,229"/>
+<area shape="rect" id="node6" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="259,253,436,295"/>
+<area shape="rect" id="node7" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="254,319,441,360"/>
+<area shape="rect" id="node8" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="242,384,453,425"/>
 </map>
 </div>
 </p>
@@ -978,7 +966,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::InvalidateDeviceObjects </td>
+          <td class="memname">virtual HRESULT CD3DApplication::InvalidateDeviceObjects </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1074,25 +1062,24 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classCD3DApplication_a71a5cc911df29ecdf675d0f3f14400ff_cgraph.png" border="0" usemap="#classCD3DApplication_a71a5cc911df29ecdf675d0f3f14400ff_cgraph" alt=""/></div>
 <map name="classCD3DApplication_a71a5cc911df29ecdf675d0f3f14400ff_cgraph" id="classCD3DApplication_a71a5cc911df29ecdf675d0f3f14400ff_cgraph">
-<area shape="rect" id="node2" href="classCD3DApplication.html#a64fab3eecf613d353acc02e033033613" title="CD3DApplication::Render" alt="" coords="247,5,421,32"/>
-<area shape="rect" id="node3" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="1540,157,1599,184"/>
-<area shape="rect" id="node4" href="classCD3DApplication.html#a07bb5e8e36cc91d15d40bc88709753a6" title="CD3DApplication::Pause" alt="" coords="511,107,679,133"/>
-<area shape="rect" id="node6" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="787,294,966,335"/>
-<area shape="rect" id="node10" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="1297,815,1472,857"/>
-<area shape="rect" id="node11" href="classCD3DApplication.html#a06674b6c2e548d6850550eefbef74e50" title="CD3DApplication::UserSelect\lNewDevice" alt="" coords="236,397,432,438"/>
-<area shape="rect" id="node12" href="classCD3DApplication.html#aa5204d3138985a4012fa07603618c9a9" title="CD3DApplication::ToggleFullscreen" alt="" coords="480,360,711,387"/>
-<area shape="rect" id="node19" href="classCD3DApplication.html#a8be0f3560259937cf22353173ffaf5f8" title="CD3DApplication::Cleanup3\lDEnvironment" alt="" coords="1043,731,1229,773"/>
-<area shape="rect" id="node5" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="1085,107,1187,133"/>
-<area shape="rect" id="node7" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="1291,547,1478,589"/>
-<area shape="rect" id="node8" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="1297,300,1473,327"/>
-<area shape="rect" id="node9" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="1296,351,1473,393"/>
-<area shape="rect" id="node14" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="1279,653,1490,694"/>
-<area shape="rect" id="node15" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4" title="CD3DApplication::Initialize3\lDEnvironment" alt="" coords="1043,462,1229,503"/>
-<area shape="rect" id="node18" href="classCD3DApplication.html#a3f17970b9d0080884ff4d464be68f0c7" title="CD3DApplication::SelectDeviceProc" alt="" coords="759,243,995,269"/>
-<area shape="rect" id="node13" href="classCD3DApplication.html#aea282d070ea0374dcf360530725fb715" title="CD3DApplication::ForceWindowed" alt="" coords="764,499,989,525"/>
-<area shape="rect" id="node16" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="1277,417,1492,458"/>
-<area shape="rect" id="node17" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="1289,482,1480,523"/>
-<area shape="rect" id="node20" href="classCD3DApplication.html#a7684a7a91b661ea0d1ebc1ad8658b396" title="CD3DApplication::FinalCleanup" alt="" coords="1281,739,1488,765"/>
+<area shape="rect" id="node2" href="classCD3DApplication.html#a64fab3eecf613d353acc02e033033613" title="CD3DApplication::Render" alt="" coords="247,47,421,73"/>
+<area shape="rect" id="node3" href="classCD3DApplication.html#a07bb5e8e36cc91d15d40bc88709753a6" title="CD3DApplication::Pause" alt="" coords="514,148,682,175"/>
+<area shape="rect" id="node5" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="787,74,966,115"/>
+<area shape="rect" id="node9" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="1292,415,1467,457"/>
+<area shape="rect" id="node10" href="classCD3DApplication.html#a06674b6c2e548d6850550eefbef74e50" title="CD3DApplication::UserSelect\lNewDevice" alt="" coords="236,347,432,389"/>
+<area shape="rect" id="node11" href="classCD3DApplication.html#aa5204d3138985a4012fa07603618c9a9" title="CD3DApplication::ToggleFullscreen" alt="" coords="483,199,713,225"/>
+<area shape="rect" id="node18" href="classCD3DApplication.html#a8be0f3560259937cf22353173ffaf5f8" title="CD3DApplication::Cleanup3\lDEnvironment" alt="" coords="1037,663,1224,705"/>
+<area shape="rect" id="node4" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="1080,140,1181,167"/>
+<area shape="rect" id="node6" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="1286,311,1473,353"/>
+<area shape="rect" id="node7" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="1291,5,1467,32"/>
+<area shape="rect" id="node8" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="1291,77,1468,118"/>
+<area shape="rect" id="node13" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="1274,554,1485,595"/>
+<area shape="rect" id="node14" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4" title="CD3DApplication::Initialize3\lDEnvironment" alt="" coords="1037,242,1224,283"/>
+<area shape="rect" id="node17" href="classCD3DApplication.html#a3f17970b9d0080884ff4d464be68f0c7" title="CD3DApplication::SelectDeviceProc" alt="" coords="480,511,716,537"/>
+<area shape="rect" id="node12" href="classCD3DApplication.html#aea282d070ea0374dcf360530725fb715" title="CD3DApplication::ForceWindowed" alt="" coords="764,351,989,377"/>
+<area shape="rect" id="node15" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="1272,181,1487,222"/>
+<area shape="rect" id="node16" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="1284,246,1475,287"/>
+<area shape="rect" id="node19" href="classCD3DApplication.html#a7684a7a91b661ea0d1ebc1ad8658b396" title="CD3DApplication::FinalCleanup" alt="" coords="1276,671,1483,697"/>
 </map>
 </div>
 </p>
@@ -1121,7 +1108,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::OneTimeSceneInit </td>
+          <td class="memname">virtual HRESULT CD3DApplication::OneTimeSceneInit </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1162,7 +1149,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="memname">VOID CD3DApplication::Pause </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a>&#160;</td>
+          <td class="paramtype">BOOL&#160;</td>
           <td class="paramname"><em>bPause</em></td><td>)</td>
           <td></td>
         </tr>
@@ -1184,7 +1171,6 @@ Here is the call graph for this function:</div>
 <div class="center"><img src="classCD3DApplication_a07bb5e8e36cc91d15d40bc88709753a6_cgraph.png" border="0" usemap="#classCD3DApplication_a07bb5e8e36cc91d15d40bc88709753a6_cgraph" alt=""/></div>
 <map name="classCD3DApplication_a07bb5e8e36cc91d15d40bc88709753a6_cgraph" id="classCD3DApplication_a07bb5e8e36cc91d15d40bc88709753a6_cgraph">
 <area shape="rect" id="node2" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="221,5,323,32"/>
-<area shape="rect" id="node3" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="371,5,429,32"/>
 </map>
 </div>
 </p>
@@ -1218,7 +1204,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::Render </td>
+          <td class="memname">virtual HRESULT CD3DApplication::Render </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1262,7 +1248,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::Render3DEnvironment </td>
+          <td class="memname">HRESULT CD3DApplication::Render3DEnvironment </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1283,13 +1269,12 @@ Here is the call graph for this function:</div>
 <div class="center"><img src="classCD3DApplication_a3e642372a4568054e4f29f7671eceac7_cgraph.png" border="0" usemap="#classCD3DApplication_a3e642372a4568054e4f29f7671eceac7_cgraph" alt=""/></div>
 <map name="classCD3DApplication_a3e642372a4568054e4f29f7671eceac7_cgraph" id="classCD3DApplication_a3e642372a4568054e4f29f7671eceac7_cgraph">
 <area shape="rect" id="node2" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="244,123,423,164"/>
-<area shape="rect" id="node7" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="524,189,625,215"/>
-<area shape="rect" id="node8" href="classCD3DApplication.html#ac1f76e0eb222b135fcf9b949075060d5" title="CD3DApplication::FrameMove" alt="" coords="233,239,433,266"/>
-<area shape="rect" id="node9" href="classCD3DApplication.html#a64fab3eecf613d353acc02e033033613" title="CD3DApplication::Render" alt="" coords="247,290,420,317"/>
+<area shape="rect" id="node6" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="524,189,625,215"/>
+<area shape="rect" id="node7" href="classCD3DApplication.html#ac1f76e0eb222b135fcf9b949075060d5" title="CD3DApplication::FrameMove" alt="" coords="233,239,433,266"/>
+<area shape="rect" id="node8" href="classCD3DApplication.html#a64fab3eecf613d353acc02e033033613" title="CD3DApplication::Render" alt="" coords="247,290,420,317"/>
 <area shape="rect" id="node3" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="481,5,668,47"/>
 <area shape="rect" id="node4" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="487,71,663,98"/>
-<area shape="rect" id="node6" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="486,123,663,164"/>
-<area shape="rect" id="node5" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="716,130,775,157"/>
+<area shape="rect" id="node5" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="486,123,663,164"/>
 </map>
 </div>
 </p>
@@ -1315,7 +1300,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::Resize3DEnvironment </td>
+          <td class="memname">HRESULT CD3DApplication::Resize3DEnvironment </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1337,9 +1322,8 @@ Here is the call graph for this function:</div>
 <map name="classCD3DApplication_a29160a6729e8965fae0fa749b6e569b1_cgraph" id="classCD3DApplication_a29160a6729e8965fae0fa749b6e569b1_cgraph">
 <area shape="rect" id="node2" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="232,5,419,47"/>
 <area shape="rect" id="node3" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="237,71,413,98"/>
-<area shape="rect" id="node5" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="237,123,414,164"/>
-<area shape="rect" id="node6" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="275,189,376,215"/>
-<area shape="rect" id="node4" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="467,130,525,157"/>
+<area shape="rect" id="node4" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="237,123,414,164"/>
+<area shape="rect" id="node5" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="275,189,376,215"/>
 </map>
 </div>
 </p>
@@ -1374,7 +1358,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">virtual <a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::RestoreDeviceObjects </td>
+          <td class="memname">virtual HRESULT CD3DApplication::RestoreDeviceObjects </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1444,15 +1428,14 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classCD3DApplication_a3dbb5db356c603d7ef8493db39cde736_cgraph.png" border="0" usemap="#classCD3DApplication_a3dbb5db356c603d7ef8493db39cde736_cgraph" alt=""/></div>
 <map name="classCD3DApplication_a3dbb5db356c603d7ef8493db39cde736_cgraph" id="classCD3DApplication_a3dbb5db356c603d7ef8493db39cde736_cgraph">
-<area shape="rect" id="node2" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="919,138,977,165"/>
-<area shape="rect" id="node3" href="classCD3DApplication.html#a3e642372a4568054e4f29f7671eceac7" title="CD3DApplication::Render3\lDEnvironment" alt="" coords="208,219,388,260"/>
-<area shape="rect" id="node4" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="447,160,625,201"/>
-<area shape="rect" id="node8" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="727,255,828,282"/>
-<area shape="rect" id="node9" href="classCD3DApplication.html#ac1f76e0eb222b135fcf9b949075060d5" title="CD3DApplication::FrameMove" alt="" coords="436,277,636,303"/>
-<area shape="rect" id="node10" href="classCD3DApplication.html#a64fab3eecf613d353acc02e033033613" title="CD3DApplication::Render" alt="" coords="449,327,623,354"/>
-<area shape="rect" id="node5" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="684,72,871,113"/>
-<area shape="rect" id="node6" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="689,138,865,165"/>
-<area shape="rect" id="node7" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="689,189,866,231"/>
+<area shape="rect" id="node2" href="classCD3DApplication.html#a3e642372a4568054e4f29f7671eceac7" title="CD3DApplication::Render3\lDEnvironment" alt="" coords="208,207,388,248"/>
+<area shape="rect" id="node3" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="447,123,625,164"/>
+<area shape="rect" id="node7" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="727,189,828,215"/>
+<area shape="rect" id="node8" href="classCD3DApplication.html#ac1f76e0eb222b135fcf9b949075060d5" title="CD3DApplication::FrameMove" alt="" coords="436,239,636,266"/>
+<area shape="rect" id="node9" href="classCD3DApplication.html#a64fab3eecf613d353acc02e033033613" title="CD3DApplication::Render" alt="" coords="449,290,623,317"/>
+<area shape="rect" id="node4" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="684,5,871,47"/>
+<area shape="rect" id="node5" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="689,71,865,98"/>
+<area shape="rect" id="node6" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="689,123,866,164"/>
 </map>
 </div>
 </p>
@@ -1516,16 +1499,6 @@ Here is the caller graph for this function:</div>
 <p>Referenced by <a class="el" href="classCD3DApplication.html#a06674b6c2e548d6850550eefbef74e50">UserSelectNewDevice()</a>.</p>
 
 <p><div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="classCD3DApplication_a3f17970b9d0080884ff4d464be68f0c7_cgraph.png" border="0" usemap="#classCD3DApplication_a3f17970b9d0080884ff4d464be68f0c7_cgraph" alt=""/></div>
-<map name="classCD3DApplication_a3f17970b9d0080884ff4d464be68f0c7_cgraph" id="classCD3DApplication_a3f17970b9d0080884ff4d464be68f0c7_cgraph">
-<area shape="rect" id="node2" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="289,5,348,32"/>
-</map>
-</div>
-</p>
-
-<p><div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classCD3DApplication_a3f17970b9d0080884ff4d464be68f0c7_icgraph.png" border="0" usemap="#classCD3DApplication_a3f17970b9d0080884ff4d464be68f0c7_icgraph" alt=""/></div>
@@ -1552,7 +1525,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::ToggleFullscreen </td>
+          <td class="memname">HRESULT CD3DApplication::ToggleFullscreen </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1572,18 +1545,17 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classCD3DApplication_aa5204d3138985a4012fa07603618c9a9_cgraph.png" border="0" usemap="#classCD3DApplication_aa5204d3138985a4012fa07603618c9a9_cgraph" alt=""/></div>
 <map name="classCD3DApplication_aa5204d3138985a4012fa07603618c9a9_cgraph" id="classCD3DApplication_aa5204d3138985a4012fa07603618c9a9_cgraph">
-<area shape="rect" id="node2" href="classCD3DApplication.html#aea282d070ea0374dcf360530725fb715" title="CD3DApplication::ForceWindowed" alt="" coords="284,278,509,305"/>
-<area shape="rect" id="node8" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="792,467,1007,508"/>
-<area shape="rect" id="node12" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="561,153,740,195"/>
-<area shape="rect" id="node3" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="1055,37,1113,63"/>
-<area shape="rect" id="node4" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="806,88,993,129"/>
-<area shape="rect" id="node5" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="794,336,1005,377"/>
-<area shape="rect" id="node6" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="812,401,987,443"/>
-<area shape="rect" id="node7" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4" title="CD3DApplication::Initialize3\lDEnvironment" alt="" coords="557,271,744,312"/>
-<area shape="rect" id="node9" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="811,219,987,246"/>
-<area shape="rect" id="node10" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="804,271,995,312"/>
-<area shape="rect" id="node11" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="811,153,988,195"/>
-<area shape="rect" id="node13" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="849,37,950,63"/>
+<area shape="rect" id="node2" href="classCD3DApplication.html#aea282d070ea0374dcf360530725fb715" title="CD3DApplication::ForceWindowed" alt="" coords="284,155,509,182"/>
+<area shape="rect" id="node7" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="792,201,1007,243"/>
+<area shape="rect" id="node11" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="561,332,740,373"/>
+<area shape="rect" id="node3" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="806,332,993,373"/>
+<area shape="rect" id="node4" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="794,5,1005,47"/>
+<area shape="rect" id="node5" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="812,71,987,112"/>
+<area shape="rect" id="node6" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4" title="CD3DApplication::Initialize3\lDEnvironment" alt="" coords="557,148,744,189"/>
+<area shape="rect" id="node8" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="811,398,987,425"/>
+<area shape="rect" id="node9" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="804,136,995,177"/>
+<area shape="rect" id="node10" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="811,267,988,308"/>
+<area shape="rect" id="node12" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="849,449,950,475"/>
 </map>
 </div>
 </p>
@@ -1615,7 +1587,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> CD3DApplication::UserSelectNewDevice </td>
+          <td class="memname">HRESULT CD3DApplication::UserSelectNewDevice </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
@@ -1635,20 +1607,19 @@ Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classCD3DApplication_a06674b6c2e548d6850550eefbef74e50_cgraph.png" border="0" usemap="#classCD3DApplication_a06674b6c2e548d6850550eefbef74e50_cgraph" alt=""/></div>
 <map name="classCD3DApplication_a06674b6c2e548d6850550eefbef74e50_cgraph" id="classCD3DApplication_a06674b6c2e548d6850550eefbef74e50_cgraph">
-<area shape="rect" id="node2" href="classCD3DApplication.html#aa5204d3138985a4012fa07603618c9a9" title="CD3DApplication::ToggleFullscreen" alt="" coords="249,302,480,329"/>
-<area shape="rect" id="node5" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="1061,127,1247,168"/>
-<area shape="rect" id="node6" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="1049,557,1259,599"/>
-<area shape="rect" id="node7" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="1067,492,1241,533"/>
-<area shape="rect" id="node8" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4" title="CD3DApplication::Initialize3\lDEnvironment" alt="" coords="812,353,999,395"/>
-<area shape="rect" id="node14" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="1103,75,1205,102"/>
-<area shape="rect" id="node15" href="classCD3DApplication.html#a3f17970b9d0080884ff4d464be68f0c7" title="CD3DApplication::SelectDeviceProc" alt="" coords="528,27,764,54"/>
-<area shape="rect" id="node3" href="classCD3DApplication.html#aea282d070ea0374dcf360530725fb715" title="CD3DApplication::ForceWindowed" alt="" coords="533,414,759,441"/>
-<area shape="rect" id="node9" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="1047,309,1261,351"/>
-<area shape="rect" id="node13" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="816,185,995,227"/>
-<area shape="rect" id="node4" href="dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="1309,134,1368,161"/>
-<area shape="rect" id="node10" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="1066,193,1242,219"/>
-<area shape="rect" id="node11" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="1059,375,1249,416"/>
-<area shape="rect" id="node12" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="1065,244,1243,285"/>
+<area shape="rect" id="node2" href="classCD3DApplication.html#aa5204d3138985a4012fa07603618c9a9" title="CD3DApplication::ToggleFullscreen" alt="" coords="252,228,483,255"/>
+<area shape="rect" id="node4" href="classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="1055,57,1242,98"/>
+<area shape="rect" id="node5" href="classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="1043,435,1254,477"/>
+<area shape="rect" id="node6" href="classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="1061,370,1236,411"/>
+<area shape="rect" id="node7" href="classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4" title="CD3DApplication::Initialize3\lDEnvironment" alt="" coords="807,275,993,317"/>
+<area shape="rect" id="node13" href="dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="1098,5,1199,32"/>
+<area shape="rect" id="node14" href="classCD3DApplication.html#a3f17970b9d0080884ff4d464be68f0c7" title="CD3DApplication::SelectDeviceProc" alt="" coords="249,544,485,571"/>
+<area shape="rect" id="node3" href="classCD3DApplication.html#aea282d070ea0374dcf360530725fb715" title="CD3DApplication::ForceWindowed" alt="" coords="533,332,759,359"/>
+<area shape="rect" id="node8" href="classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="1041,239,1256,281"/>
+<area shape="rect" id="node12" href="classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="811,107,989,149"/>
+<area shape="rect" id="node9" href="d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="1061,123,1237,149"/>
+<area shape="rect" id="node10" href="classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="1053,305,1244,346"/>
+<area shape="rect" id="node11" href="classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="1060,174,1237,215"/>
 </map>
 </div>
 </p>
@@ -1702,7 +1673,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CD3DApplication::m_bActive</td>
+          <td class="memname">BOOL CD3DApplication::m_bActive</td>
         </tr>
       </table>
   </td>
@@ -1724,7 +1695,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CD3DApplication::m_bClipCursorWhenFullscreen</td>
+          <td class="memname">BOOL CD3DApplication::m_bClipCursorWhenFullscreen</td>
         </tr>
       </table>
   </td>
@@ -1746,7 +1717,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CD3DApplication::m_bFocus</td>
+          <td class="memname">BOOL CD3DApplication::m_bFocus</td>
         </tr>
       </table>
   </td>
@@ -1768,7 +1739,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CD3DApplication::m_bFrameMoving</td>
+          <td class="memname">BOOL CD3DApplication::m_bFrameMoving</td>
         </tr>
       </table>
   </td>
@@ -1790,7 +1761,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CD3DApplication::m_bHasFocus</td>
+          <td class="memname">BOOL CD3DApplication::m_bHasFocus</td>
         </tr>
       </table>
   </td>
@@ -1812,7 +1783,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CD3DApplication::m_bReady</td>
+          <td class="memname">BOOL CD3DApplication::m_bReady</td>
         </tr>
       </table>
   </td>
@@ -1834,7 +1805,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CD3DApplication::m_bShowCursorWhenFullscreen</td>
+          <td class="memname">BOOL CD3DApplication::m_bShowCursorWhenFullscreen</td>
         </tr>
       </table>
   </td>
@@ -1856,7 +1827,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CD3DApplication::m_bSingleStep</td>
+          <td class="memname">BOOL CD3DApplication::m_bSingleStep</td>
         </tr>
       </table>
   </td>
@@ -1878,7 +1849,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CD3DApplication::m_bUseDepthBuffer</td>
+          <td class="memname">BOOL CD3DApplication::m_bUseDepthBuffer</td>
         </tr>
       </table>
   </td>
@@ -1897,7 +1868,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="dplobby_8h.html#a1b1a98dd0941fb12c7324b0f038f3162">BOOL</a> CD3DApplication::m_bWindowed</td>
+          <td class="memname">BOOL CD3DApplication::m_bWindowed</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1911,7 +1882,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="d3d8caps_8h.html#a7dafeca471be820c826cb5d365f50851">D3DCAPS8</a> CD3DApplication::m_d3dCaps</td>
+          <td class="memname">D3DCAPS8 CD3DApplication::m_d3dCaps</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1928,7 +1899,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="d3d8types_8h.html#a180713d46e1762bc5cb1597bce825411">D3DPRESENT_PARAMETERS</a> CD3DApplication::m_d3dpp</td>
+          <td class="memname">D3DPRESENT_PARAMETERS CD3DApplication::m_d3dpp</td>
         </tr>
       </table>
   </td>
@@ -1950,7 +1921,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="d3d8types_8h.html#a48a95216e1942b1d1c3f0da167aca7a6">D3DSURFACE_DESC</a> CD3DApplication::m_d3dsdBackBuffer</td>
+          <td class="memname">D3DSURFACE_DESC CD3DApplication::m_d3dsdBackBuffer</td>
         </tr>
       </table>
   </td>
@@ -1972,7 +1943,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> CD3DApplication::m_dLimidFPS</td>
+          <td class="memname">DWORD CD3DApplication::m_dLimidFPS</td>
         </tr>
       </table>
   </td>
@@ -1994,7 +1965,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> CD3DApplication::m_dwAdapter</td>
+          <td class="memname">DWORD CD3DApplication::m_dwAdapter</td>
         </tr>
       </table>
   </td>
@@ -2016,7 +1987,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> CD3DApplication::m_dwCreateFlags</td>
+          <td class="memname">DWORD CD3DApplication::m_dwCreateFlags</td>
         </tr>
       </table>
   </td>
@@ -2038,7 +2009,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> CD3DApplication::m_dwCreationHeight</td>
+          <td class="memname">DWORD CD3DApplication::m_dwCreationHeight</td>
         </tr>
       </table>
   </td>
@@ -2060,7 +2031,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> CD3DApplication::m_dwCreationWidth</td>
+          <td class="memname">DWORD CD3DApplication::m_dwCreationWidth</td>
         </tr>
       </table>
   </td>
@@ -2082,7 +2053,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> CD3DApplication::m_dwMinDepthBits</td>
+          <td class="memname">DWORD CD3DApplication::m_dwMinDepthBits</td>
         </tr>
       </table>
   </td>
@@ -2104,7 +2075,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> CD3DApplication::m_dwMinStencilBits</td>
+          <td class="memname">DWORD CD3DApplication::m_dwMinStencilBits</td>
         </tr>
       </table>
   </td>
@@ -2126,7 +2097,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> CD3DApplication::m_dwNumAdapters</td>
+          <td class="memname">DWORD CD3DApplication::m_dwNumAdapters</td>
         </tr>
       </table>
   </td>
@@ -2148,7 +2119,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> CD3DApplication::m_dwWindowStyle</td>
+          <td class="memname">DWORD CD3DApplication::m_dwWindowStyle</td>
         </tr>
       </table>
   </td>
@@ -2277,7 +2248,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="d3d8_8h.html#a59b2188eb21a792042248fb0c400674e">LPDIRECT3D8</a> CD3DApplication::m_pD3D</td>
+          <td class="memname">LPDIRECT3D8 CD3DApplication::m_pD3D</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2291,7 +2262,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="d3d8_8h.html#a771c119b9d3d23bba78aa4f0f5b1ef34">LPDIRECT3DDEVICE8</a> CD3DApplication::m_pd3dDevice</td>
+          <td class="memname">LPDIRECT3DDEVICE8 CD3DApplication::m_pd3dDevice</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -2417,7 +2388,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Feb 6 2016 16:23:38 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sat Feb 6 2016 17:14:31 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.10
 </small></address>

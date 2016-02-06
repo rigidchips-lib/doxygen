@@ -38,7 +38,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -590,7 +589,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00505"></a><span class="lineno">  505</span>&#160;    <a class="code" href="classGMatrix.html#ae3a642e6364a9c2c9117b4736fb8abaa">GMatrix</a>(<span class="keyword">const</span> <a class="code" href="classGMatrix33.html">GMatrix33</a>);</div>
 <div class="line"><a name="l00506"></a><span class="lineno">  506</span>&#160;    </div>
 <div class="line"><a name="l00507"></a><span class="lineno">  507</span>&#160;    <span class="comment">// 初期化(3つのベクトルで初期化)</span></div>
-<div class="line"><a name="l00508"></a><span class="lineno"><a class="line" href="classGMatrix.html#a74695cd404d5428026abd4d515dee4a5">  508</a></span>&#160;    <a class="code" href="classGMatrix.html#a74695cd404d5428026abd4d515dee4a5">GMatrix</a>(<span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; <a class="code" href="unionu.html">u</a>, <span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; v, <span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; w) {</div>
+<div class="line"><a name="l00508"></a><span class="lineno"><a class="line" href="classGMatrix.html#a74695cd404d5428026abd4d515dee4a5">  508</a></span>&#160;    <a class="code" href="classGMatrix.html#a74695cd404d5428026abd4d515dee4a5">GMatrix</a>(<span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; u, <span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; v, <span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; w) {</div>
 <div class="line"><a name="l00509"></a><span class="lineno">  509</span>&#160;<span class="preprocessor">#ifdef GMATRIXTRANSPOSE</span></div>
 <div class="line"><a name="l00510"></a><span class="lineno">  510</span>&#160;        elem[0][0] = u.<a class="code" href="classGVector.html#a13fdfbd30deec0a7941f52838681d285">x</a>;</div>
 <div class="line"><a name="l00511"></a><span class="lineno">  511</span>&#160;        elem[1][0] = u.<a class="code" href="classGVector.html#a4ebe6a327094cacd752944e3c1642164">y</a>;</div>
@@ -805,7 +804,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00720"></a><span class="lineno">  720</span>&#160;    <a class="code" href="classGMatrix33.html#a67a32ed9e77f9ec6d6336aed080d2fcc">GMatrix33</a>(<span class="keyword">const</span> <a class="code" href="classGMatrix.html">GMatrix</a>);</div>
 <div class="line"><a name="l00721"></a><span class="lineno">  721</span>&#160;    </div>
 <div class="line"><a name="l00722"></a><span class="lineno">  722</span>&#160;    <span class="comment">// 初期化(3つのベクトルで初期化)</span></div>
-<div class="line"><a name="l00723"></a><span class="lineno"><a class="line" href="classGMatrix33.html#af532761120759b29d7a7c6b4c91b2316">  723</a></span>&#160;    <a class="code" href="classGMatrix33.html#af532761120759b29d7a7c6b4c91b2316">GMatrix33</a>(<span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; <a class="code" href="unionu.html">u</a>, <span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; v, <span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; w) {</div>
+<div class="line"><a name="l00723"></a><span class="lineno"><a class="line" href="classGMatrix33.html#af532761120759b29d7a7c6b4c91b2316">  723</a></span>&#160;    <a class="code" href="classGMatrix33.html#af532761120759b29d7a7c6b4c91b2316">GMatrix33</a>(<span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; u, <span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; v, <span class="keyword">const</span> <a class="code" href="classGVector.html">GVector</a>&amp; w) {</div>
 <div class="line"><a name="l00724"></a><span class="lineno">  724</span>&#160;<span class="preprocessor">#ifdef GMATRIXTRANSPOSE</span></div>
 <div class="line"><a name="l00725"></a><span class="lineno">  725</span>&#160;        elem[0][0] = u.<a class="code" href="classGVector.html#a13fdfbd30deec0a7941f52838681d285">x</a>;</div>
 <div class="line"><a name="l00726"></a><span class="lineno">  726</span>&#160;        elem[1][0] = u.<a class="code" href="classGVector.html#a4ebe6a327094cacd752944e3c1642164">y</a>;</div>
@@ -963,7 +962,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="ttc" id="classGVector_html_ac6302f38ebd0b1a6dde25d65213da4c6"><div class="ttname"><a href="classGVector.html#ac6302f38ebd0b1a6dde25d65213da4c6">GVector::operator-=</a></div><div class="ttdeci">GVector &amp; operator-=(const GVector &amp;A)</div><div class="ttdef"><b>Definition:</b> GVector.hpp:186</div></div>
 <div class="ttc" id="classGVector_html_afd533645529dd10186ab58468c04f1d8"><div class="ttname"><a href="classGVector.html#afd533645529dd10186ab58468c04f1d8">GVector::abs</a></div><div class="ttdeci">GFloat abs(void) const </div><div class="ttdef"><b>Definition:</b> GVector.hpp:75</div></div>
 <div class="ttc" id="classGVector_html_a6fb8fd755aa152f9d07548064b8238b7"><div class="ttname"><a href="classGVector.html#a6fb8fd755aa152f9d07548064b8238b7">GVector::GVector</a></div><div class="ttdeci">GVector(double f[3])</div><div class="ttdef"><b>Definition:</b> GVector.hpp:54</div></div>
-<div class="ttc" id="unionu_html"><div class="ttname"><a href="unionu.html">u</a></div><div class="ttdef"><b>Definition:</b> dxtrans.idl:199</div></div>
 <div class="ttc" id="classGMatrix_html_a529dc924634059dc6787f05010cccbf3"><div class="ttname"><a href="classGMatrix.html#a529dc924634059dc6787f05010cccbf3">GMatrix::operator*</a></div><div class="ttdeci">friend GVector operator*(GVector v, GMatrix m)</div><div class="ttdef"><b>Definition:</b> GVector.hpp:687</div></div>
 <div class="ttc" id="classGQuat_html_a0e45355de40df1fd3055ce6103aad4d1"><div class="ttname"><a href="classGQuat.html#a0e45355de40df1fd3055ce6103aad4d1">GQuat::operator+</a></div><div class="ttdeci">friend GQuat operator+(const GQuat &amp;A, const GQuat &amp;B)</div><div class="ttdef"><b>Definition:</b> GVector.hpp:409</div></div>
 <div class="ttc" id="classGVector_html_a05386a44d8b81c815b82ee58d02de343"><div class="ttname"><a href="classGVector.html#a05386a44d8b81c815b82ee58d02de343">GVector::distanceFromLine</a></div><div class="ttdeci">GFloat distanceFromLine(const GVector &amp;p1, const GVector &amp;p2) const </div><div class="ttdef"><b>Definition:</b> GVector.cpp:92</div></div>
@@ -1120,7 +1118,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Feb 6 2016 16:23:20 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sat Feb 6 2016 17:14:30 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.10
 </small></address>

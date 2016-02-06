@@ -1,26 +1,4 @@
 var searchData=
 [
-  ['bda_5fca_5fmodule_5fui',['BDA_CA_MODULE_UI',['../bdatypes_8h.html#a8fe2418d3737a277d059b95b7d14f34d',1,'bdatypes.h']]],
-  ['bda_5fethernet_5faddress',['BDA_ETHERNET_ADDRESS',['../bdatypes_8h.html#acf8546ec5766dbba53af9ccd1c0bf9d7',1,'bdatypes.h']]],
-  ['bda_5fethernet_5faddress_5flist',['BDA_ETHERNET_ADDRESS_LIST',['../bdatypes_8h.html#ad9ead8e4afc7f921b6273c607bd82d9d',1,'bdatypes.h']]],
-  ['bda_5fipv4_5faddress',['BDA_IPv4_ADDRESS',['../bdatypes_8h.html#a08d14fca1d8c63f406f38603411fc3fa',1,'bdatypes.h']]],
-  ['bda_5fipv4_5faddress_5flist',['BDA_IPv4_ADDRESS_LIST',['../bdatypes_8h.html#addc3697158c6db43e051408cd6b006be',1,'bdatypes.h']]],
-  ['bda_5fipv6_5faddress',['BDA_IPv6_ADDRESS',['../bdatypes_8h.html#a7d032fd34c6805e88290f2042833bcc0',1,'bdatypes.h']]],
-  ['bda_5fipv6_5faddress_5flist',['BDA_IPv6_ADDRESS_LIST',['../bdatypes_8h.html#a13d4dfbf6cfa1270f532dffc68ed158e',1,'bdatypes.h']]],
-  ['bda_5fpid_5fmap',['BDA_PID_MAP',['../bdatypes_8h.html#a3e442e1b39502a93da2bb76437f144f4',1,'bdatypes.h']]],
-  ['bda_5fpid_5funmap',['BDA_PID_UNMAP',['../bdatypes_8h.html#aa72e9b39a3995b4f2798ad0697fba97f',1,'bdatypes.h']]],
-  ['bda_5fprogram_5fpid_5flist',['BDA_PROGRAM_PID_LIST',['../bdatypes_8h.html#ad876cbb7c240861e0491a204d28f5552',1,'bdatypes.h']]],
-  ['bda_5ftable_5fsection',['BDA_TABLE_SECTION',['../bdatypes_8h.html#a252983250cd47a7ed884e976932e5aea',1,'bdatypes.h']]],
-  ['bda_5ftemplate_5fconnection',['BDA_TEMPLATE_CONNECTION',['../bdatypes_8h.html#a5e3de3eff25aac6d3bd37a62d9b3d97a',1,'bdatypes.h']]],
-  ['bda_5ftemplate_5fpin_5fjoint',['BDA_TEMPLATE_PIN_JOINT',['../bdatypes_8h.html#a1e5842a9245cafdf0b58987f0c49e5af',1,'bdatypes.h']]],
-  ['bda_5ftransport_5finfo',['BDA_TRANSPORT_INFO',['../bdamedia_8h.html#a1365f6bcbd688da1b700cc8962d02ca5',1,'bdamedia.h']]],
-  ['bdanode_5fdescriptor',['BDANODE_DESCRIPTOR',['../bdatypes_8h.html#aa74472ed17a54823b7c335c275adb773',1,'bdatypes.h']]],
-  ['bfentvrat_5fattributes_5fcae_5ftv',['BfEnTvRat_Attributes_CAE_TV',['../tvratings_8h.html#aec3a2c45ca0fb6cf675c0a034b0f0619',1,'tvratings.h']]],
-  ['bfentvrat_5fattributes_5fcaf_5ftv',['BfEnTvRat_Attributes_CAF_TV',['../tvratings_8h.html#aabdb85a0dc682dc6fac92c0ed2ac54e3',1,'tvratings.h']]],
-  ['bfentvrat_5fattributes_5fmpaa',['BfEnTvRat_Attributes_MPAA',['../tvratings_8h.html#ad38b58e682edf8b2e5c44ab19811e50c',1,'tvratings.h']]],
-  ['bfentvrat_5fattributes_5fus_5ftv',['BfEnTvRat_Attributes_US_TV',['../tvratings_8h.html#a2f880c18cbcfad56c41f71a121572232',1,'tvratings.h']]],
-  ['bfentvrat_5fgenericattributes',['BfEnTvRat_GenericAttributes',['../tvratings_8h.html#acbf2dae5289c5484b43491ee8d06b95b',1,'tvratings.h']]],
-  ['binaryconvolutioncoderate',['BinaryConvolutionCodeRate',['../bdatypes_8h.html#a2d0cfa215450b7a2ce2143fb51fb4efc',1,'bdatypes.h']]],
-  ['broadcasteventservice',['BroadcastEventService',['../tuner_8h.html#a5466ba16f8b9e9eee59c4b0ebfc505e3',1,'tuner.h']]],
-  ['bufferdesc',['BUFFERDESC',['../dplay8_8h.html#a582fd72da0c079dd6c7b2f7b60388682',1,'dplay8.h']]]
+  ['gfloat',['GFloat',['../GVector_8hpp.html#a0af6ea512c2d361e1a0fcb0fbe0fb323',1,'GVector.hpp']]]
 ];

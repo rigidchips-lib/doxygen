@@ -18,7 +18,5 @@ var searchData=
   ['_7egrigid',['~GRigid',['../classGRigid.html#a95600c9e9b4071d31d2b4a90e07cd93a',1,'GRigid']]],
   ['_7egsocket',['~GSocket',['../classGSocket.html#a1b80973fb406fd28e4a093a68b9b286d',1,'GSocket']]],
   ['_7egworld',['~GWorld',['../classGWorld.html#a69d678e6e8f5244d9a03affe80fceb7c',1,'GWorld']]],
-  ['_7ehttpsocket',['~HttpSocket',['../classHttpSocket.html#a01bf17bc2193e93b06f06cdf3b3a5056',1,'HttpSocket']]],
-  ['_7eimediaobjectimpl',['~IMediaObjectImpl',['../classIMediaObjectImpl.html#a1b03bbf48722b93764e93ab13fb58778',1,'IMediaObjectImpl']]],
-  ['_7elockit',['~LockIt',['../classIMediaObjectImpl_1_1LockIt.html#a8429517e2d8c8936ddb289e542885df2',1,'IMediaObjectImpl::LockIt']]]
+  ['_7ehttpsocket',['~HttpSocket',['../classHttpSocket.html#a01bf17bc2193e93b06f06cdf3b3a5056',1,'HttpSocket']]]
 ];

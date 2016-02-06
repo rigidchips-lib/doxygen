@@ -5,13 +5,12 @@
 <area shape="rect" id="node5" href="$classGWorld.html#a9203e6f0ed8abd907eb60d14328b4e3a" title="GWorld::CalcJoint" alt="" coords="191,157,321,184"/>
 <area shape="rect" id="node6" href="$classGVector.html#ab12aad63578bc9e5b28153065dee9392" title="GVector::cross" alt="" coords="579,107,689,133"/>
 <area shape="rect" id="node8" href="$classGRigid.html#ac6d6ab64b7d4f9790a8563d688706f1f" title="GRigid::CalcMassMat" alt="" coords="377,259,528,285"/>
-<area shape="rect" id="node16" href="$classGRigid.html#a8c72b83e17c17afe30ea69396384bbd1" title="GRigid::ApplyImpulse2" alt="" coords="375,157,531,184"/>
+<area shape="rect" id="node15" href="$classGRigid.html#a8c72b83e17c17afe30ea69396384bbd1" title="GRigid::ApplyImpulse2" alt="" coords="375,157,531,184"/>
 <area shape="rect" id="node7" href="$classGVector.html#aff75412c96c5c89956fa0fadbea76e46" title="GVector::GVector" alt="" coords="737,107,864,133"/>
 <area shape="rect" id="node9" href="$script_8cpp.html#ad63960ce462f4465775e335a3e3a4717" title="xx" alt="" coords="615,157,653,184"/>
-<area shape="rect" id="node11" href="$script_8cpp.html#a7dcbe3f22f779bee3fcaa385a0414517" title="yy" alt="" coords="615,208,653,235"/>
-<area shape="rect" id="node12" href="$script_8cpp.html#ac768ea347a71a9c7d0bf38d5e3f270c5" title="zz" alt="" coords="615,259,653,285"/>
-<area shape="rect" id="node13" href="$script_8cpp.html#a6cd7bb55861298e68d96d89e11c13dee" title="xy" alt="" coords="615,309,653,336"/>
-<area shape="rect" id="node14" href="$script_8cpp.html#a19f66714cf170dab1847f89036b6047b" title="xz" alt="" coords="615,360,653,387"/>
-<area shape="rect" id="node15" href="$script_8cpp.html#a64789fb44e5aa88f7215fb8d9d45750c" title="yz" alt="" coords="615,411,653,437"/>
-<area shape="rect" id="node10" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="781,284,820,311"/>
+<area shape="rect" id="node10" href="$script_8cpp.html#a7dcbe3f22f779bee3fcaa385a0414517" title="yy" alt="" coords="615,208,653,235"/>
+<area shape="rect" id="node11" href="$script_8cpp.html#ac768ea347a71a9c7d0bf38d5e3f270c5" title="zz" alt="" coords="615,259,653,285"/>
+<area shape="rect" id="node12" href="$script_8cpp.html#a6cd7bb55861298e68d96d89e11c13dee" title="xy" alt="" coords="615,309,653,336"/>
+<area shape="rect" id="node13" href="$script_8cpp.html#a19f66714cf170dab1847f89036b6047b" title="xz" alt="" coords="615,360,653,387"/>
+<area shape="rect" id="node14" href="$script_8cpp.html#a64789fb44e5aa88f7215fb8d9d45750c" title="yz" alt="" coords="615,411,653,437"/>
 </map>

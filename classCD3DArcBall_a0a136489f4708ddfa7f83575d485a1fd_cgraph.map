@@ -1,12 +1,5 @@
 <map id="CD3DArcBall::HandleMouseMessages" name="CD3DArcBall::HandleMouseMessages">
-<area shape="rect" id="node2" href="$classCD3DArcBall.html#ac3f7cc6f1b111a88bd73334295d30ea7" title="CD3DArcBall::ScreenToVector" alt="" coords="245,5,447,32"/>
-<area shape="rect" id="node3" href="$d3dutil_8cpp.html#a26a5de92a406a318ed7983f41945b70b" title="D3DXQuaternionAxisToAxis" alt="" coords="252,56,440,83"/>
-<area shape="rect" id="node8" href="$d3dx8math_8h.html#a6a3ad297e3a7b35f633f581694cfe734" title="D3DXMatrixRotationQuaternion" alt="" coords="243,107,449,133"/>
-<area shape="rect" id="node9" href="$d3dx8math_8h.html#a49567772f991e9ba77a8ffea5fd72851" title="D3DXMatrixIdentity" alt="" coords="277,157,415,184"/>
-<area shape="rect" id="node10" href="$d3dx8math_8h.html#ab5e66aa9e9f6ffc2eebba2ca6ad4e95d" title="D3DXMatrixTranslation" alt="" coords="267,208,425,235"/>
-<area shape="rect" id="node11" href="$d3dx8math_8h.html#a1496750c107218f827a3a732787dae0b" title="D3DXMatrixMultiply" alt="" coords="277,259,415,285"/>
-<area shape="rect" id="node4" href="$d3dx8math_8h.html#aad7e9e46c52286ab059d3098ee1ead46" title="D3DXVec3Normalize" alt="" coords="517,27,664,53"/>
-<area shape="rect" id="node5" href="$d3dutil_8cpp.html#ae33e434e5558fa82cb317c3519119278" title="D3DXQuaternionUnitAxisTo\lUnitAxis2" alt="" coords="497,78,684,119"/>
-<area shape="rect" id="node6" href="$d3dx8math_8h.html#a668697a4ac22d3332e6167a2a190a208" title="D3DXVec3Cross" alt="" coords="732,60,855,87"/>
-<area shape="rect" id="node7" href="$d3dx8math_8h.html#a4a45ef4df4864a610180fc9d5a909ab7" title="D3DXVec3Dot" alt="" coords="739,111,848,137"/>
+<area shape="rect" id="node2" href="$classCD3DArcBall.html#ac3f7cc6f1b111a88bd73334295d30ea7" title="CD3DArcBall::ScreenToVector" alt="" coords="243,5,445,32"/>
+<area shape="rect" id="node3" href="$d3dutil_8cpp.html#a26a5de92a406a318ed7983f41945b70b" title="D3DXQuaternionAxisToAxis" alt="" coords="250,56,438,83"/>
+<area shape="rect" id="node4" href="$d3dutil_8cpp.html#ae33e434e5558fa82cb317c3519119278" title="D3DXQuaternionUnitAxisTo\lUnitAxis2" alt="" coords="493,49,680,90"/>
 </map>

@@ -1,9 +1,4 @@
 <map id="CD3DCamera::CD3DCamera" name="CD3DCamera::CD3DCamera">
-<area shape="rect" id="node2" href="$classCD3DCamera.html#a61a9d87a4f3b1cb285fb9e7c5ded8bcb" title="CD3DCamera::SetViewParams" alt="" coords="249,107,456,133"/>
-<area shape="rect" id="node7" href="$classCD3DCamera.html#a33ff0b53b27e96be1ba1f3d31b0ab2cb" title="CD3DCamera::SetProjParams" alt="" coords="252,183,453,209"/>
-<area shape="rect" id="node3" href="$d3dx8math_8h.html#aad7e9e46c52286ab059d3098ee1ead46" title="D3DXVec3Normalize" alt="" coords="532,5,679,32"/>
-<area shape="rect" id="node4" href="$d3dx8math_8h.html#a668697a4ac22d3332e6167a2a190a208" title="D3DXVec3Cross" alt="" coords="544,56,667,83"/>
-<area shape="rect" id="node5" href="$d3dx8math_8h.html#aeae291615af267a281e7bc447e52db46" title="D3DXMatrixLookAtLH" alt="" coords="529,107,681,133"/>
-<area shape="rect" id="node6" href="$d3dx8math_8h.html#aa7158ca7f8e39044c57404b947edec27" title="D3DXMatrixInverse" alt="" coords="537,157,674,184"/>
-<area shape="rect" id="node8" href="$d3dx8math_8h.html#a63979c0cfd64230fbb48213fc3c2e457" title="D3DXMatrixPerspectiveFovLH" alt="" coords="504,208,707,235"/>
+<area shape="rect" id="node2" href="$classCD3DCamera.html#a61a9d87a4f3b1cb285fb9e7c5ded8bcb" title="CD3DCamera::SetViewParams" alt="" coords="249,5,456,32"/>
+<area shape="rect" id="node3" href="$classCD3DCamera.html#a33ff0b53b27e96be1ba1f3d31b0ab2cb" title="CD3DCamera::SetProjParams" alt="" coords="252,56,453,83"/>
 </map>

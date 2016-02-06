@@ -1,9 +1,8 @@
 <map id="luaGetY" name="luaGetY">
-<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="162,5,201,32"/>
-<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="131,56,231,83"/>
-<area shape="rect" id="node4" href="$classGLand.html#a7a9e36c8a2ed20fd785bd4e845287f58" title="GLand::GetY2" alt="" coords="129,107,234,133"/>
-<area shape="rect" id="node8" href="$lua_8h.html#a328625a03fbb5548f27b1af10f109f6a" title="lua_pushnumber" alt="" coords="123,157,240,184"/>
-<area shape="rect" id="node5" href="$classGVector.html#a96b6e19c04d39afa5e1917df64b54891" title="GVector::pointOnFaceAndLine" alt="" coords="288,81,487,108"/>
-<area shape="rect" id="node7" href="$classGVector.html#a9edcde2278c60915aa7470514d3168fb" title="GVector::distanceFromFace" alt="" coords="294,132,481,159"/>
-<area shape="rect" id="node6" href="$classGVector.html#a43df893e25405cd83678f5d1dd427bfb" title="GVector::dot" alt="" coords="535,107,631,133"/>
+<area shape="rect" id="node2" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="131,5,231,32"/>
+<area shape="rect" id="node3" href="$classGLand.html#a7a9e36c8a2ed20fd785bd4e845287f58" title="GLand::GetY2" alt="" coords="129,56,234,83"/>
+<area shape="rect" id="node7" href="$lua_8h.html#a328625a03fbb5548f27b1af10f109f6a" title="lua_pushnumber" alt="" coords="123,107,240,133"/>
+<area shape="rect" id="node4" href="$classGVector.html#a96b6e19c04d39afa5e1917df64b54891" title="GVector::pointOnFaceAndLine" alt="" coords="288,31,487,57"/>
+<area shape="rect" id="node6" href="$classGVector.html#a9edcde2278c60915aa7470514d3168fb" title="GVector::distanceFromFace" alt="" coords="294,81,481,108"/>
+<area shape="rect" id="node5" href="$classGVector.html#a43df893e25405cd83678f5d1dd427bfb" title="GVector::dot" alt="" coords="535,56,631,83"/>
 </map>

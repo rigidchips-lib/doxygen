@@ -1,5 +1,4 @@
 <map id="getPlayerArms" name="getPlayerArms">
-<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="246,5,285,32"/>
-<area shape="rect" id="node3" href="$classGDPlay.html#afd689e055de4e62bf3a5978cd71b4951" title="GDPlay::GetNumPlayers" alt="" coords="181,56,350,83"/>
-<area shape="rect" id="node4" href="$classGDPlay.html#aef2b09999ff3dea0a98e420704c1195c" title="GDPlay::GetLocalPlayerDPNID" alt="" coords="161,107,369,133"/>
+<area shape="rect" id="node2" href="$classGDPlay.html#afd689e055de4e62bf3a5978cd71b4951" title="GDPlay::GetNumPlayers" alt="" coords="181,5,350,32"/>
+<area shape="rect" id="node3" href="$classGDPlay.html#aef2b09999ff3dea0a98e420704c1195c" title="GDPlay::GetLocalPlayerDPNID" alt="" coords="161,56,369,83"/>
 </map>

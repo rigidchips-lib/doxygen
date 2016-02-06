@@ -38,7 +38,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -91,13 +90,12 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="textblock"><code>#include &lt;windows.h&gt;</code><br />
 <code>#include &lt;mmsystem.h&gt;</code><br />
 <code>#include &lt;mmreg.h&gt;</code><br />
-<code>#include &lt;<a class="el" href="dsound_8h_source.html">dsound.h</a>&gt;</code><br />
+<code>#include &lt;dsound.h&gt;</code><br />
 </div><div class="textblock"><div class="dynheader">
 Include dependency graph for dsutil.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="dsutil_8h__incl.png" border="0" usemap="#dsutil_8h" alt=""/></div>
 <map name="dsutil_8h" id="dsutil_8h">
-<area shape="rect" id="node5" href="dsound_8h.html" title="dsound.h" alt="" coords="335,80,410,107"/>
 </map>
 </div>
 </div>
@@ -124,7 +122,7 @@ Macros</h2></td></tr>
 <tr class="separator:a736dd3f44f3bab5ace186dfd6ebf141f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af5c11cca6c2cd35317a0b726f0cc46e7"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dsutil_8h.html#af5c11cca6c2cd35317a0b726f0cc46e7">DSUtil_PlaySound</a>(s)&#160;&#160;&#160;{ if(s) s-&gt;Play( 0, 0 ); }</td></tr>
 <tr class="separator:af5c11cca6c2cd35317a0b726f0cc46e7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae6bd8846969e4795a36578ad234e9337"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dsutil_8h.html#ae6bd8846969e4795a36578ad234e9337">DSUtil_PlaySoundLooping</a>(s)&#160;&#160;&#160;{ if(s) s-&gt;Play( 0, <a class="el" href="dsound_8h.html#ad052acd0796f97da166bb182427a5c29">DSBPLAY_LOOPING</a> ); }</td></tr>
+<tr class="memitem:ae6bd8846969e4795a36578ad234e9337"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="dsutil_8h.html#ae6bd8846969e4795a36578ad234e9337">DSUtil_PlaySoundLooping</a>(s)&#160;&#160;&#160;{ if(s) s-&gt;Play( 0, DSBPLAY_LOOPING ); }</td></tr>
 <tr class="separator:ae6bd8846969e4795a36578ad234e9337"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
@@ -153,7 +151,7 @@ Macros</h2></td></tr>
           <td>(</td>
           <td class="paramtype">&#160;</td>
           <td class="paramname">s</td><td>)</td>
-          <td>&#160;&#160;&#160;{ if(s) s-&gt;Play( 0, <a class="el" href="dsound_8h.html#ad052acd0796f97da166bb182427a5c29">DSBPLAY_LOOPING</a> ); }</td>
+          <td>&#160;&#160;&#160;{ if(s) s-&gt;Play( 0, DSBPLAY_LOOPING ); }</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -205,7 +203,7 @@ Macros</h2></td></tr>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Feb 6 2016 16:23:34 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sat Feb 6 2016 17:14:31 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.10
 </small></address>

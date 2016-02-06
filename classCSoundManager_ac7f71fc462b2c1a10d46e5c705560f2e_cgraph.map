@@ -1,4 +1,3 @@
 <map id="CSoundManager::Initialize" name="CSoundManager::Initialize">
-<area shape="rect" id="node2" href="$dsound_8h.html#a1604c8957e545851962a47ff9b562e5c" title="DirectSoundCreate8" alt="" coords="254,5,394,32"/>
-<area shape="rect" id="node3" href="$classCSoundManager.html#a2e20be973d38797e82362577b9156927" title="CSoundManager::SetPrimary\lBufferFormat" alt="" coords="228,57,420,98"/>
+<area shape="rect" id="node2" href="$classCSoundManager.html#a2e20be973d38797e82362577b9156927" title="CSoundManager::SetPrimary\lBufferFormat" alt="" coords="228,5,420,47"/>
 </map>

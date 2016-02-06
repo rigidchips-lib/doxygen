@@ -38,7 +38,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -81,7 +80,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 <div id="nav-path" class="navpath">
   <ul>
-<li class="navelem"><a class="el" href="dir_a3d73200c3f0c934fc457437958f92ec.html">Lua</a></li><li class="navelem"><a class="el" href="dir_58f137c6c292a61a066f945a5ebf13fe.html">include</a></li>  </ul>
+<li class="navelem"><a class="el" href="dir_5fdd3c20ae17bb33a6cac4c5b081e7fb.html">Lua</a></li><li class="navelem"><a class="el" href="dir_c818fbe5f00cb5f13dbaa63031107f58.html">include</a></li>  </ul>
 </div>
 </div><!-- top -->
 <div class="header">
@@ -137,7 +136,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;</div>
 <div class="line"><a name="l00047"></a><span class="lineno"><a class="line" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">   47</a></span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span><a class="code" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> <a class="code" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a>;</div>
 <div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;</div>
-<div class="line"><a name="l00049"></a><span class="lineno"><a class="line" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">   49</a></span>&#160;<span class="keyword">typedef</span> <a class="code" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> (*<a class="code" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a>) (<a class="code" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L);</div>
+<div class="line"><a name="l00049"></a><span class="lineno"><a class="line" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">   49</a></span>&#160;<span class="keyword">typedef</span> int (*<a class="code" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a>) (<a class="code" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L);</div>
 <div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;</div>
 <div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;</div>
 <div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;<span class="comment">/*</span></div>
@@ -145,7 +144,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;<span class="comment">*/</span></div>
 <div class="line"><a name="l00055"></a><span class="lineno"><a class="line" href="lua_8h.html#aee4e0f1d821250aa5e0f860f446ba046">   55</a></span>&#160;<span class="keyword">typedef</span> <span class="keyword">const</span> <span class="keywordtype">char</span> * (*lua_Chunkreader) (<a class="code" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <span class="keywordtype">void</span> *ud, <span class="keywordtype">size_t</span> *sz);</div>
 <div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;</div>
-<div class="line"><a name="l00057"></a><span class="lineno"><a class="line" href="lua_8h.html#a016d0dcfc8452e97ede3216f2da753b4">   57</a></span>&#160;<span class="keyword">typedef</span> <a class="code" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> (*<a class="code" href="lua_8h.html#a016d0dcfc8452e97ede3216f2da753b4">lua_Chunkwriter</a>) (<a class="code" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <span class="keyword">const</span> <span class="keywordtype">void</span>* p,</div>
+<div class="line"><a name="l00057"></a><span class="lineno"><a class="line" href="lua_8h.html#a016d0dcfc8452e97ede3216f2da753b4">   57</a></span>&#160;<span class="keyword">typedef</span> int (*<a class="code" href="lua_8h.html#a016d0dcfc8452e97ede3216f2da753b4">lua_Chunkwriter</a>) (<a class="code" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <span class="keyword">const</span> <span class="keywordtype">void</span>* p,</div>
 <div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;                                <span class="keywordtype">size_t</span> sz, <span class="keywordtype">void</span>* ud);</div>
 <div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;</div>
 <div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;</div>
@@ -424,7 +423,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00333"></a><span class="lineno">  333</span>&#160;</div>
 <div class="line"><a name="l00334"></a><span class="lineno"><a class="line" href="lua_8h.html#a13a607c625e9cb25bf453b41323857f8">  334</a></span>&#160;<span class="keyword">typedef</span> <span class="keyword">struct </span><a class="code" href="structlua__Debug.html">lua_Debug</a> <a class="code" href="structlua__Debug.html">lua_Debug</a>;  <span class="comment">/* activation record */</span></div>
 <div class="line"><a name="l00335"></a><span class="lineno">  335</span>&#160;</div>
-<div class="line"><a name="l00336"></a><span class="lineno"><a class="line" href="lua_8h.html#aa00de66eff087aef1fdd44f5b3bb9a0b">  336</a></span>&#160;<span class="keyword">typedef</span> <a class="code" href="d3drmobj_8h.html#a06be7837d4693577d292504a9a4ee31b">void</a> (*<a class="code" href="lua_8h.html#aa00de66eff087aef1fdd44f5b3bb9a0b">lua_Hook</a>) (<a class="code" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="code" href="structlua__Debug.html">lua_Debug</a> *ar);</div>
+<div class="line"><a name="l00336"></a><span class="lineno"><a class="line" href="lua_8h.html#aa00de66eff087aef1fdd44f5b3bb9a0b">  336</a></span>&#160;<span class="keyword">typedef</span> void (*<a class="code" href="lua_8h.html#aa00de66eff087aef1fdd44f5b3bb9a0b">lua_Hook</a>) (<a class="code" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="code" href="structlua__Debug.html">lua_Debug</a> *ar);</div>
 <div class="line"><a name="l00337"></a><span class="lineno">  337</span>&#160;</div>
 <div class="line"><a name="l00338"></a><span class="lineno">  338</span>&#160;</div>
 <div class="line"><a name="l00339"></a><span class="lineno">  339</span>&#160;<a class="code" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <span class="keywordtype">int</span> <a class="code" href="lua_8h.html#ac1fc03c27ee46caa4037df2d70f22110">lua_getstack</a> (<a class="code" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <span class="keywordtype">int</span> level, <a class="code" href="structlua__Debug.html">lua_Debug</a> *ar);</div>
@@ -491,7 +490,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="ttc" id="lua_8h_html_a42c1f68101dc98a6ae4695c8577b17f8"><div class="ttname"><a href="lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8">lua_tonumber</a></div><div class="ttdeci">LUA_API lua_Number lua_tonumber(lua_State *L, int idx)</div></div>
 <div class="ttc" id="lua_8h_html_a9f20233199a414b04c1c4b43f5d040f3"><div class="ttname"><a href="lua_8h.html#a9f20233199a414b04c1c4b43f5d040f3">lua_isstring</a></div><div class="ttdeci">LUA_API int lua_isstring(lua_State *L, int idx)</div></div>
 <div class="ttc" id="lua_8h_html_a7f2ac31d9ad6f0e0ff068d2fbbd08714"><div class="ttname"><a href="lua_8h.html#a7f2ac31d9ad6f0e0ff068d2fbbd08714">lua_remove</a></div><div class="ttdeci">LUA_API void lua_remove(lua_State *L, int idx)</div></div>
-<div class="ttc" id="d3drmobj_8h_html_ad43ae12d45c2b001aca3e98f7e0a12a0"><div class="ttname"><a href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a></div><div class="ttdeci">typedef int(__cdecl *D3DRMUSERVISUALCALLBACK)(LPDIRECT3DRMUSERVISUAL obj</div></div>
 <div class="ttc" id="lua_8h_html_a61d8af65d34c4a25a6f5b2bd00784df7"><div class="ttname"><a href="lua_8h.html#a61d8af65d34c4a25a6f5b2bd00784df7">lua_newuserdata</a></div><div class="ttdeci">LUA_API void * lua_newuserdata(lua_State *L, size_t sz)</div></div>
 <div class="ttc" id="lua_8h_html_a43379a0ba1fb68a4c81d205ad60b3cc1"><div class="ttname"><a href="lua_8h.html#a43379a0ba1fb68a4c81d205ad60b3cc1">lua_rawget</a></div><div class="ttdeci">LUA_API void lua_rawget(lua_State *L, int idx)</div></div>
 <div class="ttc" id="lua_8h_html_a54a1b13d3c1c104b32d398bdaa37b6a0"><div class="ttname"><a href="lua_8h.html#a54a1b13d3c1c104b32d398bdaa37b6a0">lua_pushupvalues</a></div><div class="ttdeci">LUA_API int lua_pushupvalues(lua_State *L)</div></div>
@@ -541,7 +539,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="ttc" id="lua_8h_html_ae37bc3e2991700913a74d2b656442520"><div class="ttname"><a href="lua_8h.html#ae37bc3e2991700913a74d2b656442520">lua_rawgeti</a></div><div class="ttdeci">LUA_API void lua_rawgeti(lua_State *L, int idx, int n)</div></div>
 <div class="ttc" id="lua_8h_html_a18f065f752cfa08eefd338b4cbd7254b"><div class="ttname"><a href="lua_8h.html#a18f065f752cfa08eefd338b4cbd7254b">lua_gethookcount</a></div><div class="ttdeci">LUA_API int lua_gethookcount(lua_State *L)</div></div>
 <div class="ttc" id="lua_8h_html_afd5e7d6995dc52a5cb9e370ee3a710e6"><div class="ttname"><a href="lua_8h.html#afd5e7d6995dc52a5cb9e370ee3a710e6">lua_getupvalue</a></div><div class="ttdeci">LUA_API const char * lua_getupvalue(lua_State *L, int funcindex, int n)</div></div>
-<div class="ttc" id="d3drmobj_8h_html_a06be7837d4693577d292504a9a4ee31b"><div class="ttname"><a href="d3drmobj_8h.html#a06be7837d4693577d292504a9a4ee31b">void</a></div><div class="ttdeci">void LPDIRECT3DRMTEXTURE *typedef void LPDIRECT3DRMTEXTURE3 *typedef void(__cdecl *D3DRMLOADCALLBACK)(LPDIRECT3DRMOBJECT object</div><div class="ttdef"><b>Definition:</b> d3drmobj.h:189</div></div>
 <div class="ttc" id="lua_8h_html_acaafc35d8e385c4d167229486165df6d"><div class="ttname"><a href="lua_8h.html#acaafc35d8e385c4d167229486165df6d">lua_getinfo</a></div><div class="ttdeci">LUA_API int lua_getinfo(lua_State *L, const char *what, lua_Debug *ar)</div></div>
 <div class="ttc" id="lua_8h_html_a5d903983f1497b2fc58fba9df09e354d"><div class="ttname"><a href="lua_8h.html#a5d903983f1497b2fc58fba9df09e354d">lua_close</a></div><div class="ttdeci">LUA_API void lua_close(lua_State *L)</div></div>
 <div class="ttc" id="lua_8h_html_a1281a7e2b52370cc416123bfd32b1b29"><div class="ttname"><a href="lua_8h.html#a1281a7e2b52370cc416123bfd32b1b29">lua_pushstring</a></div><div class="ttdeci">LUA_API void lua_pushstring(lua_State *L, const char *s)</div></div>
@@ -583,7 +580,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Feb 6 2016 16:23:20 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sat Feb 6 2016 17:14:30 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.10
 </small></address>

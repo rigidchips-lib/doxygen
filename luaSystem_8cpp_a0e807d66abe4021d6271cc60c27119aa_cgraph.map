@@ -1,5 +1,4 @@
 <map id="luaApplyForceObj" name="luaApplyForceObj">
-<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="227,5,266,32"/>
-<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="197,56,297,83"/>
-<area shape="rect" id="node4" href="$classGRigid.html#af9fdbdc56da813c18c80b00396a06bd4" title="GRigid::ApplyForce" alt="" coords="179,107,315,133"/>
+<area shape="rect" id="node2" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="197,5,297,32"/>
+<area shape="rect" id="node3" href="$classGRigid.html#af9fdbdc56da813c18c80b00396a06bd4" title="GRigid::ApplyForce" alt="" coords="179,56,315,83"/>
 </map>

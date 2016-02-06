@@ -1,6 +1,5 @@
 <map id="AttackDataDisp" name="AttackDataDisp">
-<area shape="rect" id="node2" href="$classGWorld.html#a2550468cde750215e806d507ce6c1b59" title="GWorld::Move" alt="" coords="339,5,446,32"/>
-<area shape="rect" id="node4" href="$Rigidmain_8cpp.html#ac31c8123fc1c6ddfaf2aca992b0ea14e" title="MyReceiveFunc" alt="" coords="168,56,285,83"/>
-<area shape="rect" id="node3" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="500,23,649,65"/>
-<area shape="rect" id="node5" href="$Rigidmain_8cpp.html#a07045712c49a413d8b80c094cdb16d36" title="DlgNetworkProc" alt="" coords="333,56,452,83"/>
+<area shape="rect" id="node2" href="$Rigidmain_8cpp.html#ac31c8123fc1c6ddfaf2aca992b0ea14e" title="MyReceiveFunc" alt="" coords="168,13,285,39"/>
+<area shape="rect" id="node3" href="$Rigidmain_8cpp.html#a07045712c49a413d8b80c094cdb16d36" title="DlgNetworkProc" alt="" coords="333,13,452,39"/>
+<area shape="rect" id="node4" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="500,5,649,47"/>
 </map>

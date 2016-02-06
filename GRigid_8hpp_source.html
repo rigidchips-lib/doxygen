@@ -38,7 +38,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -438,7 +437,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00351"></a><span class="lineno">  351</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classGWorld.html#a2550468cde750215e806d507ce6c1b59">Move</a>(<span class="keywordtype">bool</span> initFlag);</div>
 <div class="line"><a name="l00352"></a><span class="lineno">  352</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classGWorld.html#abe243e8709149b2ce5a9fa68f48a3157">Check</a>(<a class="code" href="classGRigid.html">GRigid</a> *rigid);</div>
 <div class="line"><a name="l00353"></a><span class="lineno">  353</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classGWorld.html#a9992778c93106d3003f4457d81e3e796">CheckObject</a>(<a class="code" href="classGRigid.html">GRigid</a> *rigid);</div>
-<div class="line"><a name="l00354"></a><span class="lineno">  354</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classGWorld.html#aec88bf97d96280ef07925d7f6327dc63">Disp</a>(<a class="code" href="dinput_8h.html#aa329482e9480267b328989972b606a2b">BOOL</a> net);</div>
+<div class="line"><a name="l00354"></a><span class="lineno">  354</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classGWorld.html#aec88bf97d96280ef07925d7f6327dc63">Disp</a>(BOOL net);</div>
 <div class="line"><a name="l00355"></a><span class="lineno">  355</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classGWorld.html#ab7d4e9d85c8bb394acd324731d6e58e2">Disp2</a>();</div>
 <div class="line"><a name="l00356"></a><span class="lineno">  356</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classGWorld.html#ad51f0f20707c5200599cd8382136761e">DispNetChip</a>(<span class="keywordtype">int</span> n);</div>
 <div class="line"><a name="l00357"></a><span class="lineno">  357</span>&#160;        <span class="keywordtype">void</span> <a class="code" href="classGWorld.html#a6aef2018f1cf5ab7d8c46ad0b4c54a14">DispNetChipInfo</a>(<span class="keywordtype">int</span> n,<span class="keywordtype">float</span> z);</div>
@@ -663,7 +662,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="ttc" id="classGRigid_html_a71328daedd6140598b9cd868b0f66dbf"><div class="ttname"><a href="classGRigid.html#a71328daedd6140598b9cd868b0f66dbf">GRigid::preX</a></div><div class="ttdeci">GVector preX</div><div class="ttdef"><b>Definition:</b> GRigid.hpp:155</div></div>
 <div class="ttc" id="classGRigid_html_a400f731ee0d60f86c3ba8e85076b979e"><div class="ttname"><a href="classGRigid.html#a400f731ee0d60f86c3ba8e85076b979e">GRigid::Ux</a></div><div class="ttdeci">GFloat Ux</div><div class="ttdef"><b>Definition:</b> GRigid.hpp:172</div></div>
 <div class="ttc" id="classGWorld_html_af56c7c5c4b2fef61a6ad4320c332b975"><div class="ttname"><a href="classGWorld.html#af56c7c5c4b2fef61a6ad4320c332b975">GWorld::RecObject</a></div><div class="ttdeci">GRigid * RecObject[GOBJMAX]</div><div class="ttdef"><b>Definition:</b> GRigid.hpp:325</div></div>
-<div class="ttc" id="dinput_8h_html_aa329482e9480267b328989972b606a2b"><div class="ttname"><a href="dinput_8h.html#aa329482e9480267b328989972b606a2b">BOOL</a></div><div class="ttdeci">typedef BOOL(FAR PASCAL *LPDIENUMEFFECTSINFILECALLBACK)(LPCDIFILEEFFECT</div></div>
 <div class="ttc" id="classGRigid_html_a87d10e32731b2d58eefd04afbefcb656"><div class="ttname"><a href="classGRigid.html#a87d10e32731b2d58eefd04afbefcb656">GRigid::TotalCenter</a></div><div class="ttdeci">GVector TotalCenter</div><div class="ttdef"><b>Definition:</b> GRigid.hpp:193</div></div>
 <div class="ttc" id="classGLink_html_ab481403b0085959b4a7e0f96adaf33ba"><div class="ttname"><a href="classGLink.html#ab481403b0085959b4a7e0f96adaf33ba">GLink::FrictionK</a></div><div class="ttdeci">GFloat FrictionK</div><div class="ttdef"><b>Definition:</b> GRigid.hpp:116</div></div>
 <div class="ttc" id="classGRigid_html_af03cabc1d3d7ff36bd02798a70c6cdfb"><div class="ttname"><a href="classGRigid.html#af03cabc1d3d7ff36bd02798a70c6cdfb">GRigid::Fuel</a></div><div class="ttdeci">double Fuel</div><div class="ttdef"><b>Definition:</b> GRigid.hpp:237</div></div>
@@ -737,7 +735,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Feb 6 2016 16:23:20 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sat Feb 6 2016 17:14:30 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.10
 </small></address>

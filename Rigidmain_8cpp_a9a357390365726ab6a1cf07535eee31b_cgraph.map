@@ -1,9 +1,6 @@
 <map id="Text3D" name="Text3D">
-<area shape="rect" id="node2" href="$d3dx8math_8h.html#a49567772f991e9ba77a8ffea5fd72851" title="D3DXMatrixIdentity" alt="" coords="139,5,277,32"/>
-<area shape="rect" id="node3" href="$d3dx8math_8h.html#ab5e66aa9e9f6ffc2eebba2ca6ad4e95d" title="D3DXMatrixTranslation" alt="" coords="129,56,287,83"/>
-<area shape="rect" id="node4" href="$d3dutil_8cpp.html#a806f565edd4f5a25695461d6e75c959d" title="D3DUtil_InitMaterial" alt="" coords="138,107,278,133"/>
-<area shape="rect" id="node5" href="$classCD3DFont.html#ab495328023bd4f2e9b60f7ba28e42129" title="CD3DFont::Render3DText" alt="" coords="119,157,297,184"/>
-<area shape="rect" id="node6" href="$classCD3DFont.html#aa5f4bc1163b3e32fb850888f18888bcf" title="CD3DFont::GetTextExtent" alt="" coords="345,132,524,159"/>
-<area shape="rect" id="node8" href="$d3dfont_8cpp.html#a782fd91ead553657e66e34170f5de59e" title="InitFont3DVertex" alt="" coords="374,183,495,209"/>
-<area shape="rect" id="node7" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="572,132,611,159"/>
+<area shape="rect" id="node2" href="$d3dutil_8cpp.html#a806f565edd4f5a25695461d6e75c959d" title="D3DUtil_InitMaterial" alt="" coords="138,5,278,32"/>
+<area shape="rect" id="node3" href="$classCD3DFont.html#ab495328023bd4f2e9b60f7ba28e42129" title="CD3DFont::Render3DText" alt="" coords="119,56,297,83"/>
+<area shape="rect" id="node4" href="$classCD3DFont.html#aa5f4bc1163b3e32fb850888f18888bcf" title="CD3DFont::GetTextExtent" alt="" coords="345,31,524,57"/>
+<area shape="rect" id="node5" href="$d3dfont_8cpp.html#a782fd91ead553657e66e34170f5de59e" title="InitFont3DVertex" alt="" coords="374,81,495,108"/>
 </map>

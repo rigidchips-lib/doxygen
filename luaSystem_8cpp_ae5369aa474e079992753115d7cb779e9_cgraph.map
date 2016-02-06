@@ -1,14 +1,13 @@
 <map id="luaRotate" name="luaRotate">
-<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="200,5,239,32"/>
-<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="169,56,269,83"/>
-<area shape="rect" id="node4" href="$classGMatrix.html#a13dea5e6d29e6dfda222eff49bcd0d9e" title="GMatrix::rotateX" alt="" coords="355,107,473,133"/>
-<area shape="rect" id="node6" href="$classGMatrix.html#ac851a11a24fd4158a2dd0ae2b48021a6" title="GMatrix::rotateY" alt="" coords="355,157,473,184"/>
-<area shape="rect" id="node7" href="$classGMatrix.html#ad507d6cc4126e0a5ed7b08c113dd5c59" title="GMatrix::rotateZ" alt="" coords="355,208,473,235"/>
-<area shape="rect" id="node8" href="$classGRigid.html#a2ba6953e89d539802f0546510485e443" title="GRigid::RotateWithChild" alt="" coords="136,283,303,309"/>
-<area shape="rect" id="node13" href="$classGRigid.html#a351b4035ee099462fd7bbd2bdf7a0ec9" title="GRigid::ResetXfWithChild" alt="" coords="132,357,307,384"/>
-<area shape="rect" id="node5" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="701,208,835,235"/>
-<area shape="rect" id="node9" href="$classGRigid.html#a4505061804f9e3aecc4cbfc197e465f5" title="GRigid::RSet" alt="" coords="364,309,464,336"/>
-<area shape="rect" id="node10" href="$classGMatrix.html#a3528c768b5af9b47a4c6611e68126b7e" title="GMatrix::translate" alt="" coords="524,309,651,336"/>
-<area shape="rect" id="node11" href="$classGMatrix.html#addc06ba53977b307e7bc7f2f0c79fdf8" title="GMatrix::quat" alt="" coords="537,360,638,387"/>
-<area shape="rect" id="node12" href="$classGMatrix33.html#a85a4c7e9e6b0a06fccb86834245f8e15" title="GMatrix33::inverse" alt="" coords="521,411,653,437"/>
+<area shape="rect" id="node2" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="169,5,269,32"/>
+<area shape="rect" id="node3" href="$classGMatrix.html#a13dea5e6d29e6dfda222eff49bcd0d9e" title="GMatrix::rotateX" alt="" coords="355,56,473,83"/>
+<area shape="rect" id="node5" href="$classGMatrix.html#ac851a11a24fd4158a2dd0ae2b48021a6" title="GMatrix::rotateY" alt="" coords="355,107,473,133"/>
+<area shape="rect" id="node6" href="$classGMatrix.html#ad507d6cc4126e0a5ed7b08c113dd5c59" title="GMatrix::rotateZ" alt="" coords="355,157,473,184"/>
+<area shape="rect" id="node7" href="$classGRigid.html#a2ba6953e89d539802f0546510485e443" title="GRigid::RotateWithChild" alt="" coords="136,232,303,259"/>
+<area shape="rect" id="node12" href="$classGRigid.html#a351b4035ee099462fd7bbd2bdf7a0ec9" title="GRigid::ResetXfWithChild" alt="" coords="132,307,307,333"/>
+<area shape="rect" id="node4" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="701,157,835,184"/>
+<area shape="rect" id="node8" href="$classGRigid.html#a4505061804f9e3aecc4cbfc197e465f5" title="GRigid::RSet" alt="" coords="364,259,464,285"/>
+<area shape="rect" id="node9" href="$classGMatrix.html#a3528c768b5af9b47a4c6611e68126b7e" title="GMatrix::translate" alt="" coords="524,259,651,285"/>
+<area shape="rect" id="node10" href="$classGMatrix.html#addc06ba53977b307e7bc7f2f0c79fdf8" title="GMatrix::quat" alt="" coords="537,309,638,336"/>
+<area shape="rect" id="node11" href="$classGMatrix33.html#a85a4c7e9e6b0a06fccb86834245f8e15" title="GMatrix33::inverse" alt="" coords="521,360,653,387"/>
 </map>

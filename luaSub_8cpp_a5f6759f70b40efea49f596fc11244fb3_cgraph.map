@@ -1,8 +1,7 @@
 <map id="luaUnLinkBye" name="luaUnLinkBye">
-<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="205,5,243,32"/>
-<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="174,56,274,83"/>
-<area shape="rect" id="node4" href="$lua_8h.html#a328625a03fbb5548f27b1af10f109f6a" title="lua_pushnumber" alt="" coords="165,107,283,133"/>
-<area shape="rect" id="node5" href="$classGWorld.html#a1c23ccfc546fb8eda9e8c85296ffb86b" title="GWorld::DeleteLink" alt="" coords="156,157,292,184"/>
-<area shape="rect" id="node6" href="$classGWorld.html#a052c6cb8342645dd29e42bb0972865c9" title="GWorld::DeleteLinkSub" alt="" coords="340,120,499,147"/>
-<area shape="rect" id="node7" href="$classGRigid.html#aa7a1ba146c9ff59b115d1aeec5414ea5" title="GRigid::CalcTotalFuel" alt="" coords="344,195,495,221"/>
+<area shape="rect" id="node2" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="174,5,274,32"/>
+<area shape="rect" id="node3" href="$lua_8h.html#a328625a03fbb5548f27b1af10f109f6a" title="lua_pushnumber" alt="" coords="165,56,283,83"/>
+<area shape="rect" id="node4" href="$classGWorld.html#a1c23ccfc546fb8eda9e8c85296ffb86b" title="GWorld::DeleteLink" alt="" coords="156,107,292,133"/>
+<area shape="rect" id="node5" href="$classGWorld.html#a052c6cb8342645dd29e42bb0972865c9" title="GWorld::DeleteLinkSub" alt="" coords="340,69,499,96"/>
+<area shape="rect" id="node6" href="$classGRigid.html#aa7a1ba146c9ff59b115d1aeec5414ea5" title="GRigid::CalcTotalFuel" alt="" coords="344,144,495,171"/>
 </map>

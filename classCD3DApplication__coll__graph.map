@@ -1,11 +1,5 @@
 <map id="CD3DApplication" name="CD3DApplication">
-<area shape="rect" id="node2" href="$struct__D3DSURFACE__DESC.html" title="{_D3DSURFACE_DESC\n|+ Usage\l+ Size\l+ Width\l+ Height\l+ MultiSampleQuality\l|}" alt="" coords="5,711,172,847"/>
-<area shape="rect" id="node3" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="359,132,565,356"/>
-<area shape="rect" id="node5" href="$struct__D3DCAPS8.html" title="{_D3DCAPS8\n|+ AdapterOrdinal\l+ Caps\l+ Caps2\l+ Caps3\l+ PresentationIntervals\l+ CursorCaps\l+ DevCaps\l+ PrimitiveMiscCaps\l+ RasterCaps\l+ ZCmpCaps\land 42 more...\l|}" alt="" coords="786,463,943,687"/>
-<area shape="rect" id="node6" href="$struct__D3DPRESENT__PARAMETERS__.html" title="{_D3DPRESENT_PARAMETERS_\n|+ BackBufferWidth\l+ BackBufferHeight\l+ BackBufferCount\l+ hDeviceWindow\l+ Windowed\l+ EnableAutoDepthStencil\l+ Flags\l+ FullScreen_RefreshRateInHz\l+ FullScreen_PresentationInterval\l+ MultiSampleQuality\l+ PresentationInterval\l|}" alt="" coords="267,1104,494,1328"/>
-<area shape="rect" id="node9" href="$struct__D3DDISPLAYMODE.html" title="{_D3DDISPLAYMODE\n|+ Width\l+ Height\l+ RefreshRate\l|}" alt="" coords="665,725,819,832"/>
-<area shape="rect" id="node10" href="$structD3DDeviceInfo.html" title="{D3DDeviceInfo\n|+ strDesc\l+ bCanDoWindowed\l+ dwNumModes\l+ dwCurrentMode\l+ bWindowed\l|}" alt="" coords="365,907,508,1043"/>
-<area shape="rect" id="node11" href="$structD3DModeInfo.html" title="{D3DModeInfo\n|+ Width\l+ Height\l+ dwBehavior\l|}" alt="" coords="385,521,488,628"/>
-<area shape="rect" id="node7" href="$structD3DAdapterInfo.html" title="{D3DAdapterInfo\n|+ dwNumDevices\l+ dwCurrentDevice\l|}" alt="" coords="521,1352,656,1444"/>
-<area shape="rect" id="node8" href="$struct__D3DADAPTER__IDENTIFIER8.html" title="{_D3DADAPTER_IDENTIFIER8\n|+ Driver\l+ Description\l+ DriverVersionLowPart\l+ DriverVersionHighPart\l+ VendorId\l+ DeviceId\l+ SubSysId\l+ Revision\l+ DeviceIdentifier\l+ WHQLLevel\l|}" alt="" coords="531,871,742,1080"/>
+<area shape="rect" id="node2" href="$structD3DAdapterInfo.html" title="{D3DAdapterInfo\n|+ d3dAdapterIdentifier\l+ d3ddmDesktop\l+ dwNumDevices\l+ dwCurrentDevice\l|}" alt="" coords="28,461,179,583"/>
+<area shape="rect" id="node3" href="$structD3DDeviceInfo.html" title="{D3DDeviceInfo\n|+ DeviceType\l+ d3dCaps\l+ strDesc\l+ bCanDoWindowed\l+ dwNumModes\l+ dwCurrentMode\l+ bWindowed\l+ MultiSampleTypeWindowed\l+ MultiSampleTypeFullscreen\l|}" alt="" coords="5,204,201,399"/>
+<area shape="rect" id="node4" href="$structD3DModeInfo.html" title="{D3DModeInfo\n|+ Width\l+ Height\l+ Format\l+ dwBehavior\l+ DepthStencilFormat\l|}" alt="" coords="28,5,179,141"/>
 </map>

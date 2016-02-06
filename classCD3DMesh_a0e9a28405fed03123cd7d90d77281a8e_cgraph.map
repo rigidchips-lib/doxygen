@@ -1,9 +1,6 @@
 <map id="CD3DMesh::Create" name="CD3DMesh::Create">
-<area shape="rect" id="node2" href="$d3dx8mesh_8h.html#a19b4bf46b334bf63c1a84796f66d02c1" title="D3DXLoadMeshFromXof" alt="" coords="204,5,372,32"/>
-<area shape="rect" id="node3" href="$dxutil_8cpp.html#a26dc15acb3eb7e5351182a728b92a9cf" title="DXUtil_ConvertAnsiString\lToGeneric" alt="" coords="201,57,375,98"/>
-<area shape="rect" id="node6" href="$dxutil_8cpp.html#a8e4c51efaa4308f227b193be9fdcf484" title="DXUtil_FindMediaFile" alt="" coords="213,123,363,149"/>
-<area shape="rect" id="node8" href="$d3dxcore_8h.html#a7079c5ffc24b6150a60758b0f06b05bc" title="D3DXCreateTextureFromFile" alt="" coords="192,173,384,200"/>
-<area shape="rect" id="node4" href="$dxutil_8cpp.html#aa549b5fa7ca1fa359d01a0e0bc3520ac" title="DXUtil_ConvertAnsiString\lToWide" alt="" coords="444,57,619,98"/>
-<area shape="rect" id="node5" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="679,64,717,91"/>
-<area shape="rect" id="node7" href="$dxutil_8cpp.html#acabb8a23336e0f7310fcdd9041596d48" title="DXUtil_GetDXSDKMediaPath" alt="" coords="432,123,631,149"/>
+<area shape="rect" id="node2" href="$dxutil_8cpp.html#a26dc15acb3eb7e5351182a728b92a9cf" title="DXUtil_ConvertAnsiString\lToGeneric" alt="" coords="192,5,367,47"/>
+<area shape="rect" id="node4" href="$dxutil_8cpp.html#a8e4c51efaa4308f227b193be9fdcf484" title="DXUtil_FindMediaFile" alt="" coords="205,71,354,98"/>
+<area shape="rect" id="node3" href="$dxutil_8cpp.html#aa549b5fa7ca1fa359d01a0e0bc3520ac" title="DXUtil_ConvertAnsiString\lToWide" alt="" coords="427,5,601,47"/>
+<area shape="rect" id="node5" href="$dxutil_8cpp.html#acabb8a23336e0f7310fcdd9041596d48" title="DXUtil_GetDXSDKMediaPath" alt="" coords="415,71,613,98"/>
 </map>

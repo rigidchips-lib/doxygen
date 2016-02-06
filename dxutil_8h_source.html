@@ -38,7 +38,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -110,7 +109,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="comment">//       during the SDK install.</span></div>
 <div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;<span class="comment">//-----------------------------------------------------------------------------</span></div>
 <div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="keyword">const</span> TCHAR* <a class="code" href="dxutil_8h.html#acabb8a23336e0f7310fcdd9041596d48">DXUtil_GetDXSDKMediaPath</a>();</div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;<a class="code" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>      <a class="code" href="dxutil_8h.html#a8e4c51efaa4308f227b193be9fdcf484">DXUtil_FindMediaFile</a>( TCHAR* strPath, TCHAR* strFilename );</div>
+<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;HRESULT      <a class="code" href="dxutil_8h.html#a8e4c51efaa4308f227b193be9fdcf484">DXUtil_FindMediaFile</a>( TCHAR* strPath, TCHAR* strFilename );</div>
 <div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;</div>
 <div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;</div>
 <div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;</div>
@@ -119,15 +118,15 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;<span class="comment">// Name: DXUtil_Read*RegKey() and DXUtil_Write*RegKey()</span></div>
 <div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="comment">// Desc: Helper functions to read/write a string registry key </span></div>
 <div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;<span class="comment">//-----------------------------------------------------------------------------</span></div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;<a class="code" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> <a class="code" href="dxutil_8h.html#ac2a1cab4bfd65c3f453b366e82a5f937">DXUtil_WriteStringRegKey</a>( HKEY hKey, TCHAR* strRegName, TCHAR* strValue );</div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;<a class="code" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> <a class="code" href="dxutil_8h.html#ab627c4e2ccc8c6fd572d8b5ec13614ed">DXUtil_WriteIntRegKey</a>( HKEY hKey, TCHAR* strRegName, <a class="code" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> dwValue );</div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;<a class="code" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> <a class="code" href="dxutil_8h.html#a0965bbfc441a0956edf27f9d11431ef0">DXUtil_WriteGuidRegKey</a>( HKEY hKey, TCHAR* strRegName, GUID guidValue );</div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;<a class="code" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> <a class="code" href="dxutil_8h.html#a16fb3a3b6d9acb790c27e7741e618775">DXUtil_WriteBoolRegKey</a>( HKEY hKey, TCHAR* strRegName, <a class="code" href="dinput_8h.html#aa329482e9480267b328989972b606a2b">BOOL</a> bValue );</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;HRESULT <a class="code" href="dxutil_8h.html#ac2a1cab4bfd65c3f453b366e82a5f937">DXUtil_WriteStringRegKey</a>( HKEY hKey, TCHAR* strRegName, TCHAR* strValue );</div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;HRESULT <a class="code" href="dxutil_8h.html#ab627c4e2ccc8c6fd572d8b5ec13614ed">DXUtil_WriteIntRegKey</a>( HKEY hKey, TCHAR* strRegName, DWORD dwValue );</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;HRESULT <a class="code" href="dxutil_8h.html#a0965bbfc441a0956edf27f9d11431ef0">DXUtil_WriteGuidRegKey</a>( HKEY hKey, TCHAR* strRegName, GUID guidValue );</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;HRESULT <a class="code" href="dxutil_8h.html#a16fb3a3b6d9acb790c27e7741e618775">DXUtil_WriteBoolRegKey</a>( HKEY hKey, TCHAR* strRegName, BOOL bValue );</div>
 <div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;</div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;<a class="code" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> <a class="code" href="dxutil_8h.html#a867ebdf3cc614bf21df1ee5ab2fdbb83">DXUtil_ReadStringRegKey</a>( HKEY hKey, TCHAR* strRegName, TCHAR* strValue, <a class="code" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> dwLength, TCHAR* strDefault );</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;<a class="code" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> <a class="code" href="dxutil_8h.html#a088b5b0df6e839c5f9e34ab49b82052f">DXUtil_ReadIntRegKey</a>( HKEY hKey, TCHAR* strRegName, <a class="code" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>* pdwValue, <a class="code" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a> dwDefault );</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;<a class="code" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> <a class="code" href="dxutil_8h.html#acc7e55c0c174acc475171f744ca21409">DXUtil_ReadGuidRegKey</a>( HKEY hKey, TCHAR* strRegName, GUID* pGuidValue, GUID&amp; guidDefault );</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;<a class="code" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> <a class="code" href="dxutil_8h.html#a8735795e8bf1d261886e5a90ab1ef1ba">DXUtil_ReadBoolRegKey</a>( HKEY hKey, TCHAR* strRegName, <a class="code" href="dinput_8h.html#aa329482e9480267b328989972b606a2b">BOOL</a>* pbValue, <a class="code" href="dinput_8h.html#aa329482e9480267b328989972b606a2b">BOOL</a> bDefault );</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;HRESULT <a class="code" href="dxutil_8h.html#a867ebdf3cc614bf21df1ee5ab2fdbb83">DXUtil_ReadStringRegKey</a>( HKEY hKey, TCHAR* strRegName, TCHAR* strValue, DWORD dwLength, TCHAR* strDefault );</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;HRESULT <a class="code" href="dxutil_8h.html#a088b5b0df6e839c5f9e34ab49b82052f">DXUtil_ReadIntRegKey</a>( HKEY hKey, TCHAR* strRegName, DWORD* pdwValue, DWORD dwDefault );</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;HRESULT <a class="code" href="dxutil_8h.html#acc7e55c0c174acc475171f744ca21409">DXUtil_ReadGuidRegKey</a>( HKEY hKey, TCHAR* strRegName, GUID* pGuidValue, GUID&amp; guidDefault );</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;HRESULT <a class="code" href="dxutil_8h.html#a8735795e8bf1d261886e5a90ab1ef1ba">DXUtil_ReadBoolRegKey</a>( HKEY hKey, TCHAR* strRegName, BOOL* pbValue, BOOL bDefault );</div>
 <div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;</div>
 <div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;</div>
 <div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;</div>
@@ -168,7 +167,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00081"></a><span class="lineno">   81</span>&#160;<span class="comment">// GUID to String converting </span></div>
 <div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;<span class="comment">//-----------------------------------------------------------------------------</span></div>
 <div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;VOID <a class="code" href="dxutil_8h.html#a367475797b3e4e0af628fdb2e2488bf7">DXUtil_ConvertGUIDToString</a>( <span class="keyword">const</span> GUID* pGuidIn, TCHAR* strOut );</div>
-<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;<a class="code" href="dinput_8h.html#aa329482e9480267b328989972b606a2b">BOOL</a> <a class="code" href="dxutil_8h.html#ac5e6f3fdaa2aa173c7bf2e113a717770">DXUtil_ConvertStringToGUID</a>( <span class="keyword">const</span> TCHAR* strIn, GUID* pGuidOut );</div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;BOOL <a class="code" href="dxutil_8h.html#ac5e6f3fdaa2aa173c7bf2e113a717770">DXUtil_ConvertStringToGUID</a>( <span class="keyword">const</span> TCHAR* strIn, GUID* pGuidOut );</div>
 <div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160;</div>
 <div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160;</div>
 <div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;</div>
@@ -177,7 +176,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;<span class="comment">// Debug printing support</span></div>
 <div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;<span class="comment">//-----------------------------------------------------------------------------</span></div>
 <div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;VOID    <a class="code" href="dxutil_8h.html#ab65b723c5326bc7defd9f2ebdebf86bd">DXUtil_Trace</a>( TCHAR* strMsg, ... );</div>
-<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;<a class="code" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a> <a class="code" href="dxutil_8h.html#afc2f583912465d52c2c3feffe97f9b52">_DbgOut</a>( TCHAR*, <a class="code" href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a>, <a class="code" href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a>, TCHAR* );</div>
+<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;HRESULT <a class="code" href="dxutil_8h.html#afc2f583912465d52c2c3feffe97f9b52">_DbgOut</a>( TCHAR*, DWORD, HRESULT, TCHAR* );</div>
 <div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;</div>
 <div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;<span class="preprocessor">#if defined(DEBUG) | defined(_DEBUG)</span></div>
 <div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;<span class="preprocessor">    #define DXTRACE           DXUtil_Trace</span></div>
@@ -195,7 +194,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="line"><a name="l00108"></a><span class="lineno">  108</span>&#160;</div>
 <div class="line"><a name="l00109"></a><span class="lineno">  109</span>&#160;</div>
 <div class="line"><a name="l00110"></a><span class="lineno">  110</span>&#160;<span class="preprocessor">#endif // DXUTIL_H</span></div>
-<div class="ttc" id="medparam_8idl_html_a50e15ae51c87ae06ab29c8148cb5f36c"><div class="ttname"><a href="medparam_8idl.html#a50e15ae51c87ae06ab29c8148cb5f36c">DWORD</a></div><div class="ttdeci">DWORD DWORD</div><div class="ttdef"><b>Definition:</b> medparam.idl:88</div></div>
 <div class="ttc" id="dxutil_8h_html_ae63969cdfab0e72381777237762378ada48469a5b94c8112e6308b66c14287f3e"><div class="ttname"><a href="dxutil_8h.html#ae63969cdfab0e72381777237762378ada48469a5b94c8112e6308b66c14287f3e">TIMER_ADVANCE</a></div><div class="ttdef"><b>Definition:</b> dxutil.h:60</div></div>
 <div class="ttc" id="dxutil_8h_html_a8e4c51efaa4308f227b193be9fdcf484"><div class="ttname"><a href="dxutil_8h.html#a8e4c51efaa4308f227b193be9fdcf484">DXUtil_FindMediaFile</a></div><div class="ttdeci">HRESULT DXUtil_FindMediaFile(TCHAR *strPath, TCHAR *strFilename)</div><div class="ttdef"><b>Definition:</b> dxutil.cpp:56</div></div>
 <div class="ttc" id="dxutil_8h_html_ae63969cdfab0e72381777237762378adabf97185a8b0c24a9c74598cebb04f10e"><div class="ttname"><a href="dxutil_8h.html#ae63969cdfab0e72381777237762378adabf97185a8b0c24a9c74598cebb04f10e">TIMER_GETAPPTIME</a></div><div class="ttdef"><b>Definition:</b> dxutil.h:61</div></div>
@@ -217,9 +215,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="ttc" id="dxutil_8h_html_a9c3dbacf65dc11dad19af5102a900097"><div class="ttname"><a href="dxutil_8h.html#a9c3dbacf65dc11dad19af5102a900097">DXUtil_ConvertWideStringToAnsi</a></div><div class="ttdeci">VOID DXUtil_ConvertWideStringToAnsi(CHAR *strDestination, const WCHAR *wstrSource, int cchDestChar=-1)</div><div class="ttdef"><b>Definition:</b> dxutil.cpp:480</div></div>
 <div class="ttc" id="dxutil_8h_html_a824a2170ae65ba957003fb8723d2c1a3"><div class="ttname"><a href="dxutil_8h.html#a824a2170ae65ba957003fb8723d2c1a3">DXUtil_Timer</a></div><div class="ttdeci">FLOAT __stdcall DXUtil_Timer(TIMER_COMMAND command)</div><div class="ttdef"><b>Definition:</b> dxutil.cpp:275</div></div>
 <div class="ttc" id="dxutil_8h_html_acc7e55c0c174acc475171f744ca21409"><div class="ttname"><a href="dxutil_8h.html#acc7e55c0c174acc475171f744ca21409">DXUtil_ReadGuidRegKey</a></div><div class="ttdeci">HRESULT DXUtil_ReadGuidRegKey(HKEY hKey, TCHAR *strRegName, GUID *pGuidValue, GUID &amp;guidDefault)</div><div class="ttdef"><b>Definition:</b> dxutil.cpp:229</div></div>
-<div class="ttc" id="ddraw_8h_html_a47da19e2d1dc81e8e185a0f65c27d463"><div class="ttname"><a href="ddraw_8h.html#a47da19e2d1dc81e8e185a0f65c27d463">HRESULT</a></div><div class="ttdeci">long HRESULT</div><div class="ttdef"><b>Definition:</b> ddraw.h:211</div></div>
 <div class="ttc" id="dxutil_8h_html_ae63969cdfab0e72381777237762378ad"><div class="ttname"><a href="dxutil_8h.html#ae63969cdfab0e72381777237762378ad">TIMER_COMMAND</a></div><div class="ttdeci">TIMER_COMMAND</div><div class="ttdef"><b>Definition:</b> dxutil.h:60</div></div>
-<div class="ttc" id="dinput_8h_html_aa329482e9480267b328989972b606a2b"><div class="ttname"><a href="dinput_8h.html#aa329482e9480267b328989972b606a2b">BOOL</a></div><div class="ttdeci">typedef BOOL(FAR PASCAL *LPDIENUMEFFECTSINFILECALLBACK)(LPCDIFILEEFFECT</div></div>
 <div class="ttc" id="dxutil_8h_html_a6b10e9b6b569cc5dcb72b60054cd523d"><div class="ttname"><a href="dxutil_8h.html#a6b10e9b6b569cc5dcb72b60054cd523d">DXUtil_ConvertWideStringToGeneric</a></div><div class="ttdeci">VOID DXUtil_ConvertWideStringToGeneric(TCHAR *tstrDestination, const WCHAR *wstrSource, int cchDestChar=-1)</div><div class="ttdef"><b>Definition:</b> dxutil.cpp:594</div></div>
 <div class="ttc" id="dxutil_8h_html_ae63969cdfab0e72381777237762378adaa27c1dc790bec3a67554e5fc0750edcc"><div class="ttname"><a href="dxutil_8h.html#ae63969cdfab0e72381777237762378adaa27c1dc790bec3a67554e5fc0750edcc">TIMER_GETELAPSEDTIME</a></div><div class="ttdef"><b>Definition:</b> dxutil.h:61</div></div>
 <div class="ttc" id="dxutil_8h_html_ae63969cdfab0e72381777237762378ada254c089456f24c6925c55a26ba4fbe7f"><div class="ttname"><a href="dxutil_8h.html#ae63969cdfab0e72381777237762378ada254c089456f24c6925c55a26ba4fbe7f">TIMER_STOP</a></div><div class="ttdef"><b>Definition:</b> dxutil.h:60</div></div>
@@ -230,7 +226,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 </div><!-- fragment --></div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Feb 6 2016 16:23:20 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sat Feb 6 2016 17:14:30 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.10
 </small></address>

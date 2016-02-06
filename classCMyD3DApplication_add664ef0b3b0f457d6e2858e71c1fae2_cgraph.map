@@ -1,11 +1,8 @@
 <map id="CMyD3DApplication::ViewSet" name="CMyD3DApplication::ViewSet">
-<area shape="rect" id="node2" href="$classGVector.html#afd533645529dd10186ab58468c04f1d8" title="GVector::abs" alt="" coords="475,17,573,44"/>
-<area shape="rect" id="node3" href="$classGVector.html#a5cffac9770812707863850f550308ebf" title="GVector::normalize2" alt="" coords="233,42,375,69"/>
-<area shape="rect" id="node4" href="$classGMatrix.html#a2a41c0c2ce0bfe2542d16f48bcb6c1a1" title="GMatrix::rotate" alt="" coords="249,93,359,120"/>
-<area shape="rect" id="node6" href="$d3dx8math_8h.html#a63979c0cfd64230fbb48213fc3c2e457" title="D3DXMatrixPerspectiveFovLH" alt="" coords="203,144,405,170"/>
-<area shape="rect" id="node7" href="$d3dx8math_8h.html#aeae291615af267a281e7bc447e52db46" title="D3DXMatrixLookAtLH" alt="" coords="228,194,380,221"/>
-<area shape="rect" id="node8" href="$d3dx8math_8h.html#a49567772f991e9ba77a8ffea5fd72851" title="D3DXMatrixIdentity" alt="" coords="235,245,373,272"/>
-<area shape="rect" id="node9" href="$classCMyD3DApplication.html#a6c5b72a67d1922d6945f9580a370c549" title="CMyD3DApplication::\lRenderSky" alt="" coords="229,296,379,338"/>
-<area shape="rect" id="node5" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="457,93,591,120"/>
-<area shape="rect" id="node10" href="$classCD3DMesh.html#a530a2e29e029d7d90de48913202c0eb7" title="CD3DMesh::Render" alt="" coords="453,304,595,330"/>
+<area shape="rect" id="node2" href="$classGVector.html#afd533645529dd10186ab58468c04f1d8" title="GVector::abs" alt="" coords="421,5,520,32"/>
+<area shape="rect" id="node3" href="$classGVector.html#a5cffac9770812707863850f550308ebf" title="GVector::normalize2" alt="" coords="207,31,348,57"/>
+<area shape="rect" id="node4" href="$classGMatrix.html#a2a41c0c2ce0bfe2542d16f48bcb6c1a1" title="GMatrix::rotate" alt="" coords="223,81,332,108"/>
+<area shape="rect" id="node6" href="$classCMyD3DApplication.html#a6c5b72a67d1922d6945f9580a370c549" title="CMyD3DApplication::\lRenderSky" alt="" coords="203,133,352,174"/>
+<area shape="rect" id="node5" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="404,81,537,108"/>
+<area shape="rect" id="node7" href="$classCD3DMesh.html#a530a2e29e029d7d90de48913202c0eb7" title="CD3DMesh::Render" alt="" coords="400,140,541,167"/>
 </map>

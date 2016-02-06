@@ -1,5 +1,3 @@
 <map id="line2D" name="line2D">
-<area shape="rect" id="node2" href="$script_8cpp.html#a5dcc3407cfc03c69a3ee01d1d794220d" title="Line2D" alt="" coords="112,31,175,57"/>
-<area shape="rect" id="node3" href="$d3dx8math_8h.html#aa7158ca7f8e39044c57404b947edec27" title="D3DXMatrixInverse" alt="" coords="223,5,360,32"/>
-<area shape="rect" id="node4" href="$d3dx8math_8h.html#aba6acbf270a72df374808960082fcd53" title="D3DXMatrixScaling" alt="" coords="223,56,360,83"/>
+<area shape="rect" id="node2" href="$script_8cpp.html#a5dcc3407cfc03c69a3ee01d1d794220d" title="Line2D" alt="" coords="112,5,175,32"/>
 </map>

@@ -2,9 +2,8 @@
 <area shape="rect" id="node2" href="$classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="240,5,455,47"/>
 <area shape="rect" id="node3" href="$classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="260,71,435,112"/>
 <area shape="rect" id="node4" href="$d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="259,137,435,163"/>
-<area shape="rect" id="node6" href="$classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="252,188,443,229"/>
-<area shape="rect" id="node7" href="$classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="259,253,436,295"/>
-<area shape="rect" id="node8" href="$classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="254,319,441,360"/>
-<area shape="rect" id="node9" href="$classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="242,384,453,425"/>
-<area shape="rect" id="node5" href="$dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="503,137,561,163"/>
+<area shape="rect" id="node5" href="$classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="252,188,443,229"/>
+<area shape="rect" id="node6" href="$classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="259,253,436,295"/>
+<area shape="rect" id="node7" href="$classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="254,319,441,360"/>
+<area shape="rect" id="node8" href="$classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="242,384,453,425"/>
 </map>

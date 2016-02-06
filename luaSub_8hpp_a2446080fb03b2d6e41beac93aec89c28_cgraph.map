@@ -1,6 +1,5 @@
 <map id="luaGetPlayerName" name="luaGetPlayerName">
-<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="251,5,289,32"/>
-<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="220,56,320,83"/>
-<area shape="rect" id="node4" href="$classGDPlay.html#afd689e055de4e62bf3a5978cd71b4951" title="GDPlay::GetNumPlayers" alt="" coords="185,107,355,133"/>
-<area shape="rect" id="node5" href="$lua_8h.html#a1281a7e2b52370cc416123bfd32b1b29" title="lua_pushstring" alt="" coords="217,157,323,184"/>
+<area shape="rect" id="node2" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="220,5,320,32"/>
+<area shape="rect" id="node3" href="$classGDPlay.html#afd689e055de4e62bf3a5978cd71b4951" title="GDPlay::GetNumPlayers" alt="" coords="185,56,355,83"/>
+<area shape="rect" id="node4" href="$lua_8h.html#a1281a7e2b52370cc416123bfd32b1b29" title="lua_pushstring" alt="" coords="217,107,323,133"/>
 </map>

@@ -1,6 +1,5 @@
 <map id="getY" name="getY">
 <area shape="rect" id="node2" href="$classGLand.html#a7a9e36c8a2ed20fd785bd4e845287f58" title="GLand::GetY2" alt="" coords="103,31,208,57"/>
-<area shape="rect" id="node6" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="136,81,175,108"/>
 <area shape="rect" id="node3" href="$classGVector.html#a96b6e19c04d39afa5e1917df64b54891" title="GVector::pointOnFaceAndLine" alt="" coords="256,5,455,32"/>
 <area shape="rect" id="node5" href="$classGVector.html#a9edcde2278c60915aa7470514d3168fb" title="GVector::distanceFromFace" alt="" coords="262,56,449,83"/>
 <area shape="rect" id="node4" href="$classGVector.html#a43df893e25405cd83678f5d1dd427bfb" title="GVector::dot" alt="" coords="503,31,599,57"/>

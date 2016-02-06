@@ -1,14 +1,13 @@
 <map id="GMatrix33::rotate" name="GMatrix33::rotate">
 <area shape="rect" id="node2" href="$classGQuat.html#a25ce206376bfcf225940e3d2ebd8c154" title="GQuat::matrix33" alt="" coords="176,233,295,260"/>
 <area shape="rect" id="node3" href="$script_8cpp.html#ad6fb82ae389f66207e1e8032167a64b8" title="wx" alt="" coords="397,5,435,32"/>
-<area shape="rect" id="node5" href="$script_8cpp.html#a5cb491feadbfd2ee23af584838af18e8" title="wy" alt="" coords="397,56,435,83"/>
-<area shape="rect" id="node6" href="$script_8cpp.html#aa4071cf0583174a636d09724843fbbee" title="wz" alt="" coords="397,107,435,133"/>
-<area shape="rect" id="node7" href="$script_8cpp.html#ad63960ce462f4465775e335a3e3a4717" title="xx" alt="" coords="397,157,435,184"/>
-<area shape="rect" id="node8" href="$script_8cpp.html#a6cd7bb55861298e68d96d89e11c13dee" title="xy" alt="" coords="397,208,435,235"/>
-<area shape="rect" id="node9" href="$script_8cpp.html#a19f66714cf170dab1847f89036b6047b" title="xz" alt="" coords="397,259,435,285"/>
-<area shape="rect" id="node10" href="$script_8cpp.html#a7dcbe3f22f779bee3fcaa385a0414517" title="yy" alt="" coords="397,309,435,336"/>
-<area shape="rect" id="node11" href="$script_8cpp.html#a64789fb44e5aa88f7215fb8d9d45750c" title="yz" alt="" coords="397,360,435,387"/>
-<area shape="rect" id="node12" href="$script_8cpp.html#ac768ea347a71a9c7d0bf38d5e3f270c5" title="zz" alt="" coords="397,411,435,437"/>
-<area shape="rect" id="node13" href="$classGMatrix33.html#a353cb66a86a6060a9e90b73014b733dd" title="GMatrix33::transpose" alt="" coords="343,461,489,488"/>
-<area shape="rect" id="node4" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="537,208,576,235"/>
+<area shape="rect" id="node4" href="$script_8cpp.html#a5cb491feadbfd2ee23af584838af18e8" title="wy" alt="" coords="397,56,435,83"/>
+<area shape="rect" id="node5" href="$script_8cpp.html#aa4071cf0583174a636d09724843fbbee" title="wz" alt="" coords="397,107,435,133"/>
+<area shape="rect" id="node6" href="$script_8cpp.html#ad63960ce462f4465775e335a3e3a4717" title="xx" alt="" coords="397,157,435,184"/>
+<area shape="rect" id="node7" href="$script_8cpp.html#a6cd7bb55861298e68d96d89e11c13dee" title="xy" alt="" coords="397,208,435,235"/>
+<area shape="rect" id="node8" href="$script_8cpp.html#a19f66714cf170dab1847f89036b6047b" title="xz" alt="" coords="397,259,435,285"/>
+<area shape="rect" id="node9" href="$script_8cpp.html#a7dcbe3f22f779bee3fcaa385a0414517" title="yy" alt="" coords="397,309,435,336"/>
+<area shape="rect" id="node10" href="$script_8cpp.html#a64789fb44e5aa88f7215fb8d9d45750c" title="yz" alt="" coords="397,360,435,387"/>
+<area shape="rect" id="node11" href="$script_8cpp.html#ac768ea347a71a9c7d0bf38d5e3f270c5" title="zz" alt="" coords="397,411,435,437"/>
+<area shape="rect" id="node12" href="$classGMatrix33.html#a353cb66a86a6060a9e90b73014b733dd" title="GMatrix33::transpose" alt="" coords="343,461,489,488"/>
 </map>

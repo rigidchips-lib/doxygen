@@ -1,7 +1,6 @@
 <map id="CStreamingSound::Reset" name="CStreamingSound::Reset">
-<area shape="rect" id="node2" href="$dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="291,5,350,32"/>
-<area shape="rect" id="node3" href="$classCSound.html#ab74aca2529b37470e7dcb7bc4eadbdbc" title="CSound::RestoreBuffer" alt="" coords="465,56,624,83"/>
-<area shape="rect" id="node4" href="$classCSound.html#a5591cb7ebe3a9cb04e2a57fba3462510" title="CSound::FillBufferWithSound" alt="" coords="224,107,417,133"/>
-<area shape="rect" id="node5" href="$classCWaveFile.html#ae6791a066f89f5e147cc0f5d9f2dbdbc" title="CWaveFile::ResetFile" alt="" coords="469,157,620,184"/>
-<area shape="rect" id="node6" href="$classCWaveFile.html#a1eb28886c3d56d2ff278de51803cfe64" title="CWaveFile::Read" alt="" coords="481,107,608,133"/>
+<area shape="rect" id="node2" href="$classCSound.html#ab74aca2529b37470e7dcb7bc4eadbdbc" title="CSound::RestoreBuffer" alt="" coords="465,5,624,32"/>
+<area shape="rect" id="node3" href="$classCSound.html#a5591cb7ebe3a9cb04e2a57fba3462510" title="CSound::FillBufferWithSound" alt="" coords="224,56,417,83"/>
+<area shape="rect" id="node4" href="$classCWaveFile.html#ae6791a066f89f5e147cc0f5d9f2dbdbc" title="CWaveFile::ResetFile" alt="" coords="469,107,620,133"/>
+<area shape="rect" id="node5" href="$classCWaveFile.html#a1eb28886c3d56d2ff278de51803cfe64" title="CWaveFile::Read" alt="" coords="481,56,608,83"/>
 </map>

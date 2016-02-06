@@ -1,10 +1,4 @@
 <map id="GWorld::Disp" name="GWorld::Disp">
-<area shape="rect" id="node2" href="$classGRigid.html#ae7baabf0193410f6229bae722fa7cce7" title="GRigid::Disp" alt="" coords="155,157,252,184"/>
-<area shape="rect" id="node3" href="$d3dx8math_8h.html#a49567772f991e9ba77a8ffea5fd72851" title="D3DXMatrixIdentity" alt="" coords="311,5,448,32"/>
-<area shape="rect" id="node4" href="$d3dx8math_8h.html#ab5e66aa9e9f6ffc2eebba2ca6ad4e95d" title="D3DXMatrixTranslation" alt="" coords="300,56,459,83"/>
-<area shape="rect" id="node5" href="$d3dx8math_8h.html#a17ce9aa0cc3aedd430567d55e1e14847" title="D3DXMatrixRotationY" alt="" coords="303,107,455,133"/>
-<area shape="rect" id="node6" href="$d3dx8math_8h.html#a1496750c107218f827a3a732787dae0b" title="D3DXMatrixMultiply" alt="" coords="310,157,449,184"/>
-<area shape="rect" id="node7" href="$d3dx8math_8h.html#aba6acbf270a72df374808960082fcd53" title="D3DXMatrixScaling" alt="" coords="311,208,448,235"/>
-<area shape="rect" id="node8" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="360,259,399,285"/>
-<area shape="rect" id="node9" href="$classCD3DMesh.html#a530a2e29e029d7d90de48913202c0eb7" title="CD3DMesh::Render" alt="" coords="309,309,450,336"/>
+<area shape="rect" id="node2" href="$classGRigid.html#ae7baabf0193410f6229bae722fa7cce7" title="GRigid::Disp" alt="" coords="155,5,252,32"/>
+<area shape="rect" id="node3" href="$classCD3DMesh.html#a530a2e29e029d7d90de48913202c0eb7" title="CD3DMesh::Render" alt="" coords="300,5,441,32"/>
 </map>

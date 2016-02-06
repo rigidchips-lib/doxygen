@@ -1,15 +1,14 @@
 <map id="CMyD3DApplication::FinalCleanup" name="CMyD3DApplication::FinalCleanup">
 <area shape="rect" id="node2" href="$classCMyD3DApplication.html#a32d5664e50638bfde8b220936dae2011" title="CMyD3DApplication::\lPause" alt="" coords="203,5,352,47"/>
-<area shape="rect" id="node7" href="$classGDPlay.html#ab43606c0ce89ba4b7b5b41f73c727ec0" title="GDPlay::End" alt="" coords="228,71,327,98"/>
-<area shape="rect" id="node8" href="$luaScript_8cpp.html#a8bc4b5ea5f08646b06f120685f835df8" title="luaScriptEnd" alt="" coords="229,189,325,215"/>
-<area shape="rect" id="node10" href="$classCMyD3DApplication.html#a8280ce182990c01804bd2b12538c162f" title="CMyD3DApplication::\lCleanupDirectInput" alt="" coords="203,123,352,164"/>
-<area shape="rect" id="node11" href="$classCMyD3DApplication.html#a5b9c003b15f0c5c8ed0071340b5a05d8" title="CMyD3DApplication::\lWriteSettings" alt="" coords="203,291,352,332"/>
-<area shape="rect" id="node14" href="$luaSystem_8cpp.html#af3df78bf008dc58e98856333f0c6ec3c" title="luaSystemEnd" alt="" coords="224,239,331,266"/>
+<area shape="rect" id="node6" href="$classGDPlay.html#ab43606c0ce89ba4b7b5b41f73c727ec0" title="GDPlay::End" alt="" coords="228,71,327,98"/>
+<area shape="rect" id="node7" href="$luaScript_8cpp.html#a8bc4b5ea5f08646b06f120685f835df8" title="luaScriptEnd" alt="" coords="229,189,325,215"/>
+<area shape="rect" id="node9" href="$classCMyD3DApplication.html#a8280ce182990c01804bd2b12538c162f" title="CMyD3DApplication::\lCleanupDirectInput" alt="" coords="203,123,352,164"/>
+<area shape="rect" id="node10" href="$classCMyD3DApplication.html#a5b9c003b15f0c5c8ed0071340b5a05d8" title="CMyD3DApplication::\lWriteSettings" alt="" coords="203,291,352,332"/>
+<area shape="rect" id="node13" href="$luaSystem_8cpp.html#af3df78bf008dc58e98856333f0c6ec3c" title="luaSystemEnd" alt="" coords="224,239,331,266"/>
 <area shape="rect" id="node3" href="$classCInputDeviceManager.html#a1bc98d6e96c412111437405921e06bd0" title="CInputDeviceManager\l::GetDevices" alt="" coords="414,115,566,156"/>
 <area shape="rect" id="node4" href="$classCD3DApplication.html#a07bb5e8e36cc91d15d40bc88709753a6" title="CD3DApplication::Pause" alt="" coords="406,13,574,39"/>
 <area shape="rect" id="node5" href="$dxutil_8cpp.html#a824a2170ae65ba957003fb8723d2c1a3" title="DXUtil_Timer" alt="" coords="628,13,729,39"/>
-<area shape="rect" id="node6" href="$dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="777,13,836,39"/>
-<area shape="rect" id="node9" href="$lua_8h.html#a5d903983f1497b2fc58fba9df09e354d" title="lua_close" alt="" coords="451,197,529,223"/>
-<area shape="rect" id="node12" href="$dxutil_8cpp.html#ab627c4e2ccc8c6fd572d8b5ec13614ed" title="DXUtil_WriteIntRegKey" alt="" coords="409,273,571,299"/>
-<area shape="rect" id="node13" href="$dxutil_8cpp.html#ac2a1cab4bfd65c3f453b366e82a5f937" title="DXUtil_WriteStringRegKey" alt="" coords="400,323,580,350"/>
+<area shape="rect" id="node8" href="$lua_8h.html#a5d903983f1497b2fc58fba9df09e354d" title="lua_close" alt="" coords="451,197,529,223"/>
+<area shape="rect" id="node11" href="$dxutil_8cpp.html#ab627c4e2ccc8c6fd572d8b5ec13614ed" title="DXUtil_WriteIntRegKey" alt="" coords="409,273,571,299"/>
+<area shape="rect" id="node12" href="$dxutil_8cpp.html#ac2a1cab4bfd65c3f453b366e82a5f937" title="DXUtil_WriteStringRegKey" alt="" coords="400,323,580,350"/>
 </map>

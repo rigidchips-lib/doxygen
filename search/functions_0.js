@@ -17,7 +17,5 @@ var searchData=
   ['_5ffm_5fsqrtf',['_fm_sqrtf',['../mathf_8c.html#a937e54f9c7333f4ee2dc4895dcc41d5b',1,'mathf.c']]],
   ['_5ffm_5ftanf',['_fm_tanf',['../mathf_8c.html#ad3267c7e93ade1b4538cb9d69397e34a',1,'mathf.c']]],
   ['_5ffnorm2nf',['_fnorm2nf',['../mathf_8c.html#a95496df017641b4d3a02aafe46d70933',1,'mathf.c']]],
-  ['_5ffnorm3nf',['_fnorm3nf',['../mathf_8c.html#ae84145dce14d52f8d4490a3c6daf4d0c',1,'mathf.c']]],
-  ['_5fsetallocator',['_SetAllocator',['../interfaceIMSVidVideoRenderer2.html#ab1730c86d616c67cdcee8a66af3ca050',1,'IMSVidVideoRenderer2']]],
-  ['_5ftuningspacesforclsid',['_TuningSpacesForCLSID',['../interfaceITuningSpaceContainer.html#a6c95b2a95c3d374b3f648f3d8db28c2a',1,'ITuningSpaceContainer']]]
+  ['_5ffnorm3nf',['_fnorm3nf',['../mathf_8c.html#ae84145dce14d52f8d4490a3c6daf4d0c',1,'mathf.c']]]
 ];

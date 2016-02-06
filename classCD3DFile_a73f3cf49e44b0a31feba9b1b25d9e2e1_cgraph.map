@@ -1,5 +1,4 @@
 <map id="CD3DFile::Render" name="CD3DFile::Render">
-<area shape="rect" id="node2" href="$d3dx8math_8h.html#a1496750c107218f827a3a732787dae0b" title="D3DXMatrixMultiply" alt="" coords="380,5,519,32"/>
-<area shape="rect" id="node3" href="$classCD3DFrame.html#a2f6021b9910e1f610a1f6db69595a444" title="CD3DFrame::Render" alt="" coords="184,68,331,95"/>
-<area shape="rect" id="node4" href="$classCD3DMesh.html#a530a2e29e029d7d90de48913202c0eb7" title="CD3DMesh::Render" alt="" coords="379,68,520,95"/>
+<area shape="rect" id="node2" href="$classCD3DFrame.html#a2f6021b9910e1f610a1f6db69595a444" title="CD3DFrame::Render" alt="" coords="184,29,331,56"/>
+<area shape="rect" id="node3" href="$classCD3DMesh.html#a530a2e29e029d7d90de48913202c0eb7" title="CD3DMesh::Render" alt="" coords="379,29,520,56"/>
 </map>

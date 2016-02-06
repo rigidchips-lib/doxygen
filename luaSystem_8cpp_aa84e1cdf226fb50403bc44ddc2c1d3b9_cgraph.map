@@ -1,4 +1,7 @@
 <map id="luaSetView" name="luaSetView">
-<area shape="rect" id="node2" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="141,5,241,32"/>
-<area shape="rect" id="node3" href="$classGVector.html#afd533645529dd10186ab58468c04f1d8" title="GVector::abs" alt="" coords="142,56,241,83"/>
+<area shape="rect" id="node2" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="162,5,262,32"/>
+<area shape="rect" id="node3" href="$classGVector.html#ab12aad63578bc9e5b28153065dee9392" title="GVector::cross" alt="" coords="157,56,267,83"/>
+<area shape="rect" id="node5" href="$classGVector.html#a5cffac9770812707863850f550308ebf" title="GVector::normalize2" alt="" coords="141,107,283,133"/>
+<area shape="rect" id="node6" href="$classGVector.html#afd533645529dd10186ab58468c04f1d8" title="GVector::abs" alt="" coords="345,132,443,159"/>
+<area shape="rect" id="node4" href="$classGVector.html#aff75412c96c5c89956fa0fadbea76e46" title="GVector::GVector" alt="" coords="331,56,457,83"/>
 </map>

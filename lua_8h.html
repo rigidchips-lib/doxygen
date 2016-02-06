@@ -38,7 +38,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
   <div id="navrow1" class="tabs">
     <ul class="tablist">
       <li><a href="index.html"><span>Main&#160;Page</span></a></li>
-      <li><a href="namespaces.html"><span>Namespaces</span></a></li>
       <li><a href="annotated.html"><span>Classes</span></a></li>
       <li class="current"><a href="files.html"><span>Files</span></a></li>
       <li>
@@ -81,7 +80,7 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 <div id="nav-path" class="navpath">
   <ul>
-<li class="navelem"><a class="el" href="dir_a3d73200c3f0c934fc457437958f92ec.html">Lua</a></li><li class="navelem"><a class="el" href="dir_58f137c6c292a61a066f945a5ebf13fe.html">include</a></li>  </ul>
+<li class="navelem"><a class="el" href="dir_5fdd3c20ae17bb33a6cac4c5b081e7fb.html">Lua</a></li><li class="navelem"><a class="el" href="dir_c818fbe5f00cb5f13dbaa63031107f58.html">include</a></li>  </ul>
 </div>
 </div><!-- top -->
 <div class="header">
@@ -100,8 +99,6 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 Include dependency graph for lua.h:</div>
 <div class="dyncontent">
 <div class="center"><img src="lua_8h__incl.png" border="0" usemap="#Lua_2include_2lua_8h" alt=""/></div>
-<map name="Lua_2include_2lua_8h" id="Lua_2include_2lua_8h">
-</map>
 </div>
 </div><div class="textblock"><div class="dynheader">
 This graph shows which files directly or indirectly include this file:</div>
@@ -180,9 +177,9 @@ Macros</h2></td></tr>
 <tr class="separator:ad0180b89de8a4425cb2a1a3e3f793aa5"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af88575eb79fdd88b1cce4533ab5cbe69"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a>&#160;&#160;&#160;extern</td></tr>
 <tr class="separator:af88575eb79fdd88b1cce4533ab5cbe69"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3c0bc9ba7af61e464556381ff34644e"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af3c0bc9ba7af61e464556381ff34644e">lua_boxpointer</a>(L,  <a class="el" href="unionu.html">u</a>)&#160;&#160;&#160;(*(<a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> **)(<a class="el" href="lua_8h.html#a61d8af65d34c4a25a6f5b2bd00784df7">lua_newuserdata</a>(L, sizeof(<a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *))) = (<a class="el" href="unionu.html">u</a>))</td></tr>
+<tr class="memitem:af3c0bc9ba7af61e464556381ff34644e"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af3c0bc9ba7af61e464556381ff34644e">lua_boxpointer</a>(L,  u)&#160;&#160;&#160;(*(void **)(<a class="el" href="lua_8h.html#a61d8af65d34c4a25a6f5b2bd00784df7">lua_newuserdata</a>(L, sizeof(void *))) = (u))</td></tr>
 <tr class="separator:af3c0bc9ba7af61e464556381ff34644e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab884e04db46d1e40870ddc5412227d32"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ab884e04db46d1e40870ddc5412227d32">lua_unboxpointer</a>(L,  i)&#160;&#160;&#160;(*(<a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> **)(<a class="el" href="lua_8h.html#a0444ddf13e5618bca969e4b3b47bc0cc">lua_touserdata</a>(L, i)))</td></tr>
+<tr class="memitem:ab884e04db46d1e40870ddc5412227d32"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ab884e04db46d1e40870ddc5412227d32">lua_unboxpointer</a>(L,  i)&#160;&#160;&#160;(*(void **)(<a class="el" href="lua_8h.html#a0444ddf13e5618bca969e4b3b47bc0cc">lua_touserdata</a>(L, i)))</td></tr>
 <tr class="separator:ab884e04db46d1e40870ddc5412227d32"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abb8eae2164badeafdb037bc1e03cc822"><td class="memItemLeft" align="right" valign="top">#define&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#abb8eae2164badeafdb037bc1e03cc822">lua_pop</a>(L,  n)&#160;&#160;&#160;<a class="el" href="lua_8h.html#adaa30f0d34786144c94644039d1d1b6e">lua_settop</a>(L, -(n)-1)</td></tr>
 <tr class="separator:abb8eae2164badeafdb037bc1e03cc822"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -251,170 +248,170 @@ Macros</h2></td></tr>
 Typedefs</h2></td></tr>
 <tr class="memitem:a28186297f2e9f2de0652504633de8fb3"><td class="memItemLeft" align="right" valign="top">typedef struct <a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a></td></tr>
 <tr class="separator:a28186297f2e9f2de0652504633de8fb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a878b7e392e78661a374cf1c3073029b9"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a>) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
+<tr class="memitem:a878b7e392e78661a374cf1c3073029b9"><td class="memItemLeft" align="right" valign="top">typedef int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a>) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:a878b7e392e78661a374cf1c3073029b9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aee4e0f1d821250aa5e0f860f446ba046"><td class="memItemLeft" align="right" valign="top">typedef const char *(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aee4e0f1d821250aa5e0f860f446ba046">lua_Chunkreader</a>) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *ud, <a class="el" href="strsafe_8h.html#a20b76295c8c07faaa04b1e3ee0b5d521">size_t</a> *sz)</td></tr>
+<tr class="memitem:aee4e0f1d821250aa5e0f860f446ba046"><td class="memItemLeft" align="right" valign="top">typedef const char *(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aee4e0f1d821250aa5e0f860f446ba046">lua_Chunkreader</a>) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, void *ud, size_t *sz)</td></tr>
 <tr class="separator:aee4e0f1d821250aa5e0f860f446ba046"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a016d0dcfc8452e97ede3216f2da753b4"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a016d0dcfc8452e97ede3216f2da753b4">lua_Chunkwriter</a>) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *p, <a class="el" href="strsafe_8h.html#a20b76295c8c07faaa04b1e3ee0b5d521">size_t</a> sz, <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *ud)</td></tr>
+<tr class="memitem:a016d0dcfc8452e97ede3216f2da753b4"><td class="memItemLeft" align="right" valign="top">typedef int(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a016d0dcfc8452e97ede3216f2da753b4">lua_Chunkwriter</a>) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const void *p, size_t sz, void *ud)</td></tr>
 <tr class="separator:a016d0dcfc8452e97ede3216f2da753b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:af5fd1aab5863c3a1fe9ccff363132d9f"><td class="memItemLeft" align="right" valign="top">typedef double&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af5fd1aab5863c3a1fe9ccff363132d9f">lua_Number</a></td></tr>
 <tr class="separator:af5fd1aab5863c3a1fe9ccff363132d9f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a13a607c625e9cb25bf453b41323857f8"><td class="memItemLeft" align="right" valign="top">typedef struct <a class="el" href="structlua__Debug.html">lua_Debug</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a13a607c625e9cb25bf453b41323857f8">lua_Debug</a></td></tr>
 <tr class="separator:a13a607c625e9cb25bf453b41323857f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa00de66eff087aef1fdd44f5b3bb9a0b"><td class="memItemLeft" align="right" valign="top">typedef <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aa00de66eff087aef1fdd44f5b3bb9a0b">lua_Hook</a>) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar)</td></tr>
+<tr class="memitem:aa00de66eff087aef1fdd44f5b3bb9a0b"><td class="memItemLeft" align="right" valign="top">typedef void(*&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aa00de66eff087aef1fdd44f5b3bb9a0b">lua_Hook</a>) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar)</td></tr>
 <tr class="separator:aa00de66eff087aef1fdd44f5b3bb9a0b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:aeed61eafe52d3712fbdb108621948a5b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aeed61eafe52d3712fbdb108621948a5b">lua_open</a> (<a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>)</td></tr>
+<tr class="memitem:aeed61eafe52d3712fbdb108621948a5b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aeed61eafe52d3712fbdb108621948a5b">lua_open</a> (void)</td></tr>
 <tr class="separator:aeed61eafe52d3712fbdb108621948a5b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5d903983f1497b2fc58fba9df09e354d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a5d903983f1497b2fc58fba9df09e354d">lua_close</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
+<tr class="memitem:a5d903983f1497b2fc58fba9df09e354d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a5d903983f1497b2fc58fba9df09e354d">lua_close</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:a5d903983f1497b2fc58fba9df09e354d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a86b660d6f2b69734c35ec9fc718e4ca9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a86b660d6f2b69734c35ec9fc718e4ca9">lua_newthread</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:a86b660d6f2b69734c35ec9fc718e4ca9"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a90bf785da77985164dbe2eb0d64bf82e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a90bf785da77985164dbe2eb0d64bf82e">lua_atpanic</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a> panicf)</td></tr>
 <tr class="separator:a90bf785da77985164dbe2eb0d64bf82e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afbb08ecb69421875494105d4de68e5bf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#afbb08ecb69421875494105d4de68e5bf">lua_gettop</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
+<tr class="memitem:afbb08ecb69421875494105d4de68e5bf"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#afbb08ecb69421875494105d4de68e5bf">lua_gettop</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:afbb08ecb69421875494105d4de68e5bf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:adaa30f0d34786144c94644039d1d1b6e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#adaa30f0d34786144c94644039d1d1b6e">lua_settop</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:adaa30f0d34786144c94644039d1d1b6e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#adaa30f0d34786144c94644039d1d1b6e">lua_settop</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:adaa30f0d34786144c94644039d1d1b6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a602f61a9b583d69dc1c72c8970bd65e8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a602f61a9b583d69dc1c72c8970bd65e8">lua_pushvalue</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a602f61a9b583d69dc1c72c8970bd65e8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a602f61a9b583d69dc1c72c8970bd65e8">lua_pushvalue</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a602f61a9b583d69dc1c72c8970bd65e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7f2ac31d9ad6f0e0ff068d2fbbd08714"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a7f2ac31d9ad6f0e0ff068d2fbbd08714">lua_remove</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a7f2ac31d9ad6f0e0ff068d2fbbd08714"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a7f2ac31d9ad6f0e0ff068d2fbbd08714">lua_remove</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a7f2ac31d9ad6f0e0ff068d2fbbd08714"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aba6844115e26e0923488403436219e66"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aba6844115e26e0923488403436219e66">lua_insert</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:aba6844115e26e0923488403436219e66"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aba6844115e26e0923488403436219e66">lua_insert</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:aba6844115e26e0923488403436219e66"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a66d3827120ac828f870502bff0d4ff75"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a66d3827120ac828f870502bff0d4ff75">lua_replace</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a66d3827120ac828f870502bff0d4ff75"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a66d3827120ac828f870502bff0d4ff75">lua_replace</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a66d3827120ac828f870502bff0d4ff75"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af1b14bec994e0775eb48898ecaaf9313"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af1b14bec994e0775eb48898ecaaf9313">lua_checkstack</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> sz)</td></tr>
+<tr class="memitem:af1b14bec994e0775eb48898ecaaf9313"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af1b14bec994e0775eb48898ecaaf9313">lua_checkstack</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int sz)</td></tr>
 <tr class="separator:af1b14bec994e0775eb48898ecaaf9313"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae27bb8d0218710bbbfefc1f573839d6d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ae27bb8d0218710bbbfefc1f573839d6d">lua_xmove</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *from, <a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *to, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> n)</td></tr>
+<tr class="memitem:ae27bb8d0218710bbbfefc1f573839d6d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ae27bb8d0218710bbbfefc1f573839d6d">lua_xmove</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *from, <a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *to, int n)</td></tr>
 <tr class="separator:ae27bb8d0218710bbbfefc1f573839d6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a99451f234bf085c9c46c3d17a5aef905"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a99451f234bf085c9c46c3d17a5aef905">lua_isnumber</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a99451f234bf085c9c46c3d17a5aef905"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a99451f234bf085c9c46c3d17a5aef905">lua_isnumber</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a99451f234bf085c9c46c3d17a5aef905"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a9f20233199a414b04c1c4b43f5d040f3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a9f20233199a414b04c1c4b43f5d040f3">lua_isstring</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a9f20233199a414b04c1c4b43f5d040f3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a9f20233199a414b04c1c4b43f5d040f3">lua_isstring</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a9f20233199a414b04c1c4b43f5d040f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3b922032c9fe2930399186a3647cc3ad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a3b922032c9fe2930399186a3647cc3ad">lua_iscfunction</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a3b922032c9fe2930399186a3647cc3ad"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a3b922032c9fe2930399186a3647cc3ad">lua_iscfunction</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a3b922032c9fe2930399186a3647cc3ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8a1dab86cfb4e0f9a4d1f699af0041b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aa8a1dab86cfb4e0f9a4d1f699af0041b">lua_isuserdata</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:aa8a1dab86cfb4e0f9a4d1f699af0041b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aa8a1dab86cfb4e0f9a4d1f699af0041b">lua_isuserdata</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:aa8a1dab86cfb4e0f9a4d1f699af0041b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a652b273947f0656686f998d8e90cd3ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a652b273947f0656686f998d8e90cd3ea">lua_type</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a652b273947f0656686f998d8e90cd3ea"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a652b273947f0656686f998d8e90cd3ea">lua_type</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a652b273947f0656686f998d8e90cd3ea"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a60d5de65246636ecb7679929ba43fcf1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a60d5de65246636ecb7679929ba43fcf1">lua_typename</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> tp)</td></tr>
+<tr class="memitem:a60d5de65246636ecb7679929ba43fcf1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a60d5de65246636ecb7679929ba43fcf1">lua_typename</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int tp)</td></tr>
 <tr class="separator:a60d5de65246636ecb7679929ba43fcf1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3e8af4ee75f7883d1684e47cd56ded8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af3e8af4ee75f7883d1684e47cd56ded8">lua_equal</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx1, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx2)</td></tr>
+<tr class="memitem:af3e8af4ee75f7883d1684e47cd56ded8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af3e8af4ee75f7883d1684e47cd56ded8">lua_equal</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx1, int idx2)</td></tr>
 <tr class="separator:af3e8af4ee75f7883d1684e47cd56ded8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aab125579bd56afcb6f0d0dea50736f3f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aab125579bd56afcb6f0d0dea50736f3f">lua_rawequal</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx1, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx2)</td></tr>
+<tr class="memitem:aab125579bd56afcb6f0d0dea50736f3f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aab125579bd56afcb6f0d0dea50736f3f">lua_rawequal</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx1, int idx2)</td></tr>
 <tr class="separator:aab125579bd56afcb6f0d0dea50736f3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a45a2493b8d3d2af836341ab6a9bf5e15"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a45a2493b8d3d2af836341ab6a9bf5e15">lua_lessthan</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx1, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx2)</td></tr>
+<tr class="memitem:a45a2493b8d3d2af836341ab6a9bf5e15"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a45a2493b8d3d2af836341ab6a9bf5e15">lua_lessthan</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx1, int idx2)</td></tr>
 <tr class="separator:a45a2493b8d3d2af836341ab6a9bf5e15"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a42c1f68101dc98a6ae4695c8577b17f8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#af5fd1aab5863c3a1fe9ccff363132d9f">lua_Number</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8">lua_tonumber</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a42c1f68101dc98a6ae4695c8577b17f8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#af5fd1aab5863c3a1fe9ccff363132d9f">lua_Number</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8">lua_tonumber</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a42c1f68101dc98a6ae4695c8577b17f8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a444aee9aa56b0b06175ee3c7bcf7927c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a444aee9aa56b0b06175ee3c7bcf7927c">lua_toboolean</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a444aee9aa56b0b06175ee3c7bcf7927c"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a444aee9aa56b0b06175ee3c7bcf7927c">lua_toboolean</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a444aee9aa56b0b06175ee3c7bcf7927c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa5fd989a5c635ba942898b849c3a22ab"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aa5fd989a5c635ba942898b849c3a22ab">lua_tostring</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:aa5fd989a5c635ba942898b849c3a22ab"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aa5fd989a5c635ba942898b849c3a22ab">lua_tostring</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:aa5fd989a5c635ba942898b849c3a22ab"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af498049768fefbde2736b3dab83cf69d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="strsafe_8h.html#a20b76295c8c07faaa04b1e3ee0b5d521">size_t</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af498049768fefbde2736b3dab83cf69d">lua_strlen</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:af498049768fefbde2736b3dab83cf69d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af498049768fefbde2736b3dab83cf69d">lua_strlen</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:af498049768fefbde2736b3dab83cf69d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae790897a3311d599299895612986d850"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ae790897a3311d599299895612986d850">lua_tocfunction</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:ae790897a3311d599299895612986d850"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ae790897a3311d599299895612986d850">lua_tocfunction</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:ae790897a3311d599299895612986d850"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0444ddf13e5618bca969e4b3b47bc0cc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a0444ddf13e5618bca969e4b3b47bc0cc">lua_touserdata</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a0444ddf13e5618bca969e4b3b47bc0cc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a0444ddf13e5618bca969e4b3b47bc0cc">lua_touserdata</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a0444ddf13e5618bca969e4b3b47bc0cc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad1dcea410edb5c5595fc070f8bf2e9a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ad1dcea410edb5c5595fc070f8bf2e9a0">lua_tothread</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:ad1dcea410edb5c5595fc070f8bf2e9a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ad1dcea410edb5c5595fc070f8bf2e9a0">lua_tothread</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:ad1dcea410edb5c5595fc070f8bf2e9a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5b533fe96cb52b5415896d41daad374a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a5b533fe96cb52b5415896d41daad374a">lua_topointer</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a5b533fe96cb52b5415896d41daad374a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a5b533fe96cb52b5415896d41daad374a">lua_topointer</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a5b533fe96cb52b5415896d41daad374a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1b4cd0d80f51e5545a97ca6c28c03c50"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a1b4cd0d80f51e5545a97ca6c28c03c50">lua_pushnil</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
+<tr class="memitem:a1b4cd0d80f51e5545a97ca6c28c03c50"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a1b4cd0d80f51e5545a97ca6c28c03c50">lua_pushnil</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:a1b4cd0d80f51e5545a97ca6c28c03c50"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a328625a03fbb5548f27b1af10f109f6a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a328625a03fbb5548f27b1af10f109f6a">lua_pushnumber</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#af5fd1aab5863c3a1fe9ccff363132d9f">lua_Number</a> n)</td></tr>
+<tr class="memitem:a328625a03fbb5548f27b1af10f109f6a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a328625a03fbb5548f27b1af10f109f6a">lua_pushnumber</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#af5fd1aab5863c3a1fe9ccff363132d9f">lua_Number</a> n)</td></tr>
 <tr class="separator:a328625a03fbb5548f27b1af10f109f6a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ada361b72d3e27100002171731c7f9258"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ada361b72d3e27100002171731c7f9258">lua_pushlstring</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const char *s, <a class="el" href="strsafe_8h.html#a20b76295c8c07faaa04b1e3ee0b5d521">size_t</a> l)</td></tr>
+<tr class="memitem:ada361b72d3e27100002171731c7f9258"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ada361b72d3e27100002171731c7f9258">lua_pushlstring</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const char *s, size_t l)</td></tr>
 <tr class="separator:ada361b72d3e27100002171731c7f9258"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1281a7e2b52370cc416123bfd32b1b29"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a1281a7e2b52370cc416123bfd32b1b29">lua_pushstring</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const char *s)</td></tr>
+<tr class="memitem:a1281a7e2b52370cc416123bfd32b1b29"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a1281a7e2b52370cc416123bfd32b1b29">lua_pushstring</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const char *s)</td></tr>
 <tr class="separator:a1281a7e2b52370cc416123bfd32b1b29"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a426c9cb1d582be3e43060c4772854e5a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a426c9cb1d582be3e43060c4772854e5a">lua_pushvfstring</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const char *fmt, va_list argp)</td></tr>
 <tr class="separator:a426c9cb1d582be3e43060c4772854e5a"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab190c226d38b289e6ca57683a9d4e0f0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ab190c226d38b289e6ca57683a9d4e0f0">lua_pushfstring</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const char *fmt,...)</td></tr>
 <tr class="separator:ab190c226d38b289e6ca57683a9d4e0f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a142802b91cdd22516b54599f51e101e4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a142802b91cdd22516b54599f51e101e4">lua_pushcclosure</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a> fn, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> n)</td></tr>
+<tr class="memitem:a142802b91cdd22516b54599f51e101e4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a142802b91cdd22516b54599f51e101e4">lua_pushcclosure</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a> fn, int n)</td></tr>
 <tr class="separator:a142802b91cdd22516b54599f51e101e4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a56bbb7479265e38da2e2596e6ec25faa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a56bbb7479265e38da2e2596e6ec25faa">lua_pushboolean</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> b)</td></tr>
+<tr class="memitem:a56bbb7479265e38da2e2596e6ec25faa"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a56bbb7479265e38da2e2596e6ec25faa">lua_pushboolean</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int b)</td></tr>
 <tr class="separator:a56bbb7479265e38da2e2596e6ec25faa"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a85e3e3d32b068aef62426828a104b561"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a85e3e3d32b068aef62426828a104b561">lua_pushlightuserdata</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *p)</td></tr>
+<tr class="memitem:a85e3e3d32b068aef62426828a104b561"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a85e3e3d32b068aef62426828a104b561">lua_pushlightuserdata</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, void *p)</td></tr>
 <tr class="separator:a85e3e3d32b068aef62426828a104b561"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6c759e1dc54a07d99eac4f19a4cd142a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a6c759e1dc54a07d99eac4f19a4cd142a">lua_gettable</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a6c759e1dc54a07d99eac4f19a4cd142a"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a6c759e1dc54a07d99eac4f19a4cd142a">lua_gettable</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a6c759e1dc54a07d99eac4f19a4cd142a"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a43379a0ba1fb68a4c81d205ad60b3cc1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a43379a0ba1fb68a4c81d205ad60b3cc1">lua_rawget</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a43379a0ba1fb68a4c81d205ad60b3cc1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a43379a0ba1fb68a4c81d205ad60b3cc1">lua_rawget</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a43379a0ba1fb68a4c81d205ad60b3cc1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae37bc3e2991700913a74d2b656442520"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ae37bc3e2991700913a74d2b656442520">lua_rawgeti</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> n)</td></tr>
+<tr class="memitem:ae37bc3e2991700913a74d2b656442520"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ae37bc3e2991700913a74d2b656442520">lua_rawgeti</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx, int n)</td></tr>
 <tr class="separator:ae37bc3e2991700913a74d2b656442520"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ae8d0d81a86e78f83cdf179cb39e43db3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ae8d0d81a86e78f83cdf179cb39e43db3">lua_newtable</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
+<tr class="memitem:ae8d0d81a86e78f83cdf179cb39e43db3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ae8d0d81a86e78f83cdf179cb39e43db3">lua_newtable</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:ae8d0d81a86e78f83cdf179cb39e43db3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a61d8af65d34c4a25a6f5b2bd00784df7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a61d8af65d34c4a25a6f5b2bd00784df7">lua_newuserdata</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="strsafe_8h.html#a20b76295c8c07faaa04b1e3ee0b5d521">size_t</a> sz)</td></tr>
+<tr class="memitem:a61d8af65d34c4a25a6f5b2bd00784df7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a61d8af65d34c4a25a6f5b2bd00784df7">lua_newuserdata</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, size_t sz)</td></tr>
 <tr class="separator:a61d8af65d34c4a25a6f5b2bd00784df7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4caa9ca5e47a30bd45e33d83bf2d6d6e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a4caa9ca5e47a30bd45e33d83bf2d6d6e">lua_getmetatable</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> objindex)</td></tr>
+<tr class="memitem:a4caa9ca5e47a30bd45e33d83bf2d6d6e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a4caa9ca5e47a30bd45e33d83bf2d6d6e">lua_getmetatable</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int objindex)</td></tr>
 <tr class="separator:a4caa9ca5e47a30bd45e33d83bf2d6d6e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aae62bb7fb4498cc5193abf66797b2246"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aae62bb7fb4498cc5193abf66797b2246">lua_getfenv</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:aae62bb7fb4498cc5193abf66797b2246"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aae62bb7fb4498cc5193abf66797b2246">lua_getfenv</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:aae62bb7fb4498cc5193abf66797b2246"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4ca492cf3d2194aec9a6292708bf66c8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a4ca492cf3d2194aec9a6292708bf66c8">lua_settable</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:a4ca492cf3d2194aec9a6292708bf66c8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a4ca492cf3d2194aec9a6292708bf66c8">lua_settable</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:a4ca492cf3d2194aec9a6292708bf66c8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afb2d27f421677ef40425f9054ae216a7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#afb2d27f421677ef40425f9054ae216a7">lua_rawset</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:afb2d27f421677ef40425f9054ae216a7"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#afb2d27f421677ef40425f9054ae216a7">lua_rawset</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:afb2d27f421677ef40425f9054ae216a7"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a89eb1578890571d202f8b3c357c822bc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a89eb1578890571d202f8b3c357c822bc">lua_rawseti</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> n)</td></tr>
+<tr class="memitem:a89eb1578890571d202f8b3c357c822bc"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a89eb1578890571d202f8b3c357c822bc">lua_rawseti</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx, int n)</td></tr>
 <tr class="separator:a89eb1578890571d202f8b3c357c822bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a15719ea4119bdf5b3f2a406534431a7e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a15719ea4119bdf5b3f2a406534431a7e">lua_setmetatable</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> objindex)</td></tr>
+<tr class="memitem:a15719ea4119bdf5b3f2a406534431a7e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a15719ea4119bdf5b3f2a406534431a7e">lua_setmetatable</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int objindex)</td></tr>
 <tr class="separator:a15719ea4119bdf5b3f2a406534431a7e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af3a6383019df780016182fb8924f3127"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af3a6383019df780016182fb8924f3127">lua_setfenv</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:af3a6383019df780016182fb8924f3127"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af3a6383019df780016182fb8924f3127">lua_setfenv</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:af3a6383019df780016182fb8924f3127"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2d80481ca28902752c2b12c61d9d4234"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a2d80481ca28902752c2b12c61d9d4234">lua_call</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> nargs, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> nresults)</td></tr>
+<tr class="memitem:a2d80481ca28902752c2b12c61d9d4234"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a2d80481ca28902752c2b12c61d9d4234">lua_call</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int nargs, int nresults)</td></tr>
 <tr class="separator:a2d80481ca28902752c2b12c61d9d4234"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a2a6cbad7f1c567378d17ded68b47f8f3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a2a6cbad7f1c567378d17ded68b47f8f3">lua_pcall</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> nargs, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> nresults, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> errfunc)</td></tr>
+<tr class="memitem:a2a6cbad7f1c567378d17ded68b47f8f3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a2a6cbad7f1c567378d17ded68b47f8f3">lua_pcall</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int nargs, int nresults, int errfunc)</td></tr>
 <tr class="separator:a2a6cbad7f1c567378d17ded68b47f8f3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aff3c8f500cdceb1acdcd4cf4262aea86"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aff3c8f500cdceb1acdcd4cf4262aea86">lua_cpcall</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a> func, <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *ud)</td></tr>
+<tr class="memitem:aff3c8f500cdceb1acdcd4cf4262aea86"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aff3c8f500cdceb1acdcd4cf4262aea86">lua_cpcall</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#a878b7e392e78661a374cf1c3073029b9">lua_CFunction</a> func, void *ud)</td></tr>
 <tr class="separator:aff3c8f500cdceb1acdcd4cf4262aea86"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a39cd357f078b35dbc2bb2cff62766522"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a39cd357f078b35dbc2bb2cff62766522">lua_load</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#aee4e0f1d821250aa5e0f860f446ba046">lua_Chunkreader</a> reader, <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *dt, const char *chunkname)</td></tr>
+<tr class="memitem:a39cd357f078b35dbc2bb2cff62766522"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a39cd357f078b35dbc2bb2cff62766522">lua_load</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#aee4e0f1d821250aa5e0f860f446ba046">lua_Chunkreader</a> reader, void *dt, const char *chunkname)</td></tr>
 <tr class="separator:a39cd357f078b35dbc2bb2cff62766522"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a77f224710eeee6219d5fa6bcfb8207e9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a77f224710eeee6219d5fa6bcfb8207e9">lua_dump</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#a016d0dcfc8452e97ede3216f2da753b4">lua_Chunkwriter</a> writer, <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *data)</td></tr>
+<tr class="memitem:a77f224710eeee6219d5fa6bcfb8207e9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a77f224710eeee6219d5fa6bcfb8207e9">lua_dump</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#a016d0dcfc8452e97ede3216f2da753b4">lua_Chunkwriter</a> writer, void *data)</td></tr>
 <tr class="separator:a77f224710eeee6219d5fa6bcfb8207e9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:af341c25bf642f9244778e130c86d6260"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af341c25bf642f9244778e130c86d6260">lua_yield</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> nresults)</td></tr>
+<tr class="memitem:af341c25bf642f9244778e130c86d6260"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#af341c25bf642f9244778e130c86d6260">lua_yield</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int nresults)</td></tr>
 <tr class="separator:af341c25bf642f9244778e130c86d6260"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3ac7f58f2627db97881453715146b56e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a3ac7f58f2627db97881453715146b56e">lua_resume</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> narg)</td></tr>
+<tr class="memitem:a3ac7f58f2627db97881453715146b56e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a3ac7f58f2627db97881453715146b56e">lua_resume</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int narg)</td></tr>
 <tr class="separator:a3ac7f58f2627db97881453715146b56e"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ad0afbd86fc4e98fe77541d0846ac4d28"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ad0afbd86fc4e98fe77541d0846ac4d28">lua_getgcthreshold</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
+<tr class="memitem:ad0afbd86fc4e98fe77541d0846ac4d28"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ad0afbd86fc4e98fe77541d0846ac4d28">lua_getgcthreshold</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:ad0afbd86fc4e98fe77541d0846ac4d28"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a7b283460e36e603de2f5cb2ae51620fb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a7b283460e36e603de2f5cb2ae51620fb">lua_getgccount</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
+<tr class="memitem:a7b283460e36e603de2f5cb2ae51620fb"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a7b283460e36e603de2f5cb2ae51620fb">lua_getgccount</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:a7b283460e36e603de2f5cb2ae51620fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ab1761e845c5caba00183ebfc1bdbc5b3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ab1761e845c5caba00183ebfc1bdbc5b3">lua_setgcthreshold</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> newthreshold)</td></tr>
+<tr class="memitem:ab1761e845c5caba00183ebfc1bdbc5b3"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ab1761e845c5caba00183ebfc1bdbc5b3">lua_setgcthreshold</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int newthreshold)</td></tr>
 <tr class="separator:ab1761e845c5caba00183ebfc1bdbc5b3"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acbaf0386215b41d6ba3369ebc856bc09"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#acbaf0386215b41d6ba3369ebc856bc09">lua_version</a> (<a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>)</td></tr>
+<tr class="memitem:acbaf0386215b41d6ba3369ebc856bc09"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#acbaf0386215b41d6ba3369ebc856bc09">lua_version</a> (void)</td></tr>
 <tr class="separator:acbaf0386215b41d6ba3369ebc856bc09"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6ba7b91143fe8a03910420d800de8e97"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a6ba7b91143fe8a03910420d800de8e97">lua_error</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
+<tr class="memitem:a6ba7b91143fe8a03910420d800de8e97"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a6ba7b91143fe8a03910420d800de8e97">lua_error</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:a6ba7b91143fe8a03910420d800de8e97"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aa8bf464b98335a075732200ad91ce1de"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aa8bf464b98335a075732200ad91ce1de">lua_next</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> idx)</td></tr>
+<tr class="memitem:aa8bf464b98335a075732200ad91ce1de"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aa8bf464b98335a075732200ad91ce1de">lua_next</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int idx)</td></tr>
 <tr class="separator:aa8bf464b98335a075732200ad91ce1de"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a1de3afee1daece63d455f23818c883d9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a1de3afee1daece63d455f23818c883d9">lua_concat</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> n)</td></tr>
+<tr class="memitem:a1de3afee1daece63d455f23818c883d9"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a1de3afee1daece63d455f23818c883d9">lua_concat</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int n)</td></tr>
 <tr class="separator:a1de3afee1daece63d455f23818c883d9"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a54a1b13d3c1c104b32d398bdaa37b6a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a54a1b13d3c1c104b32d398bdaa37b6a0">lua_pushupvalues</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
+<tr class="memitem:a54a1b13d3c1c104b32d398bdaa37b6a0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a54a1b13d3c1c104b32d398bdaa37b6a0">lua_pushupvalues</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:a54a1b13d3c1c104b32d398bdaa37b6a0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac1fc03c27ee46caa4037df2d70f22110"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ac1fc03c27ee46caa4037df2d70f22110">lua_getstack</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> level, <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar)</td></tr>
+<tr class="memitem:ac1fc03c27ee46caa4037df2d70f22110"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#ac1fc03c27ee46caa4037df2d70f22110">lua_getstack</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int level, <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar)</td></tr>
 <tr class="separator:ac1fc03c27ee46caa4037df2d70f22110"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:acaafc35d8e385c4d167229486165df6d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#acaafc35d8e385c4d167229486165df6d">lua_getinfo</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const char *what, <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar)</td></tr>
+<tr class="memitem:acaafc35d8e385c4d167229486165df6d"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#acaafc35d8e385c4d167229486165df6d">lua_getinfo</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const char *what, <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar)</td></tr>
 <tr class="separator:acaafc35d8e385c4d167229486165df6d"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aaaf420ee0b0e79a45b823d9da4905667"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aaaf420ee0b0e79a45b823d9da4905667">lua_getlocal</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> n)</td></tr>
+<tr class="memitem:aaaf420ee0b0e79a45b823d9da4905667"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#aaaf420ee0b0e79a45b823d9da4905667">lua_getlocal</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar, int n)</td></tr>
 <tr class="separator:aaaf420ee0b0e79a45b823d9da4905667"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a425c37b17caf76545f1541a5bb81dfc6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a425c37b17caf76545f1541a5bb81dfc6">lua_setlocal</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> n)</td></tr>
+<tr class="memitem:a425c37b17caf76545f1541a5bb81dfc6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a425c37b17caf76545f1541a5bb81dfc6">lua_setlocal</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar, int n)</td></tr>
 <tr class="separator:a425c37b17caf76545f1541a5bb81dfc6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:afd5e7d6995dc52a5cb9e370ee3a710e6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#afd5e7d6995dc52a5cb9e370ee3a710e6">lua_getupvalue</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> funcindex, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> n)</td></tr>
+<tr class="memitem:afd5e7d6995dc52a5cb9e370ee3a710e6"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#afd5e7d6995dc52a5cb9e370ee3a710e6">lua_getupvalue</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int funcindex, int n)</td></tr>
 <tr class="separator:afd5e7d6995dc52a5cb9e370ee3a710e6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6e2e5717e848fca56335a64739a8f2c0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a6e2e5717e848fca56335a64739a8f2c0">lua_setupvalue</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> funcindex, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> n)</td></tr>
+<tr class="memitem:a6e2e5717e848fca56335a64739a8f2c0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char *&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a6e2e5717e848fca56335a64739a8f2c0">lua_setupvalue</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, int funcindex, int n)</td></tr>
 <tr class="separator:a6e2e5717e848fca56335a64739a8f2c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a664ce25a0c30d2c1b1e89e7ea25be7f0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a664ce25a0c30d2c1b1e89e7ea25be7f0">lua_sethook</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#aa00de66eff087aef1fdd44f5b3bb9a0b">lua_Hook</a> func, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> mask, <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> count)</td></tr>
+<tr class="memitem:a664ce25a0c30d2c1b1e89e7ea25be7f0"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a664ce25a0c30d2c1b1e89e7ea25be7f0">lua_sethook</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="lua_8h.html#aa00de66eff087aef1fdd44f5b3bb9a0b">lua_Hook</a> func, int mask, int count)</td></tr>
 <tr class="separator:a664ce25a0c30d2c1b1e89e7ea25be7f0"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a44b9923035977dcfa57279761f7379b4"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#aa00de66eff087aef1fdd44f5b3bb9a0b">lua_Hook</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a44b9923035977dcfa57279761f7379b4">lua_gethook</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:a44b9923035977dcfa57279761f7379b4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a0b41dd9ab46652c8433b861f679fadb8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a0b41dd9ab46652c8433b861f679fadb8">lua_gethookmask</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
+<tr class="memitem:a0b41dd9ab46652c8433b861f679fadb8"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a0b41dd9ab46652c8433b861f679fadb8">lua_gethookmask</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:a0b41dd9ab46652c8433b861f679fadb8"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a18f065f752cfa08eefd338b4cbd7254b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a18f065f752cfa08eefd338b4cbd7254b">lua_gethookcount</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
+<tr class="memitem:a18f065f752cfa08eefd338b4cbd7254b"><td class="memItemLeft" align="right" valign="top"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="lua_8h.html#a18f065f752cfa08eefd338b4cbd7254b">lua_gethookcount</a> (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td></tr>
 <tr class="separator:a18f065f752cfa08eefd338b4cbd7254b"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Macro Definition Documentation</h2>
@@ -468,12 +465,12 @@ Functions</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">&#160;</td>
-          <td class="paramname"><a class="el" href="unionu.html">u</a>&#160;</td>
+          <td class="paramname">u&#160;</td>
         </tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;(*(<a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> **)(<a class="el" href="lua_8h.html#a61d8af65d34c4a25a6f5b2bd00784df7">lua_newuserdata</a>(L, sizeof(<a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *))) = (<a class="el" href="unionu.html">u</a>))</td>
+          <td></td><td>&#160;&#160;&#160;(*(void **)(<a class="el" href="lua_8h.html#a61d8af65d34c4a25a6f5b2bd00784df7">lua_newuserdata</a>(L, sizeof(void *))) = (u))</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1348,7 +1345,7 @@ Functions</h2></td></tr>
         <tr>
           <td></td>
           <td>)</td>
-          <td></td><td>&#160;&#160;&#160;(*(<a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> **)(<a class="el" href="lua_8h.html#a0444ddf13e5618bca969e4b3b47bc0cc">lua_touserdata</a>(L, i)))</td>
+          <td></td><td>&#160;&#160;&#160;(*(void **)(<a class="el" href="lua_8h.html#a0444ddf13e5618bca969e4b3b47bc0cc">lua_touserdata</a>(L, i)))</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1415,7 +1412,7 @@ Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>(* lua_CFunction) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td>
+          <td class="memname">typedef int(* lua_CFunction) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1427,7 +1424,7 @@ Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef const char*(* lua_Chunkreader) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *ud, <a class="el" href="strsafe_8h.html#a20b76295c8c07faaa04b1e3ee0b5d521">size_t</a> *sz)</td>
+          <td class="memname">typedef const char*(* lua_Chunkreader) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, void *ud, size_t *sz)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1439,7 +1436,7 @@ Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>(* lua_Chunkwriter) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *p, <a class="el" href="strsafe_8h.html#a20b76295c8c07faaa04b1e3ee0b5d521">size_t</a> sz, <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *ud)</td>
+          <td class="memname">typedef int(* lua_Chunkwriter) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, const void *p, size_t sz, void *ud)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1463,7 +1460,7 @@ Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">typedef <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>(* lua_Hook) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar)</td>
+          <td class="memname">typedef void(* lua_Hook) (<a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *L, <a class="el" href="structlua__Debug.html">lua_Debug</a> *ar)</td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -1526,7 +1523,7 @@ Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_call </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_call </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -1534,13 +1531,13 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>nargs</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>nresults</em>&#160;</td>
         </tr>
         <tr>
@@ -1558,7 +1555,7 @@ Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_checkstack </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_checkstack </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -1566,7 +1563,7 @@ Functions</h2></td></tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>sz</em>&#160;</td>
         </tr>
         <tr>
@@ -1584,7 +1581,7 @@ Functions</h2></td></tr>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_close </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_close </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em></td><td>)</td>
@@ -1626,7 +1623,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_concat </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_concat </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -1634,7 +1631,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>n</em>&#160;</td>
         </tr>
         <tr>
@@ -1652,7 +1649,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_cpcall </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_cpcall </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -1666,7 +1663,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *&#160;</td>
+          <td class="paramtype">void *&#160;</td>
           <td class="paramname"><em>ud</em>&#160;</td>
         </tr>
         <tr>
@@ -1684,7 +1681,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_dump </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_dump </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -1698,7 +1695,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *&#160;</td>
+          <td class="paramtype">void *&#160;</td>
           <td class="paramname"><em>data</em>&#160;</td>
         </tr>
         <tr>
@@ -1716,7 +1713,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_equal </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_equal </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -1724,13 +1721,13 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx1</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx2</em>&#160;</td>
         </tr>
         <tr>
@@ -1748,7 +1745,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_error </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_error </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em></td><td>)</td>
@@ -1764,7 +1761,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_getfenv </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_getfenv </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -1772,7 +1769,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -1790,7 +1787,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_getgccount </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_getgccount </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em></td><td>)</td>
@@ -1806,7 +1803,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_getgcthreshold </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_getgcthreshold </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em></td><td>)</td>
@@ -1838,7 +1835,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_gethookcount </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_gethookcount </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em></td><td>)</td>
@@ -1854,7 +1851,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_gethookmask </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_gethookmask </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em></td><td>)</td>
@@ -1870,7 +1867,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_getinfo </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_getinfo </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -1916,7 +1913,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>n</em>&#160;</td>
         </tr>
         <tr>
@@ -1934,7 +1931,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_getmetatable </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_getmetatable </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -1942,7 +1939,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>objindex</em>&#160;</td>
         </tr>
         <tr>
@@ -1960,7 +1957,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_getstack </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_getstack </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -1968,7 +1965,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>level</em>, </td>
         </tr>
         <tr>
@@ -1992,7 +1989,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_gettable </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_gettable </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2000,7 +1997,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -2042,7 +2039,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_gettop </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_gettop </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em></td><td>)</td>
@@ -2091,13 +2088,13 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>funcindex</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>n</em>&#160;</td>
         </tr>
         <tr>
@@ -2115,7 +2112,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_insert </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_insert </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2123,7 +2120,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -2141,7 +2138,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_iscfunction </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_iscfunction </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2149,7 +2146,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -2167,7 +2164,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_isnumber </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_isnumber </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2175,7 +2172,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -2218,7 +2215,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_isstring </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_isstring </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2226,7 +2223,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -2269,7 +2266,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_isuserdata </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_isuserdata </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2277,7 +2274,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -2295,7 +2292,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_lessthan </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_lessthan </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2303,13 +2300,13 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx1</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx2</em>&#160;</td>
         </tr>
         <tr>
@@ -2327,7 +2324,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_load </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_load </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2341,7 +2338,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *&#160;</td>
+          <td class="paramtype">void *&#160;</td>
           <td class="paramname"><em>dt</em>, </td>
         </tr>
         <tr>
@@ -2365,7 +2362,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_newtable </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_newtable </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em></td><td>)</td>
@@ -2397,7 +2394,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>* lua_newuserdata </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void* lua_newuserdata </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2405,7 +2402,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="strsafe_8h.html#a20b76295c8c07faaa04b1e3ee0b5d521">size_t</a>&#160;</td>
+          <td class="paramtype">size_t&#160;</td>
           <td class="paramname"><em>sz</em>&#160;</td>
         </tr>
         <tr>
@@ -2423,7 +2420,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_next </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_next </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2431,7 +2428,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -2451,7 +2448,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a>* lua_open </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td>
+          <td class="paramtype">void&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -2488,7 +2485,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_pcall </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_pcall </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2496,19 +2493,19 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>nargs</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>nresults</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>errfunc</em>&#160;</td>
         </tr>
         <tr>
@@ -2550,7 +2547,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_pushboolean </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_pushboolean </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2558,7 +2555,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>b</em>&#160;</td>
         </tr>
         <tr>
@@ -2576,7 +2573,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_pushcclosure </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_pushcclosure </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2590,7 +2587,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>n</em>&#160;</td>
         </tr>
         <tr>
@@ -2640,7 +2637,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_pushlightuserdata </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_pushlightuserdata </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2648,7 +2645,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> *&#160;</td>
+          <td class="paramtype">void *&#160;</td>
           <td class="paramname"><em>p</em>&#160;</td>
         </tr>
         <tr>
@@ -2666,7 +2663,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_pushlstring </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_pushlstring </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2680,7 +2677,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="strsafe_8h.html#a20b76295c8c07faaa04b1e3ee0b5d521">size_t</a>&#160;</td>
+          <td class="paramtype">size_t&#160;</td>
           <td class="paramname"><em>l</em>&#160;</td>
         </tr>
         <tr>
@@ -2698,7 +2695,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_pushnil </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_pushnil </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em></td><td>)</td>
@@ -2714,7 +2711,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_pushnumber </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_pushnumber </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2742,7 +2739,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_pushstring </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_pushstring </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2803,7 +2800,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_pushupvalues </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_pushupvalues </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em></td><td>)</td>
@@ -2819,7 +2816,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_pushvalue </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_pushvalue </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2827,7 +2824,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -2877,7 +2874,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_rawequal </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_rawequal </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2885,13 +2882,13 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx1</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx2</em>&#160;</td>
         </tr>
         <tr>
@@ -2909,7 +2906,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_rawget </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_rawget </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2917,7 +2914,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -2935,7 +2932,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_rawgeti </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_rawgeti </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2943,13 +2940,13 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>n</em>&#160;</td>
         </tr>
         <tr>
@@ -2967,7 +2964,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_rawset </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_rawset </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -2975,7 +2972,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -2993,7 +2990,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_rawseti </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_rawseti </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3001,13 +2998,13 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>n</em>&#160;</td>
         </tr>
         <tr>
@@ -3025,7 +3022,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_remove </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_remove </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3033,7 +3030,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3051,7 +3048,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_replace </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_replace </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3059,7 +3056,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3077,7 +3074,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_resume </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_resume </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3085,7 +3082,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>narg</em>&#160;</td>
         </tr>
         <tr>
@@ -3103,7 +3100,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_setfenv </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_setfenv </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3111,7 +3108,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3129,7 +3126,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_setgcthreshold </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_setgcthreshold </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3137,7 +3134,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>newthreshold</em>&#160;</td>
         </tr>
         <tr>
@@ -3155,7 +3152,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_sethook </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_sethook </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3169,13 +3166,13 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>mask</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>count</em>&#160;</td>
         </tr>
         <tr>
@@ -3207,7 +3204,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>n</em>&#160;</td>
         </tr>
         <tr>
@@ -3225,7 +3222,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_setmetatable </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_setmetatable </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3233,7 +3230,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>objindex</em>&#160;</td>
         </tr>
         <tr>
@@ -3251,7 +3248,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_settable </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_settable </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3259,7 +3256,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3277,7 +3274,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_settop </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_settop </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3285,7 +3282,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3311,13 +3308,13 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>funcindex</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>n</em>&#160;</td>
         </tr>
         <tr>
@@ -3335,7 +3332,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="strsafe_8h.html#a20b76295c8c07faaa04b1e3ee0b5d521">size_t</a> lua_strlen </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> size_t lua_strlen </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3343,7 +3340,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3361,7 +3358,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_toboolean </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_toboolean </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3369,7 +3366,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3420,7 +3417,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3446,7 +3443,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3466,7 +3463,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>* lua_topointer </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const void* lua_topointer </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3474,7 +3471,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3533,7 +3530,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3603,7 +3600,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3621,7 +3618,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>* lua_touserdata </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void* lua_touserdata </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3629,7 +3626,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3647,7 +3644,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_type </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_type </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3655,7 +3652,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>idx</em>&#160;</td>
         </tr>
         <tr>
@@ -3706,7 +3703,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>tp</em>&#160;</td>
         </tr>
         <tr>
@@ -3751,7 +3748,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> const char* lua_version </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a>&#160;</td>
+          <td class="paramtype">void&#160;</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
@@ -3765,7 +3762,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="mmstream_8h.html#a78092b41d092fdf12842d04ed297bb03">void</a> lua_xmove </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> void lua_xmove </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>from</em>, </td>
@@ -3779,7 +3776,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>n</em>&#160;</td>
         </tr>
         <tr>
@@ -3797,7 +3794,7 @@ Here is the caller graph for this function:</div>
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> <a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a> lua_yield </td>
+          <td class="memname"><a class="el" href="lua_8h.html#af88575eb79fdd88b1cce4533ab5cbe69">LUA_API</a> int lua_yield </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="lua_8h.html#a28186297f2e9f2de0652504633de8fb3">lua_State</a> *&#160;</td>
           <td class="paramname"><em>L</em>, </td>
@@ -3805,7 +3802,7 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype"><a class="el" href="d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0">int</a>&#160;</td>
+          <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>nresults</em>&#160;</td>
         </tr>
         <tr>
@@ -3821,7 +3818,7 @@ Here is the caller graph for this function:</div>
 </div><!-- contents -->
 <!-- start footer part -->
 <hr class="footer"/><address class="footer"><small>
-Generated on Sat Feb 6 2016 16:23:35 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
+Generated on Sat Feb 6 2016 17:14:31 for RigidChips by &#160;<a href="http://www.doxygen.org/index.html">
 <img class="footer" src="doxygen.png" alt="doxygen"/>
 </a> 1.8.10
 </small></address>
