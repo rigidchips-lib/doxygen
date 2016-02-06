@@ -1,0 +1,10 @@
+<map id="CD3DApplication::ToggleFullscreen" name="CD3DApplication::ToggleFullscreen">
+<area shape="rect" id="node2" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="545,35,694,76"/>
+<area shape="rect" id="node3" href="$classCMyD3DApplication.html#ab0516f10a0464b48804cb879adb08bda" title="CMyD3DApplication::\lMsgProc" alt="" coords="759,5,908,47"/>
+<area shape="rect" id="node4" href="$classCD3DApplication.html#a71a5cc911df29ecdf675d0f3f14400ff" title="CD3DApplication::MsgProc" alt="" coords="528,101,711,127"/>
+<area shape="rect" id="node9" href="$classCD3DApplication.html#a06674b6c2e548d6850550eefbef74e50" title="CD3DApplication::UserSelect\lNewDevice" alt="" coords="284,85,480,127"/>
+<area shape="rect" id="node5" href="$d3dapp_8cpp.html#ae749e989b362e19783c7af4a2bf46c95" title="WndProc" alt="" coords="795,101,871,127"/>
+<area shape="rect" id="node6" href="$classCD3DApplication.html#a3eec58e85a67d27e13a558925ec4457b" title="CD3DApplication::Create" alt="" coords="956,101,1127,127"/>
+<area shape="rect" id="node7" href="$classCMyD3DApplication.html#ac33b7640e2006e2fe5469362631ac2f3" title="CMyD3DApplication::\lInitDeviceObjects" alt="" coords="1175,64,1324,105"/>
+<area shape="rect" id="node8" href="$Rigidmain_8cpp.html#a352a069a3742cb8d6f64a009fa5ea474" title="WinMain" alt="" coords="1213,130,1286,157"/>
+</map>

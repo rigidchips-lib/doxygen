@@ -1,0 +1,8 @@
+<map id="CInputDeviceManager::GetDevices" name="CInputDeviceManager::GetDevices">
+<area shape="rect" id="node2" href="$classCMyD3DApplication.html#a8280ce182990c01804bd2b12538c162f" title="CMyD3DApplication::\lCleanupDirectInput" alt="" coords="205,53,355,94"/>
+<area shape="rect" id="node4" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="600,137,749,178"/>
+<area shape="rect" id="node5" href="$classCMyD3DApplication.html#a32d5664e50638bfde8b220936dae2011" title="CMyD3DApplication::\lPause" alt="" coords="205,118,355,159"/>
+<area shape="rect" id="node7" href="$classCMyD3DApplication.html#aac4917cbb43b8521412e3f46d1ac60a2" title="CMyD3DApplication::\lUpdateInput" alt="" coords="403,221,552,262"/>
+<area shape="rect" id="node3" href="$classCMyD3DApplication.html#a32de149f46c5130d8e65dd1f44428d07" title="CMyD3DApplication::\lFinalCleanup" alt="" coords="403,53,552,94"/>
+<area shape="rect" id="node6" href="$Rigidmain_8cpp.html#a07045712c49a413d8b80c094cdb16d36" title="DlgNetworkProc" alt="" coords="418,119,537,145"/>
+</map>

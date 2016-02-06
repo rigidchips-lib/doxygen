@@ -1,0 +1,4 @@
+<map id="IDXTransformFactoryVtbl" name="IDXTransformFactoryVtbl">
+<area shape="rect" id="node2" href="$interfaceIDXTransform.html" title="{IDXTransform\n||+ Setup()\l+ Execute()\l+ MapBoundsIn2Out()\l+ MapBoundsOut2In()\l+ SetMiscFlags()\l+ GetMiscFlags()\l+ GetInOutInfo()\l+ SetQuality()\l+ GetQuality()\l}" alt="" coords="17,288,168,483"/>
+<area shape="rect" id="node3" href="$interfaceIDXBaseObject.html" title="{IDXBaseObject\n||+ GetGenerationId()\l+ IncrementGenerationId()\l+ GetObjectSize()\l}" alt="" coords="5,132,180,239"/>
+</map>

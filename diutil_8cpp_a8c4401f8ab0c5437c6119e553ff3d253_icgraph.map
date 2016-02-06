@@ -1,0 +1,8 @@
+<map id="EnumSuitableDevicesCB" name="EnumSuitableDevicesCB">
+<area shape="rect" id="node2" href="$classCInputDeviceManager.html#a6640bbce8b1fbfb2bbcbd4aca7fbf99b" title="CInputDeviceManager\l::SetActionFormat" alt="" coords="224,39,376,80"/>
+<area shape="rect" id="node3" href="$classCInputDeviceManager.html#a7395ff3bbbc3e6051bd721c554c0f29a" title="CInputDeviceManager\l::Create" alt="" coords="424,5,576,47"/>
+<area shape="rect" id="node6" href="$classCInputDeviceManager.html#afcf06b490f62004991fe7b5832538a5a" title="CInputDeviceManager\l::ConfigureDevices" alt="" coords="424,71,576,112"/>
+<area shape="rect" id="node4" href="$classCMyD3DApplication.html#a937211a180787b945f45bb109fc931dc" title="CMyD3DApplication::\lInitInput" alt="" coords="624,5,773,47"/>
+<area shape="rect" id="node5" href="$classCMyD3DApplication.html#a7dbfcbeb208adf6064f1a2f063c4eb7a" title="CMyD3DApplication::\lOneTimeSceneInit" alt="" coords="821,5,971,47"/>
+<area shape="rect" id="node7" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="624,71,773,112"/>
+</map>

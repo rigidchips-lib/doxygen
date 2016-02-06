@@ -1,0 +1,4 @@
+<map id="ITuningSpacesVtbl" name="ITuningSpacesVtbl">
+<area shape="rect" id="node2" href="$interfaceITuningSpace.html" title="{ITuningSpace\n|+ UniqueName\l+ FriendlyName\l+ CLSID\l+ NetworkType\l+ _NetworkType\l+ _NetworkType\l+ DefaultPreferredComponent\lTypes\l+ FrequencyMapping\l+ DefaultLocator\l|+ CreateTuneRequest()\l+ EnumCategoryGUIDs()\l+ EnumDeviceMonikers()\l+ Clone()\l}" alt="" coords="5,132,201,385"/>
+<area shape="rect" id="node4" href="$interfaceIEnumTuningSpaces.html" title="{IEnumTuningSpaces\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="225,198,368,319"/>
+</map>

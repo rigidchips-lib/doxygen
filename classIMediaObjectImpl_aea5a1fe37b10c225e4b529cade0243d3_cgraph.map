@@ -1,0 +1,10 @@
+<map id="IMediaObjectImpl::SetInputType" name="IMediaObjectImpl::SetInputType">
+<area shape="rect" id="node2" href="$dmort_8h.html#a6ea181a7366c81e87359cd4eb8021573" title="MoFreeMediaType" alt="" coords="312,5,443,32"/>
+<area shape="rect" id="node3" href="$classIMediaObjectImpl.html#ae431518e4bad960a318969e8b51b8af0" title="IMediaObjectImpl::CheckTypesSet" alt="" coords="264,107,491,133"/>
+<area shape="rect" id="node4" href="$classIMediaObjectImpl.html#a8e66c7d5b4c1cae62725017f79cadd5d" title="IMediaObjectImpl::InputTypeSet" alt="" coords="539,40,749,67"/>
+<area shape="rect" id="node7" href="$classIMediaObjectImpl.html#a431d12f24f299001707044ad4e053111" title="IMediaObjectImpl::Flush" alt="" coords="562,223,726,249"/>
+<area shape="rect" id="node8" href="$classIMediaObjectImpl.html#a52489cedb4932a5521d8a2527fb3451f" title="IMediaObjectImpl::FreeStreaming\lResources" alt="" coords="269,209,486,250"/>
+<area shape="rect" id="node9" href="$dmort_8h.html#a1d550e4e00d7b888cac4d0b49f985173" title="MoCopyMediaType" alt="" coords="310,275,445,301"/>
+<area shape="rect" id="node5" href="$classIMediaObjectImpl.html#ac1888d3c1feb1c297229c4be0f88f8e7" title="IMediaObjectImpl::Output\lTypeSet" alt="" coords="559,91,729,133"/>
+<area shape="rect" id="node6" href="$classIMediaObjectImpl.html#a95bdd6fbbca7ddc96ded17f6f7a13166" title="IMediaObjectImpl::GetOutput\lStreamInfo" alt="" coords="548,157,740,198"/>
+</map>

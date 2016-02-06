@@ -1,0 +1,4 @@
+<map id="KSRATE_CAPABILITY" name="KSRATE_CAPABILITY">
+<area shape="rect" id="node2" href="$structKSIDENTIFIER.html" title="{KSIDENTIFIER\n|+ Set\l+ Id\l+ Flags\l+ Data\l+ Alignment\l+ @169\l+ @269\l|}" alt="" coords="56,5,172,171"/>
+<area shape="rect" id="node3" href="$structKSRATE.html" title="{KSRATE\n|+ PresentationStart\l+ Duration\l+ Rate\l+ Flags\l|}" alt="" coords="151,233,285,355"/>
+</map>

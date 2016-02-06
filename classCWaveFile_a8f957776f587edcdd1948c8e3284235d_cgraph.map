@@ -1,0 +1,5 @@
+<map id="CWaveFile::Open" name="CWaveFile::Open">
+<area shape="rect" id="node2" href="$classCWaveFile.html#af5607e7ba6d1502735dc5bfa0da8d2b9" title="CWaveFile::ReadMMIO" alt="" coords="180,5,343,32"/>
+<area shape="rect" id="node3" href="$classCWaveFile.html#ae6791a066f89f5e147cc0f5d9f2dbdbc" title="CWaveFile::ResetFile" alt="" coords="186,56,337,83"/>
+<area shape="rect" id="node4" href="$classCWaveFile.html#aa3524cf0271959bb3f190a58b5669002" title="CWaveFile::WriteMMIO" alt="" coords="180,107,343,133"/>
+</map>

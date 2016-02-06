@@ -1,0 +1,5 @@
+<map id="IGuideDataVtbl" name="IGuideDataVtbl">
+<area shape="rect" id="node2" href="$interfaceIEnumGuideDataProperties.html" title="{IEnumGuideDataProperties\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="5,132,187,253"/>
+<area shape="rect" id="node6" href="$interfaceIEnumTuneRequests.html" title="{IEnumTuneRequests\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="211,132,357,253"/>
+<area shape="rect" id="node4" href="$interfaceITuneRequest.html" title="{ITuneRequest\n|+ TuningSpace\l+ Components\l+ Locator\l|+ Clone()\l}" alt="" coords="393,139,503,246"/>
+</map>

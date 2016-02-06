@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['reason',['reason',['../d3drmobj_8h.html#a419faddd4a0f9516f7aa0ad6dfc2d270',1,'d3drmobj.h']]],
+  ['receivefunc',['ReceiveFunc',['../GDPlay_8hpp.html#a11fea295bab9321be41c44f946f97d5c',1,'GDPlay.hpp']]],
+  ['recordingtype',['RecordingType',['../Segment_8h.html#a055e53402b3a911fded102ad2ba59105',1,'Segment.h']]],
+  ['reference_5ftime',['REFERENCE_TIME',['../dmdls_8h.html#a83927f70641d4e9a344563bd9ddb15ae',1,'REFERENCE_TIME():&#160;dmdls.h'],['../dmusici_8h.html#a3056a6690c574000468aad94d4b646d8',1,'REFERENCE_TIME():&#160;dmusici.h'],['../axcore_8idl.html#a83927f70641d4e9a344563bd9ddb15ae',1,'REFERENCE_TIME():&#160;axcore.idl'],['../mediaobj_8idl.html#a83927f70641d4e9a344563bd9ddb15ae',1,'REFERENCE_TIME():&#160;mediaobj.idl'],['../vmr9_8idl.html#a83927f70641d4e9a344563bd9ddb15ae',1,'REFERENCE_TIME():&#160;vmr9.idl'],['../dsound_8h.html#a83927f70641d4e9a344563bd9ddb15ae',1,'REFERENCE_TIME():&#160;dsound.h'],['../dxva_8h.html#a83927f70641d4e9a344563bd9ddb15ae',1,'REFERENCE_TIME():&#160;dxva.h'],['../ksmedia_8h.html#a83927f70641d4e9a344563bd9ddb15ae',1,'REFERENCE_TIME():&#160;ksmedia.h'],['../mediaobj_8h.html#a83927f70641d4e9a344563bd9ddb15ae',1,'REFERENCE_TIME():&#160;mediaobj.h'],['../strmif_8h.html#a83927f70641d4e9a344563bd9ddb15ae',1,'REFERENCE_TIME():&#160;strmif.h']]],
+  ['refmspid',['REFMSPID',['../mmstream_8idl.html#aadd488092f07e77ceffa683b0b51129b',1,'REFMSPID():&#160;mmstream.idl'],['../mmstream_8h.html#aadd488092f07e77ceffa683b0b51129b',1,'REFMSPID():&#160;mmstream.h']]],
+  ['reftime',['REFTIME',['../control_8h.html#a0f3d11e55dba0446141cb67149cdbbf3',1,'REFTIME():&#160;control.h'],['../axcore_8idl.html#a0f3d11e55dba0446141cb67149cdbbf3',1,'REFTIME():&#160;axcore.idl'],['../namespaceQuartzTypeLib.html#ac50098a6fbea6dc33b44fa68dc223bd1',1,'QuartzTypeLib::REFTIME()'],['../strmif_8h.html#a0f3d11e55dba0446141cb67149cdbbf3',1,'REFTIME():&#160;strmif.h']]],
+  ['regfilter',['REGFILTER',['../strmif_8h.html#a1e8e68dd355b769585eeacc66c91aabc',1,'strmif.h']]],
+  ['regfilter2',['REGFILTER2',['../strmif_8h.html#a6da0e3e6dc3f1c0962d6b21ad91a4a24',1,'strmif.h']]],
+  ['regfilterpins',['REGFILTERPINS',['../strmif_8h.html#a4b09be161945388a06a58ea14198beaf',1,'strmif.h']]],
+  ['regfilterpins2',['REGFILTERPINS2',['../strmif_8h.html#a25581e46148d8600b7a61f4cf4717777',1,'strmif.h']]],
+  ['regpinmedium',['REGPINMEDIUM',['../strmif_8h.html#aa41fcd5f3ca4e8d04c8606ea10899aea',1,'strmif.h']]],
+  ['regpintypes',['REGPINTYPES',['../strmif_8h.html#a0c7e515ae1c90e9aac7427d5d513c87d',1,'strmif.h']]],
+  ['renderengine',['RenderEngine',['../qedit_8h.html#a98e183948b871a96e51d773e22909d8f',1,'qedit.h']]],
+  ['rgndata',['RGNDATA',['../axextend_8idl.html#a6bb4dd1119aabf5b5a871bc1deaf1693',1,'RGNDATA():&#160;axextend.idl'],['../strmif_8h.html#a4b7162a3c7b2bb085b7e44ba13554eda',1,'RGNDATA():&#160;strmif.h']]],
+  ['rgndataheader',['RGNDATAHEADER',['../axextend_8idl.html#ac98dddd4bf0ba293f871da44a775af67',1,'RGNDATAHEADER():&#160;axextend.idl'],['../strmif_8h.html#a77d19250cb87669850c1ab9acaabaffa',1,'RGNDATAHEADER():&#160;strmif.h']]],
+  ['rgnheader',['RGNHEADER',['../dls1_8h.html#ad87d6dc0d5c32426a345c13b8f2d39dc',1,'dls1.h']]],
+  ['rgnrange',['RGNRANGE',['../dls1_8h.html#aa05d8f23a3a49735d0f933e7671ff3f7',1,'dls1.h']]],
+  ['riffchunk',['RIFFCHUNK',['../aviriff_8h.html#a69992368d3b50db9aca6aeabc9eba316',1,'aviriff.h']]],
+  ['rifflist',['RIFFLIST',['../aviriff_8h.html#a358f94d0a31cb6ea2cd5092e4c7b9e33',1,'aviriff.h']]]
+];

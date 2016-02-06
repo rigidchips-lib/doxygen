@@ -1,0 +1,10 @@
+<map id="CWaveFile::ResetFile" name="CWaveFile::ResetFile">
+<area shape="rect" id="node2" href="$classCSound.html#a5591cb7ebe3a9cb04e2a57fba3462510" title="CSound::FillBufferWithSound" alt="" coords="204,122,397,149"/>
+<area shape="rect" id="node4" href="$classCStreamingSound.html#a86f319f40957fb309f9e5eda99186a75" title="CStreamingSound::HandleWave\lStreamNotification" alt="" coords="453,5,663,47"/>
+<area shape="rect" id="node6" href="$classCStreamingSound.html#a566d5512e22de66e7cfbab17784335cf" title="CStreamingSound::Reset" alt="" coords="473,173,643,199"/>
+<area shape="rect" id="node7" href="$classCWaveFile.html#a8f957776f587edcdd1948c8e3284235d" title="CWaveFile::Open" alt="" coords="237,223,364,250"/>
+<area shape="rect" id="node3" href="$classCSound.html#a33b42699c3c41ed366cf422d62b960d6" title="CSound::CSound" alt="" coords="496,71,620,98"/>
+<area shape="rect" id="node5" href="$classCSound.html#a468f2f659e0f0f87c5559dfc1be76b73" title="CSound::Play" alt="" coords="507,122,609,149"/>
+<area shape="rect" id="node8" href="$classCSoundManager.html#aed1607c6a7bf3833cc49c3d48f541cee" title="CSoundManager::Create" alt="" coords="475,223,641,250"/>
+<area shape="rect" id="node9" href="$classCSoundManager.html#a49a23436554bafa488aa6f8c85b092a1" title="CSoundManager::CreateStreaming" alt="" coords="445,274,671,301"/>
+</map>

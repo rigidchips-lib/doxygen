@@ -1,0 +1,9 @@
+<map id="_D3DXMESHCONTAINER" name="_D3DXMESHCONTAINER">
+<area shape="rect" id="node2" href="$structD3DXMATERIAL.html" title="{D3DXMATERIAL\n|+ pTextureFilename\l|}" alt="" coords="9,746,148,823"/>
+<area shape="rect" id="node3" href="$struct__D3DMATERIAL8.html" title="{_D3DMATERIAL8\n|+ Power\l|}" alt="" coords="13,477,144,555"/>
+<area shape="rect" id="node4" href="$struct__D3DCOLORVALUE.html" title="{_D3DCOLORVALUE\n|+ r\l+ g\l+ b\l+ a\l+ r\l+ dvR\l+ @28\l+ g\l+ dvG\l+ @30\land 6 more...\l|}" alt="" coords="5,132,152,356"/>
+<area shape="rect" id="node5" href="$struct__D3DXEFFECTINSTANCE.html" title="{_D3DXEFFECTINSTANCE\n|+ pEffectFilename\l+ NumDefaults\l|}" alt="" coords="172,739,359,831"/>
+<area shape="rect" id="node6" href="$struct__D3DXEFFECTDEFAULT.html" title="{_D3DXEFFECTDEFAULT\n|+ pParamName\l+ NumBytes\l+ pValue\l|}" alt="" coords="180,463,359,569"/>
+<area shape="rect" id="node7" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="240,132,445,356"/>
+<area shape="rect" id="node9" href="$struct__D3DXMESHDATA.html" title="{_D3DXMESHDATA\n|+ pMesh\l+ pPMesh\l+ pPatchMesh\l+ @136\l|}" alt="" coords="341,593,481,715"/>
+</map>

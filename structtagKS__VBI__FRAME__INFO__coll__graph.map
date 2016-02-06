@@ -1,0 +1,4 @@
+<map id="tagKS_VBI_FRAME_INFO" name="tagKS_VBI_FRAME_INFO">
+<area shape="rect" id="node2" href="$structtagKS__TVTUNER__CHANGE__INFO.html" title="{tagKS_TVTUNER_CHANGE_INFO\n|+ dwFlags\l+ dwCountryCode\l+ dwAnalogVideoStandard\l+ dwChannel\l|}" alt="" coords="5,57,239,178"/>
+<area shape="rect" id="node3" href="$structtagKS__VBIINFOHEADER.html" title="{tagKS_VBIINFOHEADER\n|+ StartLine\l+ EndLine\l+ SamplingFrequency\l+ MinLineStartTime\l+ MaxLineStartTime\l+ ActualLineStartTime\l+ ActualLineEndTime\l+ VideoStandard\l+ SamplesPerLine\l+ StrideInBytes\l+ BufferSize\l|}" alt="" coords="263,5,439,229"/>
+</map>

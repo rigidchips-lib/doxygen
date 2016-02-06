@@ -1,0 +1,10 @@
+<map id="IAMVideoAcceleratorVtbl" name="IAMVideoAcceleratorVtbl">
+<area shape="rect" id="node2" href="$struct__tag__AMVABUFFERINFO.html" title="{_tag_AMVABUFFERINFO\n|+ dwTypeIndex\l+ dwBufferIndex\l+ dwDataOffset\l+ dwDataSize\l|}" alt="" coords="5,402,184,523"/>
+<area shape="rect" id="node3" href="$struct__tag__AMVAEndFrameInfo.html" title="{_tag_AMVAEndFrameInfo\n|+ dwSizeMiscData\l+ pMiscData\l|}" alt="" coords="209,417,383,509"/>
+<area shape="rect" id="node4" href="$struct__tag__AMVACompBufferInfo.html" title="{_tag_AMVACompBufferInfo\n|+ dwNumCompBuffers\l+ dwWidthToCreate\l+ dwHeightToCreate\l+ dwBytesToAllocate\l|}" alt="" coords="408,402,592,523"/>
+<area shape="rect" id="node5" href="$struct__DDSCAPS2.html" title="{_DDSCAPS2\n|+ dwCaps\l+ dwCaps2\l+ dwCaps3\l+ dwCaps4\l+ dwVolumeDepth\l|+ DUMMYUNIONNAMEN()\l}" alt="" coords="367,79,553,215"/>
+<area shape="rect" id="node6" href="$struct__DDPIXELFORMAT.html" title="{_DDPIXELFORMAT\n|+ dwSize\l+ dwFlags\l+ dwFourCC\l+ dwRGBBitCount\l+ dwYUVBitCount\l+ dwZBufferBitDepth\l+ dwAlphaBitDepth\l+ dwLuminanceBitCount\l+ dwBumpBitCount\l+ dwPrivateFormatBitCount\land 27 more...\l|+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l}" alt="" coords="597,5,784,288"/>
+<area shape="rect" id="node7" href="$struct__tag__AMVAUncompDataInfo.html" title="{_tag_AMVAUncompDataInfo\n|+ dwUncompWidth\l+ dwUncompHeight\l|}" alt="" coords="617,417,807,509"/>
+<area shape="rect" id="node8" href="$struct__tag__AMVABeginFrameInfo.html" title="{_tag_AMVABeginFrameInfo\n|+ dwDestSurfaceIndex\l+ pInputData\l+ dwSizeInputData\l+ pOutputData\l+ dwSizeOutputData\l|}" alt="" coords="832,395,1016,531"/>
+<area shape="rect" id="node9" href="$interfaceIMediaSample.html" title="{IMediaSample\n||+ GetPointer()\l+ GetSize()\l+ GetTime()\l+ SetTime()\l+ IsSyncPoint()\l+ SetSyncPoint()\l+ IsPreroll()\l+ SetPreroll()\l+ GetActualDataLength()\l+ SetActualDataLength()\land 6 more...\l}" alt="" coords="1041,351,1207,575"/>
+</map>

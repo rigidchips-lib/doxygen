@@ -1,0 +1,5 @@
+<map id="GWorld::~GWorld" name="GWorld::~GWorld">
+<area shape="rect" id="node2" href="$classGWorld.html#a511bd8c2892a8099efb138e1d7d96fb8" title="GWorld::DeleteRigids" alt="" coords="184,5,333,32"/>
+<area shape="rect" id="node3" href="$classGWorld.html#a83fe9e3d721e14fea34e66f60e7d07b5" title="GWorld::DeleteObjects" alt="" coords="180,56,337,83"/>
+<area shape="rect" id="node4" href="$classGWorld.html#a27981bed96fab10137da33f307f267b0" title="GWorld::DeleteLand" alt="" coords="189,107,329,133"/>
+</map>

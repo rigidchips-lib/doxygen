@@ -1,0 +1,5 @@
+<map id="KSPROPERTY_VBICODECFILTERING_STATISTICS_CC_S" name="KSPROPERTY_VBICODECFILTERING_STATISTICS_CC_S">
+<area shape="rect" id="node2" href="$structKSIDENTIFIER.html" title="{KSIDENTIFIER\n|+ Set\l+ Id\l+ Flags\l+ Data\l+ Alignment\l+ @169\l+ @269\l|}" alt="" coords="15,351,131,516"/>
+<area shape="rect" id="node3" href="$struct__VBICODECFILTERING__STATISTICS__CC.html" title="{_VBICODECFILTERING\l_STATISTICS_CC\n||}" alt="" coords="155,387,326,479"/>
+<area shape="rect" id="node4" href="$struct__VBICODECFILTERING__STATISTICS__COMMON.html" title="{_VBICODECFILTERING\l_STATISTICS_COMMON\n|+ InputSRBsProcessed\l+ OutputSRBsProcessed\l+ SRBsIgnored\l+ InputSRBsMissing\l+ OutputSRBsMissing\l+ OutputFailures\l+ InternalErrors\l+ ExternalErrors\l+ InputDiscontinuities\l+ DSPFailures\l+ TvTunerChanges\l+ VBIHeaderChanges\l+ LineConfidenceAvg\l+ BytesOutput\l|}" alt="" coords="153,5,329,288"/>
+</map>

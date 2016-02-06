@@ -1,0 +1,4 @@
+<map id="IMSVidPlayback" name="IMSVidPlayback">
+<area shape="rect" id="node2" href="$interfaceIMSVidInputDevice.html" title="{IMSVidInputDevice\n||+ IsViewable()\l+ View()\l}" alt="" coords="15,344,149,436"/>
+<area shape="rect" id="node3" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="19,131,145,296"/>
+</map>

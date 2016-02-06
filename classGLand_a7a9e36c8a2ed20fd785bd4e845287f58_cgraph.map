@@ -1,0 +1,5 @@
+<map id="GLand::GetY2" name="GLand::GetY2">
+<area shape="rect" id="node2" href="$classGVector.html#a96b6e19c04d39afa5e1917df64b54891" title="GVector::pointOnFaceAndLine" alt="" coords="159,5,357,32"/>
+<area shape="rect" id="node4" href="$classGVector.html#a9edcde2278c60915aa7470514d3168fb" title="GVector::distanceFromFace" alt="" coords="165,56,351,83"/>
+<area shape="rect" id="node3" href="$classGVector.html#a43df893e25405cd83678f5d1dd427bfb" title="GVector::dot" alt="" coords="405,31,501,57"/>
+</map>

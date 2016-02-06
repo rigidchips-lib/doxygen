@@ -1,0 +1,6 @@
+<map id="GRigid::CalcTotalCenter" name="GRigid::CalcTotalCenter">
+<area shape="rect" id="node2" href="$classGRigid.html#a6afe1064e42483130e78fd5949e0f0b5" title="GRigid::CalcTotalPos" alt="" coords="227,29,377,56"/>
+<area shape="rect" id="node3" href="$classGRigid.html#ae25cb9d7761559c1e131858100fd1979" title="GRigid::CalcTotalXG" alt="" coords="229,104,375,131"/>
+<area shape="rect" id="node4" href="$classGRigid.html#a92881a7aba0d8f84f2d0552ef5b38bab" title="GRigid::CalcTotalMass" alt="" coords="223,179,381,205"/>
+<area shape="rect" id="node5" href="$classGRigid.html#a2271ee222015bda7aa36349541c609f9" title="GRigid::CalcTotalRadius" alt="" coords="219,253,385,280"/>
+</map>

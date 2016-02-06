@@ -1,0 +1,4 @@
+<map id="tagKS_DATARANGE_ANALOGVIDEO" name="tagKS_DATARANGE_ANALOGVIDEO">
+<area shape="rect" id="node2" href="$structtagKS__AnalogVideoInfo.html" title="{tagKS_AnalogVideoInfo\n|+ rcSource\l+ rcTarget\l+ dwActiveWidth\l+ dwActiveHeight\l+ AvgTimePerFrame\l|}" alt="" coords="5,20,165,156"/>
+<area shape="rect" id="node3" href="$structKSDATAFORMAT.html" title="{KSDATAFORMAT\n|+ FormatSize\l+ Flags\l+ SampleSize\l+ Reserved\l+ MajorFormat\l+ SubFormat\l+ Specifier\l|}" alt="" coords="190,5,322,171"/>
+</map>

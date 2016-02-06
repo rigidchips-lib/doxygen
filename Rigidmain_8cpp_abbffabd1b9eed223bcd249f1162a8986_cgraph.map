@@ -1,0 +1,8 @@
+<map id="MyDestroyFunc" name="MyDestroyFunc">
+<area shape="rect" id="node2" href="$classGDPlay.html#a2a87770cda504fdbab9941fbb6b3a415" title="GDPlay::GetPlayersDPID" alt="" coords="169,5,343,32"/>
+<area shape="rect" id="node3" href="$classGDPlay.html#a31d51f7732c151434a924c76fa3dd1ae" title="GDPlay::GetMaxPlayers" alt="" coords="413,69,579,96"/>
+<area shape="rect" id="node4" href="$classGDPlay.html#a1b7bb62e16f65da02e1826916f8d69b5" title="GDPlay::GetPlayersName" alt="" coords="168,107,344,133"/>
+<area shape="rect" id="node5" href="$Rigidmain_8cpp.html#a2a4d90890d2a40f43110afb29a7afbe1" title="PlayersInfoDisp" alt="" coords="199,157,313,184"/>
+<area shape="rect" id="node6" href="$classGDPlay.html#a73f9fb0aafa53894ac4547ceeb49d1d9" title="GDPlay::GetHostPlayerDPNID" alt="" coords="393,132,599,159"/>
+<area shape="rect" id="node7" href="$classGDPlay.html#aef2b09999ff3dea0a98e420704c1195c" title="GDPlay::GetLocalPlayerDPNID" alt="" coords="392,183,600,209"/>
+</map>

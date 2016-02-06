@@ -1,0 +1,3 @@
+<map id="IMediaObject" name="IMediaObject">
+<area shape="rect" id="node3" href="$classIMediaObjectImpl.html" title="{IMediaObjectImpl\&lt; \l_DERIVED_, NUMBEROFINPUTS,\l NUMBEROFOUTPUTS \&gt;\n|+ fTypeSet\l+ fIncomplete\l+ CurrentMediaType\l&#45; m_InputInfo\l&#45; m_OutputInfo\l&#45; m_fTypesSet\l&#45; m_fFlushed\l&#45; m_fResourcesAllocated\l|# InputTypeSet()\l# OutputTypeSet()\l# InputType()\l# OutputType()\l# CheckTypesSet()\l# IMediaObjectImpl()\l# ~IMediaObjectImpl()\l# GetStreamCount()\l# GetInputStreamInfo()\l# GetOutputStreamInfo()\land 18 more...\l}" alt="" coords="5,403,241,759"/>
+</map>

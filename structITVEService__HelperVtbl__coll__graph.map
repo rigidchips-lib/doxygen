@@ -1,0 +1,4 @@
+<map id="ITVEService_HelperVtbl" name="ITVEService_HelperVtbl">
+<area shape="rect" id="node2" href="$interfaceITVESupervisor.html" title="{ITVESupervisor\n|+ Services\l+ Description\l|+ TuneTo()\l+ ReTune()\l+ NewXOverLink()\l+ ExpireForDate()\l+ InitStats()\l+ GetStats()\l}" alt="" coords="5,161,136,327"/>
+<area shape="rect" id="node4" href="$interfaceITVEEnhancement.html" title="{ITVEEnhancement\n|+ Parent\l+ Service\l+ Variations\l+ IsValid\l+ ProtocolVersion\l+ SessionUserName\l+ SessionId\l+ SessionVersion\l+ SessionIPAddress\l+ SessionName\land 19 more...\l|+ ParseAnnouncement()\l}" alt="" coords="160,132,323,356"/>
+</map>

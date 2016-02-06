@@ -1,0 +1,5 @@
+<map id="IMpeg2DataVtbl" name="IMpeg2DataVtbl">
+<area shape="rect" id="node2" href="$structMPEG2__FILTER.html" title="{MPEG2_FILTER\n|+ bVersionNumber\l+ wFilterSize\l+ fUseRawFilteringBits\l+ Filter\l+ Mask\l+ fSpecifyTableIdExtension\l+ TableIdExtension\l+ fSpecifyVersion\l+ Version\l+ fSpecifySectionNumber\l+ SectionNumber\l+ fSpecifyCurrentNext\l+ fNext\l+ fSpecifyDsmccOptions\l+ fSpecifyAtscOptions\l|}" alt="" coords="137,365,319,648"/>
+<area shape="rect" id="node3" href="$struct____MIDL______MIDL__itf__mpeg2data__0000__0016.html" title="{__MIDL___MIDL_itf_mpeg2data\l_0000_0016\n|+ fSpecifyProtocol\l+ Protocol\l+ fSpecifyType\l+ Type\l+ fSpecifyMessageId\l+ MessageId\l+ fSpecifyTransactionId\l+ fUseTrxIdMessageIdMask\l+ TransactionId\l+ fSpecifyModuleVersion\l+ ModuleVersion\l+ fSpecifyBlockNumber\l+ BlockNumber\l+ fGetModuleCall\l+ NumberOfBlocksInModule\l|}" alt="" coords="5,5,216,303"/>
+<area shape="rect" id="node4" href="$struct____MIDL______MIDL__itf__mpeg2data__0000__0017.html" title="{__MIDL___MIDL_itf_mpeg2data\l_0000_0017\n|+ fSpecifyEtmId\l+ EtmId\l|}" alt="" coords="240,101,451,207"/>
+</map>

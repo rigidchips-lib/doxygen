@@ -1,0 +1,3 @@
+<map id="IAudioStreamSample" name="IAudioStreamSample">
+<area shape="rect" id="node2" href="$interfaceIStreamSample.html" title="{IStreamSample\n||+ GetMediaStream()\l+ GetSampleTimes()\l+ SetSampleTimes()\l+ Update()\l+ CompletionStatus()\l}" alt="" coords="5,131,152,267"/>
+</map>

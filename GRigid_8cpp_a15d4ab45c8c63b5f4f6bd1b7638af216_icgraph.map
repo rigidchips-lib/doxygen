@@ -1,0 +1,13 @@
+<map id="myrand" name="myrand">
+<area shape="rect" id="node2" href="$script_8cpp.html#a55324f684122ae7d00431c4c804d65df" title="getPlayerX" alt="" coords="133,5,220,32"/>
+<area shape="rect" id="node3" href="$script_8cpp.html#a5f395ed5cb403a4c627cd2d627187ad8" title="getPlayerY" alt="" coords="133,56,220,83"/>
+<area shape="rect" id="node4" href="$script_8cpp.html#a81e3b716d811053b1271118e9c8c8651" title="getPlayerZ" alt="" coords="134,107,219,133"/>
+<area shape="rect" id="node5" href="$classGRigid.html#ad2e92290544cec843b4d425761d20348" title="GRigid::Impulse" alt="" coords="119,157,235,184"/>
+<area shape="rect" id="node6" href="$classGWorld.html#a2550468cde750215e806d507ce6c1b59" title="GWorld::Move" alt="" coords="304,208,411,235"/>
+<area shape="rect" id="node8" href="$script_8cpp.html#a9d819591f660a12cc727e42d73c4fda0" title="rnd" alt="" coords="157,259,197,285"/>
+<area shape="rect" id="node9" href="$script_8cpp.html#acc34480e29e21b64233edca0374b8429" title="RunScript" alt="" coords="137,309,217,336"/>
+<area shape="rect" id="node7" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="959,257,1108,298"/>
+<area shape="rect" id="node10" href="$classCMyD3DApplication.html#aed30976652aca9316200121c23edb8ca" title="CMyD3DApplication::\lRender" alt="" coords="283,299,432,341"/>
+<area shape="rect" id="node11" href="$classCMyD3DApplication.html#ae3bfa1d94e6e1927fc46296613988457" title="CMyD3DApplication::\lConfigureInputDevicesCB" alt="" coords="480,297,655,338"/>
+<area shape="rect" id="node12" href="$classCMyD3DApplication.html#a153f61a3f74a5ec7bff562d26d74a66a" title="CMyD3DApplication::\lStaticConfigureInputDevicesCB" alt="" coords="703,291,911,333"/>
+</map>

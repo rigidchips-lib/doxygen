@@ -1,0 +1,6 @@
+<map id="CD3DCamera::SetViewParams" name="CD3DCamera::SetViewParams">
+<area shape="rect" id="node2" href="$d3dx8math_8h.html#aad7e9e46c52286ab059d3098ee1ead46" title="D3DXVec3Normalize" alt="" coords="263,5,409,32"/>
+<area shape="rect" id="node3" href="$d3dx8math_8h.html#a668697a4ac22d3332e6167a2a190a208" title="D3DXVec3Cross" alt="" coords="275,56,397,83"/>
+<area shape="rect" id="node4" href="$d3dx8math_8h.html#aeae291615af267a281e7bc447e52db46" title="D3DXMatrixLookAtLH" alt="" coords="260,107,412,133"/>
+<area shape="rect" id="node5" href="$d3dx8math_8h.html#aa7158ca7f8e39044c57404b947edec27" title="D3DXMatrixInverse" alt="" coords="267,157,405,184"/>
+</map>

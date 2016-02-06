@@ -1,0 +1,11 @@
+<map id="GMatrix::rotateX" name="GMatrix::rotateX">
+<area shape="rect" id="node2" href="$luaSystem_8cpp.html#a8090123075816518d58143fdaf2a3657" title="luaCollisionObjRingArea" alt="" coords="172,5,335,32"/>
+<area shape="rect" id="node6" href="$luaSystem_8cpp.html#a047cbbbfd7bbd3319e4131585084e813" title="luaCollisionRingArea" alt="" coords="182,56,325,83"/>
+<area shape="rect" id="node7" href="$luaSystem_8cpp.html#a63efc8b1d91dcf2357a3596848065afd" title="luaDirect" alt="" coords="216,107,291,133"/>
+<area shape="rect" id="node8" href="$luaSystem_8cpp.html#af911040e257cba2bec3a9bf2afeec292" title="luaDirectObj" alt="" coords="206,157,301,184"/>
+<area shape="rect" id="node9" href="$luaSystem_8cpp.html#ae5369aa474e079992753115d7cb779e9" title="luaRotate" alt="" coords="214,208,293,235"/>
+<area shape="rect" id="node10" href="$luaSystem_8cpp.html#a6f31b7210d33f6cf2d24301d13a3d146" title="luaRotateObj" alt="" coords="204,259,303,285"/>
+<area shape="rect" id="node3" href="$luaSystem_8hpp.html#aba215223b3179544f89bc90b7502270b" title="luaSystemInit" alt="" coords="383,132,485,159"/>
+<area shape="rect" id="node4" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="533,91,683,133"/>
+<area shape="rect" id="node5" href="$classCMyD3DApplication.html#a7dbfcbeb208adf6064f1a2f063c4eb7a" title="CMyD3DApplication::\lOneTimeSceneInit" alt="" coords="533,157,683,198"/>
+</map>

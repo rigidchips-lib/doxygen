@@ -1,0 +1,4 @@
+<map id="luaGetPlayerMyID" name="luaGetPlayerMyID">
+<area shape="rect" id="node2" href="$lua_8h.html#a328625a03fbb5548f27b1af10f109f6a" title="lua_pushnumber" alt="" coords="228,5,345,32"/>
+<area shape="rect" id="node3" href="$classGDPlay.html#aef2b09999ff3dea0a98e420704c1195c" title="GDPlay::GetLocalPlayerDPNID" alt="" coords="183,56,391,83"/>
+</map>

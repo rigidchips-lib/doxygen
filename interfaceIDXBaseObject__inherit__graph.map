@@ -1,0 +1,5 @@
+<map id="IDXBaseObject" name="IDXBaseObject">
+<area shape="rect" id="node3" href="$interfaceIDXLookupTable.html" title="{IDXLookupTable\n||+ GetTables()\l+ IsChannelIdentity()\l+ GetIndexValues()\l+ ApplyTables()\l}" alt="" coords="5,337,149,458"/>
+<area shape="rect" id="node4" href="$interfaceIDXSurface.html" title="{IDXSurface\n||+ GetPixelFormat()\l+ GetBounds()\l+ GetStatusFlags()\l+ SetStatusFlags()\l+ LockSurface()\l+ GetDirectDrawSurface()\l+ GetColorKey()\l+ SetColorKey()\l+ LockSurfaceDC()\l+ SetAppData()\l+ GetAppData()\l}" alt="" coords="174,285,349,509"/>
+<area shape="rect" id="node5" href="$interfaceIDXTransform.html" title="{IDXTransform\n||+ Setup()\l+ Execute()\l+ MapBoundsIn2Out()\l+ MapBoundsOut2In()\l+ SetMiscFlags()\l+ GetMiscFlags()\l+ GetInOutInfo()\l+ SetQuality()\l+ GetQuality()\l}" alt="" coords="373,300,523,495"/>
+</map>

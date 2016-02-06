@@ -1,0 +1,8 @@
+<map id="GRigid::RotateWithChildAbs" name="GRigid::RotateWithChildAbs">
+<area shape="rect" id="node2" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="785,5,919,32"/>
+<area shape="rect" id="node3" href="$classGRigid.html#a4505061804f9e3aecc4cbfc197e465f5" title="GRigid::RSet" alt="" coords="457,68,557,95"/>
+<area shape="rect" id="node7" href="$classGRigid.html#a2ba6953e89d539802f0546510485e443" title="GRigid::RotateWithChild" alt="" coords="243,80,409,107"/>
+<area shape="rect" id="node4" href="$classGMatrix.html#a3528c768b5af9b47a4c6611e68126b7e" title="GMatrix::translate" alt="" coords="608,56,735,83"/>
+<area shape="rect" id="node5" href="$classGMatrix.html#addc06ba53977b307e7bc7f2f0c79fdf8" title="GMatrix::quat" alt="" coords="621,107,722,133"/>
+<area shape="rect" id="node6" href="$classGMatrix33.html#a85a4c7e9e6b0a06fccb86834245f8e15" title="GMatrix33::inverse" alt="" coords="605,157,737,184"/>
+</map>

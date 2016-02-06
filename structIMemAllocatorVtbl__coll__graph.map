@@ -1,0 +1,4 @@
+<map id="IMemAllocatorVtbl" name="IMemAllocatorVtbl">
+<area shape="rect" id="node2" href="$interfaceIMediaSample.html" title="{IMediaSample\n||+ GetPointer()\l+ GetSize()\l+ GetTime()\l+ SetTime()\l+ IsSyncPoint()\l+ SetSyncPoint()\l+ IsPreroll()\l+ SetPreroll()\l+ GetActualDataLength()\l+ SetActualDataLength()\land 6 more...\l}" alt="" coords="5,132,172,356"/>
+<area shape="rect" id="node4" href="$struct__AllocatorProperties.html" title="{_AllocatorProperties\n|+ cBuffers\l+ cbBuffer\l+ cbAlign\l+ cbPrefix\l|}" alt="" coords="197,183,335,305"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="GQuat::GQuat" name="GQuat::GQuat">
+<area shape="rect" id="node2" href="$classGQuat.html#ae41a547f1317f9d6da0b173a7085873e" title="GQuat::conjugate" alt="" coords="160,5,284,32"/>
+<area shape="rect" id="node3" href="$classGQuat.html#a8bcb0af7e2fe6c18dd2bf95b68184338" title="GQuat::inverse" alt="" coords="167,56,277,83"/>
+<area shape="rect" id="node4" href="$classGQuat.html#a245b61591bc7f20a564e32b4318faa93" title="GQuat::unit" alt="" coords="177,107,267,133"/>
+<area shape="rect" id="node5" href="$classGRigid.html#a4a07c959eee18ab3c420fdf96ca08ea1" title="GRigid::Calc" alt="" coords="346,81,443,108"/>
+<area shape="rect" id="node8" href="$classGRigid.html#abec50cd99d156420605bb279af4e3b20" title="GRigid::CalcLight" alt="" coords="332,132,457,159"/>
+<area shape="rect" id="node6" href="$classGWorld.html#a2550468cde750215e806d507ce6c1b59" title="GWorld::Move" alt="" coords="505,81,612,108"/>
+<area shape="rect" id="node7" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="660,74,809,115"/>
+</map>

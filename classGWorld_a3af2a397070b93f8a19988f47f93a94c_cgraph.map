@@ -1,0 +1,10 @@
+<map id="GWorld::AddHinge" name="GWorld::AddHinge">
+<area shape="rect" id="node2" href="$classGVector.html#adcbc9c431e5e6c91d6a057aad21e7c91" title="GVector::normalize" alt="" coords="184,5,319,32"/>
+<area shape="rect" id="node4" href="$classGMatrix.html#a2a41c0c2ce0bfe2542d16f48bcb6c1a1" title="GMatrix::rotate" alt="" coords="197,56,306,83"/>
+<area shape="rect" id="node6" href="$classGRigid.html#a4505061804f9e3aecc4cbfc197e465f5" title="GRigid::RSet" alt="" coords="201,157,301,184"/>
+<area shape="rect" id="node3" href="$classGVector.html#afd533645529dd10186ab58468c04f1d8" title="GVector::abs" alt="" coords="383,5,482,32"/>
+<area shape="rect" id="node5" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="547,107,680,133"/>
+<area shape="rect" id="node7" href="$classGMatrix.html#a3528c768b5af9b47a4c6611e68126b7e" title="GMatrix::translate" alt="" coords="369,157,496,184"/>
+<area shape="rect" id="node8" href="$classGMatrix.html#addc06ba53977b307e7bc7f2f0c79fdf8" title="GMatrix::quat" alt="" coords="382,208,483,235"/>
+<area shape="rect" id="node9" href="$classGMatrix33.html#a85a4c7e9e6b0a06fccb86834245f8e15" title="GMatrix33::inverse" alt="" coords="367,259,499,285"/>
+</map>

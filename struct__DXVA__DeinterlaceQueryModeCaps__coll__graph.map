@@ -1,0 +1,5 @@
+<map id="_DXVA_DeinterlaceQueryModeCaps" name="_DXVA_DeinterlaceQueryModeCaps">
+<area shape="rect" id="node2" href="$struct__DXVA__VideoDesc.html" title="{_DXVA_VideoDesc\n|+ Size\l+ SampleWidth\l+ SampleHeight\l+ SampleFormat\l|}" alt="" coords="181,433,318,555"/>
+<area shape="rect" id="node3" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="5,132,211,356"/>
+<area shape="rect" id="node5" href="$struct__DXVA__Frequency.html" title="{_DXVA_Frequency\n|+ Numerator\l+ Denominator\l|}" alt="" coords="235,198,370,290"/>
+</map>

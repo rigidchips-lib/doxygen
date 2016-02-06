@@ -1,0 +1,5 @@
+<map id="IMSVidAudioRendererDevicesVtbl" name="IMSVidAudioRendererDevicesVtbl">
+<area shape="rect" id="node2" href="$interfaceIMSVidAudioRenderer.html" title="{IMSVidAudioRenderer\n|+ Volume\l+ Balance\l|}" alt="" coords="41,473,192,565"/>
+<area shape="rect" id="node3" href="$interfaceIMSVidOutputDevice.html" title="{IMSVidOutputDevice\n||}" alt="" coords="44,347,189,424"/>
+<area shape="rect" id="node4" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="53,132,180,297"/>
+</map>

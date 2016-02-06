@@ -1,0 +1,6 @@
+<map id="ICAManagerVtbl" name="ICAManagerVtbl">
+<area shape="rect" id="node2" href="$interfaceICATolls.html" title="{ICATolls\n|+ _NewEnum\l+ Count\l+ Item\l|+ Add()\l+ Remove()\l}" alt="" coords="5,154,108,275"/>
+<area shape="rect" id="node4" href="$interfaceICAPolicies.html" title="{ICAPolicies\n|+ _NewEnum\l+ Count\l+ Item\l|+ Add()\l+ Remove()\l}" alt="" coords="132,154,235,275"/>
+<area shape="rect" id="node5" href="$interfaceICADenials.html" title="{ICADenials\n|+ _NewEnum\l+ Count\l+ Item\l+ AddNew\l+ CountDenied\l+ CountSelected\l|+ Remove()\l+ PaySelectedTolls()\l}" alt="" coords="259,132,403,297"/>
+<area shape="rect" id="node6" href="$interfaceICAOffers.html" title="{ICAOffers\n|+ _NewEnum\l+ Count\l+ Item\l+ AddNew\l|+ Remove()\l}" alt="" coords="428,154,531,275"/>
+</map>

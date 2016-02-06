@@ -1,0 +1,6 @@
+<map id="getPlayerZ" name="getPlayerZ">
+<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="223,5,262,32"/>
+<area shape="rect" id="node3" href="$classGDPlay.html#afd689e055de4e62bf3a5978cd71b4951" title="GDPlay::GetNumPlayers" alt="" coords="158,56,327,83"/>
+<area shape="rect" id="node4" href="$classGDPlay.html#aef2b09999ff3dea0a98e420704c1195c" title="GDPlay::GetLocalPlayerDPNID" alt="" coords="139,107,347,133"/>
+<area shape="rect" id="node5" href="$script_8cpp.html#a15d4ab45c8c63b5f4f6bd1b7638af216" title="myrand" alt="" coords="210,157,275,184"/>
+</map>

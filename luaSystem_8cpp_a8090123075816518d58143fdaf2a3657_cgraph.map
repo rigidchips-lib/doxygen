@@ -1,0 +1,11 @@
+<map id="luaCollisionObjRingArea" name="luaCollisionObjRingArea">
+<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="307,5,345,32"/>
+<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="276,56,376,83"/>
+<area shape="rect" id="node4" href="$classGMatrix.html#a13dea5e6d29e6dfda222eff49bcd0d9e" title="GMatrix::rotateX" alt="" coords="267,107,385,133"/>
+<area shape="rect" id="node6" href="$classGMatrix.html#ac851a11a24fd4158a2dd0ae2b48021a6" title="GMatrix::rotateY" alt="" coords="267,157,385,184"/>
+<area shape="rect" id="node7" href="$classGMatrix.html#ad507d6cc4126e0a5ed7b08c113dd5c59" title="GMatrix::rotateZ" alt="" coords="267,208,385,235"/>
+<area shape="rect" id="node8" href="$classGVector.html#afa2af3c579db800c21c90a23cb9f59c0" title="GVector::distanceOnFaceAndLine" alt="" coords="216,259,436,285"/>
+<area shape="rect" id="node10" href="$lua_8h.html#a328625a03fbb5548f27b1af10f109f6a" title="lua_pushnumber" alt="" coords="267,309,385,336"/>
+<area shape="rect" id="node5" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="484,157,617,184"/>
+<area shape="rect" id="node9" href="$classGVector.html#a43df893e25405cd83678f5d1dd427bfb" title="GVector::dot" alt="" coords="503,259,599,285"/>
+</map>

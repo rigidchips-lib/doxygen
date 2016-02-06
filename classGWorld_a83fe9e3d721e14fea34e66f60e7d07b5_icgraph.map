@@ -1,0 +1,7 @@
+<map id="GWorld::DeleteObjects" name="GWorld::DeleteObjects">
+<area shape="rect" id="node2" href="$classCMyD3DApplication.html#a09754ecf7d5cf33d27691b8cad2fdc02" title="CMyD3DApplication::\lInitChips" alt="" coords="211,35,360,76"/>
+<area shape="rect" id="node6" href="$classGWorld.html#a69d678e6e8f5244d9a03affe80fceb7c" title="GWorld::~GWorld" alt="" coords="222,101,349,127"/>
+<area shape="rect" id="node3" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="605,5,755,47"/>
+<area shape="rect" id="node4" href="$classCMyD3DApplication.html#a43e79f79f0a426fe9c7e7cccb9cab639" title="CMyD3DApplication::\lLoadData" alt="" coords="408,64,557,105"/>
+<area shape="rect" id="node5" href="$classCMyD3DApplication.html#ab0516f10a0464b48804cb879adb08bda" title="CMyD3DApplication::\lMsgProc" alt="" coords="605,71,755,112"/>
+</map>

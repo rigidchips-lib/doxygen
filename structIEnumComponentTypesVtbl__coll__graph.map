@@ -1,0 +1,4 @@
+<map id="IEnumComponentTypesVtbl" name="IEnumComponentTypesVtbl">
+<area shape="rect" id="node2" href="$interfaceIComponentType.html" title="{IComponentType\n|+ Category\l+ MediaMajorType\l+ _MediaMajorType\l+ _MediaMajorType\l+ MediaSubType\l+ _MediaSubType\l+ _MediaSubType\l+ MediaFormatType\l+ _MediaFormatType\l+ _MediaFormatType\l+ MediaType\l|+ Clone()\l}" alt="" coords="5,132,152,356"/>
+<area shape="rect" id="node4" href="$interfaceIEnumComponentTypes.html" title="{IEnumComponentTypes\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="176,183,339,305"/>
+</map>

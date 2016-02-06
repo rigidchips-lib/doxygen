@@ -1,0 +1,10 @@
+<map id="GLandFace::CircleCheck" name="GLandFace::CircleCheck">
+<area shape="rect" id="node2" href="$classGVector.html#ab12aad63578bc9e5b28153065dee9392" title="GVector::cross" alt="" coords="271,5,381,32"/>
+<area shape="rect" id="node4" href="$classGVector.html#a5cffac9770812707863850f550308ebf" title="GVector::normalize2" alt="" coords="255,56,397,83"/>
+<area shape="rect" id="node6" href="$classGVector.html#a43df893e25405cd83678f5d1dd427bfb" title="GVector::dot" alt="" coords="493,183,589,209"/>
+<area shape="rect" id="node7" href="$classGVector.html#a9edcde2278c60915aa7470514d3168fb" title="GVector::distanceFromFace" alt="" coords="233,157,419,184"/>
+<area shape="rect" id="node8" href="$classGVector.html#a96b6e19c04d39afa5e1917df64b54891" title="GVector::pointOnFaceAndLine" alt="" coords="227,208,425,235"/>
+<area shape="rect" id="node9" href="$classGVector.html#a24db03f3580ba3bc6b2899c3f17855e3" title="GVector::pointOnFaceAndLine2" alt="" coords="223,259,429,285"/>
+<area shape="rect" id="node3" href="$classGVector.html#aff75412c96c5c89956fa0fadbea76e46" title="GVector::GVector" alt="" coords="477,5,604,32"/>
+<area shape="rect" id="node5" href="$classGVector.html#afd533645529dd10186ab58468c04f1d8" title="GVector::abs" alt="" coords="491,56,590,83"/>
+</map>

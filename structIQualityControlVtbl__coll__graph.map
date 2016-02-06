@@ -1,0 +1,5 @@
+<map id="IQualityControlVtbl" name="IQualityControlVtbl">
+<area shape="rect" id="node2" href="$interfaceIQualityControl.html" title="{IQualityControl\n||+ Notify()\l+ SetSink()\l}" alt="" coords="5,354,115,446"/>
+<area shape="rect" id="node4" href="$interfaceIBaseFilter.html" title="{IBaseFilter\n||+ EnumPins()\l+ FindPin()\l+ QueryFilterInfo()\l+ JoinFilterGraph()\l+ QueryVendorInfo()\l}" alt="" coords="139,332,279,468"/>
+<area shape="rect" id="node5" href="$interfaceIMediaFilter.html" title="{IMediaFilter\n||+ Stop()\l+ Pause()\l+ Run()\l+ GetState()\l+ SetSyncSource()\l+ GetSyncSource()\l}" alt="" coords="142,132,277,283"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IDVBTuningSpace2" name="IDVBTuningSpace2">
+<area shape="rect" id="node5" href="$interfaceIDVBSTuningSpace.html" title="{IDVBSTuningSpace\n|+ LowOscillator\l+ HighOscillator\l+ LNBSwitch\l+ InputRange\l+ SpectralInversion\l|}" alt="" coords="34,683,173,819"/>
+<area shape="rect" id="node2" href="$interfaceIDVBTuningSpace.html" title="{IDVBTuningSpace\n|+ SystemType\l|}" alt="" coords="38,432,169,509"/>
+<area shape="rect" id="node3" href="$interfaceITuningSpace.html" title="{ITuningSpace\n|+ UniqueName\l+ FriendlyName\l+ CLSID\l+ NetworkType\l+ _NetworkType\l+ _NetworkType\l+ DefaultPreferredComponent\lTypes\l+ FrequencyMapping\l+ DefaultLocator\l|+ CreateTuneRequest()\l+ EnumCategoryGUIDs()\l+ EnumDeviceMonikers()\l+ Clone()\l}" alt="" coords="5,131,201,384"/>
+</map>

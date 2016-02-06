@@ -1,0 +1,4 @@
+<map id="IAMMediaTypeSampleVtbl" name="IAMMediaTypeSampleVtbl">
+<area shape="rect" id="node2" href="$structAM__MEDIA__TYPE.html" title="{AM_MEDIA_TYPE\n|+ dw1\l+ dw2\l|}" alt="" coords="5,161,140,253"/>
+<area shape="rect" id="node3" href="$interfaceIMediaStream.html" title="{IMediaStream\n||+ GetMultiMediaStream()\l+ GetInformation()\l+ SetSameFormat()\l+ AllocateSample()\l+ CreateSharedSample()\l+ SendEndOfStream()\l}" alt="" coords="165,132,333,283"/>
+</map>

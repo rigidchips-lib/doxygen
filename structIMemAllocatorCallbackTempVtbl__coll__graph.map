@@ -1,0 +1,5 @@
+<map id="IMemAllocatorCallbackTempVtbl" name="IMemAllocatorCallbackTempVtbl">
+<area shape="rect" id="node2" href="$interfaceIMemAllocatorNotifyCallbackTemp.html" title="{IMemAllocatorNotifyCallbackTemp\n||+ NotifyRelease()\l}" alt="" coords="5,205,231,283"/>
+<area shape="rect" id="node4" href="$interfaceIMediaSample.html" title="{IMediaSample\n||+ GetPointer()\l+ GetSize()\l+ GetTime()\l+ SetTime()\l+ IsSyncPoint()\l+ SetSyncPoint()\l+ IsPreroll()\l+ SetPreroll()\l+ GetActualDataLength()\l+ SetActualDataLength()\land 6 more...\l}" alt="" coords="255,132,421,356"/>
+<area shape="rect" id="node5" href="$struct__AllocatorProperties.html" title="{_AllocatorProperties\n|+ cBuffers\l+ cbBuffer\l+ cbAlign\l+ cbPrefix\l|}" alt="" coords="446,183,585,305"/>
+</map>

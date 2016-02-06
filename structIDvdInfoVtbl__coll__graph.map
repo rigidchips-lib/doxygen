@@ -1,0 +1,4 @@
+<map id="IDvdInfoVtbl" name="IDvdInfoVtbl">
+<area shape="rect" id="node2" href="$structtagDVD__PLAYBACK__LOCATION.html" title="{tagDVD_PLAYBACK_LOCATION\n|+ TitleNum\l+ ChapterNum\l+ TimeCode\l|}" alt="" coords="5,5,228,112"/>
+<area shape="rect" id="node3" href="$structtagDVD__ATR.html" title="{tagDVD_ATR\n|+ ulCAT\l+ pbATRI\l|}" alt="" coords="252,13,355,105"/>
+</map>

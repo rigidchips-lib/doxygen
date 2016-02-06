@@ -1,0 +1,22 @@
+<map id="GMatrix::rotateY" name="GMatrix::rotateY">
+<area shape="rect" id="node2" href="$luaSystem_8cpp.html#a8090123075816518d58143fdaf2a3657" title="luaCollisionObjRingArea" alt="" coords="516,117,679,143"/>
+<area shape="rect" id="node6" href="$luaSystem_8cpp.html#a047cbbbfd7bbd3319e4131585084e813" title="luaCollisionRingArea" alt="" coords="526,167,669,194"/>
+<area shape="rect" id="node7" href="$luaSystem_8cpp.html#a63efc8b1d91dcf2357a3596848065afd" title="luaDirect" alt="" coords="560,218,635,245"/>
+<area shape="rect" id="node8" href="$luaSystem_8cpp.html#af911040e257cba2bec3a9bf2afeec292" title="luaDirectObj" alt="" coords="346,386,441,413"/>
+<area shape="rect" id="node9" href="$luaSystem_8cpp.html#ae5369aa474e079992753115d7cb779e9" title="luaRotate" alt="" coords="182,15,261,42"/>
+<area shape="rect" id="node10" href="$luaSystem_8cpp.html#a6f31b7210d33f6cf2d24301d13a3d146" title="luaRotateObj" alt="" coords="172,66,271,93"/>
+<area shape="rect" id="node11" href="$Rigidmain_8cpp.html#a05b754c23ce3b06e4f80c034464efcd8" title="ResetChip" alt="" coords="179,495,263,522"/>
+<area shape="rect" id="node18" href="$Rigidmain_8cpp.html#ab5ed81f7bfd084ec724a404d6f9d696a" title="ResetChip2" alt="" coords="176,269,267,295"/>
+<area shape="rect" id="node21" href="$Rigidmain_8cpp.html#ab988a7e182a6a0d7c69576e9a7bcf2df" title="ResetObject" alt="" coords="174,546,269,573"/>
+<area shape="rect" id="node3" href="$luaSystem_8hpp.html#aba215223b3179544f89bc90b7502270b" title="luaSystemInit" alt="" coords="750,243,853,270"/>
+<area shape="rect" id="node4" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="924,531,1073,572"/>
+<area shape="rect" id="node5" href="$classCMyD3DApplication.html#a7dbfcbeb208adf6064f1a2f063c4eb7a" title="CMyD3DApplication::\lOneTimeSceneInit" alt="" coords="924,345,1073,387"/>
+<area shape="rect" id="node12" href="$classCMyD3DApplication.html#a09754ecf7d5cf33d27691b8cad2fdc02" title="CMyD3DApplication::\lInitChips" alt="" coords="319,619,468,660"/>
+<area shape="rect" id="node15" href="$classCMyD3DApplication.html#ac33b7640e2006e2fe5469362631ac2f3" title="CMyD3DApplication::\lInitDeviceObjects" alt="" coords="319,488,468,529"/>
+<area shape="rect" id="node16" href="$classCMyD3DApplication.html#a042a0f117deba9deac18f7676390f349" title="CMyD3DApplication::\lResetChips" alt="" coords="319,553,468,595"/>
+<area shape="rect" id="node13" href="$classCMyD3DApplication.html#a43e79f79f0a426fe9c7e7cccb9cab639" title="CMyD3DApplication::\lLoadData" alt="" coords="523,571,672,612"/>
+<area shape="rect" id="node14" href="$classCMyD3DApplication.html#ab0516f10a0464b48804cb879adb08bda" title="CMyD3DApplication::\lMsgProc" alt="" coords="727,589,876,631"/>
+<area shape="rect" id="node17" href="$luaSystem_8cpp.html#a0341fe5fb79a1adccb92ee5db6af31a8" title="luaUpdateChips" alt="" coords="540,382,655,409"/>
+<area shape="rect" id="node19" href="$luaSystem_8cpp.html#a96277a06fd1b0b2327b625cd177efc5e" title="luaSetChip" alt="" coords="554,269,641,295"/>
+<area shape="rect" id="node20" href="$classCMyD3DApplication.html#a2bd82edffce9fcb3a87fba4faae5725d" title="CMyD3DApplication::\lResetChips" alt="" coords="319,320,468,361"/>
+</map>

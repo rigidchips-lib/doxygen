@@ -1,0 +1,4 @@
+<map id="DPLCONNECTION" name="DPLCONNECTION">
+<area shape="rect" id="node2" href="$structDPSESSIONDESC2.html" title="{DPSESSIONDESC2\n|+ dwSize\l+ dwFlags\l+ guidInstance\l+ guidApplication\l+ dwMaxPlayers\l+ dwCurrentPlayers\l+ lpszSessionName\l+ lpszSessionNameA\l+ @174\l+ lpszPassword\land 8 more...\l|}" alt="" coords="5,5,155,229"/>
+<area shape="rect" id="node3" href="$structDPNAME.html" title="{DPNAME\n|+ dwSize\l+ dwFlags\l+ lpszShortName\l+ lpszShortNameA\l+ @178\l+ lpszLongName\l+ lpszLongNameA\l+ @180\l|}" alt="" coords="179,27,312,207"/>
+</map>

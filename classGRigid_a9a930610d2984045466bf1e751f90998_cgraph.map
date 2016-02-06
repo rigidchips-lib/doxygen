@@ -1,0 +1,13 @@
+<map id="GRigid::DispShadow" name="GRigid::DispShadow">
+<area shape="rect" id="node2" href="$classGVector.html#a5cffac9770812707863850f550308ebf" title="GVector::normalize2" alt="" coords="197,5,339,32"/>
+<area shape="rect" id="node4" href="$classGLand.html#ab3f7b35d6549dc09b778a995642cf25b" title="GLand::List1up" alt="" coords="213,56,323,83"/>
+<area shape="rect" id="node5" href="$classGMatrix.html#a9820e087e3eb73518883fbb60503bb6d" title="GMatrix::scale" alt="" coords="215,107,321,133"/>
+<area shape="rect" id="node6" href="$classGMatrix.html#a3528c768b5af9b47a4c6611e68126b7e" title="GMatrix::translate" alt="" coords="205,157,331,184"/>
+<area shape="rect" id="node8" href="$classGVector.html#afa2af3c579db800c21c90a23cb9f59c0" title="GVector::distanceOnFaceAndLine" alt="" coords="568,208,788,235"/>
+<area shape="rect" id="node9" href="$classGVector.html#a43df893e25405cd83678f5d1dd427bfb" title="GVector::dot" alt="" coords="836,259,932,285"/>
+<area shape="rect" id="node10" href="$classGLand.html#a9cc283411e7775e5eed09659c77beebe" title="GLand::ClipShadow" alt="" coords="199,309,337,336"/>
+<area shape="rect" id="node3" href="$classGVector.html#afd533645529dd10186ab58468c04f1d8" title="GVector::abs" alt="" coords="404,5,503,32"/>
+<area shape="rect" id="node7" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="387,157,520,184"/>
+<area shape="rect" id="node11" href="$classGLand.html#ab41013401190072bfe23f8809c0c5600" title="GLand::ClipFace" alt="" coords="393,309,513,336"/>
+<area shape="rect" id="node12" href="$classGLand.html#a7d6a64af7d20967f0ad646eacb21b843" title="GLand::CheckClip" alt="" coords="613,309,743,336"/>
+</map>

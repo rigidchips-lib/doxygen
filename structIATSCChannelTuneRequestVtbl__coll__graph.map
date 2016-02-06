@@ -1,0 +1,6 @@
+<map id="IATSCChannelTuneRequestVtbl" name="IATSCChannelTuneRequestVtbl">
+<area shape="rect" id="node2" href="$interfaceITuneRequest.html" title="{ITuneRequest\n|+ TuningSpace\l+ Components\l+ Locator\l|+ Clone()\l}" alt="" coords="5,205,116,312"/>
+<area shape="rect" id="node4" href="$interfaceIComponents.html" title="{IComponents\n|+ Count\l+ _NewEnum\l+ Item\l|+ EnumComponents()\l+ Add()\l+ Remove()\l+ Clone()\l}" alt="" coords="140,183,291,334"/>
+<area shape="rect" id="node5" href="$interfaceITuningSpace.html" title="{ITuningSpace\n|+ UniqueName\l+ FriendlyName\l+ CLSID\l+ NetworkType\l+ _NetworkType\l+ _NetworkType\l+ DefaultPreferredComponent\lTypes\l+ FrequencyMapping\l+ DefaultLocator\l|+ CreateTuneRequest()\l+ EnumCategoryGUIDs()\l+ EnumDeviceMonikers()\l+ Clone()\l}" alt="" coords="315,132,511,385"/>
+<area shape="rect" id="node6" href="$interfaceILocator.html" title="{ILocator\n|+ CarrierFrequency\l+ InnerFEC\l+ InnerFECRate\l+ OuterFEC\l+ OuterFECRate\l+ Modulation\l+ SymbolRate\l|+ Clone()\l}" alt="" coords="535,176,669,341"/>
+</map>

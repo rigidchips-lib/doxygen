@@ -1,0 +1,4 @@
+<map id="IMSVidVRGraphSegmentVtbl" name="IMSVidVRGraphSegmentVtbl">
+<area shape="rect" id="node2" href="$interfaceIEnumFilters.html" title="{IEnumFilters\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="5,176,101,297"/>
+<area shape="rect" id="node4" href="$interfaceIMSVidGraphSegmentContainer.html" title="{IMSVidGraphSegmentContainer\n|+ Graph\l+ Input\l+ Outputs\l+ VideoRenderer\l+ AudioRenderer\l+ Features\l+ Composites\l+ ParentContainer\l|+ Decompose()\l+ IsWindowless()\l+ GetFocus()\l}" alt="" coords="125,132,333,341"/>
+</map>

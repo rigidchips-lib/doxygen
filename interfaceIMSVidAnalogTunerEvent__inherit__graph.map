@@ -1,0 +1,4 @@
+<map id="IMSVidAnalogTunerEvent" name="IMSVidAnalogTunerEvent">
+<area shape="rect" id="node2" href="$interfaceIMSVidTunerEvent.html" title="{IMSVidTunerEvent\n||+ TuneChanged()\l}" alt="" coords="25,256,157,333"/>
+<area shape="rect" id="node3" href="$interfaceIMSVidInputDeviceEvent.html" title="{IMSVidInputDeviceEvent\n||}" alt="" coords="7,131,176,208"/>
+</map>

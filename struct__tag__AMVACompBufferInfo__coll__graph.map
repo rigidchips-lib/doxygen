@@ -1,0 +1,4 @@
+<map id="_tag_AMVACompBufferInfo" name="_tag_AMVACompBufferInfo">
+<area shape="rect" id="node2" href="$struct__DDSCAPS2.html" title="{_DDSCAPS2\n|+ dwCaps\l+ dwCaps2\l+ dwCaps3\l+ dwCaps4\l+ dwVolumeDepth\l|+ DUMMYUNIONNAMEN()\l}" alt="" coords="5,79,192,215"/>
+<area shape="rect" id="node3" href="$struct__DDPIXELFORMAT.html" title="{_DDPIXELFORMAT\n|+ dwSize\l+ dwFlags\l+ dwFourCC\l+ dwRGBBitCount\l+ dwYUVBitCount\l+ dwZBufferBitDepth\l+ dwAlphaBitDepth\l+ dwLuminanceBitCount\l+ dwBumpBitCount\l+ dwPrivateFormatBitCount\land 27 more...\l|+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l}" alt="" coords="216,5,403,288"/>
+</map>

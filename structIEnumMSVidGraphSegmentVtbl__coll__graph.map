@@ -1,0 +1,4 @@
+<map id="IEnumMSVidGraphSegmentVtbl" name="IEnumMSVidGraphSegmentVtbl">
+<area shape="rect" id="node2" href="$interfaceIEnumMSVidGraphSegment.html" title="{IEnumMSVidGraphSegment\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="5,183,192,305"/>
+<area shape="rect" id="node4" href="$interfaceIMSVidGraphSegment.html" title="{IMSVidGraphSegment\n|+ Init\l+ Container\l+ Type\l+ Category\l|+ EnumFilters()\l+ Build()\l+ PreRun()\l+ PostRun()\l+ PreStop()\l+ PostStop()\l+ OnEventNotify()\l+ Decompose()\l}" alt="" coords="216,132,368,356"/>
+</map>

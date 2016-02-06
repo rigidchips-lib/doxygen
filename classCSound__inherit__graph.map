@@ -1,0 +1,3 @@
+<map id="CSound" name="CSound">
+<area shape="rect" id="node2" href="$classCStreamingSound.html" title="{CStreamingSound\n|# m_dwLastPlayPos\l# m_dwPlayProgress\l# m_dwNotifySize\l# m_dwNextWriteOffset\l# m_bFillNextNotificationWith\lSilence\l|+ CStreamingSound()\l+ ~CStreamingSound()\l+ HandleWaveStreamNotification()\l+ Reset()\l}" alt="" coords="5,321,231,516"/>
+</map>

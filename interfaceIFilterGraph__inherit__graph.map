@@ -1,0 +1,4 @@
+<map id="IFilterGraph" name="IFilterGraph">
+<area shape="rect" id="node3" href="$interfaceIGraphBuilder.html" title="{IGraphBuilder\n||+ Connect()\l+ Render()\l+ RenderFile()\l+ AddSourceFilter()\l+ SetLogFile()\l+ Abort()\l+ ShouldOperationContinue()\l}" alt="" coords="10,359,201,524"/>
+<area shape="rect" id="node4" href="$interfaceIFilterGraph2.html" title="{IFilterGraph2\n||+ AddSourceFilterForMoniker()\l+ ReconnectEx()\l+ RenderEx()\l}" alt="" coords="5,572,205,679"/>
+</map>

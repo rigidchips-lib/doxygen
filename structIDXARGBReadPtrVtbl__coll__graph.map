@@ -1,0 +1,6 @@
+<map id="IDXARGBReadPtrVtbl" name="IDXARGBReadPtrVtbl">
+<area shape="rect" id="node2" href="$structtagDXPACKEDRECTDESC.html" title="{tagDXPACKEDRECTDESC\n|+ bPremult\l+ rect\l+ lRowPadding\l|}" alt="" coords="5,197,196,303"/>
+<area shape="rect" id="node3" href="$structDXBASESAMPLE.html" title="{DXBASESAMPLE\n|+ Blue\l+ Green\l+ Red\l+ Alpha\l|}" alt="" coords="35,5,166,127"/>
+<area shape="rect" id="node4" href="$structtagDXNATIVETYPEINFO.html" title="{tagDXNATIVETYPEINFO\n|+ pCurrentData\l+ pFirstByte\l+ lPitch\l+ dwColorKey\l|}" alt="" coords="220,189,395,311"/>
+<area shape="rect" id="node5" href="$structDXRUNINFO.html" title="{DXRUNINFO\n|+ Bitfields\l+ Type\l+ Count\l|}" alt="" coords="419,197,521,303"/>
+</map>

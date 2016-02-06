@@ -1,0 +1,3 @@
+<map id="CD3DFile" name="CD3DFile">
+<area shape="rect" id="node2" href="$classCD3DFrame.html" title="{CD3DFrame\n|+ m_strName\l+ m_mat\l+ m_pMesh\l+ m_strMeshName\l+ m_pNext\l+ m_pChild\l|+ SetMatrix()\l+ GetMatrix()\l+ FindMesh()\l+ FindFrame()\l+ EnumMeshes()\l+ Destroy()\l+ RestoreDeviceObjects()\l+ InvalidateDeviceObjects()\l+ Render()\l+ CD3DFrame()\l+ ~CD3DFrame()\l}" alt="" coords="5,5,189,303"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="_D3DLIGHTDATA" name="_D3DLIGHTDATA">
+<area shape="rect" id="node2" href="$struct__D3DTLVERTEX.html" title="{_D3DTLVERTEX\n|+ sx\l+ dvSX\l+ @56\l+ sy\l+ dvSY\l+ @58\l+ sz\l+ dvSZ\l+ @60\l+ rhw\land 14 more...\l|}" alt="" coords="5,321,131,545"/>
+<area shape="rect" id="node3" href="$struct__D3DLIGHTINGELEMENT.html" title="{_D3DLIGHTINGELEMENT\n||}" alt="" coords="155,395,338,472"/>
+<area shape="rect" id="node4" href="$struct__D3DVECTOR.html" title="{_D3DVECTOR\n|+ x\l+ y\l+ z\l+ x\l+ dvX\l+ @44\l+ y\l+ dvY\l+ @46\l+ z\l+ dvZ\l+ @48\l|}" alt="" coords="191,5,303,244"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="_DXVA_DeinterlaceBltEx" name="_DXVA_DeinterlaceBltEx">
+<area shape="rect" id="node2" href="$struct__DXVA__AYUVsample2.html" title="{_DXVA_AYUVsample2\n|+ bCrValue\l+ bCbValue\l+ bY_Value\l+ bSampleAlpha8\l|}" alt="" coords="54,5,213,127"/>
+<area shape="rect" id="node3" href="$struct__DXVA__VideoSample2.html" title="{_DXVA_VideoSample2\n|+ rtStart\l+ rtEnd\l+ SampleFormat\l+ SampleFlags\l+ lpDDSSrcSurface\l+ rcSrc\l+ rcDst\l|}" alt="" coords="207,189,364,355"/>
+</map>

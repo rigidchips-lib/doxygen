@@ -1,0 +1,5 @@
+<map id="DIJOYUSERVALUES" name="DIJOYUSERVALUES">
+<area shape="rect" id="node2" href="$structjoyreguservalues__tag.html" title="{joyreguservalues_tag\n|+ dwTimeOut\l|}" alt="" coords="16,388,161,465"/>
+<area shape="rect" id="node3" href="$structjoypos__tag.html" title="{joypos_tag\n|+ dwX\l+ dwY\l+ dwZ\l+ dwR\l+ dwU\l+ dwV\l|}" alt="" coords="74,5,159,156"/>
+<area shape="rect" id="node4" href="$structjoyrange__tag.html" title="{joyrange_tag\n||}" alt="" coords="174,248,270,325"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="ICaptureGraphBuilder2Vtbl" name="ICaptureGraphBuilder2Vtbl">
+<area shape="rect" id="node2" href="$interfaceIGraphBuilder.html" title="{IGraphBuilder\n||+ Connect()\l+ Render()\l+ RenderFile()\l+ AddSourceFilter()\l+ SetLogFile()\l+ Abort()\l+ ShouldOperationContinue()\l}" alt="" coords="15,643,205,808"/>
+<area shape="rect" id="node3" href="$interfaceIFilterGraph.html" title="{IFilterGraph\n||+ AddFilter()\l+ RemoveFilter()\l+ EnumFilters()\l+ FindFilterByName()\l+ ConnectDirect()\l+ Reconnect()\l+ Disconnect()\l+ SetDefaultSyncSource()\l}" alt="" coords="5,132,180,312"/>
+<area shape="rect" id="node8" href="$interfaceIAMCopyCaptureFileProgress.html" title="{IAMCopyCaptureFileProgress\n||+ Progress()\l}" alt="" coords="113,439,309,516"/>
+<area shape="rect" id="node9" href="$interfaceIPin.html" title="{IPin\n||+ Connect()\l+ ReceiveConnection()\l+ Disconnect()\l+ ConnectedTo()\l+ ConnectionMediaType()\l+ QueryPinInfo()\l+ QueryDirection()\l+ QueryId()\l+ QueryAccept()\l+ EnumMediaTypes()\l+ QueryInternalConnections()\l+ EndOfStream()\l+ BeginFlush()\l+ EndFlush()\l+ NewSegment()\l}" alt="" coords="316,336,509,619"/>
+<area shape="rect" id="node5" href="$interfaceIBaseFilter.html" title="{IBaseFilter\n||+ EnumPins()\l+ FindPin()\l+ QueryFilterInfo()\l+ JoinFilterGraph()\l+ QueryVendorInfo()\l}" alt="" coords="457,657,597,793"/>
+<area shape="rect" id="node6" href="$interfaceIMediaFilter.html" title="{IMediaFilter\n||+ Stop()\l+ Pause()\l+ Run()\l+ GetState()\l+ SetSyncSource()\l+ GetSyncSource()\l}" alt="" coords="463,147,597,297"/>
+</map>

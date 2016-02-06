@@ -1,0 +1,5 @@
+<map id="IMSVidStreamBufferSourceEventVtbl" name="IMSVidStreamBufferSourceEventVtbl">
+<area shape="rect" id="node2" href="$interfaceIMSVidPlayback.html" title="{IMSVidPlayback\n|+ EnableResetOnStop\l+ CanStep\l+ Rate\l+ CurrentPosition\l+ PositionMode\l+ Length\l|+ Run()\l+ Pause()\l+ Stop()\l+ Step()\l}" alt="" coords="20,488,173,683"/>
+<area shape="rect" id="node3" href="$interfaceIMSVidInputDevice.html" title="{IMSVidInputDevice\n||+ IsViewable()\l+ View()\l}" alt="" coords="29,347,164,439"/>
+<area shape="rect" id="node4" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="33,132,160,297"/>
+</map>

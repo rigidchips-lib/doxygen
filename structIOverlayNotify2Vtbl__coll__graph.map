@@ -1,0 +1,5 @@
+<map id="IOverlayNotify2Vtbl" name="IOverlayNotify2Vtbl">
+<area shape="rect" id="node2" href="$structtagCOLORKEY.html" title="{tagCOLORKEY\n|+ KeyType\l+ PaletteIndex\l+ LowColorValue\l+ HighColorValue\l|}" alt="" coords="5,204,131,325"/>
+<area shape="rect" id="node3" href="$struct__RGNDATA.html" title="{_RGNDATA\n|+ Buffer\l|}" alt="" coords="155,226,250,303"/>
+<area shape="rect" id="node4" href="$struct__RGNDATAHEADER.html" title="{_RGNDATAHEADER\n|+ dwSize\l+ iType\l+ nCount\l+ nRgnSize\l+ rcBound\l|}" alt="" coords="127,5,279,141"/>
+</map>

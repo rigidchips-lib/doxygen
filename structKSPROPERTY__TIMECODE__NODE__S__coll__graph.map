@@ -1,0 +1,6 @@
+<map id="KSPROPERTY_TIMECODE_NODE_S" name="KSPROPERTY_TIMECODE_NODE_S">
+<area shape="rect" id="node2" href="$structKSP__NODE.html" title="{KSP_NODE\n|+ NodeId\l+ Reserved\l|}" alt="" coords="16,285,111,377"/>
+<area shape="rect" id="node3" href="$structKSIDENTIFIER.html" title="{KSIDENTIFIER\n|+ Set\l+ Id\l+ Flags\l+ Data\l+ Alignment\l+ @169\l+ @269\l|}" alt="" coords="5,27,121,193"/>
+<area shape="rect" id="node4" href="$structtagTIMECODE__SAMPLE.html" title="{tagTIMECODE_SAMPLE\n|+ qwTick\l+ dwUser\l+ dwFlags\l|}" alt="" coords="135,277,307,384"/>
+<area shape="rect" id="node5" href="$union__timecode.html" title="{_timecode\n|+ wFrameRate\l+ wFrameFract\l+ cFrames\l+ @9\l+ qw\l+ dwFrames\l+ @233\l+ @263\l+ @305\l+ @330\l|}" alt="" coords="165,5,276,215"/>
+</map>

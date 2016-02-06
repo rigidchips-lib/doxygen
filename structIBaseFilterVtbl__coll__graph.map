@@ -1,0 +1,7 @@
+<map id="IBaseFilterVtbl" name="IBaseFilterVtbl">
+<area shape="rect" id="node2" href="$struct__FilterInfo.html" title="{_FilterInfo\n|+ achName\l|}" alt="" coords="95,665,186,742"/>
+<area shape="rect" id="node3" href="$interfaceIFilterGraph.html" title="{IFilterGraph\n||+ AddFilter()\l+ RemoveFilter()\l+ EnumFilters()\l+ FindFilterByName()\l+ ConnectDirect()\l+ Reconnect()\l+ Disconnect()\l+ SetDefaultSyncSource()\l}" alt="" coords="21,132,196,312"/>
+<area shape="rect" id="node5" href="$interfaceIEnumPins.html" title="{IEnumPins\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="170,417,257,538"/>
+<area shape="rect" id="node6" href="$interfaceIPin.html" title="{IPin\n||+ Connect()\l+ ReceiveConnection()\l+ Disconnect()\l+ ConnectedTo()\l+ ConnectionMediaType()\l+ QueryPinInfo()\l+ QueryDirection()\l+ QueryId()\l+ QueryAccept()\l+ EnumMediaTypes()\l+ QueryInternalConnections()\l+ EndOfStream()\l+ BeginFlush()\l+ EndFlush()\l+ NewSegment()\l}" alt="" coords="264,336,457,619"/>
+<area shape="rect" id="node7" href="$interfaceIReferenceClock.html" title="{IReferenceClock\n||+ GetTime()\l+ AdviseTime()\l+ AdvisePeriodic()\l+ Unadvise()\l}" alt="" coords="413,643,542,764"/>
+</map>

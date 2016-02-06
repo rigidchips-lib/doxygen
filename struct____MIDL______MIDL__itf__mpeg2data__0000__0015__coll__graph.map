@@ -1,0 +1,5 @@
+<map id="__MIDL___MIDL_itf_mpeg2data_0000_0015" name="__MIDL___MIDL_itf_mpeg2data_0000_0015">
+<area shape="rect" id="node2" href="$structMPEG__RQST__PACKET.html" title="{MPEG_RQST_PACKET\n|+ dwLength\l|}" alt="" coords="27,344,194,421"/>
+<area shape="rect" id="node3" href="$structSECTION.html" title="{SECTION\n|+ TableId\l+ W\l+ Header\l+ SectionData\l|}" alt="" coords="57,160,164,281"/>
+<area shape="rect" id="node4" href="$struct____MIDL______MIDL__itf__mpeg2data__0000__0002.html" title="{__MIDL___MIDL_itf_mpeg2data\l_0000_0002\n|+ Bits\l|}" alt="" coords="5,5,216,97"/>
+</map>

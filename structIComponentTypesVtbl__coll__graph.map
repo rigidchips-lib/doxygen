@@ -1,0 +1,5 @@
+<map id="IComponentTypesVtbl" name="IComponentTypesVtbl">
+<area shape="rect" id="node2" href="$interfaceIComponentTypes.html" title="{IComponentTypes\n|+ Count\l+ _NewEnum\l+ Item\l|+ EnumComponentTypes()\l+ Add()\l+ Remove()\l+ Clone()\l}" alt="" coords="5,169,184,319"/>
+<area shape="rect" id="node4" href="$interfaceIComponentType.html" title="{IComponentType\n|+ Category\l+ MediaMajorType\l+ _MediaMajorType\l+ _MediaMajorType\l+ MediaSubType\l+ _MediaSubType\l+ _MediaSubType\l+ MediaFormatType\l+ _MediaFormatType\l+ _MediaFormatType\l+ MediaType\l|+ Clone()\l}" alt="" coords="208,132,355,356"/>
+<area shape="rect" id="node5" href="$interfaceIEnumComponentTypes.html" title="{IEnumComponentTypes\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="379,183,541,305"/>
+</map>

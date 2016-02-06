@@ -1,0 +1,4 @@
+<map id="IStreamBufferSink2" name="IStreamBufferSink2">
+<area shape="rect" id="node4" href="$interfaceIStreamBufferSink3.html" title="{IStreamBufferSink3\n||+ SetAvailableFilter()\l}" alt="" coords="5,411,149,488"/>
+<area shape="rect" id="node2" href="$interfaceIStreamBufferSink.html" title="{IStreamBufferSink\n||+ LockProfile()\l+ CreateRecorder()\l+ IsProfileLocked()\l}" alt="" coords="10,131,145,237"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="IFilterMapper2Vtbl" name="IFilterMapper2Vtbl">
+<area shape="rect" id="node2" href="$structREGFILTER2.html" title="{REGFILTER2\n|+ dwVersion\l+ dwMerit\l+ cPins\l+ cPins2\l+ @227\l|}" alt="" coords="139,520,243,656"/>
+<area shape="rect" id="node3" href="$structREGFILTERPINS2.html" title="{REGFILTERPINS2\n|+ dwFlags\l+ cInstances\l+ nMediaTypes\l+ nMediums\l+ clsPinCategory\l|}" alt="" coords="85,197,221,333"/>
+<area shape="rect" id="node4" href="$structREGPINMEDIUM.html" title="{REGPINMEDIUM\n|+ clsMedium\l+ dw1\l+ dw2\l|}" alt="" coords="5,5,135,112"/>
+<area shape="rect" id="node5" href="$structREGPINTYPES.html" title="{REGPINTYPES\n|+ clsMajorType\l+ clsMinorType\l|}" alt="" coords="207,13,325,105"/>
+<area shape="rect" id="node6" href="$structREGFILTERPINS.html" title="{REGFILTERPINS\n|+ strName\l+ bRendered\l+ bOutput\l+ bZero\l+ bMany\l+ clsConnectsToFilter\l+ strConnectsToPin\l+ nMediaTypes\l|}" alt="" coords="245,175,396,355"/>
+</map>

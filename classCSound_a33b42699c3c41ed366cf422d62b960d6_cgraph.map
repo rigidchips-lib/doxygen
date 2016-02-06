@@ -1,0 +1,6 @@
+<map id="CSound::CSound" name="CSound::CSound">
+<area shape="rect" id="node2" href="$classCSound.html#a5591cb7ebe3a9cb04e2a57fba3462510" title="CSound::FillBufferWithSound" alt="" coords="177,56,371,83"/>
+<area shape="rect" id="node3" href="$classCSound.html#ab74aca2529b37470e7dcb7bc4eadbdbc" title="CSound::RestoreBuffer" alt="" coords="419,5,577,32"/>
+<area shape="rect" id="node4" href="$classCWaveFile.html#ae6791a066f89f5e147cc0f5d9f2dbdbc" title="CWaveFile::ResetFile" alt="" coords="423,56,573,83"/>
+<area shape="rect" id="node5" href="$classCWaveFile.html#a1eb28886c3d56d2ff278de51803cfe64" title="CWaveFile::Read" alt="" coords="435,107,561,133"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="IMSVidGraphSegment" name="IMSVidGraphSegment">
+<area shape="rect" id="node3" href="$interfaceIMSVidCompositionSegment.html" title="{IMSVidCompositionSegment\n|+ Up\l+ Down\l|+ Compose()\l}" alt="" coords="5,491,196,583"/>
+<area shape="rect" id="node4" href="$interfaceIMSVidVRGraphSegment.html" title="{IMSVidVRGraphSegment\n|+ _VMRendererMode\l+ Owner\l+ UseOverlay\l+ Visible\l+ ColorKey\l+ Source\l+ Source\l+ Destination\l+ Destination\l+ NativeSize\l+ BorderColor\l+ MaintainAspectRatio\l|+ Refresh()\l+ DisplayChange()\l+ RePaint()\l}" alt="" coords="221,403,391,671"/>
+</map>

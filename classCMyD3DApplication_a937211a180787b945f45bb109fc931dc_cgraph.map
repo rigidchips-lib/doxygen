@@ -1,0 +1,9 @@
+<map id="CMyD3DApplication::InitInput" name="CMyD3DApplication::InitInput">
+<area shape="rect" id="node2" href="$classCInputDeviceManager.html#a7395ff3bbbc3e6051bd721c554c0f29a" title="CInputDeviceManager\l::Create" alt="" coords="211,57,363,98"/>
+<area shape="rect" id="node7" href="$classCMyD3DApplication.html#a0e0f8af0d320c9e6a886fc66ed11b4fd" title="CMyD3DApplication::\lStaticInputAddDeviceCB" alt="" coords="203,122,371,163"/>
+<area shape="rect" id="node3" href="$dinput_8h.html#a033ff14686ff20cf74711d1504c2c543" title="DirectInput8Create" alt="" coords="429,5,561,32"/>
+<area shape="rect" id="node4" href="$classCInputDeviceManager.html#a6640bbce8b1fbfb2bbcbd4aca7fbf99b" title="CInputDeviceManager\l::SetActionFormat" alt="" coords="419,57,571,98"/>
+<area shape="rect" id="node5" href="$diutil_8cpp.html#a8c4401f8ab0c5437c6119e553ff3d253" title="EnumSuitableDevicesCB" alt="" coords="619,35,789,61"/>
+<area shape="rect" id="node6" href="$classCInputDeviceManager.html#aa6c7a2138d442911c8a28d0ea2de8d99" title="CInputDeviceManager\l::UnacquireDevices" alt="" coords="628,86,780,127"/>
+<area shape="rect" id="node8" href="$classCMyD3DApplication.html#a76eea625306f0afa293e04771054b68b" title="CMyD3DApplication::\lInputAddDeviceCB" alt="" coords="420,122,569,163"/>
+</map>

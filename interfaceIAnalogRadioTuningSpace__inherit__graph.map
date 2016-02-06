@@ -1,0 +1,3 @@
+<map id="IAnalogRadioTuningSpace" name="IAnalogRadioTuningSpace">
+<area shape="rect" id="node2" href="$interfaceITuningSpace.html" title="{ITuningSpace\n|+ UniqueName\l+ FriendlyName\l+ CLSID\l+ NetworkType\l+ _NetworkType\l+ _NetworkType\l+ DefaultPreferredComponent\lTypes\l+ FrequencyMapping\l+ DefaultLocator\l|+ CreateTuneRequest()\l+ EnumCategoryGUIDs()\l+ EnumDeviceMonikers()\l+ Clone()\l}" alt="" coords="5,131,201,384"/>
+</map>

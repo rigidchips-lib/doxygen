@@ -1,0 +1,5 @@
+<map id="IMSVidVideoRenderer" name="IMSVidVideoRenderer">
+<area shape="rect" id="node5" href="$interfaceIMSVidVideoRenderer2.html" title="{IMSVidVideoRenderer2\n|+ Allocator\l+ _Allocator\l+ Allocator_ID\l+ SuppressEffects\l|+ SetAllocator()\l+ _SetAllocator()\l}" alt="" coords="20,756,179,892"/>
+<area shape="rect" id="node2" href="$interfaceIMSVidOutputDevice.html" title="{IMSVidOutputDevice\n||}" alt="" coords="27,344,172,421"/>
+<area shape="rect" id="node3" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="36,131,163,296"/>
+</map>

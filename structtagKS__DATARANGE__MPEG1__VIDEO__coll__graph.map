@@ -1,0 +1,7 @@
+<map id="tagKS_DATARANGE_MPEG1_VIDEO" name="tagKS_DATARANGE_MPEG1_VIDEO">
+<area shape="rect" id="node2" href="$structtagKS__MPEG1VIDEOINFO.html" title="{tagKS_MPEG1VIDEOINFO\n|+ dwStartTimeCode\l+ cbSequenceHeader\l+ bSequenceHeader\l|}" alt="" coords="15,549,200,656"/>
+<area shape="rect" id="node3" href="$structtagKS__VIDEOINFOHEADER.html" title="{tagKS_VIDEOINFOHEADER\n|+ rcSource\l+ rcTarget\l+ dwBitRate\l+ dwBitErrorRate\l+ AvgTimePerFrame\l|}" alt="" coords="9,292,205,428"/>
+<area shape="rect" id="node4" href="$structtagKS__BITMAPINFOHEADER.html" title="{tagKS_BITMAPINFOHEADER\n|+ biSize\l+ biWidth\l+ biHeight\l+ biPlanes\l+ biBitCount\l+ biCompression\l+ biSizeImage\l+ biXPelsPerMeter\l+ biYPelsPerMeter\l+ biClrUsed\l+ biClrImportant\l|}" alt="" coords="5,5,209,229"/>
+<area shape="rect" id="node5" href="$structKSDATAFORMAT.html" title="{KSDATAFORMAT\n|+ FormatSize\l+ Flags\l+ SampleSize\l+ Reserved\l+ MajorFormat\l+ SubFormat\l+ Specifier\l|}" alt="" coords="224,520,356,685"/>
+<area shape="rect" id="node6" href="$struct__KS__VIDEO__STREAM__CONFIG__CAPS.html" title="{_KS_VIDEO_STREAM_CONFIG_CAPS\n|+ guid\l+ VideoStandard\l+ InputSize\l+ MinCroppingSize\l+ MaxCroppingSize\l+ CropGranularityX\l+ CropGranularityY\l+ CropAlignX\l+ CropAlignY\l+ MinOutputSize\land 11 more...\l|}" alt="" coords="380,491,643,715"/>
+</map>

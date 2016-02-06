@@ -1,0 +1,5 @@
+<map id="KSPROPERTY_VBICODECFILTERING_STATISTICS_CC_PIN_S" name="KSPROPERTY_VBICODECFILTERING_STATISTICS_CC_PIN_S">
+<area shape="rect" id="node2" href="$structKSIDENTIFIER.html" title="{KSIDENTIFIER\n|+ Set\l+ Id\l+ Flags\l+ Data\l+ Alignment\l+ @169\l+ @269\l|}" alt="" coords="15,263,131,428"/>
+<area shape="rect" id="node3" href="$struct__VBICODECFILTERING__STATISTICS__CC__PIN.html" title="{_VBICODECFILTERING\l_STATISTICS_CC_PIN\n||}" alt="" coords="155,299,326,391"/>
+<area shape="rect" id="node4" href="$struct__VBICODECFILTERING__STATISTICS__COMMON__PIN.html" title="{_VBICODECFILTERING\l_STATISTICS_COMMON_PIN\n|+ SRBsProcessed\l+ SRBsIgnored\l+ SRBsMissing\l+ InternalErrors\l+ ExternalErrors\l+ Discontinuities\l+ LineConfidenceAvg\l+ BytesOutput\l|}" alt="" coords="137,5,344,200"/>
+</map>

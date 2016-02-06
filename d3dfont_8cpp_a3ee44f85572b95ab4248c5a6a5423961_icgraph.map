@@ -1,0 +1,9 @@
+<map id="InitFont2DVertex" name="InitFont2DVertex">
+<area shape="rect" id="node2" href="$classCD3DFont.html#a719885004672ba34fbf2666b5e52516e" title="CD3DFont::DrawText" alt="" coords="195,13,345,39"/>
+<area shape="rect" id="node8" href="$classCD3DFont.html#a80443836ff47d921985c4f73d2b1a712" title="CD3DFont::DrawTextScaled" alt="" coords="175,63,365,90"/>
+<area shape="rect" id="node3" href="$classCMyD3DApplication.html#a22fb73e147ac58480798646bad1bf9da" title="CMyD3DApplication::\lRenderText" alt="" coords="413,5,563,47"/>
+<area shape="rect" id="node4" href="$classCMyD3DApplication.html#aed30976652aca9316200121c23edb8ca" title="CMyD3DApplication::\lRender" alt="" coords="611,5,760,47"/>
+<area shape="rect" id="node5" href="$classCMyD3DApplication.html#ae3bfa1d94e6e1927fc46296613988457" title="CMyD3DApplication::\lConfigureInputDevicesCB" alt="" coords="808,5,983,47"/>
+<area shape="rect" id="node6" href="$classCMyD3DApplication.html#a153f61a3f74a5ec7bff562d26d74a66a" title="CMyD3DApplication::\lStaticConfigureInputDevicesCB" alt="" coords="1031,5,1239,47"/>
+<area shape="rect" id="node7" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="1287,5,1436,47"/>
+</map>

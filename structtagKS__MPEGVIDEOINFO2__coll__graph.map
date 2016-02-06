@@ -1,0 +1,4 @@
+<map id="tagKS_MPEGVIDEOINFO2" name="tagKS_MPEGVIDEOINFO2">
+<area shape="rect" id="node2" href="$structtagKS__VIDEOINFOHEADER2.html" title="{tagKS_VIDEOINFOHEADER2\n|+ rcSource\l+ rcTarget\l+ dwBitRate\l+ dwBitErrorRate\l+ AvgTimePerFrame\l+ dwInterlaceFlags\l+ dwCopyProtectFlags\l+ dwPictAspectRatioX\l+ dwPictAspectRatioY\l+ dwReserved1\l+ dwReserved2\l|}" alt="" coords="6,292,209,516"/>
+<area shape="rect" id="node3" href="$structtagKS__BITMAPINFOHEADER.html" title="{tagKS_BITMAPINFOHEADER\n|+ biSize\l+ biWidth\l+ biHeight\l+ biPlanes\l+ biBitCount\l+ biCompression\l+ biSizeImage\l+ biXPelsPerMeter\l+ biYPelsPerMeter\l+ biClrUsed\l+ biClrImportant\l|}" alt="" coords="5,5,209,229"/>
+</map>

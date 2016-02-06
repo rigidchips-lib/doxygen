@@ -1,0 +1,4 @@
+<map id="IMSVidStreamBufferSink" name="IMSVidStreamBufferSink">
+<area shape="rect" id="node2" href="$interfaceIMSVidOutputDevice.html" title="{IMSVidOutputDevice\n||}" alt="" coords="17,344,162,421"/>
+<area shape="rect" id="node3" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="26,131,153,296"/>
+</map>

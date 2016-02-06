@@ -1,0 +1,4 @@
+<map id="IMSVidInputDevicesVtbl" name="IMSVidInputDevicesVtbl">
+<area shape="rect" id="node2" href="$interfaceIMSVidInputDevice.html" title="{IMSVidInputDevice\n||+ IsViewable()\l+ View()\l}" alt="" coords="21,347,155,439"/>
+<area shape="rect" id="node3" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="25,132,151,297"/>
+</map>

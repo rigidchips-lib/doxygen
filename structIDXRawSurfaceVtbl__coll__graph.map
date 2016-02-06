@@ -1,0 +1,4 @@
+<map id="IDXRawSurfaceVtbl" name="IDXRawSurfaceVtbl">
+<area shape="rect" id="node2" href="$structDXRAWSURFACEINFO.html" title="{DXRAWSURFACEINFO\n|+ pFirstByte\l+ lPitch\l+ Width\l+ Height\l+ pPixelFormat\l+ hdc\l+ dwColorKey\l|}" alt="" coords="5,189,176,355"/>
+<area shape="rect" id="node3" href="$structDXBASESAMPLE.html" title="{DXBASESAMPLE\n|+ Blue\l+ Green\l+ Red\l+ Alpha\l|}" alt="" coords="25,5,156,127"/>
+</map>

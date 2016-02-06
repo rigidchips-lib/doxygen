@@ -1,0 +1,30 @@
+<map id="GVector::distanceFromFace" name="GVector::distanceFromFace">
+<area shape="rect" id="node2" href="$classGLandFace.html#a132f2ab39ece68e3f4eb15d0056938b7" title="GLandFace::BallCheck" alt="" coords="457,107,615,133"/>
+<area shape="rect" id="node8" href="$classGLandFace.html#ad96a6db2ffb589a37ece08bf4d403ba7" title="GLandFace::Check" alt="" coords="257,465,392,492"/>
+<area shape="rect" id="node10" href="$classGLandFace.html#aea0321856078897a58d8784f96e1df61" title="GLandFace::Check2" alt="" coords="253,208,396,235"/>
+<area shape="rect" id="node12" href="$classGLandFace.html#a07f2dd16ae855d4599e84dddaa199e1e" title="GLandFace::CircleCheck" alt="" coords="240,516,409,543"/>
+<area shape="rect" id="node13" href="$classGLand.html#ad020ce5644fb4679db6d8327f6c137f8" title="GLand::GetY" alt="" coords="895,507,994,533"/>
+<area shape="rect" id="node23" href="$classGLand.html#a7a9e36c8a2ed20fd785bd4e845287f58" title="GLand::GetY2" alt="" coords="272,364,377,391"/>
+<area shape="rect" id="node3" href="$classGRigid.html#a9a4be40b5478e777fb1389ca525a4c7d" title="GRigid::CollisionCheck" alt="" coords="663,107,821,133"/>
+<area shape="rect" id="node4" href="$classGWorld.html#abe243e8709149b2ce5a9fa68f48a3157" title="GWorld::Check" alt="" coords="889,5,1001,32"/>
+<area shape="rect" id="node5" href="$classGWorld.html#a2550468cde750215e806d507ce6c1b59" title="GWorld::Move" alt="" coords="1089,81,1196,108"/>
+<area shape="rect" id="node7" href="$classGWorld.html#a9992778c93106d3003f4457d81e3e796" title="GWorld::CheckObject" alt="" coords="869,56,1020,83"/>
+<area shape="rect" id="node6" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="1660,297,1809,338"/>
+<area shape="rect" id="node9" href="$classGLand.html#a620468b8d35c610c1b9ab0c097ea6777" title="GLand::Check" alt="" coords="483,465,589,492"/>
+<area shape="rect" id="node11" href="$classGLand.html#a8f3a5ea195236d081519c33518758b1b" title="GLand::Check" alt="" coords="483,208,589,235"/>
+<area shape="rect" id="node14" href="$classCMyD3DApplication.html#a09754ecf7d5cf33d27691b8cad2fdc02" title="CMyD3DApplication::\lInitChips" alt="" coords="1068,314,1217,355"/>
+<area shape="rect" id="node17" href="$classCMyD3DApplication.html#ac33b7640e2006e2fe5469362631ac2f3" title="CMyD3DApplication::\lInitDeviceObjects" alt="" coords="1068,562,1217,603"/>
+<area shape="rect" id="node18" href="$luaSystem_8cpp.html#ac6ef4d0655dbe35163538ad430a5a17b" title="luaLoadLand" alt="" coords="1293,628,1387,655"/>
+<area shape="rect" id="node21" href="$classCMyD3DApplication.html#a042a0f117deba9deac18f7676390f349" title="CMyD3DApplication::\lResetChips" alt="" coords="1068,445,1217,486"/>
+<area shape="rect" id="node15" href="$classCMyD3DApplication.html#a43e79f79f0a426fe9c7e7cccb9cab639" title="CMyD3DApplication::\lLoadData" alt="" coords="1265,359,1415,401"/>
+<area shape="rect" id="node16" href="$classCMyD3DApplication.html#ab0516f10a0464b48804cb879adb08bda" title="CMyD3DApplication::\lMsgProc" alt="" coords="1463,406,1612,447"/>
+<area shape="rect" id="node19" href="$luaSystem_8hpp.html#aba215223b3179544f89bc90b7502270b" title="luaSystemInit" alt="" coords="1486,628,1589,655"/>
+<area shape="rect" id="node20" href="$classCMyD3DApplication.html#a7dbfcbeb208adf6064f1a2f063c4eb7a" title="CMyD3DApplication::\lOneTimeSceneInit" alt="" coords="1660,542,1809,583"/>
+<area shape="rect" id="node22" href="$luaSystem_8cpp.html#a0341fe5fb79a1adccb92ee5db6af31a8" title="luaUpdateChips" alt="" coords="1283,527,1397,553"/>
+<area shape="rect" id="node24" href="$script_8cpp.html#a68291f9ae8fc898052ae788e813efd57" title="getY" alt="" coords="511,364,561,391"/>
+<area shape="rect" id="node25" href="$luaSub_8hpp.html#a072d38db4d0cabf3e063c2615339fda6" title="luaGetY" alt="" coords="501,313,571,340"/>
+<area shape="rect" id="node26" href="$luaScript_8hpp.html#a6a419fc928ee8513937e278d5d562c47" title="luaScriptInit" alt="" coords="697,313,787,340"/>
+<area shape="rect" id="node27" href="$readData_8hpp.html#a3da8b16a5504e4ba108022af9f4504b6" title="readData2" alt="" coords="903,271,986,297"/>
+<area shape="rect" id="node28" href="$classCMyD3DApplication.html#aa294f62bedce70dab0130e4f22a9b56b" title="CMyD3DApplication::\lLoadLog" alt="" coords="1265,191,1415,233"/>
+<area shape="rect" id="node29" href="$readData_8hpp.html#ac95c67054bfc12ab9207365ab1bf85ee" title="readData" alt="" coords="1105,380,1180,407"/>
+</map>

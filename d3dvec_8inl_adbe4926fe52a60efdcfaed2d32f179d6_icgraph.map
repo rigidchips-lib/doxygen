@@ -1,0 +1,27 @@
+<map id="Max" name="Max">
+<area shape="rect" id="node2" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="1129,431,1279,472"/>
+<area shape="rect" id="node3" href="$classCMyD3DApplication.html#ac33b7640e2006e2fe5469362631ac2f3" title="CMyD3DApplication::\lInitDeviceObjects" alt="" coords="100,59,249,100"/>
+<area shape="rect" id="node4" href="$luaScript_8hpp.html#af0bc7209e6f6419df58cee5476b4d452" title="luaScriptRun" alt="" coords="303,543,400,570"/>
+<area shape="rect" id="node8" href="$classCMyD3DApplication.html#a7dbfcbeb208adf6064f1a2f063c4eb7a" title="CMyD3DApplication::\lOneTimeSceneInit" alt="" coords="903,413,1052,455"/>
+<area shape="rect" id="node13" href="$luaSystem_8cpp.html#a96277a06fd1b0b2327b625cd177efc5e" title="luaSetChip" alt="" coords="485,109,571,135"/>
+<area shape="rect" id="node15" href="$luaSystem_8hpp.html#ac05f6597ff66a095995d094aec6402dc" title="luaSystemRun" alt="" coords="297,739,405,766"/>
+<area shape="rect" id="node18" href="$readData_8hpp.html#a3da8b16a5504e4ba108022af9f4504b6" title="readData2" alt="" coords="133,286,216,313"/>
+<area shape="rect" id="node22" href="$Rigidmain_8cpp.html#a6e5fc96b325715dfbf8518bd8d9c0b73" title="ResetChip3" alt="" coords="129,514,220,541"/>
+<area shape="rect" id="node23" href="$readData_8hpp.html#acdecd13f0f1d03f0c6fb3cd7d7a41ff6" title="saveData" alt="" coords="135,125,214,151"/>
+<area shape="rect" id="node25" href="$script_8cpp.html#af2d167619f8260d5dd1a649356e88606" title="statement" alt="" coords="135,634,215,661"/>
+<area shape="rect" id="node5" href="$classCMyD3DApplication.html#a09754ecf7d5cf33d27691b8cad2fdc02" title="CMyD3DApplication::\lInitChips" alt="" coords="453,631,603,672"/>
+<area shape="rect" id="node9" href="$classCMyD3DApplication.html#aed30976652aca9316200121c23edb8ca" title="CMyD3DApplication::\lRender" alt="" coords="453,696,603,737"/>
+<area shape="rect" id="node12" href="$classCMyD3DApplication.html#a2bd82edffce9fcb3a87fba4faae5725d" title="CMyD3DApplication::\lResetChips" alt="" coords="453,565,603,607"/>
+<area shape="rect" id="node6" href="$classCMyD3DApplication.html#a43e79f79f0a426fe9c7e7cccb9cab639" title="CMyD3DApplication::\lLoadData" alt="" coords="663,296,813,337"/>
+<area shape="rect" id="node7" href="$classCMyD3DApplication.html#ab0516f10a0464b48804cb879adb08bda" title="CMyD3DApplication::\lMsgProc" alt="" coords="903,296,1052,337"/>
+<area shape="rect" id="node10" href="$classCMyD3DApplication.html#ae3bfa1d94e6e1927fc46296613988457" title="CMyD3DApplication::\lConfigureInputDevicesCB" alt="" coords="651,693,825,735"/>
+<area shape="rect" id="node11" href="$classCMyD3DApplication.html#a153f61a3f74a5ec7bff562d26d74a66a" title="CMyD3DApplication::\lStaticConfigureInputDevicesCB" alt="" coords="873,664,1081,705"/>
+<area shape="rect" id="node14" href="$luaSystem_8hpp.html#aba215223b3179544f89bc90b7502270b" title="luaSystemInit" alt="" coords="687,109,789,135"/>
+<area shape="rect" id="node16" href="$Rigidmain_8cpp.html#a07045712c49a413d8b80c094cdb16d36" title="DlgNetworkProc" alt="" coords="679,762,797,789"/>
+<area shape="rect" id="node17" href="$Rigidmain_8cpp.html#ac31c8123fc1c6ddfaf2aca992b0ea14e" title="MyReceiveFunc" alt="" coords="469,762,587,789"/>
+<area shape="rect" id="node19" href="$readData_8hpp.html#ac95c67054bfc12ab9207365ab1bf85ee" title="readData" alt="" coords="314,286,389,313"/>
+<area shape="rect" id="node21" href="$classCMyD3DApplication.html#aa294f62bedce70dab0130e4f22a9b56b" title="CMyD3DApplication::\lLoadLog" alt="" coords="903,173,1052,215"/>
+<area shape="rect" id="node20" href="$luaSystem_8cpp.html#a0341fe5fb79a1adccb92ee5db6af31a8" title="luaUpdateChips" alt="" coords="471,210,585,237"/>
+<area shape="rect" id="node24" href="$luaSystem_8cpp.html#a3b7d80acc31b3c9e3a52ce94523e7586" title="luaSaveChips" alt="" coords="300,58,403,85"/>
+<area shape="rect" id="node26" href="$script_8cpp.html#acc34480e29e21b64233edca0374b8429" title="RunScript" alt="" coords="311,685,391,711"/>
+</map>

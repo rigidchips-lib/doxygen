@@ -1,0 +1,4 @@
+<map id="IStreamBufferMediaSeeking" name="IStreamBufferMediaSeeking">
+<area shape="rect" id="node4" href="$interfaceIStreamBufferMediaSeeking2.html" title="{IStreamBufferMediaSeeking2\n||+ SetRateEx()\l}" alt="" coords="5,528,197,605"/>
+<area shape="rect" id="node2" href="$interfaceIMediaSeeking.html" title="{IMediaSeeking\n||+ GetCapabilities()\l+ CheckCapabilities()\l+ IsFormatSupported()\l+ QueryPreferredFormat()\l+ GetTimeFormat()\l+ IsUsingTimeFormat()\l+ SetTimeFormat()\l+ GetDuration()\l+ GetStopPosition()\l+ GetCurrentPosition()\land 7 more...\l}" alt="" coords="16,131,187,355"/>
+</map>

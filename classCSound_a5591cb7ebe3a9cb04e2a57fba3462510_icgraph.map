@@ -1,0 +1,6 @@
+<map id="CSound::FillBufferWithSound" name="CSound::FillBufferWithSound">
+<area shape="rect" id="node2" href="$classCSound.html#a33b42699c3c41ed366cf422d62b960d6" title="CSound::CSound" alt="" coords="290,5,414,32"/>
+<area shape="rect" id="node3" href="$classCStreamingSound.html#a86f319f40957fb309f9e5eda99186a75" title="CStreamingSound::HandleWave\lStreamNotification" alt="" coords="247,57,457,98"/>
+<area shape="rect" id="node4" href="$classCSound.html#a468f2f659e0f0f87c5559dfc1be76b73" title="CSound::Play" alt="" coords="301,123,403,149"/>
+<area shape="rect" id="node5" href="$classCStreamingSound.html#a566d5512e22de66e7cfbab17784335cf" title="CStreamingSound::Reset" alt="" coords="267,173,437,200"/>
+</map>

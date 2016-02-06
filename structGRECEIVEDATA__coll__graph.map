@@ -1,0 +1,6 @@
+<map id="GRECEIVEDATA" name="GRECEIVEDATA">
+<area shape="rect" id="node2" href="$structGCHIPDATA.html" title="{GCHIPDATA\n|+ id\l+ color\l+ type\l+ option\l+ f\l+ data\l|}" alt="" coords="36,189,137,340"/>
+<area shape="rect" id="node3" href="$structGQuat2.html" title="{GQuat2\n|+ x\l+ y\l+ z\l+ w\l|}" alt="" coords="5,5,72,127"/>
+<area shape="rect" id="node4" href="$structGVector2.html" title="{GVector2\n|+ x\l+ y\l+ z\l|}" alt="" coords="96,13,173,119"/>
+<area shape="rect" id="node5" href="$structMYAPP__PLAYER__INFO.html" title="{MYAPP_PLAYER_INFO\n|+ lRefCount\l+ dpnidPlayer\l+ strPlayerName\l+ color\l|}" alt="" coords="161,204,329,325"/>
+</map>

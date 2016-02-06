@@ -1,0 +1,3 @@
+<map id="IAMMediaTypeStream" name="IAMMediaTypeStream">
+<area shape="rect" id="node2" href="$interfaceIMediaStream.html" title="{IMediaStream\n||+ GetMultiMediaStream()\l+ GetInformation()\l+ SetSameFormat()\l+ AllocateSample()\l+ CreateSharedSample()\l+ SendEndOfStream()\l}" alt="" coords="40,131,208,281"/>
+</map>

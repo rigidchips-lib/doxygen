@@ -1,0 +1,4 @@
+<map id="KSPROPERTY_EXTDEVICE_S" name="KSPROPERTY_EXTDEVICE_S">
+<area shape="rect" id="node2" href="$structtagDEVCAPS.html" title="{tagDEVCAPS\n|+ CanRecord\l+ CanRecordStrobe\l+ HasAudio\l+ HasVideo\l+ UsesFiles\l+ CanSave\l+ DeviceType\l+ TCRead\l+ TCWrite\l+ CTLRead\land 36 more...\l|}" alt="" coords="5,5,144,229"/>
+<area shape="rect" id="node3" href="$structKSIDENTIFIER.html" title="{KSIDENTIFIER\n|+ Set\l+ Id\l+ Flags\l+ Data\l+ Alignment\l+ @169\l+ @269\l|}" alt="" coords="169,35,285,200"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IGrfCacheVtbl" name="IGrfCacheVtbl">
+<area shape="rect" id="node2" href="$interfaceIGraphBuilder.html" title="{IGraphBuilder\n||+ Connect()\l+ Render()\l+ RenderFile()\l+ AddSourceFilter()\l+ SetLogFile()\l+ Abort()\l+ ShouldOperationContinue()\l}" alt="" coords="5,361,196,527"/>
+<area shape="rect" id="node3" href="$interfaceIFilterGraph.html" title="{IFilterGraph\n||+ AddFilter()\l+ RemoveFilter()\l+ EnumFilters()\l+ FindFilterByName()\l+ ConnectDirect()\l+ Reconnect()\l+ Disconnect()\l+ SetDefaultSyncSource()\l}" alt="" coords="13,132,188,312"/>
+<area shape="rect" id="node5" href="$interfaceIGrfCache.html" title="{IGrfCache\n||+ AddFilter()\l+ ConnectPins()\l+ SetGraph()\l+ DoConnectionsNow()\l}" alt="" coords="220,383,379,505"/>
+</map>

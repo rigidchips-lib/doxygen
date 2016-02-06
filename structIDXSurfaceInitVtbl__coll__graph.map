@@ -1,0 +1,6 @@
+<map id="IDXSurfaceInitVtbl" name="IDXSurfaceInitVtbl">
+<area shape="rect" id="node2" href="$struct__DDSURFACEDESC.html" title="{_DDSURFACEDESC\n|+ dwSize\l+ dwFlags\l+ dwHeight\l+ dwWidth\l+ lPitch\l+ dwLinearSize\l+ dwBackBufferCount\l+ dwMipMapCount\l+ dwZBufferBitDepth\l+ dwRefreshRate\l+ dwAlphaBitDepth\l+ dwReserved\l+ lpSurface\l|+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l}" alt="" coords="163,395,349,663"/>
+<area shape="rect" id="node3" href="$struct__DDCOLORKEY.html" title="{_DDCOLORKEY\n|+ dwColorSpaceLowValue\l+ dwColorSpaceHighValue\l|}" alt="" coords="5,101,184,193"/>
+<area shape="rect" id="node4" href="$struct__DDSCAPS.html" title="{_DDSCAPS\n|+ dwCaps\l|}" alt="" coords="209,108,303,185"/>
+<area shape="rect" id="node5" href="$struct__DDPIXELFORMAT.html" title="{_DDPIXELFORMAT\n|+ dwSize\l+ dwFlags\l+ dwFourCC\l+ dwRGBBitCount\l+ dwYUVBitCount\l+ dwZBufferBitDepth\l+ dwAlphaBitDepth\l+ dwLuminanceBitCount\l+ dwBumpBitCount\l+ dwPrivateFormatBitCount\land 27 more...\l|+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l}" alt="" coords="328,5,515,288"/>
+</map>

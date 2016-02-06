@@ -1,0 +1,11 @@
+<map id="GVector::distance" name="GVector::distance">
+<area shape="rect" id="node2" href="$classGVector.html#a05386a44d8b81c815b82ee58d02de343" title="GVector::distanceFromLine" alt="" coords="199,5,380,32"/>
+<area shape="rect" id="node3" href="$classGVector.html#a9db68f84c5031b3e0c59534e4d3d8837" title="GVector::distanceFromLine2" alt="" coords="195,56,383,83"/>
+<area shape="rect" id="node10" href="$classGVector.html#ac8fe04dff13dcceea330c7ee0e95893d" title="GVector::distanceFromVectorLine" alt="" coords="180,107,399,133"/>
+<area shape="rect" id="node4" href="$classGLandFace.html#a132f2ab39ece68e3f4eb15d0056938b7" title="GLandFace::BallCheck" alt="" coords="447,56,604,83"/>
+<area shape="rect" id="node5" href="$classGRigid.html#a9a4be40b5478e777fb1389ca525a4c7d" title="GRigid::CollisionCheck" alt="" coords="652,56,811,83"/>
+<area shape="rect" id="node6" href="$classGWorld.html#abe243e8709149b2ce5a9fa68f48a3157" title="GWorld::Check" alt="" coords="878,5,990,32"/>
+<area shape="rect" id="node7" href="$classGWorld.html#a2550468cde750215e806d507ce6c1b59" title="GWorld::Move" alt="" coords="1057,56,1164,83"/>
+<area shape="rect" id="node9" href="$classGWorld.html#a9992778c93106d3003f4457d81e3e796" title="GWorld::CheckObject" alt="" coords="859,107,1009,133"/>
+<area shape="rect" id="node8" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="1212,49,1361,90"/>
+</map>

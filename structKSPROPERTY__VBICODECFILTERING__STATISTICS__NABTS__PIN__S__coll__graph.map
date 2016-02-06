@@ -1,0 +1,5 @@
+<map id="KSPROPERTY_VBICODECFILTERING_STATISTICS_NABTS_PIN_S" name="KSPROPERTY_VBICODECFILTERING_STATISTICS_NABTS_PIN_S">
+<area shape="rect" id="node2" href="$structKSIDENTIFIER.html" title="{KSIDENTIFIER\n|+ Set\l+ Id\l+ Flags\l+ Data\l+ Alignment\l+ @169\l+ @269\l|}" alt="" coords="12,263,128,428"/>
+<area shape="rect" id="node3" href="$struct__VBICODECFILTERING__STATISTICS__NABTS__PIN.html" title="{_VBICODECFILTERING\l_STATISTICS_NABTS_PIN\n||}" alt="" coords="153,299,342,391"/>
+<area shape="rect" id="node4" href="$struct__VBICODECFILTERING__STATISTICS__COMMON__PIN.html" title="{_VBICODECFILTERING\l_STATISTICS_COMMON_PIN\n|+ SRBsProcessed\l+ SRBsIgnored\l+ SRBsMissing\l+ InternalErrors\l+ ExternalErrors\l+ Discontinuities\l+ LineConfidenceAvg\l+ BytesOutput\l|}" alt="" coords="144,5,351,200"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="GLandFace::Check2" name="GLandFace::Check2">
+<area shape="rect" id="node2" href="$classGVector.html#a9edcde2278c60915aa7470514d3168fb" title="GVector::distanceFromFace" alt="" coords="206,5,393,32"/>
+<area shape="rect" id="node4" href="$classGVector.html#afd533645529dd10186ab58468c04f1d8" title="GVector::abs" alt="" coords="250,56,349,83"/>
+<area shape="rect" id="node5" href="$classGVector.html#a24db03f3580ba3bc6b2899c3f17855e3" title="GVector::pointOnFaceAndLine2" alt="" coords="196,107,403,133"/>
+<area shape="rect" id="node3" href="$classGVector.html#a43df893e25405cd83678f5d1dd427bfb" title="GVector::dot" alt="" coords="451,56,547,83"/>
+</map>

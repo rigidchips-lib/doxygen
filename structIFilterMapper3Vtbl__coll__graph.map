@@ -1,0 +1,8 @@
+<map id="IFilterMapper3Vtbl" name="IFilterMapper3Vtbl">
+<area shape="rect" id="node2" href="$interfaceICreateDevEnum.html" title="{ICreateDevEnum\n||+ CreateClassEnumerator()\l}" alt="" coords="5,549,188,627"/>
+<area shape="rect" id="node4" href="$structREGFILTER2.html" title="{REGFILTER2\n|+ dwVersion\l+ dwMerit\l+ cPins\l+ cPins2\l+ @227\l|}" alt="" coords="318,520,422,656"/>
+<area shape="rect" id="node5" href="$structREGFILTERPINS2.html" title="{REGFILTERPINS2\n|+ dwFlags\l+ cInstances\l+ nMediaTypes\l+ nMediums\l+ clsPinCategory\l|}" alt="" coords="263,197,399,333"/>
+<area shape="rect" id="node6" href="$structREGPINMEDIUM.html" title="{REGPINMEDIUM\n|+ clsMedium\l+ dw1\l+ dw2\l|}" alt="" coords="184,5,313,112"/>
+<area shape="rect" id="node7" href="$structREGPINTYPES.html" title="{REGPINTYPES\n|+ clsMajorType\l+ clsMinorType\l|}" alt="" coords="385,13,504,105"/>
+<area shape="rect" id="node8" href="$structREGFILTERPINS.html" title="{REGFILTERPINS\n|+ strName\l+ bRendered\l+ bOutput\l+ bZero\l+ bMany\l+ clsConnectsToFilter\l+ strConnectsToPin\l+ nMediaTypes\l|}" alt="" coords="424,175,575,355"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="DXUtil_Timer" name="DXUtil_Timer">
+<area shape="rect" id="node2" href="$classCD3DApplication.html#a3eec58e85a67d27e13a558925ec4457b" title="CD3DApplication::Create" alt="" coords="1332,424,1503,451"/>
+<area shape="rect" id="node5" href="$classCD3DApplication.html#a07bb5e8e36cc91d15d40bc88709753a6" title="CD3DApplication::Pause" alt="" coords="160,261,328,288"/>
+<area shape="rect" id="node13" href="$classCD3DApplication.html#a3e642372a4568054e4f29f7671eceac7" title="CD3DApplication::Render3\lDEnvironment" alt="" coords="407,633,587,674"/>
+<area shape="rect" id="node15" href="$classCD3DApplication.html#a29160a6729e8965fae0fa749b6e569b1" title="CD3DApplication::Resize3\lDEnvironment" alt="" coords="155,459,333,501"/>
+<area shape="rect" id="node17" href="$classCD3DApplication.html#a06674b6c2e548d6850550eefbef74e50" title="CD3DApplication::UserSelect\lNewDevice" alt="" coords="660,363,856,405"/>
+<area shape="rect" id="node3" href="$Rigidmain_8cpp.html#a352a069a3742cb8d6f64a009fa5ea474" title="WinMain" alt="" coords="1589,521,1662,548"/>
+<area shape="rect" id="node4" href="$classCMyD3DApplication.html#ac33b7640e2006e2fe5469362631ac2f3" title="CMyD3DApplication::\lInitDeviceObjects" alt="" coords="1551,417,1700,458"/>
+<area shape="rect" id="node6" href="$classCD3DApplication.html#a71a5cc911df29ecdf675d0f3f14400ff" title="CD3DApplication::MsgProc" alt="" coords="904,425,1087,452"/>
+<area shape="rect" id="node9" href="$classCMyD3DApplication.html#a32d5664e50638bfde8b220936dae2011" title="CMyD3DApplication::\lPause" alt="" coords="422,127,571,169"/>
+<area shape="rect" id="node7" href="$d3dapp_8cpp.html#ae749e989b362e19783c7af4a2bf46c95" title="WndProc" alt="" coords="1171,424,1247,451"/>
+<area shape="rect" id="node8" href="$classCMyD3DApplication.html#ab0516f10a0464b48804cb879adb08bda" title="CMyD3DApplication::\lMsgProc" alt="" coords="1135,475,1284,517"/>
+<area shape="rect" id="node10" href="$Rigidmain_8cpp.html#a07045712c49a413d8b80c094cdb16d36" title="DlgNetworkProc" alt="" coords="699,160,817,187"/>
+<area shape="rect" id="node11" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="921,203,1070,245"/>
+<area shape="rect" id="node12" href="$classCMyD3DApplication.html#a32de149f46c5130d8e65dd1f44428d07" title="CMyD3DApplication::\lFinalCleanup" alt="" coords="683,43,833,85"/>
+<area shape="rect" id="node14" href="$classCD3DApplication.html#a3dbb5db356c603d7ef8493db39cde736" title="CD3DApplication::Run" alt="" coords="1340,597,1495,624"/>
+<area shape="rect" id="node16" href="$classCD3DApplication.html#aa5204d3138985a4012fa07603618c9a9" title="CD3DApplication::ToggleFullscreen" alt="" coords="381,429,612,456"/>
+</map>

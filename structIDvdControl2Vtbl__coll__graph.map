@@ -1,0 +1,6 @@
+<map id="IDvdControl2Vtbl" name="IDvdControl2Vtbl">
+<area shape="rect" id="node2" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="5,132,211,356"/>
+<area shape="rect" id="node4" href="$interfaceIDvdState.html" title="{IDvdState\n||+ GetDiscID()\l+ GetParentalLevel()\l}" alt="" coords="235,198,378,290"/>
+<area shape="rect" id="node5" href="$interfaceIDvdCmd.html" title="{IDvdCmd\n||+ WaitForStart()\l+ WaitForEnd()\l}" alt="" coords="402,198,518,290"/>
+<area shape="rect" id="node6" href="$structtagDVD__HMSF__TIMECODE.html" title="{tagDVD_HMSF_TIMECODE\n|+ bHours\l+ bMinutes\l+ bSeconds\l+ bFrames\l|}" alt="" coords="543,183,735,305"/>
+</map>

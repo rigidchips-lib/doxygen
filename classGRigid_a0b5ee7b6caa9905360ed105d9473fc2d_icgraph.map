@@ -1,0 +1,25 @@
+<map id="GRigid::CalcTotalCenter" name="GRigid::CalcTotalCenter">
+<area shape="rect" id="node2" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="969,549,1119,590"/>
+<area shape="rect" id="node3" href="$classGRigid.html#aec03957c6cad5425fc4cba697da6f885" title="GRigid::GRigid" alt="" coords="219,759,329,785"/>
+<area shape="rect" id="node4" href="$luaSystem_8cpp.html#a1a2298ba64944df0fc62a46e66de5cce" title="luaAddBall" alt="" coords="410,5,494,32"/>
+<area shape="rect" id="node7" href="$luaSystem_8cpp.html#ac6ef4d0655dbe35163538ad430a5a17b" title="luaLoadLand" alt="" coords="602,55,697,81"/>
+<area shape="rect" id="node8" href="$luaSystem_8cpp.html#a03d8018e6932ba6daa81b1f771e9e0fe" title="luaReset" alt="" coords="415,112,489,139"/>
+<area shape="rect" id="node9" href="$luaSystem_8cpp.html#a30ec6cf76963b9dc7f008b360deac9fc" title="luaWarp" alt="" coords="614,156,685,183"/>
+<area shape="rect" id="node10" href="$luaSystem_8cpp.html#a0a5f1b742a11437684c6545d87a5612e" title="luaWarpObj" alt="" coords="407,232,497,259"/>
+<area shape="rect" id="node11" href="$classGWorld.html#a2550468cde750215e806d507ce6c1b59" title="GWorld::Move" alt="" coords="793,657,900,684"/>
+<area shape="rect" id="node12" href="$Rigidmain_8cpp.html#a05b754c23ce3b06e4f80c034464efcd8" title="ResetChip" alt="" coords="232,464,316,491"/>
+<area shape="rect" id="node19" href="$Rigidmain_8cpp.html#a6e5fc96b325715dfbf8518bd8d9c0b73" title="ResetChip3" alt="" coords="229,809,319,836"/>
+<area shape="rect" id="node20" href="$Rigidmain_8cpp.html#ab988a7e182a6a0d7c69576e9a7bcf2df" title="ResetObject" alt="" coords="227,860,321,887"/>
+<area shape="rect" id="node21" href="$Rigidmain_8cpp.html#a7694526beb7ad9baa6ba8f20a0cf3459" title="ResetRecVal" alt="" coords="599,716,699,743"/>
+<area shape="rect" id="node24" href="$Rigidmain_8cpp.html#ae77f53ecd839d5094dbec3a794230a5b" title="ResetVal" alt="" coords="236,911,312,937"/>
+<area shape="rect" id="node5" href="$luaSystem_8hpp.html#aba215223b3179544f89bc90b7502270b" title="luaSystemInit" alt="" coords="795,181,898,208"/>
+<area shape="rect" id="node6" href="$classCMyD3DApplication.html#a7dbfcbeb208adf6064f1a2f063c4eb7a" title="CMyD3DApplication::\lOneTimeSceneInit" alt="" coords="969,227,1119,269"/>
+<area shape="rect" id="node13" href="$classCMyD3DApplication.html#a09754ecf7d5cf33d27691b8cad2fdc02" title="CMyD3DApplication::\lInitChips" alt="" coords="377,490,527,531"/>
+<area shape="rect" id="node16" href="$classCMyD3DApplication.html#ac33b7640e2006e2fe5469362631ac2f3" title="CMyD3DApplication::\lInitDeviceObjects" alt="" coords="377,425,527,466"/>
+<area shape="rect" id="node17" href="$classCMyD3DApplication.html#a042a0f117deba9deac18f7676390f349" title="CMyD3DApplication::\lResetChips" alt="" coords="377,359,527,401"/>
+<area shape="rect" id="node14" href="$classCMyD3DApplication.html#a43e79f79f0a426fe9c7e7cccb9cab639" title="CMyD3DApplication::\lLoadData" alt="" coords="575,425,724,466"/>
+<area shape="rect" id="node15" href="$classCMyD3DApplication.html#ab0516f10a0464b48804cb879adb08bda" title="CMyD3DApplication::\lMsgProc" alt="" coords="772,389,921,430"/>
+<area shape="rect" id="node18" href="$luaSystem_8cpp.html#a0341fe5fb79a1adccb92ee5db6af31a8" title="luaUpdateChips" alt="" coords="592,257,707,284"/>
+<area shape="rect" id="node22" href="$classCMyD3DApplication.html#aa294f62bedce70dab0130e4f22a9b56b" title="CMyD3DApplication::\lLoadLog" alt="" coords="772,774,921,815"/>
+<area shape="rect" id="node23" href="$classCMyD3DApplication.html#a911f3e3f9d383ffcd0a3ea81a6fa0a3a" title="CMyD3DApplication::\lPlayLog" alt="" coords="772,709,921,750"/>
+</map>

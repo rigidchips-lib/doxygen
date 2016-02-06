@@ -1,0 +1,4 @@
+<map id="KSP_NODE_ESPID" name="KSP_NODE_ESPID">
+<area shape="rect" id="node2" href="$structKSP__NODE.html" title="{KSP_NODE\n|+ NodeId\l+ Reserved\l|}" alt="" coords="29,233,124,325"/>
+<area shape="rect" id="node3" href="$structKSIDENTIFIER.html" title="{KSIDENTIFIER\n|+ Set\l+ Id\l+ Flags\l+ Data\l+ Alignment\l+ @169\l+ @269\l|}" alt="" coords="19,5,135,171"/>
+</map>

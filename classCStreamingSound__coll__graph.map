@@ -1,0 +1,4 @@
+<map id="CStreamingSound" name="CStreamingSound">
+<area shape="rect" id="node2" href="$classCSound.html" title="{CSound\n|# m_apDSBuffer\l# m_dwDSBufferSize\l# m_dwNumBuffers\l|+ CSound()\l+ ~CSound()\l+ Get3DBufferInterface()\l+ FillBufferWithSound()\l+ GetFreeBuffer()\l+ GetBuffer()\l+ Play()\l+ Stop()\l+ Reset()\l+ IsSoundPlaying()\l# RestoreBuffer()\l}" alt="" coords="35,468,201,721"/>
+<area shape="rect" id="node3" href="$classCWaveFile.html" title="{CWaveFile\n|+ m_pwfx\l+ m_hmmio\l+ m_ck\l+ m_ckRiff\l+ m_dwSize\l+ m_mmioinfoOut\l+ m_dwFlags\l+ m_bIsReadingFromMemory\l+ m_pbData\l+ m_pbDataCur\l+ m_ulDataSize\l+ m_pResourceBuffer\l|+ CWaveFile()\l+ ~CWaveFile()\l+ Open()\l+ OpenFromMemory()\l+ Close()\l+ Read()\l+ Write()\l+ GetSize()\l+ ResetFile()\l+ GetFormat()\l# ReadMMIO()\l# WriteMMIO()\l}" alt="" coords="21,5,215,405"/>
+</map>

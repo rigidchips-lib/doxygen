@@ -1,0 +1,4 @@
+<map id="IVMRMonitorConfigVtbl" name="IVMRMonitorConfigVtbl">
+<area shape="rect" id="node2" href="$structtagVMRMONITORINFO.html" title="{tagVMRMONITORINFO\n|+ rcMonitor\l+ hMon\l+ dwFlags\l+ szDevice\l+ szDescription\l+ liDriverVersion\l+ dwVendorId\l+ dwDeviceId\l+ dwSubSysId\l+ dwRevision\l|}" alt="" coords="112,160,277,369"/>
+<area shape="rect" id="node3" href="$structtagVMRGUID.html" title="{tagVMRGUID\n|+ pGUID\l+ GUID\l|}" alt="" coords="33,5,137,97"/>
+</map>

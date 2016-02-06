@@ -1,0 +1,6 @@
+<map id="CD3DFrame" name="CD3DFrame">
+<area shape="rect" id="node2" href="$classCD3DMesh.html" title="{CD3DMesh\n|+ m_strName\l+ m_pSysMemMesh\l+ m_pLocalMesh\l+ m_dwNumMaterials\l+ m_pTextures\l+ m_bUseMaterials\l|+ Render()\l+ GetSysMemMesh()\l+ GetLocalMesh()\l+ UseMeshMaterials()\l+ SetFVF()\l+ RestoreDeviceObjects()\l+ InvalidateDeviceObjects()\l+ Create()\l+ Create()\l+ Destroy()\l+ CD3DMesh()\l+ ~CD3DMesh()\l}" alt="" coords="5,476,189,788"/>
+<area shape="rect" id="node3" href="$struct__D3DMATERIAL8.html" title="{_D3DMATERIAL8\n|+ Power\l|}" alt="" coords="32,336,163,413"/>
+<area shape="rect" id="node4" href="$struct__D3DCOLORVALUE.html" title="{_D3DCOLORVALUE\n|+ r\l+ g\l+ b\l+ a\l+ r\l+ dvR\l+ @28\l+ g\l+ dvG\l+ @30\land 6 more...\l|}" alt="" coords="24,5,171,229"/>
+<area shape="rect" id="node5" href="$struct__D3DMATRIX.html" title="{_D3DMATRIX\n|+ _11\l+ _12\l+ _13\l+ _14\l+ _21\l+ _22\l+ _23\l+ _24\l+ _31\l+ _32\land 25 more...\l|}" alt="" coords="213,520,320,744"/>
+</map>

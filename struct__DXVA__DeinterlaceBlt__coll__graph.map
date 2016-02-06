@@ -1,0 +1,4 @@
+<map id="_DXVA_DeinterlaceBlt" name="_DXVA_DeinterlaceBlt">
+<area shape="rect" id="node2" href="$struct__DXVA__VideoSample.html" title="{_DXVA_VideoSample\n|+ rtStart\l+ rtEnd\l+ lpDDSSrcSurface\l|}" alt="" coords="33,419,183,525"/>
+<area shape="rect" id="node3" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="5,132,211,356"/>
+</map>

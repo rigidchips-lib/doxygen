@@ -1,0 +1,10 @@
+<map id="IMSVidInputDevice" name="IMSVidInputDevice">
+<area shape="rect" id="node4" href="$interfaceIMSVidPlayback.html" title="{IMSVidPlayback\n|+ EnableResetOnStop\l+ CanStep\l+ Rate\l+ CurrentPosition\l+ PositionMode\l+ Length\l|+ Run()\l+ Pause()\l+ Stop()\l+ Step()\l}" alt="" coords="208,484,361,679"/>
+<area shape="rect" id="node8" href="$interfaceIMSVidVideoInputDevice.html" title="{IMSVidVideoInputDevice\n||}" alt="" coords="386,543,554,620"/>
+<area shape="rect" id="node2" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="313,131,440,296"/>
+<area shape="rect" id="node5" href="$interfaceIMSVidFilePlayback.html" title="{IMSVidFilePlayback\n|+ FileName\l|}" alt="" coords="27,873,167,951"/>
+<area shape="rect" id="node7" href="$interfaceIMSVidWebDVD.html" title="{IMSVidWebDVD\n|+ AudioLanguage\l+ ButtonsAvailable\l+ CurrentButton\l+ ButtonAtPosition\l+ NumberOfChapters\l+ TotalTitleTime\l+ TitlesAvailable\l+ VolumesAvailable\l+ CurrentVolume\l+ CurrentDiscSide\land 37 more...\l|+ OnDVDEvent()\l+ PlayTitle()\l+ PlayChapterInTitle()\l+ PlayChapter()\l+ PlayChaptersAutoStop()\l+ PlayAtTime()\l+ PlayAtTimeInTitle()\l+ PlayPeriodInTitleAutoStop()\l+ ReplayChapter()\l+ PlayPrevChapter()\land 29 more...\l}" alt="" coords="191,727,386,1097"/>
+<area shape="rect" id="node6" href="$interfaceIMSVidStreamBufferSource.html" title="{IMSVidStreamBufferSource\n|+ Start\l+ RecordingAttribute\l+ BlockUnrated\l+ UnratedDelay\l+ SBESource\l|+ CurrentRatings()\l+ MaxRatingsLevel()\l}" alt="" coords="5,1145,188,1296"/>
+<area shape="rect" id="node9" href="$interfaceIMSVidTuner.html" title="{IMSVidTuner\n|+ Tune\l+ TuningSpace\l|}" alt="" coords="415,866,525,958"/>
+<area shape="rect" id="node10" href="$interfaceIMSVidAnalogTuner.html" title="{IMSVidAnalogTuner\n|+ Channel\l+ VideoFrequency\l+ AudioFrequency\l+ CountryCode\l+ SAP\l|+ ChannelAvailable()\l}" alt="" coords="399,1153,541,1289"/>
+</map>

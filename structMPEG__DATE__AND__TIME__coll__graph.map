@@ -1,0 +1,4 @@
+<map id="MPEG_DATE_AND_TIME" name="MPEG_DATE_AND_TIME">
+<area shape="rect" id="node2" href="$struct____MIDL______MIDL__itf__mpeg2data__0000__0020.html" title="{__MIDL___MIDL_itf_mpeg2data\l_0000_0020\n|+ Hours\l+ Minutes\l+ Seconds\l|}" alt="" coords="5,5,216,127"/>
+<area shape="rect" id="node3" href="$struct____MIDL______MIDL__itf__mpeg2data__0000__0021.html" title="{__MIDL___MIDL_itf_mpeg2data\l_0000_0021\n|+ Date\l+ Month\l+ Year\l|}" alt="" coords="240,5,451,127"/>
+</map>

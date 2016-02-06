@@ -1,0 +1,5 @@
+<map id="_DICONFIGUREDEVICESPARAMSW" name="_DICONFIGUREDEVICESPARAMSW">
+<area shape="rect" id="node2" href="$struct__DICOLORSET.html" title="{_DICOLORSET\n|+ dwSize\l+ cTextFore\l+ cTextHighlight\l+ cCalloutLine\l+ cCalloutHighlight\l+ cBorder\l+ cControlFill\l+ cHighlightFill\l+ cAreaFill\l|}" alt="" coords="6,292,139,487"/>
+<area shape="rect" id="node3" href="$struct__DIACTIONFORMATW.html" title="{_DIACTIONFORMATW\n|+ dwSize\l+ dwActionSize\l+ dwDataSize\l+ dwNumActions\l+ guidActionMap\l+ dwGenre\l+ dwBufferSize\l+ lAxisMin\l+ lAxisMax\l+ hInstString\l+ ftTimeStamp\l+ dwCRC\l+ tszActionMap\l|}" alt="" coords="163,263,326,516"/>
+<area shape="rect" id="node4" href="$struct__DIACTIONW.html" title="{_DIACTIONW\n|+ uAppData\l+ dwSemantic\l+ dwFlags\l+ lptszActionName\l+ uResIdString\l+ @167\l+ guidInstance\l+ dwObjID\l+ dwHow\l|}" alt="" coords="177,5,312,200"/>
+</map>

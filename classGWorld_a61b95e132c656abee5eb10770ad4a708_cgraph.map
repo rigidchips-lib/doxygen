@@ -1,0 +1,8 @@
+<map id="GWorld::ObjectDisp" name="GWorld::ObjectDisp">
+<area shape="rect" id="node2" href="$classGRigid.html#a07e42eba2fd4ed9dc1bea6499a61894c" title="GRigid::DispObject" alt="" coords="192,107,327,133"/>
+<area shape="rect" id="node3" href="$d3dx8math_8h.html#a49567772f991e9ba77a8ffea5fd72851" title="D3DXMatrixIdentity" alt="" coords="377,5,514,32"/>
+<area shape="rect" id="node4" href="$d3dx8math_8h.html#aba6acbf270a72df374808960082fcd53" title="D3DXMatrixScaling" alt="" coords="377,56,514,83"/>
+<area shape="rect" id="node5" href="$d3dx8math_8h.html#a1496750c107218f827a3a732787dae0b" title="D3DXMatrixMultiply" alt="" coords="376,107,515,133"/>
+<area shape="rect" id="node6" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="426,157,465,184"/>
+<area shape="rect" id="node7" href="$classCD3DMesh.html#a530a2e29e029d7d90de48913202c0eb7" title="CD3DMesh::Render" alt="" coords="375,208,516,235"/>
+</map>

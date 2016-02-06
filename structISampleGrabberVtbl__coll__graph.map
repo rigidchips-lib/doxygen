@@ -1,0 +1,5 @@
+<map id="ISampleGrabberVtbl" name="ISampleGrabberVtbl">
+<area shape="rect" id="node2" href="$structAM__MEDIA__TYPE.html" title="{AM_MEDIA_TYPE\n|+ dw1\l+ dw2\l|}" alt="" coords="5,198,140,290"/>
+<area shape="rect" id="node3" href="$interfaceISampleGrabberCB.html" title="{ISampleGrabberCB\n||+ SampleCB()\l+ BufferCB()\l}" alt="" coords="164,198,299,290"/>
+<area shape="rect" id="node5" href="$interfaceIMediaSample.html" title="{IMediaSample\n||+ GetPointer()\l+ GetSize()\l+ GetTime()\l+ SetTime()\l+ IsSyncPoint()\l+ SetSyncPoint()\l+ IsPreroll()\l+ SetPreroll()\l+ GetActualDataLength()\l+ SetActualDataLength()\land 6 more...\l}" alt="" coords="323,132,489,356"/>
+</map>

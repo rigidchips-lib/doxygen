@@ -1,0 +1,4 @@
+<map id="IMediaDetVtbl" name="IMediaDetVtbl">
+<area shape="rect" id="node2" href="$interfaceISampleGrabber.html" title="{ISampleGrabber\n||+ SetOneShot()\l+ SetMediaType()\l+ GetConnectedMediaType()\l+ SetBufferSamples()\l+ GetCurrentBuffer()\l+ GetCurrentSample()\l+ SetCallback()\l}" alt="" coords="5,132,196,297"/>
+<area shape="rect" id="node4" href="$structAM__MEDIA__TYPE.html" title="{AM_MEDIA_TYPE\n|+ dw1\l+ dw2\l|}" alt="" coords="220,169,355,261"/>
+</map>

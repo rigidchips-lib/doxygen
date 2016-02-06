@@ -1,0 +1,5 @@
+<map id="luaApplyTorqueObj" name="luaApplyTorqueObj">
+<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="237,5,276,32"/>
+<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="207,56,307,83"/>
+<area shape="rect" id="node4" href="$classGRigid.html#acbfae52c7c043d7bbd390264c69d44c4" title="GRigid::ApplyTorque" alt="" coords="185,107,328,133"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="MoCopyMediaType" name="MoCopyMediaType">
+<area shape="rect" id="node2" href="$classIMediaObjectImpl.html#af69aeb0632faa54c94c46ef4d640d55c" title="IMediaObjectImpl::GetInput\lCurrentType" alt="" coords="207,5,389,47"/>
+<area shape="rect" id="node3" href="$classIMediaObjectImpl.html#aca2709eefdc07864d45eb25a33f32e4b" title="IMediaObjectImpl::GetOutput\lCurrentType" alt="" coords="202,71,394,112"/>
+<area shape="rect" id="node4" href="$classIMediaObjectImpl.html#aea5a1fe37b10c225e4b529cade0243d3" title="IMediaObjectImpl::SetInputType" alt="" coords="193,137,403,163"/>
+<area shape="rect" id="node5" href="$classIMediaObjectImpl.html#aedff9e78fc308ad97f44af07e89923ab" title="IMediaObjectImpl::SetOutputType" alt="" coords="188,187,408,214"/>
+</map>

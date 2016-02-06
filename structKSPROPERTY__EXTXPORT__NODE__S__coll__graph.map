@@ -1,0 +1,6 @@
+<map id="KSPROPERTY_EXTXPORT_NODE_S" name="KSPROPERTY_EXTXPORT_NODE_S">
+<area shape="rect" id="node2" href="$structMEDIUM__INFO.html" title="{MEDIUM_INFO\n|+ MediaPresent\l+ MediaType\l+ RecordInhibit\l|}" alt="" coords="5,233,121,340"/>
+<area shape="rect" id="node3" href="$structTRANSPORT__STATE.html" title="{TRANSPORT_STATE\n|+ Mode\l+ State\l|}" alt="" coords="146,241,301,333"/>
+<area shape="rect" id="node4" href="$structKSP__NODE.html" title="{KSP_NODE\n|+ NodeId\l+ Reserved\l|}" alt="" coords="325,241,420,333"/>
+<area shape="rect" id="node5" href="$structKSIDENTIFIER.html" title="{KSIDENTIFIER\n|+ Set\l+ Id\l+ Flags\l+ Data\l+ Alignment\l+ @169\l+ @269\l|}" alt="" coords="315,5,431,171"/>
+</map>

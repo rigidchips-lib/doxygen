@@ -1,0 +1,4 @@
+<map id="IAMTimelineVtbl" name="IAMTimelineVtbl">
+<area shape="rect" id="node2" href="$interfaceIAMTimelineObj.html" title="{IAMTimelineObj\n||+ GetStartStop()\l+ GetStartStop2()\l+ FixTimes()\l+ FixTimes2()\l+ SetStartStop()\l+ SetStartStop2()\l+ GetPropertySetter()\l+ SetPropertySetter()\l+ GetSubObject()\l+ SetSubObject()\land 28 more...\l}" alt="" coords="5,132,152,356"/>
+<area shape="rect" id="node4" href="$interfaceIMediaLocator.html" title="{IMediaLocator\n||+ FindMediaFile()\l+ AddFoundLocation()\l}" alt="" coords="177,198,327,290"/>
+</map>

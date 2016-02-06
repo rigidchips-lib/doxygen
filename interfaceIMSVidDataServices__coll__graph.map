@@ -1,0 +1,4 @@
+<map id="IMSVidDataServices" name="IMSVidDataServices">
+<area shape="rect" id="node2" href="$interfaceIMSVidFeature.html" title="{IMSVidFeature\n||}" alt="" coords="23,344,132,421"/>
+<area shape="rect" id="node3" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="14,131,141,296"/>
+</map>

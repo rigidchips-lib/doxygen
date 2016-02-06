@@ -1,0 +1,6 @@
+<map id="IMSVidAnalogTuner" name="IMSVidAnalogTuner">
+<area shape="rect" id="node2" href="$interfaceIMSVidTuner.html" title="{IMSVidTuner\n|+ Tune\l+ TuningSpace\l|}" alt="" coords="34,609,145,701"/>
+<area shape="rect" id="node3" href="$interfaceIMSVidVideoInputDevice.html" title="{IMSVidVideoInputDevice\n||}" alt="" coords="5,484,173,561"/>
+<area shape="rect" id="node4" href="$interfaceIMSVidInputDevice.html" title="{IMSVidInputDevice\n||+ IsViewable()\l+ View()\l}" alt="" coords="22,344,157,436"/>
+<area shape="rect" id="node5" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="26,131,153,296"/>
+</map>

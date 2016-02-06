@@ -1,0 +1,7 @@
+<map id="CMyD3DApplication::CMyD3DApplication" name="CMyD3DApplication::CMyD3DApplication">
+<area shape="rect" id="node2" href="$classGDPlay.html#a469a30dace84fbd8d2f474bf167bfb3b" title="GDPlay::Init" alt="" coords="230,5,325,32"/>
+<area shape="rect" id="node4" href="$classCMyD3DApplication.html#a395baf5d86f68b84f37733fa0b278e22" title="CMyD3DApplication::\lReadSettings" alt="" coords="203,57,352,98"/>
+<area shape="rect" id="node3" href="$classGDPlay.html#a2301f2955cd9e577bb56bebbc20a7f73" title="GDPlay::myMessageHandler" alt="" coords="400,5,592,32"/>
+<area shape="rect" id="node5" href="$dxutil_8cpp.html#a088b5b0df6e839c5f9e34ab49b82052f" title="DXUtil_ReadIntRegKey" alt="" coords="415,60,577,87"/>
+<area shape="rect" id="node6" href="$dxutil_8cpp.html#a867ebdf3cc614bf21df1ee5ab2fdbb83" title="DXUtil_ReadStringRegKey" alt="" coords="406,111,586,137"/>
+</map>

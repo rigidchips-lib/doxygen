@@ -1,0 +1,4 @@
+<map id="IEnumPIDMapVtbl" name="IEnumPIDMapVtbl">
+<area shape="rect" id="node2" href="$structPID__MAP.html" title="{PID_MAP\n|+ ulPID\l+ MediaSampleContent\l|}" alt="" coords="5,147,164,239"/>
+<area shape="rect" id="node3" href="$interfaceIEnumPIDMap.html" title="{IEnumPIDMap\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="188,132,296,253"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="IVMRDeinterlaceControlVtbl" name="IVMRDeinterlaceControlVtbl">
+<area shape="rect" id="node2" href="$struct__VMRVideoDesc.html" title="{_VMRVideoDesc\n|+ dwSize\l+ dwSampleWidth\l+ dwSampleHeight\l+ SingleFieldPerSample\l+ dwFourCC\l|}" alt="" coords="17,175,180,311"/>
+<area shape="rect" id="node3" href="$struct__VMRFrequency.html" title="{_VMRFrequency\n|+ dwNumerator\l+ dwDenominator\l|}" alt="" coords="36,5,161,97"/>
+</map>

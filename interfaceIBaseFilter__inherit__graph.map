@@ -1,0 +1,4 @@
+<map id="IBaseFilter" name="IBaseFilter">
+<area shape="rect" id="node4" href="$interfaceIMediaStreamFilter.html" title="{IMediaStreamFilter\n||+ AddMediaStream()\l+ GetMediaStream()\l+ EnumMediaStreams()\l+ SupportSeeking()\l+ ReferenceTimeToStreamTime()\l+ GetCurrentStreamTime()\l+ WaitUntil()\l+ Flush()\l+ EndOfStream()\l}" alt="" coords="5,513,223,708"/>
+<area shape="rect" id="node2" href="$interfaceIMediaFilter.html" title="{IMediaFilter\n||+ Stop()\l+ Pause()\l+ Run()\l+ GetState()\l+ SetSyncSource()\l+ GetSyncSource()\l}" alt="" coords="47,131,181,281"/>
+</map>

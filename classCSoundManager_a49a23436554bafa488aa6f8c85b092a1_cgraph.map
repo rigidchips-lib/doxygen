@@ -1,0 +1,6 @@
+<map id="CSoundManager::CreateStreaming" name="CSoundManager::CreateStreaming">
+<area shape="rect" id="node2" href="$classCWaveFile.html#a8f957776f587edcdd1948c8e3284235d" title="CWaveFile::Open" alt="" coords="279,56,405,83"/>
+<area shape="rect" id="node3" href="$classCWaveFile.html#af5607e7ba6d1502735dc5bfa0da8d2b9" title="CWaveFile::ReadMMIO" alt="" coords="453,5,616,32"/>
+<area shape="rect" id="node4" href="$classCWaveFile.html#ae6791a066f89f5e147cc0f5d9f2dbdbc" title="CWaveFile::ResetFile" alt="" coords="459,56,610,83"/>
+<area shape="rect" id="node5" href="$classCWaveFile.html#aa3524cf0271959bb3f190a58b5669002" title="CWaveFile::WriteMMIO" alt="" coords="453,107,616,133"/>
+</map>

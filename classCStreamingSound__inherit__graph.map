@@ -1,0 +1,3 @@
+<map id="CStreamingSound" name="CStreamingSound">
+<area shape="rect" id="node2" href="$classCSound.html" title="{CSound\n|# m_apDSBuffer\l# m_dwDSBufferSize\l# m_pWaveFile\l# m_dwNumBuffers\l|+ CSound()\l+ ~CSound()\l+ Get3DBufferInterface()\l+ FillBufferWithSound()\l+ GetFreeBuffer()\l+ GetBuffer()\l+ Play()\l+ Stop()\l+ Reset()\l+ IsSoundPlaying()\l# RestoreBuffer()\l}" alt="" coords="35,5,201,273"/>
+</map>

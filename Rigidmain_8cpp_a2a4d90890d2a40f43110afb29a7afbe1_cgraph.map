@@ -1,0 +1,5 @@
+<map id="PlayersInfoDisp" name="PlayersInfoDisp">
+<area shape="rect" id="node2" href="$classGDPlay.html#a31d51f7732c151434a924c76fa3dd1ae" title="GDPlay::GetMaxPlayers" alt="" coords="189,5,355,32"/>
+<area shape="rect" id="node3" href="$classGDPlay.html#a73f9fb0aafa53894ac4547ceeb49d1d9" title="GDPlay::GetHostPlayerDPNID" alt="" coords="169,56,375,83"/>
+<area shape="rect" id="node4" href="$classGDPlay.html#aef2b09999ff3dea0a98e420704c1195c" title="GDPlay::GetLocalPlayerDPNID" alt="" coords="168,107,376,133"/>
+</map>

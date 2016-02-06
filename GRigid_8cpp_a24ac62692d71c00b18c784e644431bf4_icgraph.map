@@ -1,0 +1,7 @@
+<map id="myRand" name="myRand">
+<area shape="rect" id="node2" href="$classGWorld.html#a4b866bb71247d1138d28fd6c021cc4cf" title="GWorld::CalcHinge" alt="" coords="124,5,259,32"/>
+<area shape="rect" id="node4" href="$classGWorld.html#a2550468cde750215e806d507ce6c1b59" title="GWorld::Move" alt="" coords="480,81,587,108"/>
+<area shape="rect" id="node6" href="$classGWorld.html#a94674802ccb7f600d0a76eee53169b00" title="GWorld::CalcShaft" alt="" coords="125,56,257,83"/>
+<area shape="rect" id="node3" href="$classGWorld.html#a8e858589e3ce676af8d3c8cd1511a428" title="GWorld::CalcLink" alt="" coords="307,56,432,83"/>
+<area shape="rect" id="node5" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="635,74,784,115"/>
+</map>

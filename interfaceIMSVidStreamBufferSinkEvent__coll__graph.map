@@ -1,0 +1,4 @@
+<map id="IMSVidStreamBufferSinkEvent" name="IMSVidStreamBufferSinkEvent">
+<area shape="rect" id="node2" href="$interfaceIMSVidOutputDeviceEvent.html" title="{IMSVidOutputDeviceEvent\n||}" alt="" coords="17,256,196,333"/>
+<area shape="rect" id="node3" href="$interfaceIMSVidDeviceEvent.html" title="{IMSVidDeviceEvent\n||+ StateChange()\l}" alt="" coords="37,131,177,208"/>
+</map>

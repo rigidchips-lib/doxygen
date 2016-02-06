@@ -1,0 +1,5 @@
+<map id="IMSVidClosedCaptioning2" name="IMSVidClosedCaptioning2">
+<area shape="rect" id="node2" href="$interfaceIMSVidClosedCaptioning.html" title="{IMSVidClosedCaptioning\n|+ Enable\l|}" alt="" coords="9,469,177,547"/>
+<area shape="rect" id="node3" href="$interfaceIMSVidFeature.html" title="{IMSVidFeature\n||}" alt="" coords="38,344,147,421"/>
+<area shape="rect" id="node4" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="29,131,156,296"/>
+</map>

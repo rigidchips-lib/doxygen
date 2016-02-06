@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classBDATuningModel_1_1TNTuningSpaceHelper.html" title="BDATuningModel::TNTuning\lSpaceHelper\&lt; TUNINGSPACETYPE,\l TUNEREQUESTTYPE \&gt;" alt="" coords="208,125,455,181"/>
+<area shape="rect" id="node3" href="$classBDATuningModel_1_1TNAnalogRadioTuningSpaceHelper.html" title="BDATuningModel::TNAnalog\lRadioTuningSpaceHelper\l\&lt; TUNINGSPACETYPE, TUNEREQUESTTYPE \&gt;" alt="" coords="503,5,827,61"/>
+<area shape="rect" id="node4" href="$classBDATuningModel_1_1TNAnalogTVTuningSpaceHelper.html" title="BDATuningModel::TNAnalog\lTVTuningSpaceHelper\&lt; TUNINGSPACETYPE,\l TUNEREQUESTTYPE \&gt;" alt="" coords="513,85,816,141"/>
+<area shape="rect" id="node6" href="$classBDATuningModel_1_1TNAuxInTuningSpaceHelper.html" title="BDATuningModel::TNAuxInTuning\lSpaceHelper\&lt; TUNINGSPACETYPE,\l TUNEREQUESTTYPE \&gt;" alt="" coords="541,165,788,221"/>
+<area shape="rect" id="node7" href="$classBDATuningModel_1_1TNDVBTuningSpaceHelper.html" title="BDATuningModel::TNDVBTuning\lSpaceHelper\&lt; TUNINGSPACETYPE,\l TUNEREQUESTTYPE \&gt;" alt="" coords="541,245,788,301"/>
+<area shape="rect" id="node5" href="$classBDATuningModel_1_1TNATSCTuningSpaceHelper.html" title="BDATuningModel::TNATSCTuning\lSpaceHelper\&lt; TUNINGSPACETYPE,\l TUNEREQUESTTYPE \&gt;" alt="" coords="875,85,1121,141"/>
+</map>

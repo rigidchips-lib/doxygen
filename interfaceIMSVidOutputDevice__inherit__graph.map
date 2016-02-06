@@ -1,0 +1,7 @@
+<map id="IMSVidOutputDevice" name="IMSVidOutputDevice">
+<area shape="rect" id="node4" href="$interfaceIMSVidAudioRenderer.html" title="{IMSVidAudioRenderer\n|+ Volume\l+ Balance\l|}" alt="" coords="5,543,156,635"/>
+<area shape="rect" id="node5" href="$interfaceIMSVidStreamBufferSink.html" title="{IMSVidStreamBufferSink\n|+ ContentRecorder\l+ ReferenceRecorder\l+ SinkName\l+ SBESink\l|+ NameSetLock()\l}" alt="" coords="181,528,349,649"/>
+<area shape="rect" id="node6" href="$interfaceIMSVidVideoRenderer.html" title="{IMSVidVideoRenderer\n|+ CustomCompositorClass\l+ _CustomCompositorClass\l+ _CustomCompositorClass\l+ _CustomCompositor\l+ MixerBitmap\l+ _MixerBitmap\l+ _MixerBitmap\l+ MixerBitmapPositionRect\l+ MixerBitmapOpacity\l+ SourceSize\land 8 more...\l|+ SetupMixerBitmap()\l+ Capture()\l}" alt="" coords="373,469,561,708"/>
+<area shape="rect" id="node2" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="201,131,328,296"/>
+<area shape="rect" id="node7" href="$interfaceIMSVidVideoRenderer2.html" title="{IMSVidVideoRenderer2\n|+ Allocator\l+ _Allocator\l+ Allocator_ID\l+ SuppressEffects\l|+ SetAllocator()\l+ _SetAllocator()\l}" alt="" coords="388,756,547,892"/>
+</map>

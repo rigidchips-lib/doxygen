@@ -1,0 +1,4 @@
+<map id="KS_FRAMING_ITEM" name="KS_FRAMING_ITEM">
+<area shape="rect" id="node2" href="$structKS__FRAMING__RANGE__WEIGHTED.html" title="{KS_FRAMING_RANGE_WEIGHTED\n|+ InPlaceWeight\l+ NotInPlaceWeight\l|}" alt="" coords="141,175,385,267"/>
+<area shape="rect" id="node3" href="$structKS__FRAMING__RANGE.html" title="{KS_FRAMING_RANGE\n|+ MinFrameSize\l+ MaxFrameSize\l+ Stepping\l|}" alt="" coords="5,5,169,112"/>
+</map>

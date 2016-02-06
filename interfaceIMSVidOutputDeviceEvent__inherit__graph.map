@@ -1,0 +1,7 @@
+<map id="IMSVidOutputDeviceEvent" name="IMSVidOutputDeviceEvent">
+<area shape="rect" id="node4" href="$interfaceIMSVidAudioRendererEvent.html" title="{IMSVidAudioRendererEvent\n||}" alt="" coords="5,396,191,473"/>
+<area shape="rect" id="node5" href="$interfaceIMSVidStreamBufferSinkEvent.html" title="{IMSVidStreamBufferSinkEvent\n||+ CertificateFailure()\l+ CertificateSuccess()\l+ WriteFailure()\l}" alt="" coords="215,381,418,488"/>
+<area shape="rect" id="node6" href="$interfaceIMSVidVideoRendererEvent.html" title="{IMSVidVideoRendererEvent\n||+ OverlayUnavailable()\l}" alt="" coords="443,396,628,473"/>
+<area shape="rect" id="node7" href="$interfaceIMSVidVideoRendererEvent2.html" title="{IMSVidVideoRendererEvent2\n||+ OverlayUnavailable()\l}" alt="" coords="653,396,845,473"/>
+<area shape="rect" id="node2" href="$interfaceIMSVidDeviceEvent.html" title="{IMSVidDeviceEvent\n||+ StateChange()\l}" alt="" coords="356,131,496,208"/>
+</map>

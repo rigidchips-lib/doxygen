@@ -1,0 +1,8 @@
+<map id="IRenderEngineVtbl" name="IRenderEngineVtbl">
+<area shape="rect" id="node2" href="$interfaceIAMTimeline.html" title="{IAMTimeline\n||+ CreateEmptyNode()\l+ AddGroup()\l+ RemGroupFromList()\l+ GetGroup()\l+ GetGroupCount()\l+ ClearAllGroups()\l+ GetInsertMode()\l+ SetInsertMode()\l+ EnableTransitions()\l+ TransitionsEnabled()\land 19 more...\l}" alt="" coords="5,365,161,589"/>
+<area shape="rect" id="node5" href="$interfaceIFilterGraph.html" title="{IFilterGraph\n||+ AddFilter()\l+ RemoveFilter()\l+ EnumFilters()\l+ FindFilterByName()\l+ ConnectDirect()\l+ Reconnect()\l+ Disconnect()\l+ SetDefaultSyncSource()\l}" alt="" coords="160,132,335,312"/>
+<area shape="rect" id="node6" href="$interfaceIMediaLocator.html" title="{IMediaLocator\n||+ FindMediaFile()\l+ AddFoundLocation()\l}" alt="" coords="289,431,440,523"/>
+<area shape="rect" id="node7" href="$interfaceIPin.html" title="{IPin\n||+ Connect()\l+ ReceiveConnection()\l+ Disconnect()\l+ ConnectedTo()\l+ ConnectionMediaType()\l+ QueryPinInfo()\l+ QueryDirection()\l+ QueryId()\l+ QueryAccept()\l+ EnumMediaTypes()\l+ QueryInternalConnections()\l+ EndOfStream()\l+ BeginFlush()\l+ EndFlush()\l+ NewSegment()\l}" alt="" coords="447,336,640,619"/>
+<area shape="rect" id="node4" href="$interfaceIGraphBuilder.html" title="{IGraphBuilder\n||+ Connect()\l+ Render()\l+ RenderFile()\l+ AddSourceFilter()\l+ SetLogFile()\l+ Abort()\l+ ShouldOperationContinue()\l}" alt="" coords="173,643,364,808"/>
+<area shape="rect" id="node8" href="$interfaceIGrfCache.html" title="{IGrfCache\n||+ AddFilter()\l+ ConnectPins()\l+ SetGraph()\l+ DoConnectionsNow()\l}" alt="" coords="643,665,801,786"/>
+</map>

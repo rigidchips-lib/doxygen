@@ -1,0 +1,4 @@
+<map id="DIFILEEFFECT" name="DIFILEEFFECT">
+<area shape="rect" id="node2" href="$structDIEFFECT.html" title="{DIEFFECT\n|+ dwSize\l+ dwFlags\l+ dwDuration\l+ dwSamplePeriod\l+ dwGain\l+ dwTriggerButton\l+ dwTriggerRepeatInterval\l+ cAxes\l+ rgdwAxes\l+ rglDirection\l+ cbTypeSpecificParams\l+ lpvTypeSpecificParams\l+ dwStartDelay\l|}" alt="" coords="5,204,181,457"/>
+<area shape="rect" id="node3" href="$structDIENVELOPE.html" title="{DIENVELOPE\n|+ dwSize\l+ dwAttackLevel\l+ dwAttackTime\l+ dwFadeLevel\l+ dwFadeTime\l|}" alt="" coords="33,5,153,141"/>
+</map>

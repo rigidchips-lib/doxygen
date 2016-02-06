@@ -1,0 +1,5 @@
+<map id="IMSVidCompositionSegmentVtbl" name="IMSVidCompositionSegmentVtbl">
+<area shape="rect" id="node2" href="$interfaceIEnumFilters.html" title="{IEnumFilters\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="5,183,101,305"/>
+<area shape="rect" id="node4" href="$interfaceIMSVidGraphSegmentContainer.html" title="{IMSVidGraphSegmentContainer\n|+ Graph\l+ Input\l+ Outputs\l+ VideoRenderer\l+ AudioRenderer\l+ Features\l+ Composites\l+ ParentContainer\l|+ Decompose()\l+ IsWindowless()\l+ GetFocus()\l}" alt="" coords="125,139,333,349"/>
+<area shape="rect" id="node5" href="$interfaceIMSVidGraphSegment.html" title="{IMSVidGraphSegment\n|+ Init\l+ Container\l+ Type\l+ Category\l|+ EnumFilters()\l+ Build()\l+ PreRun()\l+ PostRun()\l+ PreStop()\l+ PostStop()\l+ OnEventNotify()\l+ Decompose()\l}" alt="" coords="357,132,509,356"/>
+</map>

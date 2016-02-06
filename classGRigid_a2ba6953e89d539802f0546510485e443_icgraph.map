@@ -1,0 +1,12 @@
+<map id="GRigid::RotateWithChild" name="GRigid::RotateWithChild">
+<area shape="rect" id="node2" href="$classGWorld.html#a8685c57f5b64343c9cd2175ff04f9492" title="GWorld::CheckShaft" alt="" coords="247,5,389,32"/>
+<area shape="rect" id="node3" href="$luaSystem_8cpp.html#ae5369aa474e079992753115d7cb779e9" title="luaRotate" alt="" coords="474,56,553,83"/>
+<area shape="rect" id="node7" href="$luaSystem_8cpp.html#a6f31b7210d33f6cf2d24301d13a3d146" title="luaRotateObj" alt="" coords="464,107,563,133"/>
+<area shape="rect" id="node8" href="$classGRigid.html#a30606a2d02ac233e40a14b39fa5d0d4a" title="GRigid::RotateWithChildAbs" alt="" coords="223,157,413,184"/>
+<area shape="rect" id="node11" href="$classGRigid.html#a5dd466fe486dcaabfe5d0b6c25266143" title="GRigid::RotateWithParentAll2" alt="" coords="220,208,416,235"/>
+<area shape="rect" id="node4" href="$luaSystem_8hpp.html#aba215223b3179544f89bc90b7502270b" title="luaSystemInit" alt="" coords="611,132,713,159"/>
+<area shape="rect" id="node5" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="761,91,911,133"/>
+<area shape="rect" id="node6" href="$classCMyD3DApplication.html#a7dbfcbeb208adf6064f1a2f063c4eb7a" title="CMyD3DApplication::\lOneTimeSceneInit" alt="" coords="761,157,911,198"/>
+<area shape="rect" id="node9" href="$luaSystem_8cpp.html#a63efc8b1d91dcf2357a3596848065afd" title="luaDirect" alt="" coords="476,157,551,184"/>
+<area shape="rect" id="node10" href="$luaSystem_8cpp.html#af911040e257cba2bec3a9bf2afeec292" title="luaDirectObj" alt="" coords="466,208,561,235"/>
+</map>

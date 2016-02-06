@@ -1,0 +1,5 @@
+<map id="IDvdGraphBuilderVtbl" name="IDvdGraphBuilderVtbl">
+<area shape="rect" id="node2" href="$interfaceIGraphBuilder.html" title="{IGraphBuilder\n||+ Connect()\l+ Render()\l+ RenderFile()\l+ AddSourceFilter()\l+ SetLogFile()\l+ Abort()\l+ ShouldOperationContinue()\l}" alt="" coords="5,369,196,534"/>
+<area shape="rect" id="node3" href="$interfaceIFilterGraph.html" title="{IFilterGraph\n||+ AddFilter()\l+ RemoveFilter()\l+ EnumFilters()\l+ FindFilterByName()\l+ ConnectDirect()\l+ Reconnect()\l+ Disconnect()\l+ SetDefaultSyncSource()\l}" alt="" coords="13,132,188,312"/>
+<area shape="rect" id="node5" href="$structAM__DVD__RENDERSTATUS.html" title="{AM_DVD_RENDERSTATUS\n|+ hrVPEStatus\l+ bDvdVolInvalid\l+ bDvdVolUnknown\l+ bNoLine21In\l+ bNoLine21Out\l+ iNumStreams\l+ iNumStreamsFailed\l+ dwFailedStreamsFlag\l|}" alt="" coords="220,361,416,541"/>
+</map>

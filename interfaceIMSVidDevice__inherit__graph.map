@@ -1,0 +1,21 @@
+<map id="IMSVidDevice" name="IMSVidDevice">
+<area shape="rect" id="node3" href="$interfaceIMSVidFeature.html" title="{IMSVidFeature\n||}" alt="" coords="398,351,507,429"/>
+<area shape="rect" id="node9" href="$interfaceIMSVidInputDevice.html" title="{IMSVidInputDevice\n||+ IsViewable()\l+ View()\l}" alt="" coords="780,344,915,436"/>
+<area shape="rect" id="node17" href="$interfaceIMSVidOutputDevice.html" title="{IMSVidOutputDevice\n||}" alt="" coords="1144,351,1289,429"/>
+<area shape="rect" id="node4" href="$interfaceIMSVidClosedCaptioning.html" title="{IMSVidClosedCaptioning\n|+ Enable\l|}" alt="" coords="9,565,177,642"/>
+<area shape="rect" id="node6" href="$interfaceIMSVidDataServices.html" title="{IMSVidDataServices\n||}" alt="" coords="201,565,345,642"/>
+<area shape="rect" id="node7" href="$interfaceIMSVidEncoder.html" title="{IMSVidEncoder\n|+ VideoEncoderInterface\l+ AudioEncoderInterface\l|}" alt="" coords="369,557,536,649"/>
+<area shape="rect" id="node8" href="$interfaceIMSVidXDS.html" title="{IMSVidXDS\n||}" alt="" coords="561,565,654,642"/>
+<area shape="rect" id="node5" href="$interfaceIMSVidClosedCaptioning2.html" title="{IMSVidClosedCaptioning2\n|+ Service\l|}" alt="" coords="5,917,180,995"/>
+<area shape="rect" id="node10" href="$interfaceIMSVidPlayback.html" title="{IMSVidPlayback\n|+ EnableResetOnStop\l+ CanStep\l+ Rate\l+ CurrentPosition\l+ PositionMode\l+ Length\l|+ Run()\l+ Pause()\l+ Stop()\l+ Step()\l}" alt="" coords="679,506,832,701"/>
+<area shape="rect" id="node14" href="$interfaceIMSVidVideoInputDevice.html" title="{IMSVidVideoInputDevice\n||}" alt="" coords="857,565,1025,642"/>
+<area shape="rect" id="node11" href="$interfaceIMSVidFilePlayback.html" title="{IMSVidFilePlayback\n|+ FileName\l|}" alt="" coords="497,917,637,995"/>
+<area shape="rect" id="node13" href="$interfaceIMSVidWebDVD.html" title="{IMSVidWebDVD\n|+ AudioLanguage\l+ ButtonsAvailable\l+ CurrentButton\l+ ButtonAtPosition\l+ NumberOfChapters\l+ TotalTitleTime\l+ TitlesAvailable\l+ VolumesAvailable\l+ CurrentVolume\l+ CurrentDiscSide\land 37 more...\l|+ OnDVDEvent()\l+ PlayTitle()\l+ PlayChapterInTitle()\l+ PlayChapter()\l+ PlayChaptersAutoStop()\l+ PlayAtTime()\l+ PlayAtTimeInTitle()\l+ PlayPeriodInTitleAutoStop()\l+ ReplayChapter()\l+ PlayPrevChapter()\land 29 more...\l}" alt="" coords="662,771,857,1141"/>
+<area shape="rect" id="node12" href="$interfaceIMSVidStreamBufferSource.html" title="{IMSVidStreamBufferSource\n|+ Start\l+ RecordingAttribute\l+ BlockUnrated\l+ UnratedDelay\l+ SBESource\l|+ CurrentRatings()\l+ MaxRatingsLevel()\l}" alt="" coords="476,1189,659,1340"/>
+<area shape="rect" id="node15" href="$interfaceIMSVidTuner.html" title="{IMSVidTuner\n|+ Tune\l+ TuningSpace\l|}" alt="" coords="885,910,996,1002"/>
+<area shape="rect" id="node16" href="$interfaceIMSVidAnalogTuner.html" title="{IMSVidAnalogTuner\n|+ Channel\l+ VideoFrequency\l+ AudioFrequency\l+ CountryCode\l+ SAP\l|+ ChannelAvailable()\l}" alt="" coords="869,1197,1012,1333"/>
+<area shape="rect" id="node18" href="$interfaceIMSVidAudioRenderer.html" title="{IMSVidAudioRenderer\n|+ Volume\l+ Balance\l|}" alt="" coords="1049,557,1200,649"/>
+<area shape="rect" id="node19" href="$interfaceIMSVidStreamBufferSink.html" title="{IMSVidStreamBufferSink\n|+ ContentRecorder\l+ ReferenceRecorder\l+ SinkName\l+ SBESink\l|+ NameSetLock()\l}" alt="" coords="1225,543,1393,664"/>
+<area shape="rect" id="node20" href="$interfaceIMSVidVideoRenderer.html" title="{IMSVidVideoRenderer\n|+ CustomCompositorClass\l+ _CustomCompositorClass\l+ _CustomCompositorClass\l+ _CustomCompositor\l+ MixerBitmap\l+ _MixerBitmap\l+ _MixerBitmap\l+ MixerBitmapPositionRect\l+ MixerBitmapOpacity\l+ SourceSize\land 8 more...\l|+ SetupMixerBitmap()\l+ Capture()\l}" alt="" coords="1417,484,1605,723"/>
+<area shape="rect" id="node21" href="$interfaceIMSVidVideoRenderer2.html" title="{IMSVidVideoRenderer2\n|+ Allocator\l+ _Allocator\l+ Allocator_ID\l+ SuppressEffects\l|+ SetAllocator()\l+ _SetAllocator()\l}" alt="" coords="1432,888,1591,1024"/>
+</map>

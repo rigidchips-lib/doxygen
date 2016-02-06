@@ -1,0 +1,10 @@
+<map id="GLandFace::BallCheck" name="GLandFace::BallCheck">
+<area shape="rect" id="node2" href="$classGVector.html#a9edcde2278c60915aa7470514d3168fb" title="GVector::distanceFromFace" alt="" coords="217,36,403,63"/>
+<area shape="rect" id="node3" href="$classGVector.html#a43df893e25405cd83678f5d1dd427bfb" title="GVector::dot" alt="" coords="477,87,573,113"/>
+<area shape="rect" id="node4" href="$classGVector.html#a96b6e19c04d39afa5e1917df64b54891" title="GVector::pointOnFaceAndLine" alt="" coords="211,87,409,113"/>
+<area shape="rect" id="node5" href="$classGVector.html#a9db68f84c5031b3e0c59534e4d3d8837" title="GVector::distanceFromLine2" alt="" coords="216,188,404,215"/>
+<area shape="rect" id="node8" href="$classGVector.html#abb7e8d9de02042930168d707eeb02420" title="GVector::pointOnLine" alt="" coords="237,137,383,164"/>
+<area shape="rect" id="node6" href="$classGVector.html#afd533645529dd10186ab58468c04f1d8" title="GVector::abs" alt="" coords="640,163,739,189"/>
+<area shape="rect" id="node7" href="$classGVector.html#aa9f456f9bb0ab8db5af99516eb83d7a3" title="GVector::distance" alt="" coords="461,239,588,265"/>
+<area shape="rect" id="node9" href="$classGVector.html#adcbc9c431e5e6c91d6a057aad21e7c91" title="GVector::normalize" alt="" coords="457,137,592,164"/>
+</map>

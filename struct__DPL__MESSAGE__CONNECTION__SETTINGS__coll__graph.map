@@ -1,0 +1,4 @@
+<map id="_DPL_MESSAGE_CONNECTION_SETTINGS" name="_DPL_MESSAGE_CONNECTION_SETTINGS">
+<area shape="rect" id="node2" href="$struct__DPL__CONNECTION__SETTINGS.html" title="{_DPL_CONNECTION_SETTINGS\n|+ dwSize\l+ dwFlags\l+ pdp8HostAddress\l+ ppdp8DeviceAddresses\l+ cNumDeviceAddresses\l+ pwszPlayerName\l|}" alt="" coords="5,307,232,457"/>
+<area shape="rect" id="node3" href="$struct__DPN__APPLICATION__DESC.html" title="{_DPN_APPLICATION_DESC\n|+ dwSize\l+ dwFlags\l+ guidInstance\l+ guidApplication\l+ dwMaxPlayers\l+ dwCurrentPlayers\l+ pwszSessionName\l+ pwszPassword\l+ pvReservedData\l+ dwReservedDataSize\l+ pvApplicationReservedData\l+ dwApplicationReservedDataSize\l|}" alt="" coords="6,5,231,244"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="IATSCChannelTuneRequest" name="IATSCChannelTuneRequest">
+<area shape="rect" id="node2" href="$interfaceIChannelTuneRequest.html" title="{IChannelTuneRequest\n|+ Channel\l|}" alt="" coords="23,285,175,363"/>
+<area shape="rect" id="node3" href="$interfaceITuneRequest.html" title="{ITuneRequest\n|+ TuningSpace\l+ Components\l+ Locator\l|+ Clone()\l}" alt="" coords="44,131,155,237"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="CD3DApplication::ForceWindowed" name="CD3DApplication::ForceWindowed">
+<area shape="rect" id="node2" href="$dinput_8h.html#aa329482e9480267b328989972b606a2b" title="BOOL" alt="" coords="776,40,835,66"/>
+<area shape="rect" id="node3" href="$classCD3DApplication.html#a75d85fa354e678822f6ab1eb90b94d82" title="CD3DApplication::Invalidate\lDeviceObjects" alt="" coords="527,32,714,74"/>
+<area shape="rect" id="node4" href="$classCD3DApplication.html#ab66f38fffc678b80747ba19678ac2331" title="CD3DApplication::DeleteDevice\lObjects" alt="" coords="515,346,726,387"/>
+<area shape="rect" id="node5" href="$classCD3DApplication.html#a06f0e2805e66ec1d8035d5adaf19bed5" title="CD3DApplication::Display\lErrorMsg" alt="" coords="533,411,708,452"/>
+<area shape="rect" id="node6" href="$classCD3DApplication.html#a817d2c18827d461af3afa865f231bba4" title="CD3DApplication::Initialize3\lDEnvironment" alt="" coords="279,215,465,256"/>
+<area shape="rect" id="node7" href="$classCD3DApplication.html#a55afb57f10b0993904dafb2e3d3b8338" title="CD3DApplication::AdjustWindow\lForChange" alt="" coords="513,150,728,191"/>
+<area shape="rect" id="node8" href="$d3dutil_8cpp.html#abe37b2569f19bbf385539e85256a5c9e" title="D3DUtil_SetDeviceCursor" alt="" coords="533,98,709,125"/>
+<area shape="rect" id="node9" href="$classCD3DApplication.html#a8a5e1218007fdfb57e486a0488b20ade" title="CD3DApplication::InitDevice\lObjects" alt="" coords="525,215,716,256"/>
+<area shape="rect" id="node10" href="$classCD3DApplication.html#ae42b22c53f5fd8ae59708dbdff2a8752" title="CD3DApplication::Restore\lDeviceObjects" alt="" coords="532,280,709,322"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="IVMRSurfaceAllocatorVtbl" name="IVMRSurfaceAllocatorVtbl">
+<area shape="rect" id="node2" href="$interfaceIVMRSurfaceAllocatorNotify.html" title="{IVMRSurfaceAllocatorNotify\n||+ AdviseSurfaceAllocator()\l+ SetDDrawDevice()\l+ ChangeDDrawDevice()\l+ RestoreDDrawSurfaces()\l+ NotifyEvent()\l+ SetBorderColor()\l}" alt="" coords="5,358,192,509"/>
+<area shape="rect" id="node4" href="$structtagVMRALLOCATIONINFO.html" title="{tagVMRALLOCATIONINFO\n|+ dwFlags\l+ lpHdr\l+ szAspectRatio\l+ dwMinBuffers\l+ dwMaxBuffers\l+ dwInterlaceFlags\l+ szNativeSize\l|}" alt="" coords="216,351,403,516"/>
+<area shape="rect" id="node5" href="$struct__DDPIXELFORMAT.html" title="{_DDPIXELFORMAT\n|+ dwSize\l+ dwFlags\l+ dwFourCC\l+ dwRGBBitCount\l+ dwYUVBitCount\l+ dwZBufferBitDepth\l+ dwAlphaBitDepth\l+ dwLuminanceBitCount\l+ dwBumpBitCount\l+ dwPrivateFormatBitCount\land 27 more...\l|+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l}" alt="" coords="216,5,403,288"/>
+</map>

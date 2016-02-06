@@ -1,0 +1,11 @@
+<map id="DXUtil_ConvertGenericStringToWide" name="DXUtil_ConvertGenericStringToWide">
+<area shape="rect" id="node2" href="$classCMusicScript.html#acde8870e6efdddee3127f019df139b3e" title="CMusicScript::CallRoutine" alt="" coords="266,5,443,32"/>
+<area shape="rect" id="node3" href="$classCMusicManager.html#a836f57df22fe385fa8c2deb80440cc32" title="CMusicManager::CreateChord\lMapFromFile" alt="" coords="255,57,454,98"/>
+<area shape="rect" id="node4" href="$classCMusicManager.html#a7b345fd2e385e366c6f4e80c84abae3e" title="CMusicManager::CreateScript\lFromFile" alt="" coords="255,122,454,163"/>
+<area shape="rect" id="node5" href="$classCMusicManager.html#acd2531c114cd929d64cc36b67ae188e7" title="CMusicManager::CreateSegment\lFromFile" alt="" coords="247,187,463,229"/>
+<area shape="rect" id="node6" href="$classCMusicManager.html#ad6244744c496446fc7aa39a05dcf0905" title="CMusicManager::CreateStyle\lFromFile" alt="" coords="257,253,452,294"/>
+<area shape="rect" id="node7" href="$classCMusicManager.html#ab5c9640b59712b06439a6b46e35aca4e" title="CMusicManager::GetMotifFrom\lStyle" alt="" coords="511,282,716,323"/>
+<area shape="rect" id="node8" href="$classCMusicScript.html#a4c0db28ac63a24970b59c6ec3c8f3472" title="CMusicScript::GetVariable\lNumber" alt="" coords="266,370,443,411"/>
+<area shape="rect" id="node9" href="$classCMusicManager.html#a3fe6da71814d9b03e79c0b46f30d8568" title="CMusicManager::SetSearch\lDirectory" alt="" coords="261,435,448,477"/>
+<area shape="rect" id="node10" href="$classCMusicScript.html#a77a4a433d77a1013c309fb7766c5c7da" title="CMusicScript::SetVariable\lNumber" alt="" coords="267,501,443,542"/>
+</map>

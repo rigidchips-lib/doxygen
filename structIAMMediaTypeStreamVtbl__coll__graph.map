@@ -1,0 +1,8 @@
+<map id="IAMMediaTypeStreamVtbl" name="IAMMediaTypeStreamVtbl">
+<area shape="rect" id="node2" href="$interfaceIAMMediaTypeSample.html" title="{IAMMediaTypeSample\n||+ SetPointer()\l+ GetPointer()\l+ GetSize()\l+ GetTime()\l+ SetTime()\l+ IsSyncPoint()\l+ SetSyncPoint()\l+ IsPreroll()\l+ SetPreroll()\l+ GetActualDataLength()\land 7 more...\l}" alt="" coords="154,511,320,735"/>
+<area shape="rect" id="node3" href="$interfaceIStreamSample.html" title="{IStreamSample\n||+ GetMediaStream()\l+ GetSampleTimes()\l+ SetSampleTimes()\l+ Update()\l+ CompletionStatus()\l}" alt="" coords="164,132,310,268"/>
+<area shape="rect" id="node6" href="$interfaceIMediaStream.html" title="{IMediaStream\n||+ GetMultiMediaStream()\l+ GetInformation()\l+ SetSameFormat()\l+ AllocateSample()\l+ CreateSharedSample()\l+ SendEndOfStream()\l}" alt="" coords="285,314,453,465"/>
+<area shape="rect" id="node7" href="$interfaceIMultiMediaStream.html" title="{IMultiMediaStream\n||+ GetInformation()\l+ GetMediaStream()\l+ EnumMediaStreams()\l+ GetState()\l+ SetState()\l+ GetTime()\l+ GetDuration()\l+ Seek()\l+ GetEndOfStreamEventHandle()\l}" alt="" coords="460,292,678,487"/>
+<area shape="rect" id="node5" href="$structAM__MEDIA__TYPE.html" title="{AM_MEDIA_TYPE\n|+ dw1\l+ dw2\l|}" alt="" coords="727,577,862,669"/>
+<area shape="rect" id="node8" href="$struct__AllocatorProperties.html" title="{_AllocatorProperties\n|+ cBuffers\l+ cbBuffer\l+ cbAlign\l+ cbPrefix\l|}" alt="" coords="886,562,1025,683"/>
+</map>

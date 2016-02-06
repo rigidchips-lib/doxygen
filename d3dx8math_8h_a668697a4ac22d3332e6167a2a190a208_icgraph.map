@@ -1,0 +1,8 @@
+<map id="D3DXVec3Cross" name="D3DXVec3Cross">
+<area shape="rect" id="node2" href="$d3dutil_8h.html#ad22ce1c57f884665edd05e9ba8b90acc" title="D3DUtil_GetRotationFromCursor" alt="" coords="176,5,391,32"/>
+<area shape="rect" id="node3" href="$d3dutil_8cpp.html#ae33e434e5558fa82cb317c3519119278" title="D3DXQuaternionUnitAxisTo\lUnitAxis2" alt="" coords="190,57,377,98"/>
+<area shape="rect" id="node6" href="$classCD3DCamera.html#a61a9d87a4f3b1cb285fb9e7c5ded8bcb" title="CD3DCamera::SetViewParams" alt="" coords="180,123,387,149"/>
+<area shape="rect" id="node4" href="$d3dutil_8cpp.html#a26a5de92a406a318ed7983f41945b70b" title="D3DXQuaternionAxisToAxis" alt="" coords="443,64,631,91"/>
+<area shape="rect" id="node5" href="$classCD3DArcBall.html#a0a136489f4708ddfa7f83575d485a1fd" title="CD3DArcBall::HandleMouse\lMessages" alt="" coords="683,57,872,98"/>
+<area shape="rect" id="node7" href="$classCD3DCamera.html#ae47d732ceb1318360feb5d43a27ac02e" title="CD3DCamera::CD3DCamera" alt="" coords="439,123,635,149"/>
+</map>

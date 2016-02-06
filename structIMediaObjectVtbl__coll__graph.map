@@ -1,0 +1,5 @@
+<map id="IMediaObjectVtbl" name="IMediaObjectVtbl">
+<area shape="rect" id="node2" href="$interfaceIMediaBuffer.html" title="{IMediaBuffer\n||+ SetLength()\l+ GetMaxLength()\l+ GetBufferAndLength()\l}" alt="" coords="5,132,165,239"/>
+<area shape="rect" id="node5" href="$struct__DMO__OUTPUT__DATA__BUFFER.html" title="{_DMO_OUTPUT_DATA_BUFFER\n|+ dwStatus\l+ rtTimestamp\l+ rtTimelength\l|}" alt="" coords="125,301,352,408"/>
+<area shape="rect" id="node4" href="$structAM__MEDIA__TYPE.html" title="{AM_MEDIA_TYPE\n|+ dw1\l+ dw2\l|}" alt="" coords="377,309,511,401"/>
+</map>

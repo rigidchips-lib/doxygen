@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['rate',['Rate',['../interfaceQuartzTypeLib_1_1IMediaPosition.html#a772901dfd37151bc0182cd1f594bdcd3',1,'QuartzTypeLib::IMediaPosition::Rate()'],['../interfaceIMSVidPlayback.html#aff188e7de2bc51e874baa44d9a241f09',1,'IMSVidPlayback::Rate()']]],
+  ['recordingattribute',['RecordingAttribute',['../interfaceIMSVidStreamBufferRecordingControl.html#aa56e53915bb11abf1e60b39cc4bd90b4',1,'IMSVidStreamBufferRecordingControl::RecordingAttribute()'],['../interfaceIMSVidStreamBufferSource.html#a349985bf0ce968cd1390c123497a2e46',1,'IMSVidStreamBufferSource::RecordingAttribute()']]],
+  ['recordingstarted',['RecordingStarted',['../interfaceIMSVidStreamBufferRecordingControl.html#ad3361598b6ff5a9269b9def90756b211',1,'IMSVidStreamBufferRecordingControl']]],
+  ['recordingstopped',['RecordingStopped',['../interfaceIMSVidStreamBufferRecordingControl.html#a89ada43fe5491474f021edfc70907df0',1,'IMSVidStreamBufferRecordingControl']]],
+  ['recordingtype',['RecordingType',['../interfaceIMSVidStreamBufferRecordingControl.html#a5783226476b180af5f02282d1479fb66',1,'IMSVidStreamBufferRecordingControl']]],
+  ['rect',['Rect',['../interfaceIMSVidRect.html#a9772f2159e862daf1a5525f3ad3bb5d4',1,'IMSVidRect']]],
+  ['referencerecorder',['ReferenceRecorder',['../interfaceIMSVidStreamBufferSink.html#a5815ee9b84c3adcad51cc96ca437f432',1,'IMSVidStreamBufferSink']]],
+  ['refundable',['Refundable',['../interfaceMSTvCALib_1_1ICAToll.html#ae39a0f530b9f8f4e5e17195954d71995',1,'MSTvCALib::ICAToll']]],
+  ['regfiltercollection',['RegFilterCollection',['../interfaceQuartzTypeLib_1_1IMediaControl.html#ae76c55f830cce7cc44c270cec2895990',1,'QuartzTypeLib::IMediaControl']]],
+  ['releasable',['releasable',['../interfaceITVETriggerCtrl.html#a61c103f509bea950e94900f1f2006948',1,'ITVETriggerCtrl']]],
+  ['replicatex',['ReplicateX',['../interfaceIDxtJpeg.html#acf6cde8ec711d50b5caf3efdf2fb56c2',1,'IDxtJpeg']]],
+  ['replicatey',['ReplicateY',['../interfaceIDxtJpeg.html#ae4983f7268c3ef345e5dff6c84c6da6e',1,'IDxtJpeg']]],
+  ['request',['Request',['../interfaceMSTvCALib_1_1ICAComponent.html#a088eeabc516cb8f464a0bd574b49f0c8',1,'MSTvCALib::ICAComponent']]],
+  ['requesteditem',['RequestedItem',['../interfaceMSTvCALib_1_1ICARequest.html#a51f6ab55afa0c9fa28ccf4de6d1e9036',1,'MSTvCALib::ICARequest']]],
+  ['resolvedenials',['ResolveDenials',['../interfaceMSTvCALib_1_1ICARequest.html#acc2c3ac2353f6ddf3b4dba5ef424f949',1,'MSTvCALib::ICARequest']]],
+  ['rest',['Rest',['../interfaceITVETrigger.html#ab6bbed10cfca2398e90b632afa92b40d',1,'ITVETrigger::Rest()'],['../interfaceITVEVariation.html#adf6cfabfaa6d13e8da2faa5caca66ef4',1,'ITVEVariation::Rest()'],['../interfaceITVEEnhancement.html#ae7c4d6c8d743a03cb798cd0f187b9c6d',1,'ITVEEnhancement::Rest()']]],
+  ['rgb',['RGB',['../interfaceIDxtKey.html#a74ca453f3e7cde574c020ae483867fb8',1,'IDxtKey::RGB()'],['../interfaceIDxtKey.html#a5170f0e63679644975b50fabe27632f8',1,'IDxtKey::RGB()']]]
+];

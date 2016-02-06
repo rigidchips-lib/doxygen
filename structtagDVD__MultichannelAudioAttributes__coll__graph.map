@@ -1,0 +1,4 @@
+<map id="tagDVD_MultichannelAudioAttributes" name="tagDVD_MultichannelAudioAttributes">
+<area shape="rect" id="node2" href="$structtagDVD__MUA__Coeff.html" title="{tagDVD_MUA_Coeff\n|+ log2_alpha\l+ log2_beta\l|}" alt="" coords="5,27,151,119"/>
+<area shape="rect" id="node3" href="$structtagDVD__MUA__MixingInfo.html" title="{tagDVD_MUA_MixingInfo\n|+ fMixTo0\l+ fMixTo1\l+ fMix0InPhase\l+ fMix1InPhase\l+ dwSpeakerPosition\l|}" alt="" coords="175,5,349,141"/>
+</map>

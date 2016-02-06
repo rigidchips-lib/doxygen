@@ -1,0 +1,14 @@
+<map id="GDPlay::GetMaxPlayers" name="GDPlay::GetMaxPlayers">
+<area shape="rect" id="node2" href="$Rigidmain_8cpp.html#ac18fbebdbcda4d3d7e9bd949eb26f544" title="AttackDataDisp" alt="" coords="237,5,352,32"/>
+<area shape="rect" id="node5" href="$Rigidmain_8cpp.html#ac31c8123fc1c6ddfaf2aca992b0ea14e" title="MyReceiveFunc" alt="" coords="446,56,563,83"/>
+<area shape="rect" id="node7" href="$Rigidmain_8cpp.html#a480263f03cecc853f99227b9ec7c4f8a" title="MyCreateFunc" alt="" coords="451,107,559,133"/>
+<area shape="rect" id="node8" href="$Rigidmain_8cpp.html#abbffabd1b9eed223bcd249f1162a8986" title="MyDestroyFunc" alt="" coords="447,208,562,235"/>
+<area shape="rect" id="node9" href="$Rigidmain_8cpp.html#a020369b273db327efd006aab5e724710" title="MyTerminateFunc" alt="" coords="231,259,358,285"/>
+<area shape="rect" id="node10" href="$Rigidmain_8cpp.html#a2a4d90890d2a40f43110afb29a7afbe1" title="PlayersInfoDisp" alt="" coords="237,157,352,184"/>
+<area shape="rect" id="node11" href="$classCMyD3DApplication.html#aed30976652aca9316200121c23edb8ca" title="CMyD3DApplication::\lRender" alt="" coords="220,310,369,351"/>
+<area shape="rect" id="node3" href="$classGWorld.html#a2550468cde750215e806d507ce6c1b59" title="GWorld::Move" alt="" coords="691,31,797,57"/>
+<area shape="rect" id="node4" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="896,125,1045,166"/>
+<area shape="rect" id="node6" href="$Rigidmain_8cpp.html#a07045712c49a413d8b80c094cdb16d36" title="DlgNetworkProc" alt="" coords="685,107,803,133"/>
+<area shape="rect" id="node12" href="$classCMyD3DApplication.html#ae3bfa1d94e6e1927fc46296613988457" title="CMyD3DApplication::\lConfigureInputDevicesCB" alt="" coords="417,310,592,351"/>
+<area shape="rect" id="node13" href="$classCMyD3DApplication.html#a153f61a3f74a5ec7bff562d26d74a66a" title="CMyD3DApplication::\lStaticConfigureInputDevicesCB" alt="" coords="640,259,848,301"/>
+</map>

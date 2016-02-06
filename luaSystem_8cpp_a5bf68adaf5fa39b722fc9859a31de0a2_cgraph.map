@@ -1,0 +1,6 @@
+<map id="luaEnervateObj" name="luaEnervateObj">
+<area shape="rect" id="node2" href="$d3drmobj_8h.html#ad43ae12d45c2b001aca3e98f7e0a12a0" title="int" alt="" coords="234,5,273,32"/>
+<area shape="rect" id="node3" href="$lua_8h.html#a42c1f68101dc98a6ae4695c8577b17f8" title="lua_tonumber" alt="" coords="203,56,303,83"/>
+<area shape="rect" id="node4" href="$classGRigid.html#a1fb85fe8144de45313ee1ce5ebae4096" title="GRigid::EnervateWithChild" alt="" coords="164,131,343,157"/>
+<area shape="rect" id="node5" href="$classGVector.html#a7c3dceb4975d089b279e5263b653ae42" title="GVector::clear" alt="" coords="391,131,497,157"/>
+</map>

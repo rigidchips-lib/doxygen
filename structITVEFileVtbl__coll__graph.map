@@ -1,0 +1,4 @@
+<map id="ITVEFileVtbl" name="ITVEFileVtbl">
+<area shape="rect" id="node2" href="$interfaceITVEService.html" title="{ITVEService\n|+ Parent\l+ Enhancements\l+ Description\l+ XOverLinks\l+ XOverEnhancement\l+ ExpireOffset\l+ ExpireQueue\l+ IsActive\l+ Property\l|+ Activate()\l+ Deactivate()\l+ NewXOverLink()\l+ ExpireForDate()\l}" alt="" coords="5,132,156,371"/>
+<area shape="rect" id="node4" href="$interfaceITVEVariation.html" title="{ITVEVariation\n|+ Parent\l+ Service\l+ Tracks\l+ Description\l+ IsValid\l+ MediaName\l+ MediaTitle\l+ FileIPAdapter\l+ FileIPAddress\l+ FilePort\land 9 more...\l|+ Initialize()\l}" alt="" coords="180,139,296,363"/>
+</map>

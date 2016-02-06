@@ -1,0 +1,13 @@
+<map id="GRigid::TranslateWithChild" name="GRigid::TranslateWithChild">
+<area shape="rect" id="node2" href="$classGWorld.html#a40668e43650bdf02efb114d982199703" title="GWorld::CheckJoint" alt="" coords="493,183,633,209"/>
+<area shape="rect" id="node3" href="$classGWorld.html#a8685c57f5b64343c9cd2175ff04f9492" title="GWorld::CheckShaft" alt="" coords="269,56,411,83"/>
+<area shape="rect" id="node4" href="$luaSystem_8cpp.html#a30ec6cf76963b9dc7f008b360deac9fc" title="luaWarp" alt="" coords="305,107,375,133"/>
+<area shape="rect" id="node8" href="$luaSystem_8cpp.html#a0a5f1b742a11437684c6545d87a5612e" title="luaWarpObj" alt="" coords="295,5,385,32"/>
+<area shape="rect" id="node9" href="$classGRigid.html#a417abaf363461415221e388140239ee9" title="GRigid::TranslateWithParent" alt="" coords="245,208,435,235"/>
+<area shape="rect" id="node10" href="$classGRigid.html#a360428ae41db8ed394d8526f9658b7c5" title="GRigid::TranslateWithParentAll" alt="" coords="238,309,442,336"/>
+<area shape="rect" id="node12" href="$classGRigid.html#a24fc3f8a1618c7b116211b9e8fa75242" title="GRigid::TranslateWithParentAll2" alt="" coords="235,157,445,184"/>
+<area shape="rect" id="node5" href="$luaSystem_8hpp.html#aba215223b3179544f89bc90b7502270b" title="luaSystemInit" alt="" coords="512,107,615,133"/>
+<area shape="rect" id="node6" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="681,233,831,274"/>
+<area shape="rect" id="node7" href="$classCMyD3DApplication.html#a7dbfcbeb208adf6064f1a2f063c4eb7a" title="CMyD3DApplication::\lOneTimeSceneInit" alt="" coords="681,99,831,141"/>
+<area shape="rect" id="node11" href="$classGWorld.html#a2550468cde750215e806d507ce6c1b59" title="GWorld::Move" alt="" coords="510,284,617,311"/>
+</map>

@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['backchannel',['backChannel',['../interfaceITVETriggerCtrl.html#a23320c85bbb928cb03eecca6ea88b4bf',1,'ITVETriggerCtrl']]],
+  ['backcolor',['BackColor',['../interfaceICADefaultDlg.html#a7ac3c009f82a8f3281fe192cc9dc7bf2',1,'ICADefaultDlg::BackColor()'],['../interfaceIMSVidCtl.html#a8c8aaadb9e6b49b45a1ca6f881ae7984',1,'IMSVidCtl::BackColor()']]],
+  ['backgroundpalette',['BackgroundPalette',['../interfaceQuartzTypeLib_1_1IVideoWindow.html#a44bbcc451cf101d10da7d66d80df6fc2',1,'QuartzTypeLib::IVideoWindow']]],
+  ['backstyle',['BackStyle',['../interfaceICADefaultDlg.html#a738f382e9be0a16606ecb0d9b1441cea',1,'ICADefaultDlg']]],
+  ['balance',['Balance',['../interfaceQuartzTypeLib_1_1IBasicAudio.html#a8c7108f4cc783287122a296736fd84ac',1,'QuartzTypeLib::IBasicAudio::Balance()'],['../interfaceIMSVidAudioRenderer.html#ac46028590c01173497ca7a3f00a8a49a',1,'IMSVidAudioRenderer::Balance()']]],
+  ['bandwidth',['Bandwidth',['../interfaceITVEVariation.html#ab7c8df1c627d91c955541d3ff9fef441',1,'ITVEVariation::Bandwidth()'],['../interfaceIDVBTLocator.html#ae1864ac5ba1e326427c3a818a65c822f',1,'IDVBTLocator::Bandwidth()']]],
+  ['bandwidthinfo',['BandwidthInfo',['../interfaceITVEVariation.html#aca5606e0fecd3fca66d722d90586d549',1,'ITVEVariation']]],
+  ['biterrorrate',['BitErrorRate',['../interfaceQuartzTypeLib_1_1IBasicVideo.html#a77dd13742749e311daa75bc10062ec76',1,'QuartzTypeLib::IBasicVideo']]],
+  ['bitrate',['BitRate',['../interfaceQuartzTypeLib_1_1IBasicVideo.html#a46d7f20de5333189be794fb3b7509935',1,'QuartzTypeLib::IBasicVideo']]],
+  ['blockedratingattributes',['BlockedRatingAttributes',['../interfaceIEvalRat.html#a7884bf47a5ec2d948797298be627e678',1,'IEvalRat::BlockedRatingAttributes()'],['../interfaceIEvalRat.html#a2607203632366c9d92787a365eaed273',1,'IEvalRat::BlockedRatingAttributes()']]],
+  ['blockunrated',['BlockUnrated',['../interfaceIMSVidStreamBufferSource.html#afadbc3594cb4344538119174d00941ff',1,'IMSVidStreamBufferSource::BlockUnrated()'],['../interfaceIEvalRat.html#a5a768c7c4c84db776c6eb118c705c3b6',1,'IEvalRat::BlockUnRated()']]],
+  ['bookmarkonstop',['BookmarkOnStop',['../interfaceIMSVidWebDVDAdm.html#a6df11a59f29a04bb2c75e5e7fdccabc0',1,'IMSVidWebDVDAdm']]],
+  ['bordercolor',['BorderColor',['../interfaceQuartzTypeLib_1_1IVideoWindow.html#a5d90900ef8181907ec85954e52356628',1,'QuartzTypeLib::IVideoWindow::BorderColor()'],['../interfaceICADefaultDlg.html#a3ea4995883a67d9491c77951e5b67a44',1,'ICADefaultDlg::BorderColor()'],['../interfaceIDxtJpeg.html#ac08cbf92231c8c37109bda4a1d16e067',1,'IDxtJpeg::BorderColor()'],['../interfaceIMSVidVRGraphSegment.html#a34e04e5a0645afce4e9fbe3e748479f5',1,'IMSVidVRGraphSegment::BorderColor()']]],
+  ['bordersoftness',['BorderSoftness',['../interfaceIDxtJpeg.html#a93a2f4fe2be03ba8f555e4988554e8f3',1,'IDxtJpeg']]],
+  ['borderstyle',['BorderStyle',['../interfaceICADefaultDlg.html#a772173b60d00fbe9b99883e4a3434785',1,'ICADefaultDlg']]],
+  ['bordervisible',['BorderVisible',['../interfaceICADefaultDlg.html#a386a503b2b0eae79a3adeabfc8881867',1,'ICADefaultDlg']]],
+  ['borderwidth',['BorderWidth',['../interfaceICADefaultDlg.html#ae3c1512625b9e0e1108d3da555714b37',1,'ICADefaultDlg::BorderWidth()'],['../interfaceIDxtJpeg.html#a9ffad7d4e698a6c5d9aff24e5aa3eb4a',1,'IDxtJpeg::BorderWidth()']]],
+  ['broadcasteventservice',['BroadcastEventService',['../interfaceICAManagerInternal.html#ac4d216851e8b302d27c20688419ca175',1,'ICAManagerInternal']]],
+  ['buttonatposition',['ButtonAtPosition',['../interfaceIMSVidWebDVD.html#ac13bccd13e1b9e108fee680d933a0774',1,'IMSVidWebDVD']]],
+  ['buttonrect',['ButtonRect',['../interfaceIMSVidWebDVD.html#abf5a42aefb723aa96ed83d48baebd0b9',1,'IMSVidWebDVD']]],
+  ['buttonsavailable',['ButtonsAvailable',['../interfaceIMSVidWebDVD.html#aac94df089ecd84898c154f5937ec252f',1,'IMSVidWebDVD']]],
+  ['bytecount',['ByteCount',['../interfaceITVEMCast.html#acfed2b442ec430abe62fd444a5035d2c',1,'ITVEMCast']]]
+];

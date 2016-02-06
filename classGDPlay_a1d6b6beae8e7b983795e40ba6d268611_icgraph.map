@@ -1,0 +1,6 @@
+<map id="GDPlay::GetCurrentPlayers" name="GDPlay::GetCurrentPlayers">
+<area shape="rect" id="node2" href="$classCMyD3DApplication.html#aed30976652aca9316200121c23edb8ca" title="CMyD3DApplication::\lRender" alt="" coords="237,5,387,47"/>
+<area shape="rect" id="node3" href="$classCMyD3DApplication.html#ae3bfa1d94e6e1927fc46296613988457" title="CMyD3DApplication::\lConfigureInputDevicesCB" alt="" coords="435,5,609,47"/>
+<area shape="rect" id="node4" href="$classCMyD3DApplication.html#a153f61a3f74a5ec7bff562d26d74a66a" title="CMyD3DApplication::\lStaticConfigureInputDevicesCB" alt="" coords="657,5,865,47"/>
+<area shape="rect" id="node5" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="913,5,1063,47"/>
+</map>

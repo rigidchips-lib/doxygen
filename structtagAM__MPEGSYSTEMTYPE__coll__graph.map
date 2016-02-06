@@ -1,0 +1,4 @@
+<map id="tagAM_MPEGSYSTEMTYPE" name="tagAM_MPEGSYSTEMTYPE">
+<area shape="rect" id="node2" href="$structtagAM__MPEGSTREAMTYPE.html" title="{tagAM_MPEGSTREAMTYPE\n|+ dwStreamId\l+ dwReserved\l+ bFormat\l|}" alt="" coords="5,263,203,369"/>
+<area shape="rect" id="node3" href="$struct__AMMediaType.html" title="{_AMMediaType\n|+ majortype\l+ subtype\l+ bFixedSizeSamples\l+ bTemporalCompression\l+ lSampleSize\l+ formattype\l+ pUnk\l+ cbFormat\l+ pbFormat\l|}" alt="" coords="18,5,190,200"/>
+</map>

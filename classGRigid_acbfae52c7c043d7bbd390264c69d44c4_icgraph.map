@@ -1,0 +1,9 @@
+<map id="GRigid::ApplyTorque" name="GRigid::ApplyTorque">
+<area shape="rect" id="node2" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="531,19,680,60"/>
+<area shape="rect" id="node3" href="$classGRigid.html#ad2e92290544cec843b4d425761d20348" title="GRigid::Impulse" alt="" coords="204,30,320,57"/>
+<area shape="rect" id="node5" href="$luaSystem_8cpp.html#ae319389c24d4a92df7ea0482c2b046fe" title="luaApplyTorque" alt="" coords="206,81,318,107"/>
+<area shape="rect" id="node8" href="$luaSystem_8cpp.html#ae742ed41cc177a0683bfa6402834c0a1" title="luaApplyTorqueObj" alt="" coords="196,131,328,158"/>
+<area shape="rect" id="node4" href="$classGWorld.html#a2550468cde750215e806d507ce6c1b59" title="GWorld::Move" alt="" coords="376,30,483,57"/>
+<area shape="rect" id="node6" href="$luaSystem_8hpp.html#aba215223b3179544f89bc90b7502270b" title="luaSystemInit" alt="" coords="378,87,481,114"/>
+<area shape="rect" id="node7" href="$classCMyD3DApplication.html#a7dbfcbeb208adf6064f1a2f063c4eb7a" title="CMyD3DApplication::\lOneTimeSceneInit" alt="" coords="531,84,680,125"/>
+</map>

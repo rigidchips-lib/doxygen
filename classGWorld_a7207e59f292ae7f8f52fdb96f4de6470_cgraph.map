@@ -1,0 +1,12 @@
+<map id="GWorld::RestoreLink" name="GWorld::RestoreLink">
+<area shape="rect" id="node2" href="$classGVector.html#a7c3dceb4975d089b279e5263b653ae42" title="GVector::clear" alt="" coords="209,5,316,32"/>
+<area shape="rect" id="node3" href="$classGMatrix.html#a3528c768b5af9b47a4c6611e68126b7e" title="GMatrix::translate" alt="" coords="386,107,513,133"/>
+<area shape="rect" id="node4" href="$classGMatrix.html#ac39c05c2e17a15ab0c875f7f9c6df7ed" title="GMatrix::transpose" alt="" coords="571,107,704,133"/>
+<area shape="rect" id="node5" href="$classGRigid.html#a4505061804f9e3aecc4cbfc197e465f5" title="GRigid::RSet" alt="" coords="213,157,313,184"/>
+<area shape="rect" id="node8" href="$classGRigid.html#afb8a1e9ac4864f4f5113690cc76df68f" title="GRigid::SetTensor" alt="" coords="197,259,328,285"/>
+<area shape="rect" id="node10" href="$classGMatrix33.html#ab56c37f919e3a1c30c0ff7f07a642f19" title="GMatrix33::rotate" alt="" coords="201,335,324,361"/>
+<area shape="rect" id="node6" href="$classGMatrix.html#addc06ba53977b307e7bc7f2f0c79fdf8" title="GMatrix::quat" alt="" coords="399,157,500,184"/>
+<area shape="rect" id="node7" href="$classGMatrix33.html#a85a4c7e9e6b0a06fccb86834245f8e15" title="GMatrix33::inverse" alt="" coords="383,259,515,285"/>
+<area shape="rect" id="node9" href="$classGVector.html#ab8795660ed70106def43a4e0273fe2b7" title="GVector::Max" alt="" coords="398,309,501,336"/>
+<area shape="rect" id="node11" href="$classGMatrix33.html#a353cb66a86a6060a9e90b73014b733dd" title="GMatrix33::transpose" alt="" coords="376,360,523,387"/>
+</map>
