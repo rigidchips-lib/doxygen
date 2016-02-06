@@ -1,4 +1,0 @@
-<map id="IEnumStreamIdMapVtbl" name="IEnumStreamIdMapVtbl">
-<area shape="rect" id="node2" href="$structSTREAM__ID__MAP.html" title="{STREAM_ID_MAP\n|+ stream_id\l+ dwMediaSampleContent\l+ ulSubstreamFilterValue\l+ iDataOffset\l|}" alt="" coords="5,132,181,253"/>
-<area shape="rect" id="node3" href="$interfaceIEnumStreamIdMap.html" title="{IEnumStreamIdMap\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="205,132,344,253"/>
-</map>

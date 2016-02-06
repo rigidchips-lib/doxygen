@@ -1,6 +1,0 @@
-<map id="__MIDL___MIDL_itf_strmif_0134_0006" name="__MIDL___MIDL_itf_strmif_0134_0006">
-<area shape="rect" id="node2" href="$structREGFILTERPINS2.html" title="{REGFILTERPINS2\n|+ dwFlags\l+ cInstances\l+ nMediaTypes\l+ nMediums\l+ clsPinCategory\l|}" alt="" coords="51,197,187,333"/>
-<area shape="rect" id="node3" href="$structREGPINMEDIUM.html" title="{REGPINMEDIUM\n|+ clsMedium\l+ dw1\l+ dw2\l|}" alt="" coords="5,5,135,112"/>
-<area shape="rect" id="node4" href="$structREGPINTYPES.html" title="{REGPINTYPES\n|+ clsMajorType\l+ clsMinorType\l|}" alt="" coords="193,13,312,105"/>
-<area shape="rect" id="node5" href="$structREGFILTERPINS.html" title="{REGFILTERPINS\n|+ strName\l+ bRendered\l+ bOutput\l+ bZero\l+ bMany\l+ clsConnectsToFilter\l+ strConnectsToPin\l+ nMediaTypes\l|}" alt="" coords="212,175,363,355"/>
-</map>

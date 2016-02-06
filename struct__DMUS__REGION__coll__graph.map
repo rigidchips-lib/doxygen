@@ -1,6 +1,0 @@
-<map id="_DMUS_REGION" name="_DMUS_REGION">
-<area shape="rect" id="node2" href="$struct__rwsmp.html" title="{_rwsmp\n|+ cbSize\l+ usUnityNote\l+ sFineTune\l+ lAttenuation\l+ fulOptions\l+ cSampleLoops\l|}" alt="" coords="5,5,125,156"/>
-<area shape="rect" id="node3" href="$struct__rloop.html" title="{_rloop\n|+ cbSize\l+ ulType\l+ ulStart\l+ ulLength\l|}" alt="" coords="149,20,232,141"/>
-<area shape="rect" id="node4" href="$struct__RGNRANGE.html" title="{_RGNRANGE\n|+ usLow\l+ usHigh\l|}" alt="" coords="256,35,363,127"/>
-<area shape="rect" id="node5" href="$struct__WAVELINK.html" title="{_WAVELINK\n|+ fusOptions\l+ usPhaseGroup\l+ ulChannel\l+ ulTableIndex\l|}" alt="" coords="387,20,507,141"/>
-</map>

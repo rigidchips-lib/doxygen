@@ -1,6 +1,0 @@
-<map id="ITVEServiceVtbl" name="ITVEServiceVtbl">
-<area shape="rect" id="node2" href="$interfaceITVEAttrTimeQ.html" title="{ITVEAttrTimeQ\n|+ _NewEnum\l+ Count\l+ Item\l+ Key\l|+ Add()\l+ Remove()\l+ RemoveAll()\l+ Update()\l+ LockRead()\l+ LockWrite()\l+ Unlock()\l+ RemoveSimple()\l+ DumpToBSTR()\l}" alt="" coords="5,132,136,371"/>
-<area shape="rect" id="node4" href="$interfaceITVEEnhancement.html" title="{ITVEEnhancement\n|+ Parent\l+ Service\l+ Variations\l+ IsValid\l+ ProtocolVersion\l+ SessionUserName\l+ SessionId\l+ SessionVersion\l+ SessionIPAddress\l+ SessionName\land 19 more...\l|+ ParseAnnouncement()\l}" alt="" coords="160,139,323,363"/>
-<area shape="rect" id="node5" href="$interfaceITVEEnhancements.html" title="{ITVEEnhancements\n|+ _NewEnum\l+ Count\l+ Item\l|+ Add()\l+ Remove()\l+ RemoveAll()\l+ Insert()\l}" alt="" coords="347,176,485,327"/>
-<area shape="rect" id="node6" href="$interfaceITVETracks.html" title="{ITVETracks\n|+ _NewEnum\l+ Count\l+ Item\l|+ Add()\l+ Remove()\l+ RemoveAll()\l+ Insert()\l}" alt="" coords="509,176,616,327"/>
-</map>

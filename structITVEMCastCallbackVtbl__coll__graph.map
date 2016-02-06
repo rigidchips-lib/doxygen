@@ -1,3 +1,0 @@
-<map id="ITVEMCastCallbackVtbl" name="ITVEMCastCallbackVtbl">
-<area shape="rect" id="node2" href="$interfaceITVEMCast.html" title="{ITVEMCast\n|+ IPAdapter\l+ IPAddress\l+ IPPort\l+ IsJoined\l+ IsSuspended\l+ PacketCount\l+ ByteCount\l+ Manager\l+ QueueThreadId\l+ WhatType\l|+ Join()\l+ Leave()\l+ Suspend()\l+ KeepStats()\l+ ResetStats()\l+ SetReadCallback()\l+ ConnectManager()\l}" alt="" coords="16,132,160,429"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="IComponentType" name="IComponentType">
-<area shape="rect" id="node3" href="$interfaceILanguageComponentType.html" title="{ILanguageComponentType\n|+ LangID\l|}" alt="" coords="5,403,184,480"/>
-<area shape="rect" id="node4" href="$interfaceIMPEG2ComponentType.html" title="{IMPEG2ComponentType\n|+ StreamType\l|}" alt="" coords="11,528,179,605"/>
-<area shape="rect" id="node5" href="$interfaceIATSCComponentType.html" title="{IATSCComponentType\n|+ Flags\l|}" alt="" coords="15,653,174,731"/>
-</map>

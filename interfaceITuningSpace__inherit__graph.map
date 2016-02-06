@@ -1,9 +1,0 @@
-<map id="ITuningSpace" name="ITuningSpace">
-<area shape="rect" id="node3" href="$interfaceIAnalogRadioTuningSpace.html" title="{IAnalogRadioTuningSpace\n|+ MinFrequency\l+ MaxFrequency\l+ Step\l|}" alt="" coords="5,439,181,546"/>
-<area shape="rect" id="node4" href="$interfaceIAnalogTVTuningSpace.html" title="{IAnalogTVTuningSpace\n|+ MinChannel\l+ MaxChannel\l+ InputType\l+ CountryCode\l|}" alt="" coords="206,432,365,553"/>
-<area shape="rect" id="node6" href="$interfaceIAuxInTuningSpace.html" title="{IAuxInTuningSpace\n||}" alt="" coords="389,454,525,531"/>
-<area shape="rect" id="node7" href="$interfaceIDVBTuningSpace.html" title="{IDVBTuningSpace\n|+ SystemType\l|}" alt="" coords="549,454,680,531"/>
-<area shape="rect" id="node5" href="$interfaceIATSCTuningSpace.html" title="{IATSCTuningSpace\n|+ MinMinorChannel\l+ MaxMinorChannel\l+ MinPhysicalChannel\l+ MaxPhysicalChannel\l|}" alt="" coords="207,601,364,723"/>
-<area shape="rect" id="node8" href="$interfaceIDVBTuningSpace2.html" title="{IDVBTuningSpace2\n|+ NetworkID\l|}" alt="" coords="546,623,683,701"/>
-<area shape="rect" id="node9" href="$interfaceIDVBSTuningSpace.html" title="{IDVBSTuningSpace\n|+ LowOscillator\l+ HighOscillator\l+ LNBSwitch\l+ InputRange\l+ SpectralInversion\l|}" alt="" coords="545,771,684,907"/>
-</map>

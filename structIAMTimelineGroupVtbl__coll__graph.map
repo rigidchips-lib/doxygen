@@ -1,5 +1,0 @@
-<map id="IAMTimelineGroupVtbl" name="IAMTimelineGroupVtbl">
-<area shape="rect" id="node2" href="$interfaceIAMTimeline.html" title="{IAMTimeline\n||+ CreateEmptyNode()\l+ AddGroup()\l+ RemGroupFromList()\l+ GetGroup()\l+ GetGroupCount()\l+ ClearAllGroups()\l+ GetInsertMode()\l+ SetInsertMode()\l+ EnableTransitions()\l+ TransitionsEnabled()\land 19 more...\l}" alt="" coords="5,132,161,356"/>
-<area shape="rect" id="node5" href="$interfaceIAMTimelineSrc.html" title="{IAMTimelineSrc\n||+ GetMediaTimes()\l+ GetMediaTimes2()\l+ ModifyStopTime()\l+ ModifyStopTime2()\l+ FixMediaTimes()\l+ FixMediaTimes2()\l+ SetMediaTimes()\l+ SetMediaTimes2()\l+ SetMediaLength()\l+ SetMediaLength2()\land 12 more...\l}" alt="" coords="186,132,330,356"/>
-<area shape="rect" id="node4" href="$structAM__MEDIA__TYPE.html" title="{AM_MEDIA_TYPE\n|+ dw1\l+ dw2\l|}" alt="" coords="355,198,489,290"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="IAsyncReaderVtbl" name="IAsyncReaderVtbl">
-<area shape="rect" id="node2" href="$interfaceIMediaSample.html" title="{IMediaSample\n||+ GetPointer()\l+ GetSize()\l+ GetTime()\l+ SetTime()\l+ IsSyncPoint()\l+ SetSyncPoint()\l+ IsPreroll()\l+ SetPreroll()\l+ GetActualDataLength()\l+ SetActualDataLength()\land 6 more...\l}" alt="" coords="5,132,172,356"/>
-<area shape="rect" id="node4" href="$interfaceIMemAllocator.html" title="{IMemAllocator\n||+ SetProperties()\l+ GetProperties()\l+ Commit()\l+ Decommit()\l+ GetBuffer()\l+ ReleaseBuffer()\l}" alt="" coords="197,169,322,319"/>
-</map>

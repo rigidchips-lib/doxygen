@@ -1,3 +1,0 @@
-<map id="IAMMultiMediaStream" name="IAMMultiMediaStream">
-<area shape="rect" id="node2" href="$interfaceIMultiMediaStream.html" title="{IMultiMediaStream\n||+ GetInformation()\l+ GetMediaStream()\l+ EnumMediaStreams()\l+ GetState()\l+ SetState()\l+ GetTime()\l+ GetDuration()\l+ Seek()\l+ GetEndOfStreamEventHandle()\l}" alt="" coords="5,131,223,325"/>
-</map>

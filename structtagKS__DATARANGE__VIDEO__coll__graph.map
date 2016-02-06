@@ -1,6 +1,0 @@
-<map id="tagKS_DATARANGE_VIDEO" name="tagKS_DATARANGE_VIDEO">
-<area shape="rect" id="node2" href="$structKSDATAFORMAT.html" title="{KSDATAFORMAT\n|+ FormatSize\l+ Flags\l+ SampleSize\l+ Reserved\l+ MajorFormat\l+ SubFormat\l+ Specifier\l|}" alt="" coords="5,321,137,487"/>
-<area shape="rect" id="node3" href="$structtagKS__VIDEOINFOHEADER.html" title="{tagKS_VIDEOINFOHEADER\n|+ rcSource\l+ rcTarget\l+ dwBitRate\l+ dwBitErrorRate\l+ AvgTimePerFrame\l|}" alt="" coords="161,336,357,472"/>
-<area shape="rect" id="node4" href="$structtagKS__BITMAPINFOHEADER.html" title="{tagKS_BITMAPINFOHEADER\n|+ biSize\l+ biWidth\l+ biHeight\l+ biPlanes\l+ biBitCount\l+ biCompression\l+ biSizeImage\l+ biXPelsPerMeter\l+ biYPelsPerMeter\l+ biClrUsed\l+ biClrImportant\l|}" alt="" coords="157,5,361,229"/>
-<area shape="rect" id="node5" href="$struct__KS__VIDEO__STREAM__CONFIG__CAPS.html" title="{_KS_VIDEO_STREAM_CONFIG_CAPS\n|+ guid\l+ VideoStandard\l+ InputSize\l+ MinCroppingSize\l+ MaxCroppingSize\l+ CropGranularityX\l+ CropGranularityY\l+ CropAlignX\l+ CropAlignY\l+ MinOutputSize\land 11 more...\l|}" alt="" coords="381,292,644,516"/>
-</map>

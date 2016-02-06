@@ -1,9 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node2" href="$interfaceIMediaFilter.html" title="IMediaFilter" alt="" coords="162,5,253,32"/>
-<area shape="rect" id="node5" href="$interfaceIMSVidGraphSegment.html" title="IMSVidGraphSegment" alt="" coords="131,56,283,83"/>
-<area shape="rect" id="node8" href="$interfaceIPersistMediaPropertyBag.html" title="IPersistMediaPropertyBag" alt="" coords="120,107,295,133"/>
-<area shape="rect" id="node3" href="$interfaceIBaseFilter.html" title="IBaseFilter" alt="" coords="395,5,481,32"/>
-<area shape="rect" id="node4" href="$interfaceIMediaStreamFilter.html" title="IMediaStreamFilter" alt="" coords="581,5,713,32"/>
-<area shape="rect" id="node6" href="$interfaceIMSVidCompositionSegment.html" title="IMSVidCompositionSegment" alt="" coords="343,56,533,83"/>
-<area shape="rect" id="node7" href="$interfaceIMSVidVRGraphSegment.html" title="IMSVidVRGraphSegment" alt="" coords="353,107,523,133"/>
-</map>

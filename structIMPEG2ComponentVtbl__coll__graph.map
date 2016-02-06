@@ -1,5 +1,0 @@
-<map id="IMPEG2ComponentVtbl" name="IMPEG2ComponentVtbl">
-<area shape="rect" id="node2" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="5,132,211,356"/>
-<area shape="rect" id="node4" href="$interfaceIComponentType.html" title="{IComponentType\n|+ Category\l+ MediaMajorType\l+ _MediaMajorType\l+ _MediaMajorType\l+ MediaSubType\l+ _MediaSubType\l+ _MediaSubType\l+ MediaFormatType\l+ _MediaFormatType\l+ _MediaFormatType\l+ MediaType\l|+ Clone()\l}" alt="" coords="235,132,381,356"/>
-<area shape="rect" id="node6" href="$interfaceIComponent.html" title="{IComponent\n|+ Type\l+ DescLangID\l+ Status\l+ Description\l|+ Clone()\l}" alt="" coords="405,183,512,305"/>
-</map>

@@ -1,3 +1,0 @@
-<map id="QuartzTypeLib::IMediaEventEx" name="QuartzTypeLib::IMediaEventEx">
-<area shape="rect" id="node2" href="$interfaceQuartzTypeLib_1_1IMediaEvent.html" title="{QuartzTypeLib::IMediaEvent\n||+ GetEventHandle()\l+ GetEvent()\l+ WaitForCompletion()\l+ CancelDefaultHandling()\l+ RestoreDefaultHandling()\l+ FreeEventParams()\l}" alt="" coords="13,131,201,281"/>
-</map>

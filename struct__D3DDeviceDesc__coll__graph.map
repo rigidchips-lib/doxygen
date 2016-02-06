@@ -1,5 +1,0 @@
-<map id="_D3DDeviceDesc" name="_D3DDeviceDesc">
-<area shape="rect" id="node2" href="$struct__D3DTRANSFORMCAPS.html" title="{_D3DTRANSFORMCAPS\n|+ dwSize\l+ dwCaps\l|}" alt="" coords="5,93,184,185"/>
-<area shape="rect" id="node3" href="$struct__D3DLIGHTINGCAPS.html" title="{_D3DLIGHTINGCAPS\n|+ dwSize\l+ dwCaps\l+ dwLightingModel\l+ dwNumLights\l|}" alt="" coords="209,79,365,200"/>
-<area shape="rect" id="node4" href="$struct__D3DPrimCaps.html" title="{_D3DPrimCaps\n|+ dwSize\l+ dwMiscCaps\l+ dwRasterCaps\l+ dwZCmpCaps\l+ dwSrcBlendCaps\l+ dwDestBlendCaps\l+ dwAlphaCmpCaps\l+ dwShadeCaps\l+ dwTextureCaps\l+ dwTextureFilterCaps\l+ dwTextureBlendCaps\l+ dwTextureAddressCaps\l+ dwStippleWidth\l+ dwStippleHeight\l|}" alt="" coords="389,5,563,273"/>
-</map>

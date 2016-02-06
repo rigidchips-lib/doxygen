@@ -1,4 +1,0 @@
-<map id="IEnumRegFiltersVtbl" name="IEnumRegFiltersVtbl">
-<area shape="rect" id="node2" href="$structREGFILTER.html" title="{REGFILTER\n|+ Clsid\l+ Name\l|}" alt="" coords="5,147,103,239"/>
-<area shape="rect" id="node3" href="$interfaceIEnumRegFilters.html" title="{IEnumRegFilters\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="127,132,247,253"/>
-</map>

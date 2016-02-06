@@ -1,4 +1,0 @@
-<map id="_DDBLTBATCH" name="_DDBLTBATCH">
-<area shape="rect" id="node2" href="$struct__DDBLTFX.html" title="{_DDBLTFX\n|+ dwSize\l+ dwDDFX\l+ dwROP\l+ dwDDROP\l+ dwRotationAngle\l+ dwZBufferOpCode\l+ dwZBufferLow\l+ dwZBufferHigh\l+ dwZBufferBaseDest\l+ dwZDestConstBitDepth\land 18 more...\l|+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l}" alt="" coords="5,175,192,457"/>
-<area shape="rect" id="node3" href="$struct__DDCOLORKEY.html" title="{_DDCOLORKEY\n|+ dwColorSpaceLowValue\l+ dwColorSpaceHighValue\l|}" alt="" coords="9,5,188,97"/>
-</map>

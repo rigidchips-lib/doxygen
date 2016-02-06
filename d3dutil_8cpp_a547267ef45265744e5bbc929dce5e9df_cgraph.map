@@ -1,5 +1,0 @@
-<map id="D3DUtil_GetRotationFromCursor" name="D3DUtil_GetRotationFromCursor">
-<area shape="rect" id="node2" href="$d3dx8math_8h.html#a668697a4ac22d3332e6167a2a190a208" title="D3DXVec3Cross" alt="" coords="305,5,427,32"/>
-<area shape="rect" id="node3" href="$d3dx8math_8h.html#a496c2dd78c28504db3e1a6abdff9bed0" title="D3DXVec3Length" alt="" coords="303,56,429,83"/>
-<area shape="rect" id="node4" href="$d3dx8math_8h.html#ac241764caa54cb067697ac3ec76d3347" title="D3DXQuaternionRotationAxis" alt="" coords="268,107,464,133"/>
-</map>

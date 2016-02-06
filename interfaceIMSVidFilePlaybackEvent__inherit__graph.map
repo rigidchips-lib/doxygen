@@ -1,5 +1,0 @@
-<map id="IMSVidFilePlaybackEvent" name="IMSVidFilePlaybackEvent">
-<area shape="rect" id="node5" href="$interfaceIMSVidStreamBufferSourceEvent.html" title="{IMSVidStreamBufferSource\lEvent\n||+ CertificateFailure()\l+ CertificateSuccess()\l+ RatingsBlocked()\l+ RatingsUnblocked()\l+ RatingsChanged()\l+ TimeHole()\l+ StaleDataRead()\l+ ContentBecomingStale()\l+ StaleFileDeleted()\l}" alt="" coords="5,507,188,716"/>
-<area shape="rect" id="node2" href="$interfaceIMSVidPlaybackEvent.html" title="{IMSVidPlaybackEvent\n||+ EndOfMedia()\l}" alt="" coords="20,256,173,333"/>
-<area shape="rect" id="node3" href="$interfaceIMSVidInputDeviceEvent.html" title="{IMSVidInputDeviceEvent\n||}" alt="" coords="12,131,181,208"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="IMSVidFilePlayback" name="IMSVidFilePlayback">
-<area shape="rect" id="node2" href="$interfaceIMSVidPlayback.html" title="{IMSVidPlayback\n|+ EnableResetOnStop\l+ CanStep\l+ Rate\l+ CurrentPosition\l+ PositionMode\l+ Length\l|+ Run()\l+ Pause()\l+ Stop()\l+ Step()\l}" alt="" coords="5,484,159,679"/>
-<area shape="rect" id="node3" href="$interfaceIMSVidInputDevice.html" title="{IMSVidInputDevice\n||+ IsViewable()\l+ View()\l}" alt="" coords="15,344,149,436"/>
-<area shape="rect" id="node4" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="19,131,145,296"/>
-</map>

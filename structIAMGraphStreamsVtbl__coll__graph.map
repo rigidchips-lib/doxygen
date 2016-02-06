@@ -1,3 +1,0 @@
-<map id="IAMGraphStreamsVtbl" name="IAMGraphStreamsVtbl">
-<area shape="rect" id="node2" href="$interfaceIPin.html" title="{IPin\n||+ Connect()\l+ ReceiveConnection()\l+ Disconnect()\l+ ConnectedTo()\l+ ConnectionMediaType()\l+ QueryPinInfo()\l+ QueryDirection()\l+ QueryId()\l+ QueryAccept()\l+ EnumMediaTypes()\l+ QueryInternalConnections()\l+ EndOfStream()\l+ BeginFlush()\l+ EndFlush()\l+ NewSegment()\l}" alt="" coords="5,132,199,415"/>
-</map>

@@ -1,9 +1,0 @@
-<map id="IMediaObjectImpl::InputTypeSet" name="IMediaObjectImpl::InputTypeSet">
-<area shape="rect" id="node2" href="$classIMediaObjectImpl.html#ae431518e4bad960a318969e8b51b8af0" title="IMediaObjectImpl::CheckTypesSet" alt="" coords="264,56,491,83"/>
-<area shape="rect" id="node3" href="$classIMediaObjectImpl.html#aea5a1fe37b10c225e4b529cade0243d3" title="IMediaObjectImpl::SetInputType" alt="" coords="543,5,754,32"/>
-<area shape="rect" id="node5" href="$classIMediaObjectImpl.html#af69aeb0632faa54c94c46ef4d640d55c" title="IMediaObjectImpl::GetInput\lCurrentType" alt="" coords="286,107,469,149"/>
-<area shape="rect" id="node6" href="$classIMediaObjectImpl.html#ae0f68962f50b98a8df073c7e38053c77" title="IMediaObjectImpl::GetInput\lSizeInfo" alt="" coords="286,173,469,214"/>
-<area shape="rect" id="node7" href="$classIMediaObjectImpl.html#abe65848ed6a6668c854d10a9dbdd8f6a" title="IMediaObjectImpl::InputType" alt="" coords="282,239,473,265"/>
-<area shape="rect" id="node8" href="$classIMediaObjectImpl.html#a1b03bbf48722b93764e93ab13fb58778" title="IMediaObjectImpl::\l~IMediaObjectImpl" alt="" coords="311,290,443,331"/>
-<area shape="rect" id="node4" href="$classIMediaObjectImpl.html#aedff9e78fc308ad97f44af07e89923ab" title="IMediaObjectImpl::SetOutputType" alt="" coords="539,56,759,83"/>
-</map>

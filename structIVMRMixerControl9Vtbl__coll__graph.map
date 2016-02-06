@@ -1,6 +1,0 @@
-<map id="IVMRMixerControl9Vtbl" name="IVMRMixerControl9Vtbl">
-<area shape="rect" id="node2" href="$struct__VMR9ProcAmpControl.html" title="{_VMR9ProcAmpControl\n|+ dwSize\l+ dwFlags\l+ Brightness\l+ Contrast\l+ Hue\l+ Saturation\l|}" alt="" coords="5,419,168,569"/>
-<area shape="rect" id="node3" href="$struct__VMR9ProcAmpControlRange.html" title="{_VMR9ProcAmpControlRange\n|+ dwSize\l+ MinValue\l+ MaxValue\l+ DefaultValue\l+ StepSize\l|}" alt="" coords="192,426,392,562"/>
-<area shape="rect" id="node4" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="189,132,395,356"/>
-<area shape="rect" id="node6" href="$struct__VMR9NormalizedRect.html" title="{_VMR9NormalizedRect\n|+ left\l+ top\l+ right\l+ bottom\l|}" alt="" coords="416,433,576,555"/>
-</map>

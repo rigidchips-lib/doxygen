@@ -1,8 +1,0 @@
-<map id="IMSVidFeature" name="IMSVidFeature">
-<area shape="rect" id="node4" href="$interfaceIMSVidClosedCaptioning.html" title="{IMSVidClosedCaptioning\n|+ Enable\l|}" alt="" coords="9,477,177,554"/>
-<area shape="rect" id="node6" href="$interfaceIMSVidDataServices.html" title="{IMSVidDataServices\n||}" alt="" coords="201,477,345,554"/>
-<area shape="rect" id="node7" href="$interfaceIMSVidEncoder.html" title="{IMSVidEncoder\n|+ VideoEncoderInterface\l+ AudioEncoderInterface\l|}" alt="" coords="369,469,536,561"/>
-<area shape="rect" id="node8" href="$interfaceIMSVidXDS.html" title="{IMSVidXDS\n||}" alt="" coords="561,477,654,554"/>
-<area shape="rect" id="node2" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="299,131,425,296"/>
-<area shape="rect" id="node5" href="$interfaceIMSVidClosedCaptioning2.html" title="{IMSVidClosedCaptioning2\n|+ Service\l|}" alt="" coords="5,609,180,687"/>
-</map>

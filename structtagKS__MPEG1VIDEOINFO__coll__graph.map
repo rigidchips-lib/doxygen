@@ -1,4 +1,0 @@
-<map id="tagKS_MPEG1VIDEOINFO" name="tagKS_MPEG1VIDEOINFO">
-<area shape="rect" id="node2" href="$structtagKS__VIDEOINFOHEADER.html" title="{tagKS_VIDEOINFOHEADER\n|+ rcSource\l+ rcTarget\l+ dwBitRate\l+ dwBitErrorRate\l+ AvgTimePerFrame\l|}" alt="" coords="9,292,205,428"/>
-<area shape="rect" id="node3" href="$structtagKS__BITMAPINFOHEADER.html" title="{tagKS_BITMAPINFOHEADER\n|+ biSize\l+ biWidth\l+ biHeight\l+ biPlanes\l+ biBitCount\l+ biCompression\l+ biSizeImage\l+ biXPelsPerMeter\l+ biYPelsPerMeter\l+ biClrUsed\l+ biClrImportant\l|}" alt="" coords="5,5,209,229"/>
-</map>

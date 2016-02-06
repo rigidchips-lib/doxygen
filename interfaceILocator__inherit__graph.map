@@ -1,6 +1,0 @@
-<map id="ILocator" name="ILocator">
-<area shape="rect" id="node3" href="$interfaceIATSCLocator.html" title="{IATSCLocator\n|+ PhysicalChannel\l+ TSID\l|}" alt="" coords="5,381,137,473"/>
-<area shape="rect" id="node4" href="$interfaceIDVBCLocator.html" title="{IDVBCLocator\n||}" alt="" coords="162,388,269,465"/>
-<area shape="rect" id="node5" href="$interfaceIDVBSLocator.html" title="{IDVBSLocator\n|+ SignalPolarisation\l+ WestPosition\l+ OrbitalPosition\l+ Azimuth\l+ Elevation\l|}" alt="" coords="293,359,431,495"/>
-<area shape="rect" id="node6" href="$interfaceIDVBTLocator.html" title="{IDVBTLocator\n|+ Bandwidth\l+ LPInnerFEC\l+ LPInnerFECRate\l+ HAlpha\l+ Guard\l+ Mode\l+ OtherFrequencyInUse\l|}" alt="" coords="455,344,618,509"/>
-</map>

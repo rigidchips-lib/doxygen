@@ -1,4 +1,0 @@
-<map id="ITVETrackVtbl" name="ITVETrackVtbl">
-<area shape="rect" id="node2" href="$interfaceITVEService.html" title="{ITVEService\n|+ Parent\l+ Enhancements\l+ Description\l+ XOverLinks\l+ XOverEnhancement\l+ ExpireOffset\l+ ExpireQueue\l+ IsActive\l+ Property\l|+ Activate()\l+ Deactivate()\l+ NewXOverLink()\l+ ExpireForDate()\l}" alt="" coords="5,132,156,371"/>
-<area shape="rect" id="node4" href="$interfaceITVETrigger.html" title="{ITVETrigger\n|+ Parent\l+ Service\l+ IsValid\l+ URL\l+ Name\l+ Expires\l+ Executes\l+ Script\l+ TVELevel\l+ Rest\l|+ ParseTrigger()\l}" alt="" coords="180,147,296,356"/>
-</map>

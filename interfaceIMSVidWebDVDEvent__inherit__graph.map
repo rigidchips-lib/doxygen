@@ -1,4 +1,0 @@
-<map id="IMSVidWebDVDEvent" name="IMSVidWebDVDEvent">
-<area shape="rect" id="node2" href="$interfaceIMSVidPlaybackEvent.html" title="{IMSVidPlaybackEvent\n||+ EndOfMedia()\l}" alt="" coords="46,256,199,333"/>
-<area shape="rect" id="node3" href="$interfaceIMSVidInputDeviceEvent.html" title="{IMSVidInputDeviceEvent\n||}" alt="" coords="38,131,207,208"/>
-</map>

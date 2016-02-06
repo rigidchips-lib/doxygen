@@ -1,6 +1,0 @@
-<map id="IMSVidFilePlayback" name="IMSVidFilePlayback">
-<area shape="rect" id="node6" href="$interfaceIMSVidStreamBufferSource.html" title="{IMSVidStreamBufferSource\n|+ Start\l+ RecordingAttribute\l+ BlockUnrated\l+ UnratedDelay\l+ SBESource\l|+ CurrentRatings()\l+ MaxRatingsLevel()\l}" alt="" coords="5,852,188,1003"/>
-<area shape="rect" id="node2" href="$interfaceIMSVidPlayback.html" title="{IMSVidPlayback\n|+ EnableResetOnStop\l+ CanStep\l+ Rate\l+ CurrentPosition\l+ PositionMode\l+ Length\l|+ Run()\l+ Pause()\l+ Stop()\l+ Step()\l}" alt="" coords="20,484,173,679"/>
-<area shape="rect" id="node3" href="$interfaceIMSVidInputDevice.html" title="{IMSVidInputDevice\n||+ IsViewable()\l+ View()\l}" alt="" coords="29,344,164,436"/>
-<area shape="rect" id="node4" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="33,131,160,296"/>
-</map>

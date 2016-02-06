@@ -1,6 +1,0 @@
-<map id="ITuneRequest" name="ITuneRequest">
-<area shape="rect" id="node3" href="$interfaceIChannelTuneRequest.html" title="{IChannelTuneRequest\n|+ Channel\l|}" alt="" coords="23,300,175,377"/>
-<area shape="rect" id="node5" href="$interfaceIDVBTuneRequest.html" title="{IDVBTuneRequest\n|+ ONID\l+ TSID\l+ SID\l|}" alt="" coords="200,285,332,392"/>
-<area shape="rect" id="node6" href="$interfaceIMPEG2TuneRequest.html" title="{IMPEG2TuneRequest\n|+ TSID\l+ ProgNo\l|}" alt="" coords="356,293,507,385"/>
-<area shape="rect" id="node4" href="$interfaceIATSCChannelTuneRequest.html" title="{IATSCChannelTuneRequest\n|+ MinorChannel\l|}" alt="" coords="5,440,193,517"/>
-</map>

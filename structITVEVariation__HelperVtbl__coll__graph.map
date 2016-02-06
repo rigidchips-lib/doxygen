@@ -1,4 +1,0 @@
-<map id="ITVEVariation_HelperVtbl" name="ITVEVariation_HelperVtbl">
-<area shape="rect" id="node2" href="$interfaceITVEEnhancement.html" title="{ITVEEnhancement\n|+ Parent\l+ Service\l+ Variations\l+ IsValid\l+ ProtocolVersion\l+ SessionUserName\l+ SessionId\l+ SessionVersion\l+ SessionIPAddress\l+ SessionName\land 19 more...\l|+ ParseAnnouncement()\l}" alt="" coords="5,132,168,356"/>
-<area shape="rect" id="node4" href="$interfaceITVEVariation.html" title="{ITVEVariation\n|+ Parent\l+ Service\l+ Tracks\l+ Description\l+ IsValid\l+ MediaName\l+ MediaTitle\l+ FileIPAdapter\l+ FileIPAddress\l+ FilePort\land 9 more...\l|+ Initialize()\l}" alt="" coords="193,132,309,356"/>
-</map>

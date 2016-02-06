@@ -1,5 +1,0 @@
-<map id="tagKS_DATAFORMAT_VIDEOINFOHEADER" name="tagKS_DATAFORMAT_VIDEOINFOHEADER">
-<area shape="rect" id="node2" href="$structKSDATAFORMAT.html" title="{KSDATAFORMAT\n|+ FormatSize\l+ Flags\l+ SampleSize\l+ Reserved\l+ MajorFormat\l+ SubFormat\l+ Specifier\l|}" alt="" coords="12,292,144,457"/>
-<area shape="rect" id="node3" href="$structtagKS__VIDEOINFOHEADER.html" title="{tagKS_VIDEOINFOHEADER\n|+ rcSource\l+ rcTarget\l+ dwBitRate\l+ dwBitErrorRate\l+ AvgTimePerFrame\l|}" alt="" coords="168,307,364,443"/>
-<area shape="rect" id="node4" href="$structtagKS__BITMAPINFOHEADER.html" title="{tagKS_BITMAPINFOHEADER\n|+ biSize\l+ biWidth\l+ biHeight\l+ biPlanes\l+ biBitCount\l+ biCompression\l+ biSizeImage\l+ biXPelsPerMeter\l+ biYPelsPerMeter\l+ biClrUsed\l+ biClrImportant\l|}" alt="" coords="164,5,368,229"/>
-</map>

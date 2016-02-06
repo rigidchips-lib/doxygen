@@ -1,6 +1,0 @@
-<map id="IMediaStream" name="IMediaStream">
-<area shape="rect" id="node3" href="$interfaceIAMMediaStream.html" title="{IAMMediaStream\n||+ Initialize()\l+ SetState()\l+ JoinAMMultiMediaStream()\l+ JoinFilter()\l+ JoinFilterGraph()\l}" alt="" coords="5,337,196,473"/>
-<area shape="rect" id="node4" href="$interfaceIAMMediaTypeStream.html" title="{IAMMediaTypeStream\n||+ GetFormat()\l+ SetFormat()\l+ CreateSample()\l+ GetStreamAllocatorRequirements()\l+ SetStreamAllocatorRequirements()\l}" alt="" coords="221,337,458,473"/>
-<area shape="rect" id="node5" href="$interfaceIAudioMediaStream.html" title="{IAudioMediaStream\n||+ GetFormat()\l+ SetFormat()\l+ CreateSample()\l}" alt="" coords="482,351,618,458"/>
-<area shape="rect" id="node6" href="$interfaceIDirectDrawMediaStream.html" title="{IDirectDrawMediaStream\n||+ GetFormat()\l+ SetFormat()\l+ GetDirectDraw()\l+ SetDirectDraw()\l+ CreateSample()\l+ GetTimePerFrame()\l}" alt="" coords="643,329,812,480"/>
-</map>

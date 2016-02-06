@@ -1,4 +1,0 @@
-<map id="KSWAVETABLE_WAVE_DESC" name="KSWAVETABLE_WAVE_DESC">
-<area shape="rect" id="node2" href="$structKSDATAFORMAT.html" title="{KSDATAFORMAT\n|+ FormatSize\l+ Flags\l+ SampleSize\l+ Reserved\l+ MajorFormat\l+ SubFormat\l+ Specifier\l|}" alt="" coords="5,5,137,171"/>
-<area shape="rect" id="node3" href="$structKSIDENTIFIER.html" title="{KSIDENTIFIER\n|+ Set\l+ Id\l+ Flags\l+ Data\l+ Alignment\l+ @169\l+ @269\l|}" alt="" coords="161,5,277,171"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="IPropertySetterVtbl" name="IPropertySetterVtbl">
-<area shape="rect" id="node2" href="$structDEXTER__PARAM.html" title="{DEXTER_PARAM\n|+ Name\l+ dispID\l+ nValues\l|}" alt="" coords="5,191,137,297"/>
-<area shape="rect" id="node3" href="$interfaceIPropertySetter.html" title="{IPropertySetter\n||+ LoadXML()\l+ PrintXML()\l+ CloneProps()\l+ AddProp()\l+ GetProps()\l+ FreeProps()\l+ ClearProps()\l+ SaveToBlob()\l+ LoadFromBlob()\l+ SetProps()\l+ PrintXMLW()\l}" alt="" coords="161,132,288,356"/>
-<area shape="rect" id="node5" href="$struct____MIDL______MIDL__itf__qedit__0000__0002.html" title="{__MIDL___MIDL_itf_qedit\l_0000_0002\n|+ Name\l+ dispID\l+ nValues\l|}" alt="" coords="312,183,487,305"/>
-</map>

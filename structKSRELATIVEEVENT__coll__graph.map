@@ -1,4 +1,0 @@
-<map id="KSRELATIVEEVENT" name="KSRELATIVEEVENT">
-<area shape="rect" id="node2" href="$structKSEVENTDATA.html" title="{KSEVENTDATA\n|+ NotificationType\l+ Event\l+ Reserved\l+ EventHandle\l+ Semaphore\l+ Reserved\l+ Adjustment\l+ SemaphoreHandle\l+ Unused\l+ Alignment\l+ Alignment\l+ @281\l|}" alt="" coords="5,5,147,244"/>
-<area shape="rect" id="node3" href="$structKSIDENTIFIER.html" title="{KSIDENTIFIER\n|+ Set\l+ Id\l+ Flags\l+ Data\l+ Alignment\l+ @169\l+ @269\l|}" alt="" coords="171,42,287,207"/>
-</map>

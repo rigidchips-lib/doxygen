@@ -1,5 +1,0 @@
-<map id="IMSVidStreamBufferSourceEvent" name="IMSVidStreamBufferSourceEvent">
-<area shape="rect" id="node2" href="$interfaceIMSVidFilePlaybackEvent.html" title="{IMSVidFilePlaybackEvent\n||}" alt="" coords="9,381,184,459"/>
-<area shape="rect" id="node3" href="$interfaceIMSVidPlaybackEvent.html" title="{IMSVidPlaybackEvent\n||+ EndOfMedia()\l}" alt="" coords="20,256,173,333"/>
-<area shape="rect" id="node4" href="$interfaceIMSVidInputDeviceEvent.html" title="{IMSVidInputDeviceEvent\n||}" alt="" coords="12,131,181,208"/>
-</map>

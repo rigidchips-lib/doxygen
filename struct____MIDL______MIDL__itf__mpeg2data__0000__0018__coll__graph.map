@@ -1,4 +1,0 @@
-<map id="__MIDL___MIDL_itf_mpeg2data_0000_0018" name="__MIDL___MIDL_itf_mpeg2data_0000_0018">
-<area shape="rect" id="node2" href="$struct____MIDL______MIDL__itf__mpeg2data__0000__0016.html" title="{__MIDL___MIDL_itf_mpeg2data\l_0000_0016\n|+ fSpecifyProtocol\l+ Protocol\l+ fSpecifyType\l+ Type\l+ fSpecifyMessageId\l+ MessageId\l+ fSpecifyTransactionId\l+ fUseTrxIdMessageIdMask\l+ TransactionId\l+ fSpecifyModuleVersion\l+ ModuleVersion\l+ fSpecifyBlockNumber\l+ BlockNumber\l+ fGetModuleCall\l+ NumberOfBlocksInModule\l|}" alt="" coords="5,5,216,303"/>
-<area shape="rect" id="node3" href="$struct____MIDL______MIDL__itf__mpeg2data__0000__0017.html" title="{__MIDL___MIDL_itf_mpeg2data\l_0000_0017\n|+ fSpecifyEtmId\l+ EtmId\l|}" alt="" coords="240,101,451,207"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="ICADenialVtbl" name="ICADenialVtbl">
-<area shape="rect" id="node2" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="5,132,211,356"/>
-<area shape="rect" id="node4" href="$interfaceICATolls.html" title="{ICATolls\n|+ _NewEnum\l+ Count\l+ Item\l|+ Add()\l+ Remove()\l}" alt="" coords="235,183,338,305"/>
-</map>

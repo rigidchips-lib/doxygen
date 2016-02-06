@@ -1,8 +1,0 @@
-<map id="IMSVidInputDeviceEvent" name="IMSVidInputDeviceEvent">
-<area shape="rect" id="node3" href="$interfaceIMSVidPlaybackEvent.html" title="{IMSVidPlaybackEvent\n||+ EndOfMedia()\l}" alt="" coords="249,256,403,333"/>
-<area shape="rect" id="node7" href="$interfaceIMSVidTunerEvent.html" title="{IMSVidTunerEvent\n||+ TuneChanged()\l}" alt="" coords="457,256,589,333"/>
-<area shape="rect" id="node4" href="$interfaceIMSVidFilePlaybackEvent.html" title="{IMSVidFilePlaybackEvent\n||}" alt="" coords="9,455,184,532"/>
-<area shape="rect" id="node6" href="$interfaceIMSVidWebDVDEvent.html" title="{IMSVidWebDVDEvent\n||+ DVDNotify()\l+ PlayForwards()\l+ PlayBackwards()\l+ ShowMenu()\l+ Resume()\l+ SelectOrActivateButton()\l+ StillOff()\l+ PauseOn()\l+ ChangeCurrentAudioStream()\l+ ChangeCurrentSubpictureStream()\land 13 more...\l}" alt="" coords="209,381,443,605"/>
-<area shape="rect" id="node5" href="$interfaceIMSVidStreamBufferSourceEvent.html" title="{IMSVidStreamBufferSource\lEvent\n||+ CertificateFailure()\l+ CertificateSuccess()\l+ RatingsBlocked()\l+ RatingsUnblocked()\l+ RatingsChanged()\l+ TimeHole()\l+ StaleDataRead()\l+ ContentBecomingStale()\l+ StaleFileDeleted()\l}" alt="" coords="5,653,188,863"/>
-<area shape="rect" id="node8" href="$interfaceIMSVidAnalogTunerEvent.html" title="{IMSVidAnalogTunerEvent\n||}" alt="" coords="468,455,640,532"/>
-</map>

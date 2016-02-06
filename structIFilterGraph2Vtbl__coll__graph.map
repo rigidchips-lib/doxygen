@@ -1,6 +1,0 @@
-<map id="IFilterGraph2Vtbl" name="IFilterGraph2Vtbl">
-<area shape="rect" id="node2" href="$interfaceIEnumFilters.html" title="{IEnumFilters\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="5,413,101,534"/>
-<area shape="rect" id="node7" href="$interfaceIPin.html" title="{IPin\n||+ Connect()\l+ ReceiveConnection()\l+ Disconnect()\l+ ConnectedTo()\l+ ConnectionMediaType()\l+ QueryPinInfo()\l+ QueryDirection()\l+ QueryId()\l+ QueryAccept()\l+ EnumMediaTypes()\l+ QueryInternalConnections()\l+ EndOfStream()\l+ BeginFlush()\l+ EndFlush()\l+ NewSegment()\l}" alt="" coords="126,332,319,615"/>
-<area shape="rect" id="node4" href="$interfaceIBaseFilter.html" title="{IBaseFilter\n||+ EnumPins()\l+ FindPin()\l+ QueryFilterInfo()\l+ JoinFilterGraph()\l+ QueryVendorInfo()\l}" alt="" coords="343,405,483,541"/>
-<area shape="rect" id="node5" href="$interfaceIMediaFilter.html" title="{IMediaFilter\n||+ Stop()\l+ Pause()\l+ Run()\l+ GetState()\l+ SetSyncSource()\l+ GetSyncSource()\l}" alt="" coords="346,132,481,283"/>
-</map>

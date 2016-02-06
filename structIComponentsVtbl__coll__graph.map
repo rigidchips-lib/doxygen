@@ -1,5 +1,0 @@
-<map id="IComponentsVtbl" name="IComponentsVtbl">
-<area shape="rect" id="node2" href="$interfaceIComponents.html" title="{IComponents\n|+ Count\l+ _NewEnum\l+ Item\l|+ EnumComponents()\l+ Add()\l+ Remove()\l+ Clone()\l}" alt="" coords="5,132,156,283"/>
-<area shape="rect" id="node6" href="$interfaceIComponent.html" title="{IComponent\n|+ Type\l+ DescLangID\l+ Status\l+ Description\l|+ Clone()\l}" alt="" coords="181,147,287,268"/>
-<area shape="rect" id="node4" href="$interfaceIEnumComponents.html" title="{IEnumComponents\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="312,147,447,268"/>
-</map>

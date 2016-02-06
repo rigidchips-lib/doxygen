@@ -1,9 +1,0 @@
-<map id="IDXARGBReadWritePtrVtbl" name="IDXARGBReadWritePtrVtbl">
-<area shape="rect" id="node2" href="$structtagDXPACKEDRECTDESC.html" title="{tagDXPACKEDRECTDESC\n|+ bPremult\l+ rect\l+ lRowPadding\l|}" alt="" coords="137,197,327,303"/>
-<area shape="rect" id="node3" href="$structDXBASESAMPLE.html" title="{DXBASESAMPLE\n|+ Blue\l+ Green\l+ Red\l+ Alpha\l|}" alt="" coords="5,5,136,127"/>
-<area shape="rect" id="node4" href="$structtagDXNATIVETYPEINFO.html" title="{tagDXNATIVETYPEINFO\n|+ pCurrentData\l+ pFirstByte\l+ lPitch\l+ dwColorKey\l|}" alt="" coords="351,189,526,311"/>
-<area shape="rect" id="node5" href="$structDXSAMPLE.html" title="{DXSAMPLE\n|+ Blue\l+ Green\l+ Red\l+ Alpha\l|}" alt="" coords="550,189,645,311"/>
-<area shape="rect" id="node6" href="$structtagDXOVERSAMPLEDESC.html" title="{tagDXOVERSAMPLEDESC\n|+ p\l|}" alt="" coords="788,211,977,289"/>
-<area shape="rect" id="node7" href="$structDXPMSAMPLE.html" title="{DXPMSAMPLE\n|+ Blue\l+ Green\l+ Red\l+ Alpha\l|}" alt="" coords="657,5,772,127"/>
-<area shape="rect" id="node8" href="$structDXRUNINFO.html" title="{DXRUNINFO\n|+ Bitfields\l+ Type\l+ Count\l|}" alt="" coords="1002,197,1105,303"/>
-</map>

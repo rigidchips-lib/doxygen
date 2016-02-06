@@ -1,5 +1,0 @@
-<map id="IMPEG2ComponentType" name="IMPEG2ComponentType">
-<area shape="rect" id="node5" href="$interfaceIATSCComponentType.html" title="{IATSCComponentType\n|+ Flags\l|}" alt="" coords="15,653,174,731"/>
-<area shape="rect" id="node2" href="$interfaceILanguageComponentType.html" title="{ILanguageComponentType\n|+ LangID\l|}" alt="" coords="5,403,184,480"/>
-<area shape="rect" id="node3" href="$interfaceIComponentType.html" title="{IComponentType\n|+ Category\l+ MediaMajorType\l+ _MediaMajorType\l+ _MediaMajorType\l+ MediaSubType\l+ _MediaSubType\l+ _MediaSubType\l+ MediaFormatType\l+ _MediaFormatType\l+ _MediaFormatType\l+ MediaType\l|+ Clone()\l}" alt="" coords="21,131,168,355"/>
-</map>

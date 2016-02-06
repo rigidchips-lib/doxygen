@@ -1,7 +1,0 @@
-<map id="IAudioMediaStreamVtbl" name="IAudioMediaStreamVtbl">
-<area shape="rect" id="node2" href="$interfaceIStreamSample.html" title="{IStreamSample\n||+ GetMediaStream()\l+ GetSampleTimes()\l+ SetSampleTimes()\l+ Update()\l+ CompletionStatus()\l}" alt="" coords="9,270,156,406"/>
-<area shape="rect" id="node4" href="$interfaceIMediaStream.html" title="{IMediaStream\n||+ GetMultiMediaStream()\l+ GetInformation()\l+ SetSameFormat()\l+ AllocateSample()\l+ CreateSharedSample()\l+ SendEndOfStream()\l}" alt="" coords="205,263,373,413"/>
-<area shape="rect" id="node5" href="$interfaceIMultiMediaStream.html" title="{IMultiMediaStream\n||+ GetInformation()\l+ GetMediaStream()\l+ EnumMediaStreams()\l+ GetState()\l+ SetState()\l+ GetTime()\l+ GetDuration()\l+ Seek()\l+ GetEndOfStreamEventHandle()\l}" alt="" coords="329,437,546,632"/>
-<area shape="rect" id="node7" href="$interfaceIMemoryData.html" title="{IMemoryData\n||+ SetBuffer()\l+ GetInfo()\l+ SetActual()\l}" alt="" coords="481,132,583,239"/>
-<area shape="rect" id="node6" href="$interfaceIAudioData.html" title="{IAudioData\n||+ GetFormat()\l+ SetFormat()\l}" alt="" coords="571,489,675,581"/>
-</map>

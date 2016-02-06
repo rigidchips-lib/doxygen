@@ -1,6 +1,0 @@
-<map id="IMSVidGraphSegmentContainerVtbl" name="IMSVidGraphSegmentContainerVtbl">
-<area shape="rect" id="node2" href="$interfaceIGraphBuilder.html" title="{IGraphBuilder\n||+ Connect()\l+ Render()\l+ RenderFile()\l+ AddSourceFilter()\l+ SetLogFile()\l+ Abort()\l+ ShouldOperationContinue()\l}" alt="" coords="5,511,196,676"/>
-<area shape="rect" id="node3" href="$interfaceIFilterGraph.html" title="{IFilterGraph\n||+ AddFilter()\l+ RemoveFilter()\l+ EnumFilters()\l+ FindFilterByName()\l+ ConnectDirect()\l+ Reconnect()\l+ Disconnect()\l+ SetDefaultSyncSource()\l}" alt="" coords="19,132,193,312"/>
-<area shape="rect" id="node5" href="$interfaceIEnumMSVidGraphSegment.html" title="{IEnumMSVidGraphSegment\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="142,336,329,457"/>
-<area shape="rect" id="node6" href="$interfaceIMSVidGraphSegment.html" title="{IMSVidGraphSegment\n|+ Init\l+ Container\l+ Type\l+ Category\l|+ EnumFilters()\l+ Build()\l+ PreRun()\l+ PostRun()\l+ PreStop()\l+ PostStop()\l+ OnEventNotify()\l+ Decompose()\l}" alt="" coords="354,481,506,705"/>
-</map>

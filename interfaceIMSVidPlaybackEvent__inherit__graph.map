@@ -1,6 +1,0 @@
-<map id="IMSVidPlaybackEvent" name="IMSVidPlaybackEvent">
-<area shape="rect" id="node4" href="$interfaceIMSVidFilePlaybackEvent.html" title="{IMSVidFilePlaybackEvent\n||}" alt="" coords="9,455,184,532"/>
-<area shape="rect" id="node6" href="$interfaceIMSVidWebDVDEvent.html" title="{IMSVidWebDVDEvent\n||+ DVDNotify()\l+ PlayForwards()\l+ PlayBackwards()\l+ ShowMenu()\l+ Resume()\l+ SelectOrActivateButton()\l+ StillOff()\l+ PauseOn()\l+ ChangeCurrentAudioStream()\l+ ChangeCurrentSubpictureStream()\land 13 more...\l}" alt="" coords="209,381,443,605"/>
-<area shape="rect" id="node2" href="$interfaceIMSVidInputDeviceEvent.html" title="{IMSVidInputDeviceEvent\n||}" alt="" coords="127,131,296,208"/>
-<area shape="rect" id="node5" href="$interfaceIMSVidStreamBufferSourceEvent.html" title="{IMSVidStreamBufferSource\lEvent\n||+ CertificateFailure()\l+ CertificateSuccess()\l+ RatingsBlocked()\l+ RatingsUnblocked()\l+ RatingsChanged()\l+ TimeHole()\l+ StaleDataRead()\l+ ContentBecomingStale()\l+ StaleFileDeleted()\l}" alt="" coords="5,653,188,863"/>
-</map>

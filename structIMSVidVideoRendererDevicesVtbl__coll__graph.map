@@ -1,5 +1,0 @@
-<map id="IMSVidVideoRendererDevicesVtbl" name="IMSVidVideoRendererDevicesVtbl">
-<area shape="rect" id="node2" href="$interfaceIMSVidVideoRenderer.html" title="{IMSVidVideoRenderer\n|+ CustomCompositorClass\l+ _CustomCompositorClass\l+ _CustomCompositorClass\l+ _CustomCompositor\l+ MixerBitmap\l+ _MixerBitmap\l+ _MixerBitmap\l+ MixerBitmapPositionRect\l+ MixerBitmapOpacity\l+ SourceSize\land 8 more...\l|+ SetupMixerBitmap()\l+ Capture()\l}" alt="" coords="23,473,211,712"/>
-<area shape="rect" id="node3" href="$interfaceIMSVidOutputDevice.html" title="{IMSVidOutputDevice\n||}" alt="" coords="44,347,189,424"/>
-<area shape="rect" id="node4" href="$interfaceIMSVidDevice.html" title="{IMSVidDevice\n|+ Name\l+ Status\l+ Power\l+ Category\l+ ClassID\l+ _Category\l+ _ClassID\l|+ IsEqualDevice()\l}" alt="" coords="53,132,180,297"/>
-</map>

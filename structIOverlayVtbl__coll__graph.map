@@ -1,6 +1,0 @@
-<map id="IOverlayVtbl" name="IOverlayVtbl">
-<area shape="rect" id="node2" href="$interfaceIOverlayNotify.html" title="{IOverlayNotify\n||+ OnPaletteChange()\l+ OnClipChange()\l+ OnColorKeyChange()\l+ OnPositionChange()\l}" alt="" coords="5,204,164,325"/>
-<area shape="rect" id="node4" href="$structtagCOLORKEY.html" title="{tagCOLORKEY\n|+ KeyType\l+ PaletteIndex\l+ LowColorValue\l+ HighColorValue\l|}" alt="" coords="189,204,314,325"/>
-<area shape="rect" id="node5" href="$struct__RGNDATA.html" title="{_RGNDATA\n|+ Buffer\l|}" alt="" coords="339,226,433,303"/>
-<area shape="rect" id="node6" href="$struct__RGNDATAHEADER.html" title="{_RGNDATAHEADER\n|+ dwSize\l+ iType\l+ nCount\l+ nRgnSize\l+ rcBound\l|}" alt="" coords="310,5,462,141"/>
-</map>

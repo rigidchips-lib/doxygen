@@ -1,4 +1,0 @@
-<map id="ITVESupervisorVtbl" name="ITVESupervisorVtbl">
-<area shape="rect" id="node2" href="$interfaceITVEServices.html" title="{ITVEServices\n|+ _NewEnum\l+ Count\l+ Item\l|+ Add()\l+ Remove()\l+ RemoveAll()\l+ Insert()\l}" alt="" coords="5,176,112,327"/>
-<area shape="rect" id="node4" href="$interfaceITVEService.html" title="{ITVEService\n|+ Parent\l+ Enhancements\l+ Description\l+ XOverLinks\l+ XOverEnhancement\l+ ExpireOffset\l+ ExpireQueue\l+ IsActive\l+ Property\l|+ Activate()\l+ Deactivate()\l+ NewXOverLink()\l+ ExpireForDate()\l}" alt="" coords="137,132,287,371"/>
-</map>

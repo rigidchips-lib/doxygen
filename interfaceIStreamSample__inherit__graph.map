@@ -1,5 +1,0 @@
-<map id="IStreamSample" name="IStreamSample">
-<area shape="rect" id="node3" href="$interfaceIAMMediaTypeSample.html" title="{IAMMediaTypeSample\n||+ SetPointer()\l+ GetPointer()\l+ GetSize()\l+ GetTime()\l+ SetTime()\l+ IsSyncPoint()\l+ SetSyncPoint()\l+ IsPreroll()\l+ SetPreroll()\l+ GetActualDataLength()\land 7 more...\l}" alt="" coords="5,315,172,539"/>
-<area shape="rect" id="node4" href="$interfaceIAudioStreamSample.html" title="{IAudioStreamSample\n||+ GetAudioData()\l}" alt="" coords="196,388,341,465"/>
-<area shape="rect" id="node5" href="$interfaceIDirectDrawStreamSample.html" title="{IDirectDrawStreamSample\n||+ GetSurface()\l+ SetRect()\l}" alt="" coords="366,381,545,473"/>
-</map>

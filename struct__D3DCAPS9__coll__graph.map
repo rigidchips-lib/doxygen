@@ -1,5 +1,0 @@
-<map id="_D3DCAPS9" name="_D3DCAPS9">
-<area shape="rect" id="node2" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="5,132,211,356"/>
-<area shape="rect" id="node4" href="$struct__D3DVSHADERCAPS2__0.html" title="{_D3DVSHADERCAPS2_0\n|+ Caps\l+ DynamicFlowControlDepth\l+ NumTemps\l+ StaticFlowControlDepth\l|}" alt="" coords="235,183,426,305"/>
-<area shape="rect" id="node5" href="$struct__D3DPSHADERCAPS2__0.html" title="{_D3DPSHADERCAPS2_0\n|+ Caps\l+ DynamicFlowControlDepth\l+ NumTemps\l+ StaticFlowControlDepth\l+ NumInstructionSlots\l|}" alt="" coords="450,176,641,312"/>
-</map>

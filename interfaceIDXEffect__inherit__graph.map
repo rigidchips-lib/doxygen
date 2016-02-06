@@ -1,6 +1,0 @@
-<map id="IDXEffect" name="IDXEffect">
-<area shape="rect" id="node3" href="$interfaceIDxtAlphaSetter.html" title="{IDxtAlphaSetter\n|+ Alpha\l+ AlphaRamp\l|}" alt="" coords="5,373,120,465"/>
-<area shape="rect" id="node4" href="$interfaceIDxtCompositor.html" title="{IDxtCompositor\n|+ OffsetX\l+ OffsetY\l+ Width\l+ Height\l+ SrcOffsetX\l+ SrcOffsetY\l+ SrcWidth\l+ SrcHeight\l|}" alt="" coords="144,329,259,509"/>
-<area shape="rect" id="node5" href="$interfaceIDxtJpeg.html" title="{IDxtJpeg\n|+ MaskNum\l+ MaskNum\l+ MaskName\l+ ScaleX\l+ ScaleX\l+ ScaleY\l+ ScaleY\l+ OffsetX\l+ OffsetX\l+ OffsetY\land 6 more...\l|+ ApplyChanges()\l+ LoadDefSettings()\l}" alt="" coords="283,300,421,539"/>
-<area shape="rect" id="node6" href="$interfaceIDxtKey.html" title="{IDxtKey\n|+ KeyType\l+ KeyType\l+ Hue\l+ Hue\l+ Luminance\l+ Luminance\l+ RGB\l+ RGB\l+ Similarity\l+ Similarity\l+ Invert\l+ Invert\l|}" alt="" coords="446,300,543,539"/>
-</map>

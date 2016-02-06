@@ -1,6 +1,0 @@
-<map id="_DMUS_ARTICPARAMS" name="_DMUS_ARTICPARAMS">
-<area shape="rect" id="node2" href="$struct__DMUS__MSCPARAMS.html" title="{_DMUS_MSCPARAMS\n|+ ptDefaultPan\l|}" alt="" coords="5,49,168,127"/>
-<area shape="rect" id="node3" href="$struct__DMUS__VEGPARAMS.html" title="{_DMUS_VEGPARAMS\n|+ tcAttack\l+ tcDecay\l+ ptSustain\l+ tcRelease\l+ tcVel2Attack\l+ tcKey2Decay\l|}" alt="" coords="193,13,354,163"/>
-<area shape="rect" id="node4" href="$struct__DMUS__LFOPARAMS.html" title="{_DMUS_LFOPARAMS\n|+ pcFrequency\l+ tcDelay\l+ gcVolumeScale\l+ pcPitchScale\l+ gcMWToVolume\l+ pcMWToPitch\l|}" alt="" coords="378,13,537,163"/>
-<area shape="rect" id="node5" href="$struct__DMUS__PEGPARAMS.html" title="{_DMUS_PEGPARAMS\n|+ tcAttack\l+ tcDecay\l+ ptSustain\l+ tcRelease\l+ tcVel2Attack\l+ tcKey2Decay\l+ pcRange\l|}" alt="" coords="561,5,722,171"/>
-</map>

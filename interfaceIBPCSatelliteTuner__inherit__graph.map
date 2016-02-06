@@ -1,3 +1,0 @@
-<map id="IBPCSatelliteTuner" name="IBPCSatelliteTuner">
-<area shape="rect" id="node2" href="$interfaceIAMTuner.html" title="{IAMTuner\n||+ put_Channel()\l+ get_Channel()\l+ ChannelMinMax()\l+ put_CountryCode()\l+ get_CountryCode()\l+ put_TuningSpace()\l+ get_TuningSpace()\l+ Logon()\l+ Logout()\l+ SignalPresent()\l+ put_Mode()\l+ get_Mode()\l+ GetAvailableModes()\l+ RegisterNotificationCallBack()\l+ UnRegisterNotificationCallBack()\l}" alt="" coords="5,131,232,413"/>
-</map>

@@ -1,8 +1,0 @@
-<map id="tagKS_DATARANGE_VIDEO_PALETTE" name="tagKS_DATARANGE_VIDEO_PALETTE">
-<area shape="rect" id="node2" href="$structtagKS__VIDEOINFO.html" title="{tagKS_VIDEOINFO\n|+ rcSource\l+ rcTarget\l+ dwBitRate\l+ dwBitErrorRate\l+ AvgTimePerFrame\l+ dwBitMasks\l+ @296\l|}" alt="" coords="133,505,275,671"/>
-<area shape="rect" id="node3" href="$structtagKS__RGBQUAD.html" title="{tagKS_RGBQUAD\n|+ rgbBlue\l+ rgbGreen\l+ rgbRed\l+ rgbReserved\l|}" alt="" coords="5,5,139,127"/>
-<area shape="rect" id="node4" href="$structtag__KS__TRUECOLORINFO.html" title="{tag_KS_TRUECOLORINFO\n|+ dwBitMasks\l|}" alt="" coords="110,263,298,340"/>
-<area shape="rect" id="node5" href="$structtagKS__BITMAPINFOHEADER.html" title="{tagKS_BITMAPINFOHEADER\n|+ biSize\l+ biWidth\l+ biHeight\l+ biPlanes\l+ biBitCount\l+ biCompression\l+ biSizeImage\l+ biXPelsPerMeter\l+ biYPelsPerMeter\l+ biClrUsed\l+ biClrImportant\l|}" alt="" coords="322,189,526,413"/>
-<area shape="rect" id="node6" href="$structKSDATAFORMAT.html" title="{KSDATAFORMAT\n|+ FormatSize\l+ Flags\l+ SampleSize\l+ Reserved\l+ MajorFormat\l+ SubFormat\l+ Specifier\l|}" alt="" coords="299,505,431,671"/>
-<area shape="rect" id="node7" href="$struct__KS__VIDEO__STREAM__CONFIG__CAPS.html" title="{_KS_VIDEO_STREAM_CONFIG_CAPS\n|+ guid\l+ VideoStandard\l+ InputSize\l+ MinCroppingSize\l+ MaxCroppingSize\l+ CropGranularityX\l+ CropGranularityY\l+ CropAlignX\l+ CropAlignY\l+ MinOutputSize\land 11 more...\l|}" alt="" coords="455,476,718,700"/>
-</map>

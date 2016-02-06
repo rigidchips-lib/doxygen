@@ -1,3 +1,0 @@
-<map id="IGraphBuilder" name="IGraphBuilder">
-<area shape="rect" id="node2" href="$interfaceIFilterGraph.html" title="{IFilterGraph\n||+ AddFilter()\l+ RemoveFilter()\l+ EnumFilters()\l+ FindFilterByName()\l+ ConnectDirect()\l+ Reconnect()\l+ Disconnect()\l+ SetDefaultSyncSource()\l}" alt="" coords="13,131,188,311"/>
-</map>

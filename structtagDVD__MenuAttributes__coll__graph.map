@@ -1,6 +1,0 @@
-<map id="tagDVD_MenuAttributes" name="tagDVD_MenuAttributes">
-<area shape="rect" id="node2" href="$structtagDVD__VideoAttributes.html" title="{tagDVD_VideoAttributes\n|+ fPanscanPermitted\l+ fLetterboxPermitted\l+ ulAspectX\l+ ulAspectY\l+ ulFrameRate\l+ ulFrameHeight\l+ fLine21Field1InGOP\l+ fLine21Field2InGOP\l+ ulSourceResolutionX\l+ ulSourceResolutionY\l+ fIsSourceLetterboxed\l+ fIsFilmMode\l|}" alt="" coords="5,448,171,687"/>
-<area shape="rect" id="node3" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="175,132,380,356"/>
-<area shape="rect" id="node5" href="$structtagDVD__AudioAttributes.html" title="{tagDVD_AudioAttributes\n|+ AppModeData\l+ Language\l+ fHasMultichannelInfo\l+ dwFrequency\l+ bQuantization\l+ bNumberOfChannels\l+ dwReserved\l|}" alt="" coords="195,485,360,650"/>
-<area shape="rect" id="node6" href="$structtagDVD__SubpictureAttributes.html" title="{tagDVD_SubpictureAttributes\n|+ Language\l|}" alt="" coords="384,529,579,606"/>
-</map>

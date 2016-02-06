@@ -1,6 +1,0 @@
-<map id="D3DXIntersect" name="D3DXIntersect">
-<area shape="rect" id="node2" href="$classCMyD3DApplication.html#a9efe79d81beac1c109f4054b0f057e6d" title="CMyD3DApplication::\lFrameMove" alt="" coords="432,5,581,47"/>
-<area shape="rect" id="node3" href="$luaSystem_8cpp.html#aca41007621730addb0ef42b98e8619c1" title="luaGetH" alt="" coords="163,63,233,90"/>
-<area shape="rect" id="node4" href="$luaSystem_8hpp.html#aba215223b3179544f89bc90b7502270b" title="luaSystemInit" alt="" coords="281,63,384,90"/>
-<area shape="rect" id="node5" href="$classCMyD3DApplication.html#a7dbfcbeb208adf6064f1a2f063c4eb7a" title="CMyD3DApplication::\lOneTimeSceneInit" alt="" coords="432,71,581,112"/>
-</map>

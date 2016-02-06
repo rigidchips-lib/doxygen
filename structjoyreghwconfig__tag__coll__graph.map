@@ -1,6 +1,0 @@
-<map id="joyreghwconfig_tag" name="joyreghwconfig_tag">
-<area shape="rect" id="node2" href="$structjoyreghwsettings__tag.html" title="{joyreghwsettings_tag\n|+ dwFlags\l+ dwNumButtons\l|}" alt="" coords="5,388,151,480"/>
-<area shape="rect" id="node3" href="$structjoyreghwvalues__tag.html" title="{joyreghwvalues_tag\n|+ dwPOVValues\l+ dwCalFlags\l|}" alt="" coords="175,388,312,480"/>
-<area shape="rect" id="node4" href="$structjoyrange__tag.html" title="{joyrange_tag\n||}" alt="" coords="195,248,291,325"/>
-<area shape="rect" id="node5" href="$structjoypos__tag.html" title="{joypos_tag\n|+ dwX\l+ dwY\l+ dwZ\l+ dwR\l+ dwU\l+ dwV\l|}" alt="" coords="201,5,286,156"/>
-</map>

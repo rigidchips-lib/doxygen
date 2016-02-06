@@ -1,4 +1,0 @@
-<map id="tagKS_DATARANGE_BDA_TRANSPORT" name="tagKS_DATARANGE_BDA_TRANSPORT">
-<area shape="rect" id="node2" href="$structtagBDA__TRANSPORT__INFO.html" title="{tagBDA_TRANSPORT_INFO\n|+ ulcbPhyiscalPacket\l+ ulcbPhyiscalFrame\l+ ulcbPhyiscalFrameAlignment\l+ AvgTimePerFrame\l|}" alt="" coords="5,27,208,149"/>
-<area shape="rect" id="node3" href="$structKSDATAFORMAT.html" title="{KSDATAFORMAT\n|+ FormatSize\l+ Flags\l+ SampleSize\l+ Reserved\l+ MajorFormat\l+ SubFormat\l+ Specifier\l|}" alt="" coords="233,5,365,171"/>
-</map>

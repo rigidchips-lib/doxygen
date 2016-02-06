@@ -1,4 +1,0 @@
-<map id="tagKS_DATAFORMAT_VBIINFOHEADER" name="tagKS_DATAFORMAT_VBIINFOHEADER">
-<area shape="rect" id="node2" href="$structKSDATAFORMAT.html" title="{KSDATAFORMAT\n|+ FormatSize\l+ Flags\l+ SampleSize\l+ Reserved\l+ MajorFormat\l+ SubFormat\l+ Specifier\l|}" alt="" coords="5,35,137,200"/>
-<area shape="rect" id="node3" href="$structtagKS__VBIINFOHEADER.html" title="{tagKS_VBIINFOHEADER\n|+ StartLine\l+ EndLine\l+ SamplingFrequency\l+ MinLineStartTime\l+ MaxLineStartTime\l+ ActualLineStartTime\l+ ActualLineEndTime\l+ VideoStandard\l+ SamplesPerLine\l+ StrideInBytes\l+ BufferSize\l|}" alt="" coords="162,5,338,229"/>
-</map>

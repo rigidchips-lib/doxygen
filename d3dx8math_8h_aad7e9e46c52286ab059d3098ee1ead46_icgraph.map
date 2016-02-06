@@ -1,8 +1,0 @@
-<map id="D3DXVec3Normalize" name="D3DXVec3Normalize">
-<area shape="rect" id="node2" href="$d3dutil_8h.html#a67e2d98bfbd05acfc6c5c266e5b6b546" title="D3DUtil_InitLight" alt="" coords="242,21,365,47"/>
-<area shape="rect" id="node4" href="$d3dutil_8cpp.html#a26a5de92a406a318ed7983f41945b70b" title="D3DXQuaternionAxisToAxis" alt="" coords="209,78,397,105"/>
-<area shape="rect" id="node6" href="$classCD3DCamera.html#a61a9d87a4f3b1cb285fb9e7c5ded8bcb" title="CD3DCamera::SetViewParams" alt="" coords="200,133,407,159"/>
-<area shape="rect" id="node3" href="$classCMyD3DApplication.html#a4e80b0ac4ab63abe5e326d99c5525646" title="CMyD3DApplication::\lRestoreDeviceObjects" alt="" coords="475,5,630,47"/>
-<area shape="rect" id="node5" href="$classCD3DArcBall.html#a0a136489f4708ddfa7f83575d485a1fd" title="CD3DArcBall::HandleMouse\lMessages" alt="" coords="458,71,647,112"/>
-<area shape="rect" id="node7" href="$classCD3DCamera.html#ae47d732ceb1318360feb5d43a27ac02e" title="CD3DCamera::CD3DCamera" alt="" coords="455,137,651,163"/>
-</map>

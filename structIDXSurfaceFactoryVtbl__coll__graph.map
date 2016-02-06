@@ -1,8 +1,0 @@
-<map id="IDXSurfaceFactoryVtbl" name="IDXSurfaceFactoryVtbl">
-<area shape="rect" id="node2" href="$interfaceIDXSurface.html" title="{IDXSurface\n||+ GetPixelFormat()\l+ GetBounds()\l+ GetStatusFlags()\l+ SetStatusFlags()\l+ LockSurface()\l+ GetDirectDrawSurface()\l+ GetColorKey()\l+ SetColorKey()\l+ LockSurfaceDC()\l+ SetAppData()\l+ GetAppData()\l}" alt="" coords="64,543,239,767"/>
-<area shape="rect" id="node3" href="$interfaceIDXBaseObject.html" title="{IDXBaseObject\n||+ GetGenerationId()\l+ IncrementGenerationId()\l+ GetObjectSize()\l}" alt="" coords="5,220,180,327"/>
-<area shape="rect" id="node5" href="$struct__DDSURFACEDESC.html" title="{_DDSURFACEDESC\n|+ dwSize\l+ dwFlags\l+ dwHeight\l+ dwWidth\l+ lPitch\l+ dwLinearSize\l+ dwBackBufferCount\l+ dwMipMapCount\l+ dwZBufferBitDepth\l+ dwRefreshRate\l+ dwAlphaBitDepth\l+ dwReserved\l+ lpSurface\l|+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l}" alt="" coords="342,521,529,789"/>
-<area shape="rect" id="node6" href="$struct__DDCOLORKEY.html" title="{_DDCOLORKEY\n|+ dwColorSpaceLowValue\l+ dwColorSpaceHighValue\l|}" alt="" coords="205,227,383,319"/>
-<area shape="rect" id="node7" href="$struct__DDSCAPS.html" title="{_DDSCAPS\n|+ dwCaps\l|}" alt="" coords="408,235,503,312"/>
-<area shape="rect" id="node8" href="$struct__DDPIXELFORMAT.html" title="{_DDPIXELFORMAT\n|+ dwSize\l+ dwFlags\l+ dwFourCC\l+ dwRGBBitCount\l+ dwYUVBitCount\l+ dwZBufferBitDepth\l+ dwAlphaBitDepth\l+ dwLuminanceBitCount\l+ dwBumpBitCount\l+ dwPrivateFormatBitCount\land 27 more...\l|+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l+ DUMMYUNIONNAMEN()\l}" alt="" coords="527,132,714,415"/>
-</map>

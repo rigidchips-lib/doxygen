@@ -1,9 +1,0 @@
-<map id="IAMMultiMediaStreamVtbl" name="IAMMultiMediaStreamVtbl">
-<area shape="rect" id="node2" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="5,332,211,556"/>
-<area shape="rect" id="node5" href="$interfaceIFilterGraph.html" title="{IFilterGraph\n||+ AddFilter()\l+ RemoveFilter()\l+ EnumFilters()\l+ FindFilterByName()\l+ ConnectDirect()\l+ Reconnect()\l+ Disconnect()\l+ SetDefaultSyncSource()\l}" alt="" coords="235,354,410,534"/>
-<area shape="rect" id="node6" href="$interfaceIMediaStream.html" title="{IMediaStream\n||+ GetMultiMediaStream()\l+ GetInformation()\l+ SetSameFormat()\l+ AllocateSample()\l+ CreateSharedSample()\l+ SendEndOfStream()\l}" alt="" coords="367,580,535,731"/>
-<area shape="rect" id="node4" href="$interfaceIGraphBuilder.html" title="{IGraphBuilder\n||+ Connect()\l+ Render()\l+ RenderFile()\l+ AddSourceFilter()\l+ SetLogFile()\l+ Abort()\l+ ShouldOperationContinue()\l}" alt="" coords="213,769,403,935"/>
-<area shape="rect" id="node7" href="$interfaceIMediaStreamFilter.html" title="{IMediaStreamFilter\n||+ AddMediaStream()\l+ GetMediaStream()\l+ EnumMediaStreams()\l+ SupportSeeking()\l+ ReferenceTimeToStreamTime()\l+ GetCurrentStreamTime()\l+ WaitUntil()\l+ Flush()\l+ EndOfStream()\l}" alt="" coords="577,755,794,949"/>
-<area shape="rect" id="node8" href="$interfaceIBaseFilter.html" title="{IBaseFilter\n||+ EnumPins()\l+ FindPin()\l+ QueryFilterInfo()\l+ JoinFilterGraph()\l+ QueryVendorInfo()\l}" alt="" coords="615,376,755,512"/>
-<area shape="rect" id="node9" href="$interfaceIMediaFilter.html" title="{IMediaFilter\n||+ Stop()\l+ Pause()\l+ Run()\l+ GetState()\l+ SetSyncSource()\l+ GetSyncSource()\l}" alt="" coords="618,132,753,283"/>
-</map>

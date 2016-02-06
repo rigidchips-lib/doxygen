@@ -1,4 +1,0 @@
-<map id="IVMRMixerBitmap9Vtbl" name="IVMRMixerBitmap9Vtbl">
-<area shape="rect" id="node2" href="$struct__VMR9AlphaBitmap.html" title="{_VMR9AlphaBitmap\n|+ dwFlags\l+ hdc\l+ pDDS\l+ rSrc\l+ fAlpha\l+ clrSrcKey\l+ dwFilterMode\l|}" alt="" coords="15,189,155,355"/>
-<area shape="rect" id="node3" href="$struct__VMR9NormalizedRect.html" title="{_VMR9NormalizedRect\n|+ left\l+ top\l+ right\l+ bottom\l|}" alt="" coords="5,5,165,127"/>
-</map>

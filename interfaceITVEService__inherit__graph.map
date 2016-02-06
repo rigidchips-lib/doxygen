@@ -1,3 +1,0 @@
-<map id="ITVEService" name="ITVEService">
-<area shape="rect" id="node3" href="$interfaceITVEFeature.html" title="{ITVEFeature\n||+ TuneTo()\l+ ReTune()\l+ BindToSupervisor()\l+ NotifyTVETune()\l+ NotifyTVEEnhancementNew()\l+ NotifyTVEEnhancementUpdated()\l+ NotifyTVEEnhancementStarting()\l+ NotifyTVEEnhancementExpired()\l+ NotifyTVETriggerNew()\l+ NotifyTVETriggerUpdated()\l+ NotifyTVETriggerExpired()\l+ NotifyTVEPackage()\l+ NotifyTVEFile()\l+ NotifyTVEAuxInfo()\l}" alt="" coords="5,417,237,685"/>
-</map>

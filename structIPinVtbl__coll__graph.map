@@ -1,9 +1,0 @@
-<map id="IPinVtbl" name="IPinVtbl">
-<area shape="rect" id="node2" href="$structAM__MEDIA__TYPE.html" title="{AM_MEDIA_TYPE\n|+ dw1\l+ dw2\l|}" alt="" coords="5,887,140,979"/>
-<area shape="rect" id="node3" href="$struct__PinInfo.html" title="{_PinInfo\n|+ achName\l|}" alt="" coords="405,894,495,971"/>
-<area shape="rect" id="node4" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="302,332,507,556"/>
-<area shape="rect" id="node9" href="$interfaceIPin.html" title="{IPin\n||+ Connect()\l+ ReceiveConnection()\l+ Disconnect()\l+ ConnectedTo()\l+ ConnectionMediaType()\l+ QueryPinInfo()\l+ QueryDirection()\l+ QueryId()\l+ QueryAccept()\l+ EnumMediaTypes()\l+ QueryInternalConnections()\l+ EndOfStream()\l+ BeginFlush()\l+ EndFlush()\l+ NewSegment()\l}" alt="" coords="61,580,255,863"/>
-<area shape="rect" id="node10" href="$interfaceIEnumMediaTypes.html" title="{IEnumMediaTypes\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="262,661,393,782"/>
-<area shape="rect" id="node6" href="$interfaceIBaseFilter.html" title="{IBaseFilter\n||+ EnumPins()\l+ FindPin()\l+ QueryFilterInfo()\l+ JoinFilterGraph()\l+ QueryVendorInfo()\l}" alt="" coords="532,376,672,512"/>
-<area shape="rect" id="node7" href="$interfaceIMediaFilter.html" title="{IMediaFilter\n||+ Stop()\l+ Pause()\l+ Run()\l+ GetState()\l+ SetSyncSource()\l+ GetSyncSource()\l}" alt="" coords="535,132,669,283"/>
-</map>

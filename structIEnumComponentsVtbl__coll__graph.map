@@ -1,4 +1,0 @@
-<map id="IEnumComponentsVtbl" name="IEnumComponentsVtbl">
-<area shape="rect" id="node2" href="$interfaceIEnumComponents.html" title="{IEnumComponents\n||+ Next()\l+ Skip()\l+ Reset()\l+ Clone()\l}" alt="" coords="5,132,140,253"/>
-<area shape="rect" id="node4" href="$interfaceIComponent.html" title="{IComponent\n|+ Type\l+ DescLangID\l+ Status\l+ Description\l|+ Clone()\l}" alt="" coords="165,132,271,253"/>
-</map>

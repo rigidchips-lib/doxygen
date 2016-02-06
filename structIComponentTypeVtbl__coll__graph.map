@@ -1,5 +1,0 @@
-<map id="IComponentTypeVtbl" name="IComponentTypeVtbl">
-<area shape="rect" id="node2" href="$structAM__MEDIA__TYPE.html" title="{AM_MEDIA_TYPE\n|+ dw1\l+ dw2\l|}" alt="" coords="5,198,140,290"/>
-<area shape="rect" id="node3" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="165,132,370,356"/>
-<area shape="rect" id="node5" href="$interfaceIComponentType.html" title="{IComponentType\n|+ Category\l+ MediaMajorType\l+ _MediaMajorType\l+ _MediaMajorType\l+ MediaSubType\l+ _MediaSubType\l+ _MediaSubType\l+ MediaFormatType\l+ _MediaFormatType\l+ _MediaFormatType\l+ MediaType\l|+ Clone()\l}" alt="" coords="394,132,541,356"/>
-</map>

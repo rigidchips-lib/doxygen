@@ -1,5 +1,0 @@
-<map id="KSPROPERTY_VBICODECFILTERING_STATISTICS_NABTS_S" name="KSPROPERTY_VBICODECFILTERING_STATISTICS_NABTS_S">
-<area shape="rect" id="node2" href="$structKSIDENTIFIER.html" title="{KSIDENTIFIER\n|+ Set\l+ Id\l+ Flags\l+ Data\l+ Alignment\l+ @169\l+ @269\l|}" alt="" coords="13,358,129,523"/>
-<area shape="rect" id="node3" href="$struct__VBICODECFILTERING__STATISTICS__NABTS.html" title="{_VBICODECFILTERING\l_STATISTICS_NABTS\n|+ FECBundleBadLines\l+ FECQueueOverflows\l+ FECCorrectedLines\l+ FECUncorrectableLines\l+ BundlesProcessed\l+ BundlesSent2IP\l+ FilteredLines\l|}" alt="" coords="154,351,327,531"/>
-<area shape="rect" id="node4" href="$struct__VBICODECFILTERING__STATISTICS__COMMON.html" title="{_VBICODECFILTERING\l_STATISTICS_COMMON\n|+ InputSRBsProcessed\l+ OutputSRBsProcessed\l+ SRBsIgnored\l+ InputSRBsMissing\l+ OutputSRBsMissing\l+ OutputFailures\l+ InternalErrors\l+ ExternalErrors\l+ InputDiscontinuities\l+ DSPFailures\l+ TvTunerChanges\l+ VBIHeaderChanges\l+ LineConfidenceAvg\l+ BytesOutput\l|}" alt="" coords="153,5,329,288"/>
-</map>

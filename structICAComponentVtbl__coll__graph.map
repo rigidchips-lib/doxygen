@@ -1,4 +1,0 @@
-<map id="ICAComponentVtbl" name="ICAComponentVtbl">
-<area shape="rect" id="node2" href="$interfaceIComponent.html" title="{IComponent\n|+ Type\l+ DescLangID\l+ Status\l+ Description\l|+ Clone()\l}" alt="" coords="5,154,112,275"/>
-<area shape="rect" id="node4" href="$interfaceICADenials.html" title="{ICADenials\n|+ _NewEnum\l+ Count\l+ Item\l+ AddNew\l+ CountDenied\l+ CountSelected\l|+ Remove()\l+ PaySelectedTolls()\l}" alt="" coords="136,132,280,297"/>
-</map>

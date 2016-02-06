@@ -1,4 +1,0 @@
-<map id="IAMTimecodeReaderVtbl" name="IAMTimecodeReaderVtbl">
-<area shape="rect" id="node2" href="$structtagTIMECODE__SAMPLE.html" title="{tagTIMECODE_SAMPLE\n|+ qwTick\l+ dwUser\l+ dwFlags\l|}" alt="" coords="5,277,177,384"/>
-<area shape="rect" id="node3" href="$union__timecode.html" title="{_timecode\n|+ wFrameRate\l+ wFrameFract\l+ cFrames\l+ @9\l+ qw\l+ dwFrames\l+ @233\l+ @263\l+ @305\l+ @330\l|}" alt="" coords="36,5,147,215"/>
-</map>

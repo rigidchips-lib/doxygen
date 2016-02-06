@@ -1,9 +1,0 @@
-<map id="IMSVidDeviceEvent" name="IMSVidDeviceEvent">
-<area shape="rect" id="node3" href="$interfaceIMSVidDataServicesEvent.html" title="{IMSVidDataServicesEvent\n||}" alt="" coords="5,256,184,333"/>
-<area shape="rect" id="node4" href="$interfaceIMSVidFeatureEvent.html" title="{IMSVidFeatureEvent\n||}" alt="" coords="209,256,351,333"/>
-<area shape="rect" id="node5" href="$interfaceIMSVidOutputDeviceEvent.html" title="{IMSVidOutputDeviceEvent\n||}" alt="" coords="376,256,555,333"/>
-<area shape="rect" id="node6" href="$interfaceIMSVidAudioRendererEvent.html" title="{IMSVidAudioRendererEvent\n||}" alt="" coords="45,396,230,473"/>
-<area shape="rect" id="node7" href="$interfaceIMSVidStreamBufferSinkEvent.html" title="{IMSVidStreamBufferSinkEvent\n||+ CertificateFailure()\l+ CertificateSuccess()\l+ WriteFailure()\l}" alt="" coords="255,381,457,488"/>
-<area shape="rect" id="node8" href="$interfaceIMSVidVideoRendererEvent.html" title="{IMSVidVideoRendererEvent\n||+ OverlayUnavailable()\l}" alt="" coords="482,396,667,473"/>
-<area shape="rect" id="node9" href="$interfaceIMSVidVideoRendererEvent2.html" title="{IMSVidVideoRendererEvent2\n||+ OverlayUnavailable()\l}" alt="" coords="692,396,884,473"/>
-</map>

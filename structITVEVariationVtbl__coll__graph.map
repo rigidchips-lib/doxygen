@@ -1,5 +1,0 @@
-<map id="ITVEVariationVtbl" name="ITVEVariationVtbl">
-<area shape="rect" id="node2" href="$interfaceITVEAttrMap.html" title="{ITVEAttrMap\n|+ _NewEnum\l+ Count\l+ Item\l+ Key\l|+ Add()\l+ Replace()\l+ Remove()\l+ RemoveAll()\l+ Add1()\l+ DumpToBSTR()\l}" alt="" coords="5,154,133,349"/>
-<area shape="rect" id="node4" href="$interfaceITVEService.html" title="{ITVEService\n|+ Parent\l+ Enhancements\l+ Description\l+ XOverLinks\l+ XOverEnhancement\l+ ExpireOffset\l+ ExpireQueue\l+ IsActive\l+ Property\l|+ Activate()\l+ Deactivate()\l+ NewXOverLink()\l+ ExpireForDate()\l}" alt="" coords="158,132,309,371"/>
-<area shape="rect" id="node5" href="$interfaceITVETracks.html" title="{ITVETracks\n|+ _NewEnum\l+ Count\l+ Item\l|+ Add()\l+ Remove()\l+ RemoveAll()\l+ Insert()\l}" alt="" coords="333,176,440,327"/>
-</map>

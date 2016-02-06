@@ -1,6 +1,0 @@
-<map id="IBDA_TopologyVtbl" name="IBDA_TopologyVtbl">
-<area shape="rect" id="node2" href="$structAM__MEDIA__TYPE.html" title="{AM_MEDIA_TYPE\n|+ dw1\l+ dw2\l|}" alt="" coords="5,20,140,112"/>
-<area shape="rect" id="node3" href="$struct__BDANODE__DESCRIPTOR.html" title="{_BDANODE_DESCRIPTOR\n|+ ulBdaNodeType\l+ guidFunction\l+ guidName\l|}" alt="" coords="165,13,357,119"/>
-<area shape="rect" id="node4" href="$struct__BDA__TEMPLATE__CONNECTION.html" title="{_BDA_TEMPLATE_CONNECTION\n|+ FromNodeType\l+ FromNodePinType\l+ ToNodeType\l+ ToNodePinType\l|}" alt="" coords="381,5,613,127"/>
-<area shape="rect" id="node5" href="$structREGPINMEDIUM.html" title="{REGPINMEDIUM\n|+ clsMedium\l+ dw1\l+ dw2\l|}" alt="" coords="637,13,767,119"/>
-</map>

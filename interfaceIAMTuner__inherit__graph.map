@@ -1,4 +1,0 @@
-<map id="IAMTuner" name="IAMTuner">
-<area shape="rect" id="node3" href="$interfaceIAMTVTuner.html" title="{IAMTVTuner\n||+ get_AvailableTVFormats()\l+ get_TVFormat()\l+ AutoTune()\l+ StoreAutoTune()\l+ get_NumInputConnections()\l+ put_InputType()\l+ get_InputType()\l+ put_ConnectInput()\l+ get_ConnectInput()\l+ get_VideoFrequency()\l+ get_AudioFrequency()\l}" alt="" coords="5,461,203,685"/>
-<area shape="rect" id="node4" href="$interfaceIBPCSatelliteTuner.html" title="{IBPCSatelliteTuner\n||+ get_DefaultSubChannelTypes()\l+ put_DefaultSubChannelTypes()\l+ IsTapingPermitted()\l}" alt="" coords="227,520,443,627"/>
-</map>

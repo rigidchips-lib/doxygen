@@ -1,4 +1,0 @@
-<map id="ITVETrigger_HelperVtbl" name="ITVETrigger_HelperVtbl">
-<area shape="rect" id="node2" href="$interfaceITVETrack.html" title="{ITVETrack\n|+ Parent\l+ Service\l+ Trigger\l+ Description\l|+ AttachTrigger()\l+ ReleaseTrigger()\l+ CreateTrigger()\l}" alt="" coords="5,161,136,312"/>
-<area shape="rect" id="node4" href="$interfaceITVETrigger.html" title="{ITVETrigger\n|+ Parent\l+ Service\l+ IsValid\l+ URL\l+ Name\l+ Expires\l+ Executes\l+ Script\l+ TVELevel\l+ Rest\l|+ ParseTrigger()\l}" alt="" coords="161,132,277,341"/>
-</map>

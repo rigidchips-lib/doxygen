@@ -1,7 +1,0 @@
-<map id="IATSCTuningSpaceVtbl" name="IATSCTuningSpaceVtbl">
-<area shape="rect" id="node2" href="$interfaceenum.html" title="{enum\n||+ Stop()\l+ Pause()\l+ Run()\l+ SetSyncSource()\l+ NotifyGraphChange()\l+ SetDecimationImageSize()\l+ ResetDecimationImageSize()\l+ put_ModulationType()\l+ get_ModulationType()\l+ put_InnerFECMethod()\land 11 more...\l}" alt="" coords="5,147,211,371"/>
-<area shape="rect" id="node4" href="$interfaceITuneRequest.html" title="{ITuneRequest\n|+ TuningSpace\l+ Components\l+ Locator\l|+ Clone()\l}" alt="" coords="235,205,346,312"/>
-<area shape="rect" id="node6" href="$interfaceITuningSpace.html" title="{ITuningSpace\n|+ UniqueName\l+ FriendlyName\l+ CLSID\l+ NetworkType\l+ _NetworkType\l+ _NetworkType\l+ DefaultPreferredComponent\lTypes\l+ FrequencyMapping\l+ DefaultLocator\l|+ CreateTuneRequest()\l+ EnumCategoryGUIDs()\l+ EnumDeviceMonikers()\l+ Clone()\l}" alt="" coords="370,132,566,385"/>
-<area shape="rect" id="node7" href="$interfaceIComponentTypes.html" title="{IComponentTypes\n|+ Count\l+ _NewEnum\l+ Item\l|+ EnumComponentTypes()\l+ Add()\l+ Remove()\l+ Clone()\l}" alt="" coords="591,183,769,334"/>
-<area shape="rect" id="node8" href="$interfaceILocator.html" title="{ILocator\n|+ CarrierFrequency\l+ InnerFEC\l+ InnerFECRate\l+ OuterFEC\l+ OuterFECRate\l+ Modulation\l+ SymbolRate\l|+ Clone()\l}" alt="" coords="794,176,929,341"/>
-</map>

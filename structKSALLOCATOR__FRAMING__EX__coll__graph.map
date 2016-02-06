@@ -1,6 +1,0 @@
-<map id="KSALLOCATOR_FRAMING_EX" name="KSALLOCATOR_FRAMING_EX">
-<area shape="rect" id="node2" href="$structKS__COMPRESSION.html" title="{KS_COMPRESSION\n|+ RatioNumerator\l+ RatioDenominator\l+ RatioConstantMargin\l|}" alt="" coords="5,366,163,473"/>
-<area shape="rect" id="node3" href="$structKS__FRAMING__ITEM.html" title="{KS_FRAMING_ITEM\n|+ MemoryType\l+ BusType\l+ MemoryFlags\l+ BusFlags\l+ Flags\l+ Frames\l+ FileAlignment\l+ MemoryTypeWeight\l|}" alt="" coords="187,329,338,509"/>
-<area shape="rect" id="node4" href="$structKS__FRAMING__RANGE__WEIGHTED.html" title="{KS_FRAMING_RANGE_WEIGHTED\n|+ InPlaceWeight\l+ NotInPlaceWeight\l|}" alt="" coords="315,175,559,267"/>
-<area shape="rect" id="node5" href="$structKS__FRAMING__RANGE.html" title="{KS_FRAMING_RANGE\n|+ MinFrameSize\l+ MaxFrameSize\l+ Stepping\l|}" alt="" coords="179,5,343,112"/>
-</map>

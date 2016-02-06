@@ -1,6 +1,0 @@
-<map id="_D3DFINDDEVICERESULT" name="_D3DFINDDEVICERESULT">
-<area shape="rect" id="node2" href="$struct__D3DDeviceDesc.html" title="{_D3DDeviceDesc\n|+ dwSize\l+ dwFlags\l+ dcmColorModel\l+ dwDevCaps\l+ bClipping\l+ dwDeviceRenderBitDepth\l+ dwDeviceZBufferBitDepth\l+ dwMaxBufferSize\l+ dwMaxVertexCount\l+ dwMinTextureWidth\land 20 more...\l|}" alt="" coords="193,351,380,575"/>
-<area shape="rect" id="node3" href="$struct__D3DTRANSFORMCAPS.html" title="{_D3DTRANSFORMCAPS\n|+ dwSize\l+ dwCaps\l|}" alt="" coords="5,93,184,185"/>
-<area shape="rect" id="node4" href="$struct__D3DLIGHTINGCAPS.html" title="{_D3DLIGHTINGCAPS\n|+ dwSize\l+ dwCaps\l+ dwLightingModel\l+ dwNumLights\l|}" alt="" coords="209,79,365,200"/>
-<area shape="rect" id="node5" href="$struct__D3DPrimCaps.html" title="{_D3DPrimCaps\n|+ dwSize\l+ dwMiscCaps\l+ dwRasterCaps\l+ dwZCmpCaps\l+ dwSrcBlendCaps\l+ dwDestBlendCaps\l+ dwAlphaCmpCaps\l+ dwShadeCaps\l+ dwTextureCaps\l+ dwTextureFilterCaps\l+ dwTextureBlendCaps\l+ dwTextureAddressCaps\l+ dwStippleWidth\l+ dwStippleHeight\l|}" alt="" coords="389,5,563,273"/>
-</map>
